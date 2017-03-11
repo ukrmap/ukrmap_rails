@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Российская империя в конце XIX - начале ХХ в.">
+  <question level="1" simple="True" text="Какое событие стало поводом к первой русской революции?">
+    <answer flag="0" text="восстание на броненосце 'Потемкин''"/>
+    <answer flag="1" text="кровавое воскресенье"/>
+    <answer flag="0" text="Манифест царя 17 октября"/>
+  </question>
+  <question level="1" simple="True" text="Вторым по численности народом российской империи были">
+    <answer flag="0" text="татары"/>
+    <answer flag="1" text="Украинский"/>
+    <answer flag="0" text="грузины"/>
+  </question>
+  <question level="1" simple="True" text="Кто был русским царем в начале ХХ века?">
+    <answer flag="0" text="Николай I"/>
+    <answer flag="0" text="Александр III"/>
+    <answer flag="1" text="Николай II"/>
+  </question>
+  <question level="1" simple="True" text="В какой войне Россия потерпела поражение в начале ХХ века?">
+    <answer flag="0" text="с Германией"/>
+    <answer flag="0" text="с Турцией"/>
+    <answer flag="1" text="с Японией"/>
+    <answer flag="0" text="с Австрией"/>
+  </question>
+  <question level="1" simple="True" text="Автором аграрных реформ после революции 1905-1907 гг был">
+    <answer flag="0" text="С. Витте"/>
+    <answer flag="1" text="П. Столыпин"/>
+    <answer flag="0" text="Ленин"/>
+  </question>
+  <question level="1" simple="True" text="Кульминацией революции 1905-1907 гг стало">
+    <answer flag="0" text="''Кровавое воскресенье '"/>
+    <answer flag="1" text="вооруженное восстание в Москве"/>
+    <answer flag="0" text="Манифест царя 17 октября"/>
+  </question>
+  <question level="1" simple="True" text="Первая государственная дума в России была созвана в">
+    <answer flag="0" text="1905"/>
+    <answer flag="1" text="1906"/>
+    <answer flag="0" text="1907"/>
+  </question>
+  <question level="1" simple="True" text="Существовали в России монополистические объединения в начале ХХ века?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ни"/>
+  </question>
+  <question level="1" simple="True" text="Какая территория Российской империи пользовалась правом самоуправления?">
+    <answer flag="0" text="Закавказья"/>
+    <answer flag="0" text="Сибирь"/>
+    <answer flag="1" text="Финляндия"/>
+    <answer flag="0" text="Украина"/>
+  </question>
+  <question level="1" simple="True" text="Или осуществила Россия какие территориальные приобретения в начале ХХ века?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ни"/>
+  </question>
+  <question level="1" simple="True" text="Или понесла Россия территориальных потерь в начале ХХ века?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ни"/>
+  </question>
+  <question level="1" simple="True" text="Крупнейшие залежи нефти в Российской империи были">
+    <answer flag="0" text="в Украине"/>
+    <answer flag="0" text="в Сибири"/>
+    <answer flag="1" text="на Кавказе"/>
+    <answer flag="0" text="в Прибалтике"/>
+  </question>
+</testing>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Західноукраїнські землі під владою іноземних держав">
+  <question text="Підкарпатська Русь – це офіційна назва у 20-30-ті роки">
+    <answer flag="0" text="Північної Буковини"/>
+    <answer flag="0" text="Східної Галичини"/>
+    <answer flag="1" text="Закарпаття"/>
+  </question>
+  <question text="Український кооперативний рух найбільш розгалужений був на">
+    <answer flag="1" text="Східній Галичині"/>
+    <answer flag="0" text="Закарпатті"/>
+    <answer flag="0" text="Північній Буковині"/>
+    <answer flag="0" text="Волині"/>
+  </question>
+  <question text="Де був розташований концтабір для українських політв`язнів, створений польськими властями?">
+    <answer flag="1" text="Береза-Картузька"/>
+    <answer flag="0" text="Собібор"/>
+    <answer flag="0" text="Яворів"/>
+  </question>
+  <question text="У якому році було утворено ОУН?">
+    <answer flag="0" text="1925 р."/>
+    <answer flag="0" text="1927 р."/>
+    <answer flag="1" text="1929 р."/>
+  </question>
+  <question text="Хто був першим керівником ОУН?">
+    <answer flag="1" text="А. Мельник"/>
+    <answer flag="0" text="С. Бандера"/>
+    <answer flag="0" text="Є. Коновалець"/>
+  </question>
+  <question text="На яких українських землях український рух користувався найбільшим впливом?">
+    <answer flag="1" text="Східна Галичина"/>
+    <answer flag="0" text="Закарпаття"/>
+    <answer flag="0" text="Північна Буковина"/>
+    <answer flag="0" text="Волинь"/>
+  </question>
+  <question text="Армія Карпатської України мала назву">
+    <answer flag="0" text="Українська повстанська армія"/>
+    <answer flag="1" text="Карпатська Січ"/>
+    <answer flag="0" text="Українські січові стрільці"/>
+  </question>
+  <question text="Яка з ідейних течій, що була поширена на Закарпатті у 20-30-ті роки, користувалася найбільшим впливом?">
+    <answer flag="1" text="Русинська"/>
+    <answer flag="0" text="Українофільська"/>
+    <answer flag="0" text="Русофільська"/>
+  </question>
+  <question text="Які політичні сили були організаторами Татарбунарського повстання?">
+    <answer flag="1" text="прокомуністичні"/>
+    <answer flag="0" text="ліберально-демократичні"/>
+    <answer flag="0" text="націоналістичні"/>
+  </question>
+  <question text="Найчисельнішою українською політичною партією Галичини у 20-30-ті роки була">
+    <answer flag="0" text="КПЗУ"/>
+    <answer flag="1" text="УНДО"/>
+    <answer flag="0" text="ОУН"/>
+    <answer flag="0" text="УСРП"/>
+  </question>
+  <question text="Які українські землі мали стати колискою польсько-українського порозуміння?">
+    <answer flag="0" text="Галичина"/>
+    <answer flag="1" text="Волинь"/>
+    <answer flag="0" text="Покуття"/>
+  </question>
+  <question text="Який міжнародний договір закріпив входження Закарпаття до складу ЧСР?">
+    <answer flag="1" text="Сен-Жерменський"/>
+    <answer flag="0" text="Версальський"/>
+    <answer flag="0" text="Ризький"/>
+  </question>
+</testing>

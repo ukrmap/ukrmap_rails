@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Right Bank and Left Bank Ukraine in 1960 - 1980 XVII.">
+  <question level="1" simple="True" text="Who was holding hetman's mace in Left Bank Ukraine, when on the Right Bank hetmanuvav Doroshenko?">
+    <answer flag="0" text="I. Vyhovsky Y. Khmelnitsky, D. Mnohohpishnyy"/>
+    <answer flag="1" text="I. Bpyuhovetskyy, D. Mnohohpishnyy, I. Samoylovych"/>
+  </question>
+  <question level="1" simple="True" text="When SP was Doposhenka obpano Hetman Dnippa both sides?">
+    <answer flag="0" text="1667 p."/>
+    <answer flag="0" text="1668 p."/>
+    <answer flag="1" text="1672 p."/>
+  </question>
+  <question level="1" simple="True" text="The consequence of which event was Buchatskiy dohovip?">
+    <answer flag="1" text="Hike Sultan of the Ottoman troops in Ukraine"/>
+    <answer flag="0" text="Chigirinsky hikes"/>
+  </question>
+  <question level="1" simple="True" text="Between the States was signed Buchatskiy mypnyy dohovip?">
+    <answer flag="0" text="Between Muscovy and the Ottoman Empire"/>
+    <answer flag="1" text="Between Poland and the Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="How many years have lasted Hetman I. Samoilovych?">
+    <answer flag="0" text="4 years"/>
+    <answer flag="1" text="1915"/>
+    <answer flag="0" text="22"/>
+  </question>
+  <question level="1" simple="True" text="In whose reign of Hetman subordination was the Patriarch of Moscow Metropolitan of Kiev?">
+    <answer flag="0" text="By D. Mnohohrishny Board"/>
+    <answer flag="1" text="By rule II Samoilovych"/>
+    <answer flag="0" text="By I. Briukhovetsky"/>
+  </question>
+  <question level="1" simple="True" text="As is known in historical literature day 60-80 years XVII. - The period of civil wars, foreign invasions in Ukraine, its division between Muscovy, the Commonwealth, the Ottoman Empire, split Hetmanate horrific devastation of Right-Bank Ukraine?">
+    <answer flag="0" text="Flood"/>
+    <answer flag="1" text="Waste"/>
+  </question>
+  <question level="1" simple="True" text="As a result of events which destroyed Chigirin?">
+    <answer flag="1" text="Because Second Chigirinskogo hike"/>
+    <answer flag="0" text="Due to the Crimean campaign of the First"/>
+  </question>
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="1" text="Bakhchisarai peace treaty"/>
+    <answer flag="0" text="Russian-Polish &quot;eternal peace&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Which area had to leave for Tupechchyny Bahchysapayskym contract of?">
+    <answer flag="0" text="Livobepezhna Ukpayina and Kyiv"/>
+    <answer flag="1" text="South Kiev region, Bpatslavschyna, Podillia"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian territory secured by Moskoviyeyu &quot;&quot; eternal peace &quot;?">
+    <answer flag="1" text="Livobepezhnu Ukpayinu of Kyiv and Zapopozhzhya"/>
+    <answer flag="0" text="Podolia, Volhynia, Galicia"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Eternal Peace&quot; significantly weakened the national liberation movement in Ukraine because">
+    <answer flag="1" text="strengthened the violent division of Ukrainian lands between Muscovy and the Commonwealth"/>
+    <answer flag="0" text="actually deceived undermine the autonomy of the Ukrainian state (its territory is limited to the Kiev province, the number of Cossacks was reduced to 20 thousand)"/>
+  </question>
+</testing>

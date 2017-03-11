@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Start the Lithuanian and Polish rule in Ukrainian lands">
+  <question level="1" simple="True" text="What happened before?">
+    <answer flag="1" text="KREVO union"/>
+    <answer flag="0" text="The final accession to the Polish Kingdom of Galicia"/>
+  </question>
+  <question level="1" simple="True" text="What events started the fight for the Galician-Volyn land?">
+    <answer flag="0" text="From the Battle of Blue Waters 1362"/>
+    <answer flag="1" text="From going to the Polish king Casimir Lions 1340"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Ukrainian lands first came under Lithuanian princes Hedyminovychiv dynasty?">
+    <answer flag="0" text="Galicia"/>
+    <answer flag="1" text="Volin"/>
+    <answer flag="0" text="Kyiv region"/>
+  </question>
+  <question level="1" simple="True" text="Who belongs in the Galician government land for 1340-1344 biennium?">
+    <answer flag="0" text="Polish king Casimir III"/>
+    <answer flag="1" text="Schafer Demetrius Dedku"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands included in the Lithuanian state in the reign of Grand Duke of Lithuania Olgerd?">
+    <answer flag="0" text="Galicia, Volyn and Transcarpathia"/>
+    <answer flag="1" text="Kiev region, Chernigov-Siverschyna and skirts"/>
+  </question>
+  <question level="1" simple="True" text="What features of the state system was state of Lithuania in the second half of XIV century.?">
+    <answer flag="1" text="It was a federation of land-principalities, including Ukrainian"/>
+    <answer flag="0" text="She was the one state ruled by the great Prince of Kiev"/>
+  </question>
+  <question level="1" simple="True" text="What is autonomous prince, underlining its economic power and the desire to become free from dependence, minted its own coins?">
+    <answer flag="1" text="&quot;With God's grace Kyiv Prince Vladimir Olgerdovich"/>
+    <answer flag="0" text="Volyn prince Liubard Hedyminovych"/>
+  </question>
+  <question level="1" simple="True" text="What's included KREVO union?">
+    <answer flag="1" text="Marriage Lithuanian Prince Jagiello of Polish Queen Jadwiga and joining the Grand Duchy of Lithuania into the Polish state"/>
+    <answer flag="0" text="Connect Kyiv, Chernihiv-Sivershchyna and skirts to the Lithuanian State"/>
+  </question>
+  <question level="1" simple="True" text="Who is Vitovt?">
+    <answer flag="1" text="Son Keystuta Hedyminovycha, Grand Duke of Lithuania, who opposed the conditions Krevsk Union, fought for political independence of Lithuania from Poland"/>
+    <answer flag="0" text="Son Olgerd Hedyminovycha, Grand Duke of Lithuania and King of Poland"/>
+  </question>
+  <question level="1" simple="True" text="The structure of a State in 1387 as a result kilkadesyatylitnoyi Polish-Hungarian-Lithuanian territorial dispute entered Galicia, as independent &quot;Kingdom of Russia?">
+    <answer flag="1" text="In the Kingdom of Poland"/>
+    <answer flag="0" text="In the Grand Duchy of Lithuania"/>
+  </question>
+  <question level="1" simple="True" text="In what years reign at the Kiev local prince Vladimir Olgerdovich?">
+    <answer flag="0" text="In 1340 - 1385 рр."/>
+    <answer flag="1" text="In 1363 - 1394 рр."/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of Grand Duchy of Lithuania in the XV century.?">
+    <answer flag="1" text="Free"/>
+    <answer flag="0" text="Krakow"/>
+  </question>
+</testing>

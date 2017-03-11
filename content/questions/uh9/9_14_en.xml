@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Economic development of Ukrainian lands in the second">
+  <question level="1" simple="True" text="In whose hands were the most important industries in Western Ukraine in the second half of the nineteenth century.:">
+    <answer flag="0" text="Ukrainian Industrialists"/>
+    <answer flag="0" text="Polish and Jewish industrialists"/>
+    <answer flag="1" text="Foreign Manufacturers"/>
+    <answer flag="0" text="Ukrainian and Polish industrialists"/>
+  </question>
+  <question level="1" simple="True" text="Mark the name of the cooperative, founded in Galicia in 1883 W. MOUNT:">
+    <answer flag="0" text="&quot;Enlightenment&quot;"/>
+    <answer flag="0" text="Dnister"/>
+    <answer flag="1" text="&quot;Farmers&quot;"/>
+    <answer flag="0" text="&quot;Maslosoyuz&quot;"/>
+  </question>
+  <question level="1" simple="True" text="What industry was developed at Western end of the nineteenth century.">
+    <answer flag="1" text="The oil"/>
+    <answer flag="1" text="Wood processing"/>
+    <answer flag="1" text="Food"/>
+    <answer flag="0" text="Chemical"/>
+    <answer flag="0" text="Engineering"/>
+    <answer flag="0" text="Electrical"/>
+    <answer flag="0" text="Shipbuilding"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer flag="0" text="At the end of the nineteenth century. Naddniprianshchyna farmers stopped paying redemption payments"/>
+    <answer flag="0" text="In the second half of the nineteenth century. in Ukraine, the industrial revolution"/>
+    <answer flag="1" text="At the end of the nineteenth century. most of the lands that were processed, was in the hands of landlords"/>
+    <answer flag="0" text="At the end of the nineteenth century. Naddniprianshchyna workers were protected by an effective social legislation"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer flag="0" text="The most populated city in the Ukrainian lands at the beginning of the twentieth century. Kyiv was"/>
+    <answer flag="0" text="Reforms 1860-1870's of the industrial revolution started in the Ukrainian lands"/>
+    <answer flag="1" text="The feature of the industrial development of Ukrainian lands late nineteenth - early twentieth century. was the coincidence of the processes of industrialization and monopolization"/>
+    <answer flag="0" text="Leading role in the development of Donbass late nineteenth century. played Ukrainian Industrialists and Entrepreneurs"/>
+  </question>
+  <question level="1" simple="True" text="What city connected first to the Ukrainian railway lands?">
+    <answer flag="1" text="Lvov - Przemysl"/>
+    <answer flag="0" text="Chernivtsi - Stanislav"/>
+    <answer flag="0" text="Drohobych - Ternopil"/>
+    <answer flag="0" text="Stry - Uzhgorod"/>
+  </question>
+  <question level="1" simple="True" text="In which of these periods of economic development of Ukrainian lands happened largest growth?">
+    <answer flag="0" text="The second half of the eighteenth century."/>
+    <answer flag="0" text="The first quarter of the nineteenth century."/>
+    <answer flag="0" text="Mid-nineteenth century."/>
+    <answer flag="1" text="The second half of the nineteenth century."/>
+  </question>
+  <question level="1" simple="True" text="Which city has combined the first railroad line built in 1863 Dnieper Ukraine?">
+    <answer flag="0" text="Kyiv - Kharkiv"/>
+    <answer flag="0" text="Kyiv - Odessa"/>
+    <answer flag="0" text="Ekaterinoslav - Uzivka"/>
+    <answer flag="1" text="Odessa - Balta"/>
+  </question>
+  <question level="1" simple="True" text="What is the reasoning correct? The massive railway construction in the Ukrainian lands in the Austro-Hungarian: 1) negatively affected the development of industrial land, 2) focussed on local resources.">
+    <answer flag="0" text="Both are valid"/>
+    <answer flag="1" text="Only 1 correct option"/>
+    <answer flag="0" text="Only 2 are valid"/>
+    <answer flag="0" text="Both options are not correct"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer flag="1" text="In the early twentieth century. monopolization of the industry is fast Dnieper Ukraine;"/>
+    <answer flag="0" text="Industry of Ukraine in the second half of the nineteenth century. developed as a single economic complex"/>
+    <answer flag="0" text="The main problem of agriculture land was Ukrainian labor shortages"/>
+    <answer flag="0" text="In the early twentieth century. Right-Bank Ukraine was the breadbasket of the Russian Empire"/>
+  </question>
+  <question level="1" simple="True" text="What region of Ukraine in the second half of the nineteenth century. was the least industrialized?">
+    <answer flag="1" text="Transcarpathia"/>
+    <answer flag="0" text="Eastern Galicia"/>
+    <answer flag="0" text="Dnieper"/>
+    <answer flag="0" text="South"/>
+  </question>
+  <question level="1" simple="True" text="What is the main problem existed in the relations between landlords and peasants in the other western half of the nineteenth century.?">
+    <answer flag="1" text="Servitudes"/>
+    <answer flag="0" text="Emigration"/>
+    <answer flag="0" text="Bezzemellya"/>
+    <answer flag="0" text="Labour migration"/>
+  </question>
+</testing>

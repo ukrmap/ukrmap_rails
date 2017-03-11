@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The interaction between society and nature. The world's natural resources">
+  <question level="1" simple="True" text="Fuel resources are">
+    <answer flag="1" text="exhaustive and non-revolving"/>
+    <answer flag="0" text="limited and renewable"/>
+    <answer flag="0" text="inexhaustible and renewable"/>
+  </question>
+  <question level="1" simple="True" text="In which hemisphere are concentrated major deposits of coal?">
+    <answer flag="1" text="In North"/>
+    <answer flag="0" text="In South"/>
+  </question>
+  <question level="1" simple="True" text="In the richest in water resources of the world is">
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="China"/>
+    <answer flag="1" text="Canada"/>
+  </question>
+  <question level="1" simple="True" text="Which country provided the worst forest resources?">
+    <answer flag="0" text="Sweden"/>
+    <answer flag="0" text="Canada"/>
+    <answer flag="1" text="Afghanistan"/>
+    <answer flag="0" text="India"/>
+  </question>
+  <question level="1" simple="True" text="Which country is best equipped cultivated land per capita?">
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="India"/>
+    <answer flag="1" text="Kazakhstan"/>
+    <answer flag="0" text="Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="Which country has the most successful combination of agroclimatic resources?">
+    <answer flag="0" text="Australia"/>
+    <answer flag="1" text="Ukraine"/>
+    <answer flag="0" text="India"/>
+    <answer flag="0" text="Israel"/>
+  </question>
+  <question level="1" simple="True" text="Which country uses the most intensive underground hot water?">
+    <answer flag="0" text="Japan"/>
+    <answer flag="1" text="Iceland"/>
+    <answer flag="0" text="Indonesia"/>
+  </question>
+  <question level="1" simple="True" text="The largest hydroelectric power for the world is">
+    <answer flag="0" text="Grand Bullets (USA)"/>
+    <answer flag="1" text="Itaipu (Brazil / Paraguay)"/>
+    <answer flag="0" text="Hechzhouba (China)"/>
+    <answer flag="0" text="Bratsk (Russia)"/>
+  </question>
+  <question level="1" simple="True" text="Placement depends on biological resources">
+    <answer flag="0" text="level of economic development"/>
+    <answer flag="1" text="ratio of heat and moisture"/>
+    <answer flag="0" text="Earth crust"/>
+  </question>
+  <question level="1" simple="True" text="Tectonic structure, which dated deposits and fuel resources, it">
+    <answer flag="0" text="panels of ancient platforms"/>
+    <answer flag="0" text="Cainozoic folding region"/>
+    <answer flag="1" text="Foothill flexural deformations"/>
+    <answer flag="0" text="region Mesozoic folding"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="In Russia, the largest natural gas reserves"/>
+    <answer flag="0" text="In Saudi Arabia the largest oil reserves"/>
+    <answer flag="1" text="Russia takes place obstacles in the diamond"/>
+  </question>
+  <question level="1" simple="True" text="The oldest national park in the world is">
+    <answer flag="0" text="Wood Buffalo"/>
+    <answer flag="1" text="Yellowstone"/>
+    <answer flag="0" text="Ngorongoro"/>
+  </question>
+</testing>

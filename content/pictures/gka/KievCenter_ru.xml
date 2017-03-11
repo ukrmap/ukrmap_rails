@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Центр Киева">
+  <Item Caption="Софийский собор" FileName="1"/>
+  <Item Caption="Памятник Богдану Хмельницкому" FileName="2"/>
+  <Item Caption="Памятник княгине Ольге" FileName="3"/>
+  <Item Caption="Михайловский Златоверхий монастырь" FileName="4"/>
+  <Item Caption="Памятник князю Владимиру" FileName="5"/>
+  <Item Caption="Золотые ворота" FileName="6"/>
+  <Item Caption="Главпочтамт" FileName="7"/>
+  <Item Caption="Печерские ворота" FileName="8"/>
+  <Item Caption="Дом профсоюзов" FileName="9"/>
+  <Item Caption="Костел св.Александра" FileName="10"/>
+  <Item Caption="Украинский дом" FileName="11"/>
+  <Item Caption="Филармония" FileName="12"/>
+  <Item Caption="Монумент Воссоединения Украины с Россией" FileName="13"/>
+  <Item Caption="Центральный универмаг" FileName="14"/>
+  <Item Caption="Городской совет" FileName="15"/>
+  <Item Caption="Высотный жилой дом" FileName="16"/>
+  <Item Caption="Музыкальная академия имени П. Чайковского" FileName="17"/>
+  <Item Caption="Монумент Независимости Украины" FileName="18"/>
+  <Item Caption="Гостиница &quot;Украина&quot;" FileName="19"/>
+  <Item Caption="Национальный центр культуры и искусств" FileName="20"/>
+  <Item Caption="Парламентская библиотека" FileName="21"/>
+  <Item Caption="Национальный художественный музей" FileName="22"/>
+  <Item Caption="Дом Правительства Украины" FileName="23"/>
+  <Item Caption="Бессарабский крытый рынок" FileName="24"/>
+  <Item Caption="Кирха св.Екатерины" FileName="25"/>
+  <Item Caption="Администрация Президента Украины" FileName="26"/>
+  <Item Caption="&quot;Дом с химерами&quot;" FileName="27"/>
+  <Item Caption="Национальный банк Украины" FileName="28"/>
+  <Item Caption="Кловский дворец" FileName="29"/>
+  <Item Caption="Торгово-развлекательный центр &quot;Глобус&quot;" FileName="30"/>
+  <Item Caption="Цирк" FileName="31"/>
+</List>

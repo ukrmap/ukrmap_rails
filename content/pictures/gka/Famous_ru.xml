@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Выдающиеся личности в Киеве">
+  <Item Caption="Памятник Владимиру Вернадскому" FileName="01"/>
+  <Item Caption="Памятник Шолом-Алейхему" FileName="02"/>
+  <Item Caption="Памятник Ивану Котляревскому" FileName="03"/>
+  <Item Caption="Памятник Леониду Быкову" FileName="04"/>
+  <Item Caption="Памятник Михаилу Драгоманову" FileName="05"/>
+  <Item Caption="Памятник Анатолию Соловьяненко" FileName="06"/>
+  <Item Caption="Памятник Николаю Лысенко" FileName="07"/>
+  <Item Caption="Памятник Петру Конашевичу-Сагайдачному" FileName="08"/>
+</List>

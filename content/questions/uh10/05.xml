@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Україна в умовах радянської модернізації.">
+  <question text="Основна маса промислових підприємств України за роки індустріалізації була збудована у">
+    <answer flag="1" text="І п'ятирічку"/>
+    <answer flag="0" text="ІІ п'ятирічку"/>
+    <answer flag="0" text="ІІІ п'ятирічку"/>
+  </question>
+  <question text="Хто був Першим секретарем ЦК КП(Б)У у 1928-1938 рр.?">
+    <answer flag="1" text="Л.Каганович"/>
+    <answer flag="0" text="С.Косіор"/>
+    <answer flag="0" text="М.Хрущов"/>
+  </question>
+  <question text="Роком “великого перелому” називають">
+    <answer flag="1" text="1929 р."/>
+    <answer flag="0" text="1933 р."/>
+    <answer flag="0" text="1936 р."/>
+  </question>
+  <question text="У 30-ті роки домінуючим методом у мистецтві та літературі був:">
+    <answer flag="0" text="критичний реалізм"/>
+    <answer flag="1" text="соціалістичний реалізм"/>
+    <answer flag="0" text="символізм"/>
+  </question>
+  <question text="Яка головна причина голодомору 1932-1933 рр. в Україні?">
+    <answer flag="0" text="засуха і неврожай"/>
+    <answer flag="1" text="цілеспрямована політика вищого комуністичного керівництва"/>
+    <answer flag="0" text="агресія проти України сусідніх держав"/>
+    <answer flag="0" text="провал індустріалізації"/>
+  </question>
+  <question text="На якому з`їзді ВКП(б) було прийнято рішення про колективізацію?">
+    <answer flag="0" text="ХІV"/>
+    <answer flag="1" text="ХV"/>
+    <answer flag="0" text="ХVІ"/>
+  </question>
+  <question text="“Сталінська” Конституція УРСР була прийнята у">
+    <answer flag="0" text="1929 р."/>
+    <answer flag="0" text="1934 р."/>
+    <answer flag="0" text="1936 р."/>
+    <answer flag="1" text="1937 р."/>
+  </question>
+  <question text="Яка п`ятирічка стала за висловом Й. Сталіна часом “знищення релігії”?">
+    <answer flag="0" text="Перша"/>
+    <answer flag="1" text="Друга"/>
+    <answer flag="0" text="Третя"/>
+  </question>
+  <question text="Урочисте відкриття Дніпрогесу відбулось у">
+    <answer flag="0" text="1930 р."/>
+    <answer flag="0" text="1931 р."/>
+    <answer flag="1" text="1932 р."/>
+  </question>
+  <question text="Головним звинуваченням для українських діячів було">
+    <answer flag="1" text="буржуазний націоналізм"/>
+    <answer flag="0" text="шпигунство"/>
+    <answer flag="0" text="шкідництво"/>
+  </question>
+  <question text="Вкажіть рік проголошення курсу на суцільну колективізацію в УСРР.">
+    <answer flag="0" text="1919 р."/>
+    <answer flag="1" text="1929 р."/>
+    <answer flag="0" text="1932 р."/>
+    <answer flag="0" text="1937 р."/>
+  </question>
+  <question text="Вкажіть судовий процес, на якому було засуджено до різних строків ув`язнення С. Єфремова, М. Слабченка, І. Гермайзе та інших представників української інтелігенції.">
+    <answer flag="1" text="справа „Спілки визволення України”"/>
+    <answer flag="0" text="„Шахтинська справа”"/>
+    <answer flag="0" text="справа „Українського національного центру”"/>
+    <answer flag="0" text="справа „Української військової організації“"/>
+  </question>
+</testing>

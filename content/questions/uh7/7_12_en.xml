@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kiev State under Yaroslav the Wise">
+  <question level="1" simple="True" text="In what years reign of Yaroslav the Wise in Kiev?">
+    <answer flag="0" text="In 978-1015 he was"/>
+    <answer flag="1" text="In 1019-1054 he"/>
+  </question>
+  <question level="1" simple="True" text="What battle ended on the river Alta in 1018?">
+    <answer flag="0" text="Sviatopolk victory and his father in law King of Poland and the return of Yaroslav in Novgorod"/>
+    <answer flag="1" text="Yaroslav's victory and consolidation of his desk at the Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="What is the church - the greatest building of Kyiv - Yaroslav was built?">
+    <answer flag="0" text="Church Tithes"/>
+    <answer flag="1" text="Hagia Sophia"/>
+  </question>
+  <question level="1" simple="True" text="Which of the events mentioned in the chronicles before?">
+    <answer flag="1" text="Construction of the cathedral"/>
+    <answer flag="0" text="Establishment Pechersk monastery"/>
+  </question>
+  <question level="1" simple="True" text="Which of the figures of the Kievan Rus first canonized their experiences?">
+    <answer flag="0" text="First Christian princes Askold and Olga"/>
+    <answer flag="1" text="Yaroslav deceased brothers - Princes Boris and Gleb"/>
+  </question>
+  <question level="1" simple="True" text="Field trips to a nomadic people put an end to the days of Prince Yaroslav?">
+    <answer flag="1" text="Pechenihs"/>
+    <answer flag="0" text="The Khazars"/>
+  </question>
+  <question level="1" simple="True" text="Who is Hilarion?">
+    <answer flag="0" text="Chronicler, author of &quot;Tale of Bygone Years&quot;"/>
+    <answer flag="1" text="The first Metropolitan of Kiev Rus Rus"/>
+  </question>
+  <question level="1" simple="True" text="How many times, according to archaeological sites, increased the area of the City of Yaroslav &quot;versus&quot; city of Vladimir?">
+    <answer flag="0" text="3 times"/>
+    <answer flag="1" text="7 times"/>
+  </question>
+  <question level="1" simple="True" text="What is true Yaroslav?">
+    <answer flag="1" text="The first written collection of laws Rus"/>
+    <answer flag="0" text="The book, brought Anna Yaroslavna to France, where French kings swore later"/>
+  </question>
+  <question level="1" simple="True" text="Why Yaroslav the Wise called the father in Europe?">
+    <answer flag="0" text="For the Prince undertook cultural and educational activities for the European model"/>
+    <answer flag="1" text="Because the foreign policy of the prince sat prominently mizhdynastychni marriages"/>
+  </question>
+  <question level="1" simple="True" text="Which states since Kievan Rus Yaroslav the Wise maintained the closest relations?">
+    <answer flag="1" text="From Byzantium, Germany and Poland"/>
+    <answer flag="0" text="In Italy, Georgia, Lithuania"/>
+  </question>
+  <question level="1" simple="True" text="As known complex structures, intended for religious accommodation, sending their religious practices, training, etc.?">
+    <answer flag="0" text="Cathedral"/>
+    <answer flag="1" text="Monastery"/>
+    <answer flag="0" text="Church"/>
+  </question>
+</testing>

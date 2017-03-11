@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Праўленне Напалеона Банапарта. Першая імперыя ў Францыі">
+  <question level="1" simple="True" text="У якім годзе Напалеона Банапарта было абвяшчэнне імператарам?">
+    <answer flag="0" text="1803"/>
+    <answer flag="1" text="1804"/>
+    <answer flag="0" text="1805"/>
+    <answer flag="0" text="1806"/>
+  </question>
+  <question level="1" simple="True" text="Якія дзяржавы ўваходзілі ў склад трэцяй антифранцузской кааліцыі?">
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Вялікабрытанія"/>
+    <answer flag="1" text="Расія"/>
+    <answer flag="0" text="Прусія"/>
+    <answer flag="1" text="Аўстрыя"/>
+    <answer flag="1" text="Неапалітанскай каралеўства"/>
+  </question>
+  <question level="1" simple="True" text="Хто камандаваў ангельскай флотам у бітве ў мыса Трафальгар 21 Кастрычнік 1805?">
+    <answer flag="1" text="Нэльсан"/>
+    <answer flag="0" text="Вільнёў"/>
+    <answer flag="0" text="Велінгтон"/>
+    <answer flag="0" text="Блюхера"/>
+  </question>
+  <question level="1" simple="True" text="Калі ўтварылася чацвёртага антифранцузская кааліцыя?">
+    <answer flag="0" text="1805"/>
+    <answer flag="1" text="1806"/>
+    <answer flag="0" text="1807"/>
+    <answer flag="0" text="1808"/>
+  </question>
+  <question level="1" simple="True" text="Якая антифранцузская кааліцыя спыніла сваё існаванне ў выніку перамогі Напалеона ў бітве пад Аўстэрліцам?">
+    <answer flag="0" text="другая"/>
+    <answer flag="1" text="трэці"/>
+    <answer flag="0" text="чацвёртыя"/>
+    <answer flag="0" text="пяты"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе Напалеон падпісаў дэкрэт аб увядзенні кантынентальнай блакады?">
+    <answer flag="0" text="Парыж"/>
+    <answer flag="0" text="Мадрыд"/>
+    <answer flag="0" text="Лейпцыг"/>
+    <answer flag="1" text="Берлін"/>
+  </question>
+  <question level="1" simple="True" text="Саюзны дагавор і мір паміж Расеяй і Францыяй 7 чэрвеня 1807 года быў падпісаны ў">
+    <answer flag="0" text="Парыжы"/>
+    <answer flag="0" text="Фрыдландам"/>
+    <answer flag="1" text="Тильзити"/>
+    <answer flag="0" text="Варшаве"/>
+  </question>
+  <question level="1" simple="True" text="На тэрыторыі якой дзяржавы адбылася бітва пад Ваграмом?">
+    <answer flag="1" text="Аўстрыйская імперыя"/>
+    <answer flag="0" text="каралеўства Баварыя"/>
+    <answer flag="0" text="каралеўства Прусія"/>
+    <answer flag="0" text="герцагства Варшаўскага"/>
+  </question>
+  <question level="1" simple="True" text="24 чэрвеня 1812 г. армія Напалеона перайшла мяжу і ўступіла на тэрыторыю">
+    <answer flag="0" text="Аўстрыйскай імперыі"/>
+    <answer flag="1" text="Расійскай імперыі"/>
+    <answer flag="0" text="Іспаніі"/>
+    <answer flag="0" text="Даніі"/>
+  </question>
+  <question level="1" simple="True" text="Бітва пры Ватэрлоо адбылася 18 Чэрвеня">
+    <answer flag="0" text="1814"/>
+    <answer flag="1" text="1815"/>
+    <answer flag="0" text="1816"/>
+    <answer flag="0" text="1817"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея адбылася раней?">
+    <answer flag="0" text="абвяшчэння ў Парыжы акта аб стварэнні саюза манархаў і народаў"/>
+    <answer flag="1" text="падпісанне Заключнага генеральнага акта Венскага кангрэса"/>
+  </question>
+  <question level="1" simple="True" text="Пасля Напалеона Францыяй правілаў">
+    <answer flag="0" text="Людовік XVI"/>
+    <answer flag="0" text="Людовік XVII"/>
+    <answer flag="1" text="Людовік XVIII"/>
+  </question>
+</testing>

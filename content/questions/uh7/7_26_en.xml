@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Social order and economic life in Ukraine in the second half of XIV - the first half of XVI century.">
+  <question level="1" simple="True" text="When was the final division of the Kyiv Metropolis of Kiev and Moscow?">
+    <answer flag="0" text="In 1401"/>
+    <answer flag="1" text="In 1458"/>
+  </question>
+  <question level="1" simple="True" text="What occupied the top stratum of the social pyramid in the XV - first half of XVI century.?">
+    <answer flag="1" text="Nobility"/>
+    <answer flag="0" text="Farmers"/>
+    <answer flag="0" text="Clergy"/>
+  </question>
+  <question level="1" simple="True" text="What then stratum of society was the largest?">
+    <answer flag="0" text="Princes"/>
+    <answer flag="1" text="Farmers"/>
+    <answer flag="0" text="Clergy"/>
+  </question>
+  <question level="1" simple="True" text="As a category called peasants, whose main duty was to pay tribute in kind or money for use of lands and lands ornymy">
+    <answer flag="0" text="Traction"/>
+    <answer flag="1" text="Tributary"/>
+  </question>
+  <question level="1" simple="True" text="What determined the peasants who worked in filvarkovomu economy?">
+    <answer flag="0" text="Peasants paid tax money or natural"/>
+    <answer flag="1" text="Peasants working in lordly estates with their &quot;pulled&quot; their rights to restricted transition"/>
+  </question>
+  <question level="1" simple="True" text="Ukrainian representative of a princely family in the first quarter of the XVI century. was at the highest government posts, was the fourth person wealth in the state?">
+    <answer flag="0" text="Semen Olelkovych"/>
+    <answer flag="1" text="Konstantin I. Ostrog"/>
+  </question>
+  <question level="1" simple="True" text="What event caused the annexation Orthodox Lithuanians and Lithuanians-pagans to Catholicism?">
+    <answer flag="1" text="KREVO union"/>
+    <answer flag="0" text="Formation of Ruthenian region of Poland"/>
+  </question>
+  <question level="1" simple="True" text="What event witnessed the division of society on religious grounds and opened the way for the oppression of the Orthodox?">
+    <answer flag="0" text="Battle of Grunwald in 1410, which suffered a devastating blow Teuton Knight"/>
+    <answer flag="1" text="Horodelska union in 1413, according to which participation in governance and to hold government positions have the right to exclusively Catholics"/>
+  </question>
+  <question level="1" simple="True" text="What are the cities that were part of the Grand Duchy of Lithuania in the early 16 th century. Were the most?">
+    <answer flag="1" text="Kyiv, Bratslav, Kremenets, Lutsk, Vladimir"/>
+    <answer flag="0" text="Belz, Holm, lived in Sambor, Rohatyn"/>
+  </question>
+  <question level="1" simple="True" text="Which of the cities that were part of Poland at the beginning of the XVI century. Were the most?">
+    <answer flag="0" text="Ostrog, Zhitomir, Cherkassy"/>
+    <answer flag="1" text="Lions Kamyanets, Przemysl"/>
+  </question>
+  <question level="1" simple="True" text="What is the Magdeburg right?">
+    <answer flag="1" text="Right, so the city rid of court management and large landowners and local governments created"/>
+    <answer flag="0" text="Right, that determined the dependence of peasants on feudal property and at the same time (incomplete) on the last peasant serf"/>
+  </question>
+  <question level="1" simple="True" text="Which of Ukrainian cities received a Magdeburg right in the XIV century.?">
+    <answer flag="1" text="Sanok, Lviv, Kamianets Holm, Przemysl"/>
+    <answer flag="0" text="Lutsk, Kyiv, Kremenets, Zhitomir, Drogobych"/>
+  </question>
+</testing>

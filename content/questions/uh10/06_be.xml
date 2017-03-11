@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Заходнеўкраінскі зямлі пад уладай замежных дзяржаў">
+  <question text="Подкарпатская Русь - гэта афіцыйная назва ў 20-30-я гады">
+    <answer flag="0" text="Паўночнай Букавіны"/>
+    <answer flag="0" text="Усходняй Галіцыі"/>
+    <answer flag="1" text="Закарпацце"/>
+  </question>
+  <question text="Ўкраінскае кааператыўнае рух найбольш разгалінаваны быў на">
+    <answer flag="1" text="Усходняй Галіцыі"/>
+    <answer flag="0" text="Закарпацце"/>
+    <answer flag="0" text="Паўночнай Букавіну"/>
+    <answer flag="0" text="Валыні"/>
+  </question>
+  <question text="Дзе быў размешчаны канцлагер для ўкраінскіх палітвязняў, створаны польскімі ўладамі?">
+    <answer flag="1" text="Бяроза-Картузскі"/>
+    <answer flag="0" text="Сабібор"/>
+    <answer flag="0" text="Явар"/>
+  </question>
+  <question text="У якім годзе была ўтворана АУН?">
+    <answer flag="0" text="1925"/>
+    <answer flag="0" text="1927"/>
+    <answer flag="1" text="1929"/>
+  </question>
+  <question text="Хто быў першым кіраўніком ОУН?">
+    <answer flag="1" text="А. Мельнік"/>
+    <answer flag="0" text="С. Бандэра"/>
+    <answer flag="0" text="Е. Коновалец"/>
+  </question>
+  <question text="На якіх ўкраінскіх землях ўкраінскае рух карыстаўся найбольшым уплывам?">
+    <answer flag="1" text="Усходняя Галіцыя"/>
+    <answer flag="0" text="Закарпацце"/>
+    <answer flag="0" text="Паўночная Букавіна"/>
+    <answer flag="0" text="Валынь"/>
+  </question>
+  <question text="Войска Карпацкай Украіне звалася">
+    <answer flag="0" text="Украінская паўстанцкая армія"/>
+    <answer flag="1" text="Карпацкая Сеч"/>
+    <answer flag="0" text="Украінскія сечевые стральцы"/>
+  </question>
+  <question text="Якая з ідэйных плыняў, была распаўсюджана на Закарпацце ў 20-30-я гады, карысталася найбольшым уплывам?">
+    <answer flag="1" text="Русінская"/>
+    <answer flag="0" text="Украинофильская"/>
+    <answer flag="0" text="Русофильские"/>
+  </question>
+  <question text="Якія палітычныя сілы былі арганізатарамі Татарбунарскі паўстання?">
+    <answer flag="1" text="пракамуністычны"/>
+    <answer flag="0" text="лібэральна-дэмакратычныя"/>
+    <answer flag="0" text="нацыяналістычныя"/>
+  </question>
+  <question text="Шматлікай ўкраінскай палітычнай партыяй Галіцыі ў 20-30-я гады была">
+    <answer flag="0" text="КПЗУ"/>
+    <answer flag="1" text="УНДО"/>
+    <answer flag="0" text="АУН"/>
+    <answer flag="0" text="ВСРП"/>
+  </question>
+  <question text="Якія ўкраінскія землі павінны былі стаць калыскай польска-ўкраінскага ўзаемаразумення?">
+    <answer flag="0" text="Галічына"/>
+    <answer flag="1" text="Валынь"/>
+    <answer flag="0" text="Кут"/>
+  </question>
+  <question text="Які міжнародны дагавор замацаваў ўваходжанне Закарпацця у склад ЧСР?">
+    <answer flag="1" text="Сен-Жерменский"/>
+    <answer flag="0" text="Версальскі"/>
+    <answer flag="0" text="Рыжскі"/>
+  </question>
+</testing>

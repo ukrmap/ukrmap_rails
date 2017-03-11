@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="NATURAL CONDITIONS AND NATURAL RESOURCES">
+  <question level="1" simple="True" text="The oldest rocks of Archean and Proterozoic published:">
+    <answer flag="0" text="Trench-Black Sea"/>
+    <answer flag="0" text="Voronezh crystalline shield"/>
+    <answer flag="1" text="Ukrainian Shield"/>
+    <answer flag="0" text="Volyn-Podolsk Cooker"/>
+  </question>
+  <question level="1" simple="True" text="In which of the latest geological periods of the sea left the territory of Ukraine?">
+    <answer flag="1" text="In the Neogene"/>
+    <answer flag="0" text="In jure"/>
+    <answer flag="0" text="In the Paleogene"/>
+  </question>
+  <question level="1" simple="True" text="Crimea is the highest peak">
+    <answer flag="1" text="G. Roman-Kosh"/>
+    <answer flag="0" text="g. Demerdzhi"/>
+    <answer flag="0" text="d. Ai-Petri"/>
+  </question>
+  <question level="1" simple="True" text="What height Goverly?">
+    <answer flag="0" text="1545"/>
+    <answer flag="1" text="2061 m"/>
+    <answer flag="0" text="1527 m"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is correct?">
+    <answer flag="0" text="The whole territory of Ukraine is located in the temperate zone"/>
+    <answer flag="0" text="Continental climate in Ukraine is increasing from north to south"/>
+    <answer flag="1" text="The largest annual total precipitation in the Carpathian Mountains of Ukraine is"/>
+  </question>
+  <question level="1" simple="True" text="How many peaks of Ukraine have the height of 2000 meters?">
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Most precipitation falls in Ukraine in warm season"/>
+    <answer flag="1" text="Ukraine is well provided with water"/>
+    <answer flag="0" text="Southern coast of Crimea within the subtropical climatic zone"/>
+  </question>
+  <question level="1" simple="True" text="Which of the rivers of Ukraine does not belong to the Black Sea?">
+    <answer flag="1" text="Western Bug"/>
+    <answer flag="0" text="Dniester"/>
+    <answer flag="0" text="Diet"/>
+  </question>
+  <question level="1" simple="True" text="Which answers are correct?">
+    <answer flag="0" text="The lowest salinity Black Sea water is observed in its southern"/>
+    <answer flag="0" text="Most organisms living in the Black Sea its deep layers"/>
+    <answer flag="1" text="Maximum depth of the Azov Sea is 15 m"/>
+    <answer flag="1" text="Most living organisms inhabit the Black Sea at depths of 200 m"/>
+  </question>
+  <question level="1" simple="True" text="What are the most common soil in the forest-steppe and steppe zones of Ukraine?">
+    <answer flag="1" text="Black earth"/>
+    <answer flag="0" text="Sod-podzol"/>
+    <answer flag="0" text="Grey Forest"/>
+  </question>
+  <question level="1" simple="True" text="Which of the above tectonic structures dedicated oil and gas deposits of anthracite coal in Ukraine?">
+    <answer flag="1" text="Dnieper-Donetsk Basin"/>
+    <answer flag="0" text="Voronezh crystalline massif"/>
+    <answer flag="0" text="Ukrainian crystalline shield"/>
+  </question>
+  <question level="1" simple="True" text="Coal basins of Ukraine are:">
+    <answer flag="0" text="Black Sea"/>
+    <answer flag="1" text="Donetsk"/>
+    <answer flag="1" text="Lviv-Volyn"/>
+  </question>
+  <question level="1" simple="True" text="What is the title and break the mass of rocks on a slope by gravity?">
+    <answer flag="0" text="Plane wash"/>
+    <answer flag="0" text="Caves"/>
+    <answer flag="1" text="Landslide"/>
+  </question>
+  <question level="1" simple="True" text="In which the natural zone of Ukraine highest tional agricultural lands?">
+    <answer flag="1" text="The steppe"/>
+    <answer flag="0" text="In the forest"/>
+    <answer flag="0" text="In the forest-steppe"/>
+  </question>
+  <question level="1" simple="False" text="Check the correspondence between landforms and its name">
+    <answer text="Slovechansko-Ovruchskyi -"/>
+    <answer text="Hotinskaya -"/>
+    <answer text="Kiev -"/>
+    <answer text="Black Sea -"/>
+    <variant>
+      <item flag="2" text="height"/>
+      <item flag="1" text="ridge"/>
+      <item flag="4" text="lowland"/>
+      <item flag="3" text="plateau"/>
+      <item flag="0" text="plain"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between the tectonic structure and its name">
+    <answer text="Ukrainian -"/>
+    <answer text="Volyn-Podolsky -"/>
+    <answer text="Dnieper-Donetsk -"/>
+    <answer text="Voronezh -"/>
+    <variant>
+      <item flag="4" text="crystalline array"/>
+      <item flag="3" text="cavity"/>
+      <item flag="2" text="stove"/>
+      <item flag="1" text="shield"/>
+      <item flag="0" text="skladchata region"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between istrychnymy persons and their contribution to the study Ukraine">
+    <answer text="Claudius Ptolemy -"/>
+    <answer text="GL where Boplan -"/>
+    <answer text="V. Vernadsky -"/>
+    <answer text="P. Chubynsky"/>
+    <variant>
+      <item flag="0" text="author of &quot;Description of Ukraine&quot;"/>
+      <item flag="2" text="author of &quot;Geography&quot;"/>
+      <item flag="4" text="ethnographer, author of the text of national anthem"/>
+      <item flag="3" text="founder and first president of Science of Ukraine"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line between proper names and interpretations">
+    <answer text="Lviv-Volyn -"/>
+    <answer text="Dnipro -"/>
+    <answer text="Kerch -"/>
+    <answer text="Nikopol -"/>
+    <variant>
+      <item flag="3" text="iron pool"/>
+      <item flag="1" text="Coal basey"/>
+      <item flag="2" text="brown coal basin"/>
+      <item flag="4" text="manganese pool"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Check the correspondence between natural areas and prevailing types of soils">
+    <answer text="Zone of mixed forests -"/>
+    <answer text="Steppe zone -"/>
+    <answer text="The forest-steppe zone -"/>
+    <answer text="Ukrainian Carpathians -"/>
+    <variant>
+      <item flag="3" text="black type"/>
+      <item flag="1" text="sod-podzol"/>
+      <item flag="2" text="ordinary black"/>
+      <item flag="4" text="brown mountain-forest"/>
+      <item flag="0" text="brown mountain"/>
+    </variant>
+  </question>
+</testing>

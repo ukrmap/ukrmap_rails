@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Визначні місця">
+  <Item Caption="Костел св. Миколая" FileName="1"/>
+  <Item Caption="Андріївська церква" FileName="2"/>
+  <Item Caption="Хоральна синагога" FileName="3"/>
+  <Item Caption="Успенська церква" FileName="4"/>
+  <Item Caption="Оперний театр" FileName="5"/>
+  <Item Caption="Оперний театр. Глядацька зала" FileName="6"/>
+  <Item Caption="Будинок учителя" FileName="7"/>
+  <Item Caption="Будинок Міської ради" FileName="8"/>
+  <Item Caption="На Хрещатику" FileName="9"/>
+  <Item Caption="Цирк" FileName="10"/>
+  <Item Caption="Телевежа" FileName="11"/>
+  <Item Caption="Палац &quot;Україна&quot;" FileName="12"/>
+  <Item Caption="Залізничний вокзал" FileName="13"/>
+  <Item Caption="НСК &quot;Олімпійський&quot; — головна спортивна арена країни" FileName="14"/>
+  <Item Caption="Пам'ятник М. Грушевському" FileName="15"/>
+  <Item Caption="Пам'ятник воїнам-афганцям" FileName="16"/>
+  <Item Caption="На площі Сантьяго-де-Чилі" FileName="17"/>
+  <Item Caption="Вернісаж біля Андріївського узвозу" FileName="18"/>
+  <Item Caption="Андріївський узвіз" FileName="19"/>
+  <Item Caption="Михайлівський Золотоверхий монастир" FileName="20"/>
+  <Item Caption="На Михайлівській площі" FileName="21"/>
+</List>

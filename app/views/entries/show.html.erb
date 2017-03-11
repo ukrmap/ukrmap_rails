@@ -1,0 +1,34 @@
+<% content_for :title, "#{@entry.title} | #{@entry.parent.title}" %>
+<% unless @entry.text_with_title? %>
+<h1><%= @entry.title %> <i style="color: grey;"> <%= "(#{I18n.t(@entry.tutorial)})" %></i></h1>
+<% end %>
+
+<div class="row">
+  <div class="col-md-8">
+    <%== @entry.content %>
+    <%= render 'pager' %>
+  </div>
+  <div class="col-md-4 sidebar">
+    <% @entry.map_files_with_names.each_with_index do |(map, w, h, thumbnail, name), index| %>
+      <div class="map_preview">
+        <a href="<%= map %>" class="map_link" data-w="<%= w %>" data-h="<%= h %>" data-title="<%= name %>" data-index="<%= index %>">
+          <img src="<%= thumbnail %>" width="200"/>
+        </a>
+        <br/>
+        <span><i><%= name %></i></span>
+      </div>
+    <% end %>
+
+    <% @entry.pictures_files_with_names.each_with_index do |(picture, w, h, thumbnail, name), index| %>
+      <div class="picture_preview">
+        <a href="<%= picture %>" class="picture_link" data-w="<%= w %>" data-h="<%= h %>" data-title="<%= name %>" data-index="<%= index %>">
+          <img src="<%= thumbnail %>"/>
+        </a>
+        <br/>
+        <span><i><%= name %></i></span>
+      </div>
+    <% end %>
+  </div>
+</div>
+
+<%= render "pswp" %>

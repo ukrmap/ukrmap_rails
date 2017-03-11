@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Гідрасфэра">
+  <question level="1" simple="True" text="Якая частка зямной паверхні занята Сусьветным акіянам?">
+    <answer flag="0" text="17%"/>
+    <answer flag="0" text="40%"/>
+    <answer flag="0" text="60%"/>
+    <answer flag="1" text="71%"/>
+  </question>
+  <question level="1" simple="True" text="Якую працягу называюць цёплай?">
+    <answer flag="0" text="Тую, у якой вада цяплей 0 ° С"/>
+    <answer flag="0" text="Тую, у якой вада цяплей 20 ° З"/>
+    <answer flag="1" text="Тую, у якой вада цяплей навакольныя акіянічныя вады"/>
+    <answer flag="0" text="Тую, у якой вада ніколі не замярзае"/>
+  </question>
+  <question level="1" simple="True" text="У якіх адзінках вымераюць салёнасць акіянічнай вады?">
+    <answer flag="0" text="У грамах на літр кубічны"/>
+    <answer flag="0" text="У працэнтах"/>
+    <answer flag="1" text="У праміле"/>
+    <answer flag="0" text="У кілаграмах на метр кубічны"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца частка рачной даліны, пастаянна занятая водным струменем?">
+    <answer flag="0" text="Поймай"/>
+    <answer flag="1" text="Рэчышчам"/>
+    <answer flag="0" text="Тэрасай"/>
+    <answer flag="0" text="Вусцем"/>
+  </question>
+  <question level="1" simple="True" text="Ад якіх фактараў залежаць вышыня прыліваў?">
+    <answer flag="1" text="Глыбіні мора"/>
+    <answer flag="1" text="Ад узаемнага размяшчэння Зямлі, Месяца і Сонца"/>
+    <answer flag="0" text="Ад часу года"/>
+    <answer flag="1" text="Ад формы берагавой лініі"/>
+  </question>
+  <question level="1" simple="True" text="Якая максімальная вышыня прыліву у Сусветным акіяне?">
+    <answer flag="1" text="Звыш 18 м"/>
+    <answer flag="0" text="Каля 10 м"/>
+    <answer flag="0" text="Не больш за 0,5 м"/>
+  </question>
+  <question level="1" simple="True" text="Як змяняецца тэмпература вады ў акіяне да глыбіні 700 м?">
+    <answer flag="0" text="Практычна не змяняецца"/>
+    <answer flag="1" text="Пастаянна зніжаецца"/>
+    <answer flag="0" text="Пастаянна павышаецца"/>
+    <answer flag="0" text="Зніжэнне і павышэнне тэмпературы чаргуюцца"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="1" text="У самога дна акіяна вады халодная, паколькі туды зусім не пранікаюць сонечныя прамяні"/>
+    <answer flag="0" text="На вялікіх глыбінях ўся вада мае аднолькавую тэмпературу, блізкую да 0 ° С"/>
+    <answer flag="0" text="У самога дна вада становіцца цяплей, так як награваецца цёплай рэчывам мантыі, залягаюць параўнальна неглыбока"/>
+  </question>
+  <question level="1" simple="True" text="Якія агрэгатныя станы характэрныя для вады?">
+    <answer flag="1" text="Газападобны"/>
+    <answer flag="1" text="Вадкі"/>
+    <answer flag="0" text="Глейкі"/>
+    <answer flag="1" text="Цвёрды"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца працэс, калі вада, выпарыліся над акіянам, пераносіцца на сушу і пасля выпадзення на паверхню сцякае ў акіян па паверхні або прасочваючыся пад зямлю?">
+    <answer flag="0" text="Сток"/>
+    <answer flag="0" text="Насычэнне"/>
+    <answer flag="0" text="Малы кругазварот"/>
+    <answer flag="1" text="Вялікі кругазварот"/>
+  </question>
+  <question level="1" simple="True" text="Як называюцца выступу цвёрдых парод над дном ракі ў выглядзе асобных каменных груд?">
+    <answer flag="0" text="Вадаспад"/>
+    <answer flag="0" text="Абрыў"/>
+    <answer flag="0" text="Дамба"/>
+    <answer flag="1" text="Парогі"/>
+  </question>
+  <question level="1" simple="True" text="Як называюцца азёры, якія ўзніклі на легкорастворимых горных пародах?">
+    <answer flag="0" text="Азёры-старыцы"/>
+    <answer flag="0" text="Ледніковыя"/>
+    <answer flag="1" text="Карставыя"/>
+    <answer flag="0" text="Ліман"/>
+  </question>
+</testing>

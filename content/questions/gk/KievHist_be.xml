@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Кіеў у мінулым">
+  <question level="1" simple="True" text="У якой з пералічаных гадоў Кіеў меў найбольшую колькасць жыхароў?">
+    <answer flag="0" text="900 г."/>
+    <answer flag="1" text="1200"/>
+    <answer flag="0" text="1500"/>
+    <answer flag="0" text="1700"/>
+  </question>
+  <question level="1" simple="True" text="У якой з пералічаных гадоў Кіеў меў найменшую колькасць жыхароў?">
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="0" text="1940"/>
+    <answer flag="1" text="1943"/>
+  </question>
+  <question level="1" simple="True" text="Найстаражытны апісанне Кіева датуецца:">
+    <answer flag="0" text="1240 годам"/>
+    <answer flag="1" text="945 годам"/>
+    <answer flag="0" text="1380 годам"/>
+  </question>
+  <question level="1" simple="True" text="У часы Ігара, Вольгі і Святаслава большасць насельніцтва горада пражывала на:">
+    <answer flag="0" text="Гора"/>
+    <answer flag="1" text="Падоле"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе войска Батыя разбурыла сталіцу Русі?">
+    <answer flag="1" text="У 1240"/>
+    <answer flag="0" text="У 945"/>
+    <answer flag="0" text="У 1147"/>
+  </question>
+  <question level="1" simple="True" text="Як называўся кіруючы орган Кіева часоў Рэчы Паспалітай?">
+    <answer flag="0" text="Парламент"/>
+    <answer flag="1" text="Магістрат"/>
+    <answer flag="0" text="Гарадская дума"/>
+  </question>
+  <question level="1" simple="True" text="Заснавальнікам калегіума, які дзейнічаў у сценах брацкага манастыра, быў:">
+    <answer flag="0" text="Адам Кісель"/>
+    <answer flag="1" text="Пётр Магіла"/>
+    <answer flag="0" text="Міхаіл Ламаносаў"/>
+  </question>
+  <question level="1" simple="True" text="Першая кіеўская друкарня працавала ў:">
+    <answer flag="1" text="Пячэрскім манастыры"/>
+    <answer flag="0" text="Сафійскім манастыры"/>
+    <answer flag="0" text="Міхайлаўскім манастыры"/>
+  </question>
+  <question level="1" simple="True" text="Гару, на якой стаяў кіеўскі замак, пасля сталі зваць.">
+    <answer flag="0" text="Ліса"/>
+    <answer flag="0" text="Дзетка"/>
+    <answer flag="1" text="Киселевка"/>
+    <answer flag="0" text="Чарапанава"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе Кацярына II наведала Кіеў?">
+    <answer flag="1" text="У 1787 г."/>
+    <answer flag="0" text="У 1616 г."/>
+    <answer flag="0" text="У 1825 г."/>
+  </question>
+  <question level="1" simple="True" text="Саркафаг, у якім пахаваны Яраслава Мудрага, знаходзіцца ў:">
+    <answer flag="0" text="Кіева-Пячэрскай лаўры"/>
+    <answer flag="1" text="Сафійскім саборы"/>
+    <answer flag="0" text="Міхайлаўскім Златоверхом саборы"/>
+  </question>
+  <question level="1" simple="True" text="Якая выбітнае падзея ў жыцці Кіева адбылося ў 1870 годзе?">
+    <answer flag="0" text="Гораду было дадзена Магдэбургскае права"/>
+    <answer flag="1" text="У горад прыйшла жалезная"/>
+    <answer flag="0" text="Кіеў наведала Кацярына II"/>
+  </question>
+</testing>

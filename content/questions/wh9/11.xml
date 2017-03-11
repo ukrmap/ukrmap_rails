@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Російська імперія наприкінці XIX - на початку ХХ ст.">
+  <question level="1" simple="True" text="Яка подія стала приводом до першої російської революції?">
+    <answer flag="0" text="повстання на броненосці ''Потьомкін''"/>
+    <answer flag="1" text="кривава неділя"/>
+    <answer flag="0" text="Маніфест царя 17 жовтня"/>
+  </question>
+  <question level="1" simple="True" text="Другим за чисельністю народом російської імперії були ">
+    <answer flag="0" text="татари"/>
+    <answer flag="1" text="українці"/>
+    <answer flag="0" text="грузини"/>
+  </question>
+  <question level="1" simple="True" text="Хто був російським царем на початку ХХ ст.?">
+    <answer flag="0" text="Микола І"/>
+    <answer flag="0" text="Олександр ІІІ"/>
+    <answer flag="1" text="Микола ІІ"/>
+  </question>
+  <question level="1" simple="True" text="У якій війні Росія зазнала поразки на початку ХХ ст.?">
+    <answer flag="0" text="з Німеччиною"/>
+    <answer flag="0" text="з Туреччиною"/>
+    <answer flag="1" text="з Японією"/>
+    <answer flag="0" text="з Австрією"/>
+  </question>
+  <question level="1" simple="True" text="Автором аграрних реформ після революції 1905-1907 рр. був">
+    <answer flag="0" text="С. Вітте"/>
+    <answer flag="1" text="П. Столипін"/>
+    <answer flag="0" text="В. Ленін"/>
+  </question>
+  <question level="1" simple="True" text="Кульмінацією революції 1905-1907 рр. стало">
+    <answer flag="0" text="''кривава неділя''"/>
+    <answer flag="1" text="збройне повстання у Москві"/>
+    <answer flag="0" text="Маніфест царя 17 жовтня"/>
+  </question>
+  <question level="1" simple="True" text="Перша державна дума в Росії була скликана в">
+    <answer flag="0" text="1905 р."/>
+    <answer flag="1" text="1906 р."/>
+    <answer flag="0" text="1907 р."/>
+  </question>
+  <question level="1" simple="True" text="Чи існували в Росії монополістичні об'єднання на початку ХХ ст.? ">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Яка територія Російської імперії користувалася правом самоврядування?">
+    <answer flag="0" text="Закавказзя"/>
+    <answer flag="0" text="Сибір"/>
+    <answer flag="1" text="Фінляндія"/>
+    <answer flag="0" text="Україна"/>
+  </question>
+  <question level="1" simple="True" text="Чи здійснила Росія якісь територіальні придбання на початку ХХ ст.?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Чи зазнала Росія територіальних утрат на початку ХХ ст.?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Найбільші поклади нафти у Російській імперії були">
+    <answer flag="0" text="в Україні"/>
+    <answer flag="0" text="в Сибіру"/>
+    <answer flag="1" text="на Кавказі"/>
+    <answer flag="0" text="в Прибалтиці"/>
+  </question>
+</testing>

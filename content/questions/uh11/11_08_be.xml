@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Рэлігійная жыццё ў Украіне ў пачатку XXI ст.">
+  <question level="1" simple="True" text="Якія дзве формы хрысціянства здаўна вызнае ўкраінскі народ?">
+    <answer flag="1" text="Праваслаўе"/>
+    <answer flag="0" text="Стараверства"/>
+    <answer flag="0" text="Рыма-каталіцызм"/>
+    <answer flag="1" text="Грэка-каталіцызм"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе знаходзіцца рэзідэнцыя Вярхоўнага Архібіскупа Украінскай Грэка-Каталіцкай Царквы?">
+    <answer flag="0" text="Кіеў"/>
+    <answer flag="0" text="Ужгород"/>
+    <answer flag="0" text="Тернополь"/>
+    <answer flag="1" text="Львоў"/>
+  </question>
+  <question level="1" simple="True" text="На якія царквы дзеліцца ўкраінскае праваслаўе?">
+    <answer flag="1" text="УПЦ-КП"/>
+    <answer flag="0" text="УГКЦ"/>
+    <answer flag="1" text="УПЦ-МП"/>
+    <answer flag="1" text="УАПЦ"/>
+  </question>
+  <question level="1" simple="True" text="Хто сцвярджае грэка-католицьго мітрапаліта?">
+    <answer flag="0" text="Архіепіскап Львоўскі і ўсіх ўкраінскім"/>
+    <answer flag="0" text="Мітрапаліт Кіеўскі і усёй Украіны"/>
+    <answer flag="1" text="Папа Рымскі"/>
+  </question>
+  <question level="1" simple="True" text="У якіх чатырох абласцях каталіцызм мае найбольшы ўплыў?">
+    <answer flag="1" text="Жытомірскай"/>
+    <answer flag="1" text="Тэрнопальскай"/>
+    <answer flag="0" text="Кіеўскай"/>
+    <answer flag="1" text="Вінніцкай"/>
+    <answer flag="0" text="Ровенскай"/>
+    <answer flag="1" text="Хмяльніцкай"/>
+  </question>
+  <question level="1" simple="True" text="Якая протистантська абшчына з'яўляецца самай уплывовай у Украіне?">
+    <answer flag="0" text="Адвентысты"/>
+    <answer flag="0" text="Пяцідзясятнікі"/>
+    <answer flag="0" text="Лютэране"/>
+    <answer flag="0" text="Рэфарматары"/>
+    <answer flag="1" text="Баптысты"/>
+  </question>
+  <question level="1" simple="True" text="Прадстаўнікі якіх нацыянальных меншасцяў Украіны вызнаюць лютэранства?">
+    <answer flag="0" text="Армяне"/>
+    <answer flag="1" text="Немцы"/>
+    <answer flag="1" text="Латышы"/>
+    <answer flag="0" text="Палякі"/>
+    <answer flag="0" text="Венгры"/>
+  </question>
+  <question level="1" simple="True" text="У якім рэгіёне Украіны найбольш распаўсюджаны іслам?">
+    <answer flag="0" text="Одесщина"/>
+    <answer flag="0" text="Донетчина"/>
+    <answer flag="1" text="Крым"/>
+  </question>
+</testing>

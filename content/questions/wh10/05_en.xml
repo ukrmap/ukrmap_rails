@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Central and Eastern Europe">
+  <question text="The independence of the Polish Republic was proclaimed in">
+    <answer flag="0" text="1917"/>
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+  </question>
+  <question text="Title of &quot;leader state&quot; used">
+    <answer flag="1" text="J. Pilsudski"/>
+    <answer flag="0" text="I. Mostsytskyy"/>
+    <answer flag="0" text="E. Rydz-Smihly"/>
+  </question>
+  <question text="Post-war borders of Poland were finally">
+    <answer flag="0" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1923"/>
+  </question>
+  <question text="Poland 20-30's had problems with the territorial">
+    <answer flag="1" text="all its neighbors"/>
+    <answer flag="0" text="Lithuania and the USSR"/>
+    <answer flag="0" text="Lithuania and CHSR"/>
+  </question>
+  <question text="When Poland was set to &quot;rehabilitation&quot;?">
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="1" text="1926"/>
+  </question>
+  <question text="Czechoslovakia was formed in">
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+  </question>
+  <question text="The first president was CHSR">
+    <answer flag="0" text="K. Henlyayn"/>
+    <answer flag="0" text="E. Benesh"/>
+    <answer flag="1" text="Masaryk"/>
+    <answer flag="0" text="Haha G."/>
+  </question>
+  <question text="Czechoslovakia was dismembered by neighboring states and finally ceased to exist in">
+    <answer flag="0" text="1938"/>
+    <answer flag="1" text="1939"/>
+    <answer flag="0" text="1941"/>
+  </question>
+  <question text="When in Hungary there was the Soviet government?">
+    <answer flag="0" text="In 1918"/>
+    <answer flag="1" text="In 1919,"/>
+    <answer flag="0" text="In 1920"/>
+  </question>
+  <question text="Which of the following countries experienced major territorial losses after the First World War?">
+    <answer flag="1" text="Hungary"/>
+    <answer flag="0" text="Bulgaria"/>
+    <answer flag="0" text="Romania"/>
+  </question>
+  <question text="Dictatorial regime of General Antonescu acted J.">
+    <answer flag="1" text="Romania"/>
+    <answer flag="0" text="in Bulgaria"/>
+    <answer flag="0" text="Hungary"/>
+  </question>
+  <question text="Vladayske uprising occurred in 1918">
+    <answer flag="0" text="Romania"/>
+    <answer flag="1" text="Bulgaria"/>
+    <answer flag="0" text="Hungary"/>
+    <answer flag="0" text="Yugoslavia"/>
+  </question>
+</testing>

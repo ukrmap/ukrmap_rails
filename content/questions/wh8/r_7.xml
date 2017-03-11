@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Тридцятилітня війна">
+  <question level="1" simple="True" text="Тридцятилітня війна тривала впродовж:">
+    <answer flag="1" text="1618-1648 рр."/>
+    <answer flag="0" text="1620-1650 рр."/>
+    <answer flag="0" text="1625-1655 рр."/>
+  </question>
+  <question level="1" simple="True" text="Хто з названих історичних діячів був сучасником Тридцятилітньої війни?">
+    <answer flag="0" text="Марія Стюарт"/>
+    <answer flag="1" text="Рішельє"/>
+    <answer flag="0" text="Генріх IV"/>
+  </question>
+  <question level="1" simple="True" text="Яка держава в роки війни зміцнила свої позиції на Балтійському морі, фактично перетворивши його на своє &quot;внутрішнє озеро&quot;?">
+    <answer flag="0" text="Польща"/>
+    <answer flag="1" text="Швеція"/>
+    <answer flag="0" text="Франція"/>
+    <answer flag="0" text="Англія"/>
+  </question>
+  <question level="1" simple="True" text="У битві під Лютценом загинув:">
+    <answer flag="0" text="Тіллі"/>
+    <answer flag="0" text="Валленштейн"/>
+    <answer flag="1" text="Густав ІІ Адольф"/>
+  </question>
+  <question level="1" simple="True" text="Під час війни Альбрехт Валленштейн очолював війська:">
+    <answer flag="1" text="Католицької ліги"/>
+    <answer flag="0" text="Євангелістичну унію"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія стала приводом до Тридцятилітньої війни? ">
+    <answer flag="1" text="Повстання у Празі проти влади імператора"/>
+    <answer flag="0" text="Створення Католицької ліги"/>
+    <answer flag="0" text="Приєднання Франції до Євангелістичної унії"/>
+  </question>
+  <question level="1" simple="True" text="Які країни здобули незалежність за умовами Вестфальського миру?">
+    <answer flag="0" text="Данія і Швеція"/>
+    <answer flag="1" text="Голландія і Швейцарія"/>
+    <answer flag="0" text="Австрія і Баварія"/>
+  </question>
+  <question level="1" simple="True" text="Який з названих періодів Тридцятилітньої війни був хронологічно першим?">
+    <answer flag="0" text="французький"/>
+    <answer flag="1" text="чеський"/>
+    <answer flag="0" text="данський"/>
+    <answer flag="0" text="шведський"/>
+  </question>
+  <question level="1" simple="True" text="Найвидатнішим полководцем Католицької ліги був:">
+    <answer flag="0" text="Густав ІІ Адольф"/>
+    <answer flag="0" text="Рішельє"/>
+    <answer flag="1" text="Валленштейн"/>
+  </question>
+  <question level="1" simple="True" text="Основні бойові дії Тридцятилітньої війни тривали на території:">
+    <answer flag="1" text="Німеччини"/>
+    <answer flag="0" text="Франції"/>
+    <answer flag="0" text="Швеції"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих країн здійснила територіальні придбання в роки війни? ">
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="0" text="Австрія"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="0" text="Польща"/>
+  </question>
+  <question level="1" simple="True" text="Яка католицька країна підтримувала протестантів у роки Тридцятилітньої війни?">
+    <answer flag="0" text="Данія"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="0" text="Польща"/>
+    <answer flag="0" text="Туреччина"/>
+  </question>
+</testing>

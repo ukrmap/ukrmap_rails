@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Міжнародні відносини наприкінці XIX – на початку XX ст.">
+  <question level="1" simple="True" text="Який регіон Європи отримав назву “пороховий льох”?">
+    <answer flag="0" text="Західна Європа"/>
+    <answer flag="1" text="Балкани"/>
+    <answer flag="0" text="Росія"/>
+  </question>
+  <question level="1" simple="True" text="Яка колоніальна імперія була найбільшою на початку XX ст.?">
+    <answer flag="0" text="Франції"/>
+    <answer flag="0" text="Німеччини"/>
+    <answer flag="1" text="Англії"/>
+  </question>
+  <question level="1" simple="True" text="Коли було завершено формування Антанти?">
+    <answer flag="0" text="1893 р."/>
+    <answer flag="1" text="1904 р."/>
+    <answer flag="0" text="1907 р."/>
+  </question>
+  <question level="1" simple="True" text="Які країни утворили Троїстий союз?">
+    <answer flag="1" text="Німеччина"/>
+    <answer flag="0" text="Туреччина"/>
+    <answer flag="0" text="Росія"/>
+    <answer flag="1" text="Австро-Угорщина "/>
+    <answer flag="1" text="Італія"/>
+    <answer flag="0" text="Іспанія"/>
+  </question>
+  <question level="1" simple="True" text="Яка війна стала першою у боротьбі за переділ світу?">
+    <answer flag="0" text="англо-бурська"/>
+    <answer flag="1" text="іспано-американська "/>
+    <answer flag="0" text="російсько-японська"/>
+  </question>
+  <question level="1" simple="True" text="Коли було створено ІІ Інтернаціонал?">
+    <answer flag="0" text="1864 р."/>
+    <answer flag="1" text="1889 р."/>
+    <answer flag="0" text="1919 р."/>
+  </question>
+  <question level="1" simple="True" text="Конфлікт між якими державами був ключовим на початку XX ст.?">
+    <answer flag="0" text="США та Англією"/>
+    <answer flag="0" text="Росією та Японією"/>
+    <answer flag="1" text="Англією та Німеччиною"/>
+  </question>
+  <question level="1" simple="True" text="Коли було створено Союз трьох імператорів?">
+    <answer flag="0" text="1864 р."/>
+    <answer flag="1" text="1873 р."/>
+    <answer flag="0" text="1882 р."/>
+  </question>
+  <question level="1" simple="True" text="Скільки було Марокканських криз?">
+    <answer flag="1" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Сучасна назва Сіаму">
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Таїланд"/>
+    <answer flag="0" text="Бангладеш"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих африканських країн залишалась незалежною на 1914 р.?">
+    <answer flag="0" text="Сомалі"/>
+    <answer flag="0" text="Мозамбік"/>
+    <answer flag="1" text="Ліберія"/>
+    <answer flag="0" text="Сенеґал"/>
+  </question>
+  <question level="1" simple="True" text="Яка країна на початку XX ст. відмовилася від політики “блискучої ізоляції”?">
+    <answer flag="0" text="Франція"/>
+    <answer flag="0" text="Росія"/>
+    <answer flag="1" text="Англія"/>
+    <answer flag="0" text="Німеччина"/>
+  </question>
+</testing>

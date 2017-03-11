@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПАЎНОЧНАЯ АМЭРЫКА">
+  <question level="1" simple="True" text="Плошча Паўночнай Амерыкі складае">
+    <answer flag="1" text="24250 кв. км"/>
+    <answer flag="0" text="30320 кв. км"/>
+    <answer flag="0" text="17830 кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Грэнландыя - найбуйнейшы востраў планеты"/>
+    <answer flag="0" text="Аўстралія - самы маленькі мацярык Зямлі"/>
+    <answer flag="1" text="Па плошчы Паўночная Амерыка займае другое месца сярод кантынентаў"/>
+  </question>
+  <question level="1" simple="True" text="Найвысокай вяршыняй Паўночнай Амерыкі:">
+    <answer flag="1" text="гара Мак-Кінлі"/>
+    <answer flag="0" text="г. Монблан"/>
+    <answer flag="0" text="гара Аканкагуа"/>
+  </question>
+  <question level="1" simple="True" text="Найбольшай ракой Паўночнай Амерыкі:">
+    <answer flag="0" text="Макензі"/>
+    <answer flag="1" text="Місісіпі"/>
+    <answer flag="0" text="Юкон"/>
+  </question>
+  <question level="1" simple="True" text="Найбуйнейшыя з рэк Паўночнай Амерыкі адносяцца:">
+    <answer flag="0" text="да басейна Ціхага акіяна"/>
+    <answer flag="1" text="да басейна Атлантычнага акіяна"/>
+    <answer flag="0" text="да басейна ўнутранага сцёку"/>
+  </question>
+  <question level="1" simple="True" text="Паўпустыні і пустыні Паўночнай Амерыкі:">
+    <answer flag="0" text="займаюць вузкую паласу атлантычнага ўзбярэжжа"/>
+    <answer flag="0" text="ляжаць на крайнім поўдні мацерыка"/>
+    <answer flag="1" text="займаюць ўнутраныя раёны Кардыльераў"/>
+  </question>
+  <question level="1" simple="True" text="Якое з сцвярджэннем з'яўляецца правільным?">
+    <answer flag="0" text="На мацерыку знаходзіцца полюс холаду Зямлі"/>
+    <answer flag="1" text="На кантыненце была зафіксаваная самая высокая тэмпература Заходняга паўшар'я"/>
+    <answer flag="0" text="У Паўночным паўшар'і знаходзіцца самая сухая пустыня планеты"/>
+  </question>
+  <question level="1" simple="True" text="Якая з жывёл з'яўляецца эндэмікаў Паўночнай Амерыкі?">
+    <answer flag="1" text="Скунс"/>
+    <answer flag="0" text="Бурундук"/>
+    <answer flag="0" text="Калібры"/>
+  </question>
+  <question level="1" simple="True" text="Сярод насельніцтва Паўночнай Амерыкі пераважаюць:">
+    <answer flag="1" text="нашчадкі перасяленцаў з Еўропы"/>
+    <answer flag="0" text="карэннае насельніцтва - індзейцы"/>
+    <answer flag="0" text="афраамерыканцы"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца правільным?">
+    <answer flag="1" text="Большасць насельніцтва Паўночнай Амерыкі - жыхары гарадоў"/>
+    <answer flag="0" text="Найбольш густа заселеным на кантыненце з'яўляюцца цэнтральныя рэгіёны"/>
+    <answer flag="0" text="Карэнным насельніцтвам Паўночнай Амерыкі з'яўляецца афраамерыканцы"/>
+  </question>
+  <question level="1" simple="True" text="Сярод рэлігій найбольш распаўсюджанай на кантыненце з'яўляюцца:">
+    <answer flag="1" text="хрысціянства"/>
+    <answer flag="0" text="іслам"/>
+    <answer flag="0" text="традыцыйныя вераванні і культы"/>
+  </question>
+  <question level="1" simple="True" text="У групу краін, якія развіваюцца, з пералічаных ставіцца:">
+    <answer flag="0" text="ЗША"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="Мексіка"/>
+  </question>
+</testing>

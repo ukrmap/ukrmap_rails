@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Хозяйственная деятельность">
+  <question level="1" simple="True" text="Продукцией которого завода является экскаваторы, дорожная техника?">
+    <answer flag="1" text="АТЕК"/>
+    <answer flag="0" text="Авиант"/>
+    <answer flag="0" text="Большевик"/>
+  </question>
+  <question level="1" simple="True" text="Какой из ответов является неправильной?">
+    <answer flag="0" text="Большинство киевских предприятий находится в правобережной части города"/>
+    <answer flag="1" text="На заводе Авиант производят только самолеты"/>
+    <answer flag="0" text="Гривневые банкноты и монеты изготавливаются на одном из киевских предприятий"/>
+  </question>
+  <question level="1" simple="True" text="Какой из видов транспорта производят на одном из киевских предприятий?">
+    <answer flag="1" text="Троллейбусы"/>
+    <answer flag="0" text="Автобусы"/>
+    <answer flag="0" text="Трамваи"/>
+  </question>
+  <question level="1" simple="True" text="Какие электростанции для производства электроэнергии сжигающих уголь, мазут, газ?">
+    <answer flag="0" text="ГЭС"/>
+    <answer flag="1" text="ТЭС"/>
+    <answer flag="0" text="АЭС"/>
+  </question>
+  <question level="1" simple="True" text="Какие из электростанций меньше загрязняют окружающую среду?">
+    <answer flag="0" text="ТЭС"/>
+    <answer flag="0" text="ТЭЦ"/>
+    <answer flag="1" text="ГЭС"/>
+  </question>
+  <question level="1" simple="True" text="Сколько в Киеве действующих линий метрополитена?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+  </question>
+  <question level="1" simple="True" text="Как называется станция метро, которая была введена в действие в 2008 году?">
+    <answer flag="0" text="Сырец"/>
+    <answer flag="1" text="Красный Хутор"/>
+    <answer flag="0" text="Бориспольская"/>
+    <answer flag="0" text="Дорогожичи"/>
+  </question>
+  <question level="1" simple="True" text="В каком административном районе Киева находится телевышка?">
+    <answer flag="1" text="Шевченковском"/>
+    <answer flag="0" text="Подольском"/>
+    <answer flag="0" text="Соломенском"/>
+  </question>
+  <question level="1" simple="True" text="Какая линия киевского метрополитена была сооружена первой?">
+    <answer flag="0" text="Куреневско-Лыбедская"/>
+    <answer flag="1" text="Святошинско-Броварская"/>
+    <answer flag="0" text="Сырецко-Печерская"/>
+  </question>
+  <question level="1" simple="True" text="Какой вид транспорта Киева является старейшим?">
+    <answer flag="0" text="Фуникулер"/>
+    <answer flag="1" text="Трамвай"/>
+    <answer flag="0" text="Автобус"/>
+  </question>
+  <question level="1" simple="True" text="Какой ответ является неправильным?">
+    <answer flag="0" text="Метрополитен в нашем городе функционирует с 1960 г."/>
+    <answer flag="0" text="Аэропорт &quot;Борисполь&quot; находится за пределами Киева"/>
+    <answer flag="1" text="Киевская ГЭС находится южнее Киева"/>
+  </question>
+  <question level="1" simple="True" text="В каком городе находится крупнейший аэропорт Украины?">
+    <answer flag="1" text="В Борисполе"/>
+    <answer flag="0" text="В Киеве"/>
+    <answer flag="0" text="В Харькове"/>
+  </question>
+</testing>

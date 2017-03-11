@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Міжнародні відносини">
+  <question text="Головним зовнішньополітичним завданням СРСР у 1933-1938 рр. було">
+    <answer flag="0" text="форсування світової революції"/>
+    <answer flag="0" text="розширення радянського впливу на Далекому Сході"/>
+    <answer flag="1" text="створення системи колективної безпеки"/>
+  </question>
+  <question text="Яка з зазначених подій відбулася раніше">
+    <answer flag="0" text="прийняття в США закону про нейтралітет"/>
+    <answer flag="0" text="вступ СРСР до Ліги Націй"/>
+    <answer flag="1" text="створення на території Китаю маріонеткової держави Маньчжоу-Ґо"/>
+    <answer flag="0" text="вихід Німеччини з Ліги Націй"/>
+  </question>
+  <question text="Антикомінтернівський пакт було укладено в">
+    <answer flag="0" text="1935 р."/>
+    <answer flag="0" text="1936 р."/>
+    <answer flag="1" text="1937 р."/>
+    <answer flag="0" text="1939 р."/>
+  </question>
+  <question text="Яка з перерахованих подій є результатом політики „умиротворення”?">
+    <answer flag="1" text="Аншлюс Австрії"/>
+    <answer flag="0" text="Утворення осі Берлін-Рим-Токіо"/>
+    <answer flag="0" text="Початок війни Японії проти Китаю"/>
+    <answer flag="0" text="Японо-радянський збройний конфлікт біля озера Хасан"/>
+  </question>
+  <question text="Політика яких держав прискорювала початок Другої світової війни?">
+    <answer flag="0" text="Англія, Франція"/>
+    <answer flag="1" text="Німеччина, Італія, Японія"/>
+    <answer flag="0" text="Китай, США"/>
+  </question>
+  <question text="Напередодні Другої світової війни США проводили політику">
+    <answer flag="1" text="нейтралітету"/>
+    <answer flag="0" text="активної зовнішньої експансії"/>
+    <answer flag="0" text="підтримки держав-агресорів"/>
+  </question>
+  <question text="Де проходили англо-франко-радянські переговори військових місій улітку 1939 р.?">
+    <answer flag="1" text="Москва"/>
+    <answer flag="0" text="Лондон"/>
+    <answer flag="0" text="Париж"/>
+    <answer flag="0" text="Ленінград"/>
+  </question>
+  <question text="Коли відбувся радянсько-японський конфлікт на річці Халхін-Гол?">
+    <answer flag="0" text="1929 р."/>
+    <answer flag="0" text="1938 р."/>
+    <answer flag="1" text="1939 р."/>
+  </question>
+  <question text="Які країни входили до Балканської Антанти?">
+    <answer flag="1" text="Югославія, Румунія, Туреччина, Греція"/>
+    <answer flag="0" text="Югославія, Угорщина, Болгарія, Румунія, Греція"/>
+    <answer flag="0" text="Югославія, Румунія, Греція"/>
+  </question>
+  <question text="У якому році Італія здійснила агресію проти Ефіопії?">
+    <answer flag="1" text="1935 р."/>
+    <answer flag="0" text="1936 р."/>
+    <answer flag="0" text="1939 р."/>
+  </question>
+  <question text="Як називався союз між Німеччиною та Італією?">
+    <answer flag="1" text="„Сталевий пакт”"/>
+    <answer flag="0" text="Пакт Ріббентропа-Молотова"/>
+    <answer flag="0" text="Пакт про ненапад"/>
+  </question>
+  <question text="У якому році німецькі війська вступили в Рейнську демілітаризовану зону?">
+    <answer flag="0" text="1935 р."/>
+    <answer flag="1" text="1936 р."/>
+    <answer flag="0" text="1939 р."/>
+  </question>
+</testing>

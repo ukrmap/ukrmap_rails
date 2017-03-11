@@ -1,0 +1,9 @@
+<% if @entry && @entry.level == 3 %>
+<div class="navbar-default navbar-lower">
+  <div class="container container-navbar-lover">
+    <ul class="nav navbar-nav-lover">
+      <li><%= link_to @entry.parent.title, course_path(course: @entry.course) %></li>
+    </ul>
+  </div>
+</div>
+<% end %>

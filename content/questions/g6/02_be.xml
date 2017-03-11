@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЯМЛЯ НА План і КАРТА">
+  <question level="1" simple="True" text="Што ў перакладзе з лацінскага азначае слова &quot;глобус&quot;?">
+    <answer flag="1" text="Куля"/>
+    <answer flag="0" text="Макет"/>
+    <answer flag="0" text="Мадэль"/>
+    <answer flag="0" text="Землеподобных"/>
+  </question>
+  <question level="1" simple="True" text="Як на глобусе або карце называецца сетка мерыдыянаў і паралеляў?">
+    <answer flag="0" text="Паралельная"/>
+    <answer flag="0" text="Прастакутная"/>
+    <answer flag="0" text="Мэрыдыян"/>
+    <answer flag="1" text="Градусная"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца ўяўная лінія на паверхні Зямлі, роўнападаленыя ад палюсоў?">
+    <answer flag="1" text="Экватар"/>
+    <answer flag="0" text="Мэрыдыян"/>
+    <answer flag="0" text="Тропік"/>
+  </question>
+  <question level="1" simple="True" text="Што з'яўляецца пачаткам адліку геаграфічнай шыраты?">
+    <answer flag="0" text="Паўночны полюс"/>
+    <answer flag="0" text="Паўднёвы полюс"/>
+    <answer flag="1" text="Экватар"/>
+    <answer flag="0" text="Грынвіцкага мерыдыян"/>
+  </question>
+  <question level="1" simple="True" text="Якія зацвярджэння з'яўляюцца правільнымі?">
+    <answer flag="1" text="Экватар - самая доўгая паралель"/>
+    <answer flag="1" text="Ад грынвіцкага мерыдыяна ажыццяўляецца адлік геаграфічнай даўгаты"/>
+    <answer flag="0" text="Даўжыня ўсіх паралеляў павялічваецца ў напрамку ад экватара да канцавоссяў"/>
+  </question>
+  <question level="1" simple="True" text="Якія кропкі на зямной паверхні не маюць геаграфічнай даўгаты?">
+    <answer flag="0" text="Размешчаныя на грынвіцкім мэрыдыяне"/>
+    <answer flag="1" text="Размешчаныя на экватары"/>
+    <answer flag="0" text="Геаграфічныя палюсы Зямлі"/>
+    <answer flag="0" text="Магнітныя палюсы Зямлі"/>
+  </question>
+  <question level="1" simple="True" text="Якія з прыкмет паказваюць на поўнач?">
+    <answer flag="1" text="Мох на адным баку ствала"/>
+    <answer flag="0" text="Больш спадзісты схіл мурашніка"/>
+    <answer flag="1" text="Карацей галіны з аднаго боку дрэва, чым з другога"/>
+    <answer flag="1" text="Палярная зорка"/>
+  </question>
+  <question level="1" simple="True" text="У напрамку заўсёды паказвае стрэлка компаса?">
+    <answer flag="0" text="У бок Паўночнага геаграфічнага полюса Зямлі"/>
+    <answer flag="1" text="У бок Паўночнага магнітнага полюса Зямлі"/>
+    <answer flag="0" text="У бок Паўднёвага геаграфічнага полюса Зямлі"/>
+    <answer flag="0" text="У бок Паўднёвага магнітнага полюса Зямлі"/>
+  </question>
+  <question level="1" simple="True" text="Калі стаць тварам да поўдня, то">
+    <answer flag="1" text="ззаду будзе поўнач"/>
+    <answer flag="0" text="справа будзе ўсход"/>
+    <answer flag="1" text="ўсход будзе злева"/>
+  </question>
+  <question level="1" simple="True" text="Як правільна вызначыць азімут?">
+    <answer flag="0" text="Ад паўднёвага напрамку да любога прадмету за ходам гадзінны стрэлкі"/>
+    <answer flag="0" text="Ад паўднёвага напрамку да любога прадмету супраць ходу гадзіннікавай стрэлкі"/>
+    <answer flag="1" text="Ад паўночнага напрамкі да любога прадмету за ходам гадзінны стрэлкі"/>
+    <answer flag="0" text="Ад паўночнага напрамкі да любога прадмету супраць ходу гадзіннікавай стрэлкі"/>
+  </question>
+  <question level="1" simple="True" text="Якія з азімуце вызначаны правільна?">
+    <answer flag="1" text="Азімут паўднёвага напрамку складае 180 °"/>
+    <answer flag="1" text="Азімут паўночнага напрамкі складае 0 °"/>
+    <answer flag="1" text="Азімут ўсходняга кірунку складае 90 °"/>
+    <answer flag="0" text="Азімут заходняга напрамку складае 360 °"/>
+  </question>
+  <question level="1" simple="True" text="Як павінен быць арыентаваны планшэт пры вакамернай з'ем?">
+    <answer flag="0" text="Верхнім краем на поўдзень"/>
+    <answer flag="1" text="Верхнім краем на поўнач"/>
+    <answer flag="0" text="Верхнім краем ўсход"/>
+    <answer flag="0" text="Адвольна"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца вышыня аб'екта над узроўнем мора?">
+    <answer flag="0" text="Адносная вышыня"/>
+    <answer flag="0" text="Умоўная вышыня"/>
+    <answer flag="1" text="Абсалютная вышыня"/>
+  </question>
+  <question level="1" simple="True" text="Якія зацвярджэння з'яўляюцца няправільнымі?">
+    <answer flag="0" text="На карце тэрыторыя адлюстроўваецца некалькі скажонай"/>
+    <answer flag="1" text="На адным плане можна адлюстраваць ўсю паверхню Зямлі"/>
+    <answer flag="1" text="На карце тэрыторыя намаляваная дакладней чым на плане"/>
+    <answer flag="1" text="На плане можна адлюстраваць вялікую тэрыторыю чым на карце"/>
+  </question>
+  <question level="1" simple="True" text="Як завуць маштаб, запісанае ў выглядзе дробавага ліку, лічнік якой адзінка, а назоўнік - лік, якое паказвае у колькі разоў зменшана выява?">
+    <answer flag="0" text="Названым"/>
+    <answer flag="0" text="Дробавым"/>
+    <answer flag="1" text="Лікавым або лікавым"/>
+    <answer flag="0" text="Графічным"/>
+  </question>
+  <question level="1" simple="True" text="Карты, 1 см якіх адпавядае да 2 км на мясцовасці, адносяцца да катэгорыі">
+    <answer flag="0" text="среднемасштабных"/>
+    <answer flag="1" text="буйнамаштабных"/>
+    <answer flag="0" text="дробнамаштабных"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца няправільным?">
+    <answer flag="1" text="План ўлічвае шарападобным форму Зямлі"/>
+    <answer flag="0" text="Карта ўлічвае шарападобным форму Зямлі"/>
+    <answer flag="0" text="Чым больш назоўнік маштабу, тым драбней маштаб"/>
+  </question>
+  <question level="1" simple="True" text="На колькі асноўных груп дзеляцца ўсе ўмоўныя знакі тапаграфічных планаў і карт?">
+    <answer flag="1" text="4"/>
+    <answer flag="0" text="на 2"/>
+    <answer flag="0" text="5"/>
+    <answer flag="0" text="на 3"/>
+  </question>
+  <question level="1" simple="True" text="Якія зацвярджэння з'яўляюцца правільнымі?">
+    <answer flag="1" text="Контурныя ўмоўныя знакі перадаюць сапраўдную форму аб'екта"/>
+    <answer flag="1" text="Лінейныя ўмоўныя знакі даўжыню аб'екта перадаюць у маштабе"/>
+    <answer flag="0" text="Чым буйней маштаб, тым больш назоўнік маштабу"/>
+  </question>
+  <question level="1" simple="True" text="Значковые ўмоўныя знакі">
+    <answer flag="0" text="перадаюць сапраўдную форму і памеры аб'екта ў маштабе плана"/>
+    <answer flag="0" text="выкарыстоўваюць для малюнка лінейных аб'ектаў"/>
+    <answer flag="1" text="прымяняюцца тады, калі форма аб'екта, праз свой малы памер, не можа быць адлюстравана ў маштабе"/>
+  </question>
+  <question level="1" simple="True" text="Чаму роўная назоўнік маштабу, калі 1 см карты адпавядае 100 м на мясцовасці?">
+    <answer flag="0" text="100"/>
+    <answer flag="0" text="1000"/>
+    <answer flag="1" text="10 000"/>
+  </question>
+  <question level="1" simple="True" text="Гарызанталі гэта">
+    <answer flag="0" text="лініі, якія злучаюць кропкі мясцовасці з аднолькавай адноснай вышынёй"/>
+    <answer flag="0" text="лініі, якія злучаюць высокія пункту мясцовасці"/>
+    <answer flag="1" text="лініі, якія злучаюць кропкі мясцовасці з аднолькавай абсалютнай вышынёй"/>
+  </question>
+  <question level="1" simple="True" text="Што з'яўляецца прыкметай значнага крутасці схілу на карце?">
+    <answer flag="0" text="Гарызанталі размяшчаюцца далёка адзін ад аднаго"/>
+    <answer flag="0" text="Гарызанталі вельмі звілістыя"/>
+    <answer flag="1" text="Гарызанталі размяшчаюцца блізка адзін ад аднаго"/>
+  </question>
+  <question level="1" simple="True" text="Як правільна размяшчаць бергштрихи на карце?">
+    <answer flag="0" text="Свабодным канцом у бок павышэння рэльефу"/>
+    <answer flag="1" text="Свабодным канцом у бок паніжэння рэльефу"/>
+    <answer flag="0" text="Заўсёды вольным канцом у кірунку бліжэйшага мора"/>
+  </question>
+</testing>

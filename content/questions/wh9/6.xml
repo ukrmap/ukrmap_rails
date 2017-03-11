@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Міжнародні відносини у 1840-1860-их роках">
+  <question level="1" simple="True" text="”Опіумні війни” європейські держави вели проти">
+    <answer flag="0" text="Індії"/>
+    <answer flag="1" text="Китаю"/>
+    <answer flag="0" text="Індокитаю"/>
+  </question>
+  <question level="1" simple="True" text="Яка країна програла Кримську війну (1853-1856 рр.)?">
+    <answer flag="0" text="Туреччина"/>
+    <answer flag="0" text="Англія"/>
+    <answer flag="0" text="Франція"/>
+    <answer flag="1" text="Росія"/>
+  </question>
+  <question level="1" simple="True" text="Сипайське повстання спалахнуло проти">
+    <answer flag="1" text="англійських колонізаторів "/>
+    <answer flag="0" text="французьких колонізаторів"/>
+    <answer flag="0" text="іспанських колонізаторів"/>
+  </question>
+  <question level="1" simple="True" text="Яка країна була відкрита європейцями раніше?">
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="0" text="Корея"/>
+  </question>
+  <question level="1" simple="True" text="Назву “Великий трек” отримали події">
+    <answer flag="1" text="виходу бурів з англійських володінь"/>
+    <answer flag="0" text="колоніальне загарбання Алжиру Францією"/>
+    <answer flag="0" text="Кримської війни"/>
+  </question>
+  <question level="1" simple="True" text="Правом домініонів користувалися деякі колонії">
+    <answer flag="0" text="Франції"/>
+    <answer flag="0" text="Іспанії"/>
+    <answer flag="1" text="Англії"/>
+  </question>
+  <question level="1" simple="True" text="Головним принципом “реальної політики” є">
+    <answer flag="1" text="“хто сильніший, той і правий”"/>
+    <answer flag="0" text="“пріорітет права”"/>
+    <answer flag="0" text="“пріорітетне право монархів”"/>
+  </question>
+  <question level="1" simple="True" text="Зовнішньополітичний курс якої країни призвів до краху віденської системи міжнародних відносин?">
+    <answer flag="1" text="Франції "/>
+    <answer flag="0" text="Англії"/>
+    <answer flag="0" text="Росії"/>
+  </question>
+  <question level="1" simple="True" text="Яку латиноамериканську країну намагався захопити Наполеон ІІІ?">
+    <answer flag="1" text="Мексику"/>
+    <answer flag="0" text="Бразилію"/>
+    <answer flag="0" text="Аргентину"/>
+  </question>
+  <question level="1" simple="True" text="Коли було збудовано Суецький канал?">
+    <answer flag="1" text="1869 р."/>
+    <answer flag="0" text="1875 р."/>
+    <answer flag="0" text="1882 р."/>
+  </question>
+  <question level="1" simple="True" text="Яку країну в першій половині XIX ст. називали “жандармом Європи”?">
+    <answer flag="0" text="Англію"/>
+    <answer flag="0" text="Францію"/>
+    <answer flag="1" text="Росію"/>
+  </question>
+  <question level="1" simple="True" text="Продовжіть логічний ряд: Англія – Ґібралтар – Мальта - Суєцький канал - Аден - …">
+    <answer flag="0" text="Америка"/>
+    <answer flag="1" text="Індія"/>
+    <answer flag="0" text="Франція"/>
+    <answer flag="0" text="Південна Африка"/>
+  </question>
+</testing>

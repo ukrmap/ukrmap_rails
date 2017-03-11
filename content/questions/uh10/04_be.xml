@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украінская ССР у ўмовах новай эканамічнай палітыкі (1920-1928).">
+  <question text="У якім годзе ў асноўным завяршылася аднаўленне прамысловасці УССР?">
+    <answer flag="0" text="1923"/>
+    <answer flag="1" text="1925"/>
+    <answer flag="0" text="1926"/>
+    <answer flag="0" text="1927"/>
+  </question>
+  <question text="У вобласці нацыянальнай палітыкі XII з з'езд РКП (б) абвясціў курс на:">
+    <answer flag="1" text="коренизацию"/>
+    <answer flag="0" text="ўкраінізацыі"/>
+    <answer flag="0" text="нацыяналізацыю"/>
+    <answer flag="0" text="прыватызацыю"/>
+  </question>
+  <question text="Якім быў афіцыйны дзяржаўны статус Украіны ў пачатку 20-х гадоў:">
+    <answer flag="1" text="незалежнай дзяржавы"/>
+    <answer flag="0" text="аўтаноміі ў складзе федэратыўнай Расіі"/>
+    <answer flag="0" text="незалежнай дзяржавы, якое заключыла ваенна-палітычны саюз з іншымі савецкімі рэспублікамі"/>
+    <answer flag="0" text="вобласці Расіі"/>
+  </question>
+  <question text="Якая міжнародная арганізацыя аказала дапамогу Украіне ў час голаду 1921-1922 гг?">
+    <answer flag="0" text="Ліга Нацый"/>
+    <answer flag="0" text="Помгол (дапамога галадаючым)"/>
+    <answer flag="1" text="АРА (Амерыканская арганізацыя дапамогі)"/>
+  </question>
+  <question text="Хто з названых ніжэй паўстанцкіх важакоў узначальваў антысавецкі паўстанцкага руху ва Украіне ў 1921 г.?">
+    <answer flag="0" text="Грыгор'еў"/>
+    <answer flag="1" text="Махно"/>
+    <answer flag="0" text="Тютюнник"/>
+    <answer flag="0" text="Зялёны"/>
+    <answer flag="0" text="Орлік"/>
+    <answer flag="0" text="Мордалевич"/>
+    <answer flag="0" text="Струк"/>
+  </question>
+  <question text="Створаны ў 1922 г. у Кіеве тэатр &quot;Березиль&quot; узначальваў">
+    <answer flag="1" text="Л. Курбас"/>
+    <answer flag="0" text="Г. Вяроўка"/>
+    <answer flag="0" text="Г. Юра"/>
+  </question>
+  <question text="Савецкая Украіна заключыла першую мірнае пагадненне з">
+    <answer flag="0" text="Латвіяй"/>
+    <answer flag="0" text="Літвой"/>
+    <answer flag="0" text="Эстоніяй"/>
+    <answer flag="1" text="Польшчай"/>
+    <answer flag="0" text="Турцыяй"/>
+  </question>
+  <question text="Нацыянал-камуністычныя погляды А. Шумского і Н. Валабуева кіраўніцтва бальшавіцкай партыі">
+    <answer flag="0" text="падтрымала"/>
+    <answer flag="1" text="асудзіла"/>
+    <answer flag="0" text="праігнаравала"/>
+  </question>
+  <question text="Першым і самым галоўным мерапрыемствам нэпа была замена">
+    <answer flag="0" text="харчовага падатку продразверсткой"/>
+    <answer flag="1" text="продразверстки харчовага падатку"/>
+    <answer flag="0" text="ажыццяўленне партыйнай чысткі"/>
+  </question>
+  <question text="Якога года пачалася палітыка ўкраінізацыі?">
+    <answer flag="0" text="1921"/>
+    <answer flag="0" text="1922"/>
+    <answer flag="1" text="1923"/>
+  </question>
+  <question text="Сялянскае паўстанцкага руху супраць палітыкі бальшавікоў быў у асноўным падаўлены ў ...">
+    <answer flag="1" text="1921"/>
+    <answer flag="0" text="1922"/>
+    <answer flag="0" text="1923"/>
+  </question>
+  <question text="УССР ўвайшла ў склад СССР у ...">
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1922"/>
+    <answer flag="0" text="1923"/>
+  </question>
+</testing>

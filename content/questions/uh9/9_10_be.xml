@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украінская культура першай паловы XIX ст.">
+  <question level="1" simple="True" text="Колькі універсітэтаў існавала на ўкраінскіх землях у першай палове XIX стагоддзя?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў аўтарам зборнікаў &quot;маларасійскай песні&quot;, &quot;Украінскія народныя песні&quot;, якімі захаплялася тагачасная ўкраінская і руская інтэлігенцыя?">
+    <answer flag="0" text="І. Катлярэўскі"/>
+    <answer flag="1" text="М. Максімавіч"/>
+    <answer flag="0" text="М. Цертелева"/>
+    <answer flag="0" text="Т. Шаўчэнка"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе выйшла першае выданне &quot;Кабзара&quot; Т. Шаўчэнкі?">
+    <answer flag="0" text="1836"/>
+    <answer flag="1" text="1840"/>
+    <answer flag="0" text="1847"/>
+    <answer flag="0" text="1861"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў аўтарам першага літаратурнага твора напісанага жывым народным украінскім мовай?">
+    <answer flag="1" text="І. Катлярэўскі"/>
+    <answer flag="0" text="П.Гулак-Арцёмаўскі"/>
+    <answer flag="0" text="Паперкі-Основьяненко"/>
+    <answer flag="0" text="Т. Шаўчэнка"/>
+  </question>
+  <question level="1" simple="True" text="Які стыль пераважаў у архітэктуры Украіны першай паловы XIX стагоддзя?">
+    <answer flag="0" text="Барока"/>
+    <answer flag="0" text="Ракако"/>
+    <answer flag="1" text="Класіцызм"/>
+    <answer flag="0" text="Мадэрн"/>
+  </question>
+  <question level="1" simple="True" text="Хто з украінскіх матэматыкаў пачаў Пецярбургскую матэматычную школу?">
+    <answer flag="1" text="М. Остроградский"/>
+    <answer flag="0" text="Т. Осиповский"/>
+    <answer flag="0" text="Н. Кастамараў"/>
+    <answer flag="0" text="М. Максімавіч"/>
+  </question>
+</testing>

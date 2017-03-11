@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Московское государство в XVI - XVII вв.">
+  <question level="1" simple="True" text="В правление какого царя территория Московского государства выросла всего?">
+    <answer flag="0" text="Василия III"/>
+    <answer flag="1" text="Ивана IV"/>
+    <answer flag="0" text="Федора И"/>
+    <answer flag="0" text="Борис Годунов"/>
+  </question>
+  <question level="1" simple="True" text="Укажите годы начала и завершения Ливонской войны:">
+    <answer flag="0" text="1547-1564"/>
+    <answer flag="0" text="1552-1572"/>
+    <answer flag="1" text="1558-1583"/>
+    <answer flag="0" text="1572-1598"/>
+  </question>
+  <question level="1" simple="True" text="Какие из названных государств были уничтожены Иваном IV?">
+    <answer flag="1" text="Сибирское ханство"/>
+    <answer flag="1" text="Казанское ханство"/>
+    <answer flag="0" text="Крымское ханство"/>
+    <answer flag="1" text="Астраханское ханство"/>
+    <answer flag="0" text="Хивинское ханство"/>
+    <answer flag="1" text="Ливонский орден"/>
+    <answer flag="0" text="герцогство Пруссия"/>
+  </question>
+  <question level="1" simple="True" text="Какое событие произошло раньше?">
+    <answer flag="1" text="начало Ливонской войны"/>
+    <answer flag="0" text="заключения Люблинской унии"/>
+  </question>
+  <question level="1" simple="True" text="Какие из названных событий в мире произошли в царствование Ивана IV?">
+    <answer flag="1" text="второе кругосветное путешествие Ф. Дрейка"/>
+    <answer flag="1" text="&quot;Варфоломеевская ночь&quot; в Париже"/>
+    <answer flag="0" text="завершения гражданской войны во Франции"/>
+    <answer flag="0" text="гибель &quot;Непобедимой армады&quot;"/>
+    <answer flag="0" text="восстание иконоборцев в Нидерландах"/>
+  </question>
+  <question level="1" simple="True" text="До какого государства отошла большинство владений Ливонского ордена результате Ливонской войны?">
+    <answer flag="0" text="Швеция"/>
+    <answer flag="1" text="Речь Посполитая"/>
+    <answer flag="0" text="Московское государство"/>
+    <answer flag="0" text="герцогство Пруссия"/>
+  </question>
+  <question level="1" simple="True" text="В 1606 - 1607 годов в Московском государстве произошло восстание под руководством:">
+    <answer flag="1" text="Ивана Болотникова"/>
+    <answer flag="0" text="Степана Разина"/>
+  </question>
+  <question level="1" simple="True" text="В каком городе за Смуты было сформировано Второе ополчение, возглавляемое К. Мининым и Д. Пожарским?">
+    <answer flag="0" text="Кострома"/>
+    <answer flag="0" text="Ярославль"/>
+    <answer flag="1" text="Нижний Новгород"/>
+    <answer flag="0" text="Тула"/>
+  </question>
+  <question level="1" simple="True" text="С какой страной Московское государство заключило Деулинську соглашение?">
+    <answer flag="0" text="Швеция"/>
+    <answer flag="1" text="Речь Посполитая"/>
+    <answer flag="0" text="герцогство Пруссия"/>
+    <answer flag="0" text="Крымское ханство"/>
+  </question>
+  <question level="1" simple="True" text="Когда в Московском государстве началось правление династии Романовых?">
+    <answer flag="0" text="1612"/>
+    <answer flag="1" text="1613"/>
+    <answer flag="0" text="1614"/>
+    <answer flag="0" text="1615"/>
+  </question>
+  <question level="1" simple="True" text="Какой московский царь первым начал использовать титул &quot;Божьей Милостью Великий Государь Царь и Великий Князь всея Великия и Малыя Руси Самодержец&quot;?">
+    <answer flag="0" text="Василий III"/>
+    <answer flag="0" text="Иван IV"/>
+    <answer flag="0" text="Михаил Романов"/>
+    <answer flag="1" text="Алексей Михайлович"/>
+  </question>
+  <question level="1" simple="True" text="Поход 1618 г. на Москву украинских казаков под руководством П. Конашевича-Сагайдачного завершился:">
+    <answer flag="0" text="получением Москвы"/>
+    <answer flag="1" text="отказом П. Сагайдачного от штурма города"/>
+    <answer flag="0" text="длительной и безрезультатной осадой Москвы"/>
+  </question>
+</testing>

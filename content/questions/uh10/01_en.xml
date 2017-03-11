@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands during the First World War">
+  <question text="When World War I began?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="What year war affected the Ukrainian lands?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="&quot;Brusilovsky breakthrough was made by Russian troops in">
+    <answer flag="0" text="1913"/>
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="1" text="1916"/>
+  </question>
+  <question text="To which the army was mobilized more Ukrainian?">
+    <answer flag="1" text="to Russian"/>
+    <answer flag="0" text="to the Austro-Hungarian"/>
+    <answer flag="0" text="to German"/>
+    <answer flag="0" text="the Ukrainian"/>
+  </question>
+  <question text="In the army which was created Legion of Ukrainian Sich Riflemen?">
+    <answer flag="0" text="Russian"/>
+    <answer flag="1" text="Austro-Hungarian"/>
+    <answer flag="0" text="German"/>
+    <answer flag="0" text="French"/>
+  </question>
+  <question text="Mostly that was the attitude of the Ukrainian population of Galicia to enter the territory of the Russian land troops?">
+    <answer flag="1" text="positive"/>
+    <answer flag="0" text="negative"/>
+    <answer flag="0" text="neutral"/>
+  </question>
+  <question text="How to set up an administrative unit called the Russians after the annexation of Western Ukraine in 1914?">
+    <answer flag="0" text="Galician province"/>
+    <answer flag="1" text="Galicia-Bucovina Governor-General"/>
+    <answer flag="0" text="&quot;Kingdom of Rus'"/>
+    <answer flag="0" text="Crown land"/>
+    <answer flag="0" text="Galicia-Volhynia Governorate"/>
+  </question>
+  <question text="Main Ukrainian Rada (Gur) called for Ukrainian support in the war:">
+    <answer flag="0" text="Russia"/>
+    <answer flag="1" text="Austria-Hungary"/>
+    <answer flag="0" text="England and France"/>
+    <answer flag="0" text="Germany"/>
+  </question>
+  <question text="SVU leaders were:">
+    <answer flag="0" text="S. Petliura V. Vynnychenko"/>
+    <answer flag="1" text="Dontsov, V. Doroshenko, M. Melenevskyy"/>
+    <answer flag="0" text="Hrushevsky, were revised"/>
+    <answer flag="0" text="A. Sheptytsky, V. Failure"/>
+  </question>
+  <question text="What are the fronts of the Russian army were Ukrainian lands?">
+    <answer flag="0" text="Western"/>
+    <answer flag="1" text="Southwestern"/>
+    <answer flag="0" text="South"/>
+    <answer flag="0" text="North"/>
+    <answer flag="1" text="Romanian"/>
+  </question>
+  <question text="The author of the article &quot;War and Ukrainian was:">
+    <answer flag="0" text="Hrushevsky"/>
+    <answer flag="1" text=", Petliura"/>
+    <answer flag="0" text="V. Vynnychenko"/>
+    <answer flag="0" text="M. Mihnovskiy"/>
+    <answer flag="0" text="A. Sheptytsky"/>
+  </question>
+  <question text="The last offensive of the Russian army in Galicia in the First World War was">
+    <answer flag="0" text="summer 1916"/>
+    <answer flag="1" text="summer 1917"/>
+    <answer flag="0" text="summer 1918"/>
+    <answer flag="0" text="autumn 1918"/>
+  </question>
+</testing>

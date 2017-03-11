@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Prerequisites and the beginning of the National Liberation War of the Ukrainian people against Polish domination. The deployment of the National Liberation War in 1648-1649 biennium">
+  <question level="1" simple="True" text="When launched National War?">
+    <answer flag="0" text="1548 p."/>
+    <answer flag="1" text="1648 p."/>
+  </question>
+  <question level="1" simple="True" text="He led the National-liberation war of Ukrainian people?">
+    <answer flag="1" text="Bohdan Khmelnytsky"/>
+    <answer flag="0" text="Maxim Sergeant"/>
+  </question>
+  <question level="1" simple="True" text="What is the status of the society played a major role in the course and management of National-liberation war?">
+    <answer flag="0" text="Peasantry"/>
+    <answer flag="1" text="Cossacks"/>
+  </question>
+  <question level="1" simple="True" text="Where the first battle between rebels and the Polish army?">
+    <answer flag="1" text="At Yellow Waters"/>
+    <answer flag="0" text="Korsun"/>
+  </question>
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="0" text="Upochystyy Khmelnitskogo entrance to Kyiv"/>
+    <answer flag="1" text="Ukrainian troops lay siege to the city and Zamosc"/>
+  </question>
+  <question level="1" simple="True" text="What battle opened the way for the Ukrainian Army Galicia in 1648?">
+    <answer flag="0" text="Zhovtovods'ka"/>
+    <answer flag="1" text="Pylyavetska"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure referred to? Ukrainian commander. Participated in all battles in 1648 died in November 1648 in camp near Zamosc Plague">
+    <answer flag="0" text="John Vyhovsky"/>
+    <answer flag="1" text="Maxim Sergeant"/>
+  </question>
+  <question level="1" simple="True" text="What ended Zbarazhskoy-Zborivska military campaign?">
+    <answer flag="0" text="Conclusion Bilotserkivskyi contract"/>
+    <answer flag="1" text="By signing the Treaty of Zboriv"/>
+  </question>
+  <question level="1" simple="True" text="What the earth moved under the Hetman's power under contract of Zbopivskym?">
+    <answer flag="0" text="All lands of Ukraine, which was part of the Commonwealth"/>
+    <answer flag="1" text="Areas of former Kiev, and Chernigov provinces Bratslav"/>
+  </question>
+  <question level="1" simple="True" text="How many Cossacks Cossack register provided by Zborowski contract?">
+    <answer flag="0" text="20 thousand"/>
+    <answer flag="1" text="40 thousand"/>
+  </question>
+  <question level="1" simple="True" text="Who in the beginning of the war Khmelnytskyi signed a union agreement on military assistance?">
+    <answer flag="0" text="With Moskoviyeyu"/>
+    <answer flag="1" text="From the Crimean Khanate"/>
+  </question>
+  <question level="1" simple="True" text="What the Poles considered the most astonishing battle in the history of Poland?">
+    <answer flag="0" text="Zhovtovods'ka"/>
+    <answer flag="1" text="Pylyavetsku"/>
+  </question>
+</testing>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ангельская рэвалюцыя сярэдзіны XVII ст.">
+  <question level="1" simple="True" text="Якая дынастыя была звергнута ў выніку ангельскай рэвалюцыі сярэдзіны XVII стагоддзя?">
+    <answer flag="1" text="Сцюартаў"/>
+    <answer flag="0" text="Тюдоров"/>
+    <answer flag="0" text="Гановерскім"/>
+  </question>
+  <question level="1" simple="True" text="Калі пачалася вайна паміж каралём і парламентам?">
+    <answer flag="0" text="1640"/>
+    <answer flag="1" text="1642"/>
+    <answer flag="0" text="1651"/>
+  </question>
+  <question level="1" simple="True" text="Якога караля быў пакараны ў гады рэвалюцыі?">
+    <answer flag="0" text="Якава I"/>
+    <answer flag="1" text="Карла I"/>
+    <answer flag="0" text="Якава II"/>
+    <answer flag="0" text="Карла II"/>
+  </question>
+  <question level="1" simple="True" text="Дзе адбылася вырашальная бітва грамадзянскай вайны ў Англіі?">
+    <answer flag="0" text="Марстон-Мур"/>
+    <answer flag="1" text="Нейзби"/>
+    <answer flag="0" text="Прэстан"/>
+  </question>
+  <question level="1" simple="True" text="Калі англійская парламент прыняў Навігацыйны Акт, які заклаў асновы марскі першынства Англіі?">
+    <answer flag="0" text="1642"/>
+    <answer flag="0" text="1649"/>
+    <answer flag="1" text="1651"/>
+  </question>
+  <question level="1" simple="True" text="Хто ў гады рэвалюцыі быў абвешчаны лордам-пратэктарам Англіі?">
+    <answer flag="0" text="Стэффорд"/>
+    <answer flag="1" text="Кромвель"/>
+    <answer flag="0" text="Вільгельм Аранскага"/>
+  </question>
+  <question level="1" simple="True" text="Якія падзеі ў гісторыі Англіі атрымалі назву &quot;слаўная рэвалюцыя&quot;?">
+    <answer flag="0" text="пакаранне караля"/>
+    <answer flag="0" text="абвяшчэнне лордапротектора"/>
+    <answer flag="1" text="ўстанова новай дынастыі"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў вынаходнікам аднаго з першых паравых машын?">
+    <answer flag="0" text="Дж. Харгивс"/>
+    <answer flag="1" text="Дж. Уатт"/>
+  </question>
+  <question level="1" simple="True" text="На канец XVII ст. у Англіі зацвердзілася:">
+    <answer flag="0" text="рэспубліка"/>
+    <answer flag="0" text="абсалютная манархія"/>
+    <answer flag="1" text="парламенцкая манархія"/>
+  </question>
+  <question level="1" simple="True" text="Якая краіна стала першай калоніяй Англіі?">
+    <answer flag="0" text="Кітай"/>
+    <answer flag="0" text="Індыя"/>
+    <answer flag="1" text="Ірландыя"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце асноўныя складовыя часткі Вялікабрытаніі:">
+    <answer flag="1" text="Ірландыя"/>
+    <answer flag="1" text="Уэльс"/>
+    <answer flag="1" text="Шатландыя"/>
+    <answer flag="0" text="Брэтань"/>
+    <answer flag="1" text="Англія"/>
+  </question>
+  <question level="1" simple="True" text="Англія стала &quot;майстэрні свету&quot; ў выніку:">
+    <answer flag="0" text="грамадзянскай вайны"/>
+    <answer flag="1" text="прамысловай рэвалюцыі"/>
+    <answer flag="0" text="заваёвы калоній"/>
+  </question>
+</testing>

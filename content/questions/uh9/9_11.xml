@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Адміністративно-територіальний поділ у 50-х роках ХІХ ст.">
+  <question level="1" simple="True" text="Який регіон України на початок ХІХ ст. був найбільш населеним?">
+    <answer flag="1" text="Галичина"/>
+    <answer flag="0" text="Правобережжя"/>
+    <answer flag="0" text="Лівобережжя"/>
+    <answer flag="0" text="Слобожанщина"/>
+  </question>
+  <question level="1" simple="True" text="Центром якої губернії на початку ХІХ ст. був Житомир?">
+    <answer flag="0" text="Подільської"/>
+    <answer flag="1" text="Волинської"/>
+    <answer flag="0" text="Київської"/>
+  </question>
+  <question level="1" simple="True" text="Яку назву отримав історико-географічний район, що був заселений Чорноморським козацьким військом?">
+    <answer flag="0" text="Запоріжжя"/>
+    <answer flag="0" text="Новоросія"/>
+    <answer flag="1" text="Кубань"/>
+    <answer flag="0" text="Таврія"/>
+  </question>
+  <question level="1" simple="True" text="Скільки губерній існувало на українських землях у складі Російської імперії на середину ХІХ ст.?">
+    <answer flag="0" text="5"/>
+    <answer flag="0" text="6"/>
+    <answer flag="0" text="7"/>
+    <answer flag="1" text="9"/>
+  </question>
+  <question level="1" simple="True" text="Які українські землі входили до „Королівства Галіції і Лодомерії” у складі Австрійської імперії на початок ХІХ ст.?">
+    <answer flag="0" text="Східна Галичина"/>
+    <answer flag="1" text="Східна Галичина, Північна Буковина"/>
+    <answer flag="0" text="Східна Галичина, Північна Буковина, Закарпаття"/>
+    <answer flag="0" text="Східна Галичина, Північна Буковина, Закарпаття, Волинь"/>
+  </question>
+  <question level="1" simple="True" text="Які губернії були утворені на території колишньої Гетьманщини у 1802 р.?">
+    <answer flag="1" text="Чернігівська і Полтавська;"/>
+    <answer flag="0" text="Малоросійська і Київська"/>
+    <answer flag="0" text="Слобідсько-Українська і Малоросійська"/>
+    <answer flag="0" text="Новоросійська і Малоросійська"/>
+  </question>
+  <question level="1" simple="True" text="Який соціальний стан був домінуючим на українських землях на середину ХІХ ст.?">
+    <answer flag="0" text="духовенство"/>
+    <answer flag="0" text="поміщики, промисловці і підприємці"/>
+    <answer flag="0" text="робітники"/>
+    <answer flag="1" text="селянство"/>
+  </question>
+</testing>

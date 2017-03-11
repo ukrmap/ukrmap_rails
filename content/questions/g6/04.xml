@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЕМЛЯ – ПЛАНЕТА ЛЮДЕЙ">
+  <question level="1" simple="True" text="Як називається наука, що вивчає процеси формування кількості та складу населення, а також особливості його розміщення?">
+    <answer flag="1" text="Демографія"/>
+    <answer flag="0" text="Демологія"/>
+    <answer flag="0" text="Демократія"/>
+    <answer flag="0" text="Демагогія"/>
+  </question>
+  <question level="1" simple="True" text="Коли, на думку вчених, з’явилися перші предки людини?">
+    <answer flag="0" text="Близько 2 тис. років тому"/>
+    <answer flag="1" text="Близько 2 млн років тому"/>
+    <answer flag="0" text="Близько 20 тис. років тому"/>
+    <answer flag="0" text="Близько 20 млн років тому"/>
+  </question>
+  <question level="1" simple="True" text="Який регіон Землі вважають місцем появи перших людей?">
+    <answer flag="1" text="Африку"/>
+    <answer flag="0" text="Європу"/>
+    <answer flag="0" text="Америку"/>
+    <answer flag="0" text="Австралію"/>
+  </question>
+  <question level="1" simple="True" text="Коли, на думку вчених, з‘явилася людина сучасного типу?">
+    <answer flag="0" text="400  років тому"/>
+    <answer flag="0" text="400 тис. років тому"/>
+    <answer flag="1" text="40 тис. років тому"/>
+    <answer flag="0" text="4 тис. років тому"/>
+  </question>
+  <question level="1" simple="True" text="Скільки нараховується основних (великих) рас?">
+    <answer flag="0" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="1" text="4"/>
+  </question>
+  <question level="1" simple="True" text="До якої раси належать українці та інші слов’яни?">
+    <answer flag="0" text="Монголоїдної"/>
+    <answer flag="1" text="Європеоїдної"/>
+    <answer flag="0" text="Негроїдної"/>
+    <answer flag="0" text="Австралоїдної"/>
+  </question>
+  <question level="1" simple="True" text="Що хотів довести і довів М.Миклухо-Маклай, який у 1870–1883 роках жив серед папуасів Нової Гвінеї?">
+    <answer flag="0" text="Значну відмінність культурного розвитку тубільців од європейських стандартів "/>
+    <answer flag="0" text="Неспроможність папуасів до розумового розвитку"/>
+    <answer flag="1" text=" Однакову здатність народів різних рас до розумового розвитку, навчання та мистецтва"/>
+  </question>
+  <question level="1" simple="True" text="Скільки народів нараховується на планеті?">
+    <answer flag="0" text="Понад 20 тисяч"/>
+    <answer flag="1" text="Понад 2 тисячі"/>
+    <answer flag="0" text="Понад 200"/>
+    <answer flag="0" text="Понад 20"/>
+  </question>
+  <question level="1" simple="True" text="Який народ є найбільшим на планеті?">
+    <answer flag="0" text="Американці"/>
+    <answer flag="0" text="Росіяни"/>
+    <answer flag="1" text="Китайці"/>
+    <answer flag="0" text="Японці"/>
+  </question>
+  <question level="1" simple="True" text="Скільки людей сьогодні населяє Землю?">
+    <answer flag="0" text="2 млрд"/>
+    <answer flag="0" text="4 млрд"/>
+    <answer flag="1" text="Понад 6,5 млрд"/>
+    <answer flag="0" text="Понад 10 млрд"/>
+  </question>
+  <question level="1" simple="True" text="За який період населення Землі останнім часом подвоїлося?">
+    <answer flag="0" text="За останні 1 000 років"/>
+    <answer flag="0" text="За останні 400 років"/>
+    <answer flag="1" text="За останні 40 років"/>
+    <answer flag="0" text="За останні 100 років"/>
+  </question>
+  <question level="1" simple="True" text="Чисельність яких із перерахованих народів перевищує 50 млн чоловік?">
+    <answer flag="1" text="Мексиканці"/>
+    <answer flag="1" text="В‘єтнамці"/>
+    <answer flag="1" text="Пенджабці"/>
+    <answer flag="0" text="Греки"/>
+    <answer flag="1" text="Таміли"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть  три  найбільші  за  чисельністю населення  держави  планети?">
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Індонезія"/>
+    <answer flag="0" text="Бразилія"/>
+    <answer flag="1" text="Індія"/>
+    <answer flag="1" text="США"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть  три  найбільші  за  площею  держави  планети?">
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Китай"/>
+    <answer flag="1" text="Росія"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="Бразилія"/>
+    <answer flag="0" text="Австралія"/>
+  </question>
+  <question level="1" simple="True" text="Яке місто є столицею держави, що утворилася в 2006 році?">
+    <answer flag="0" text="Приштина"/>
+    <answer flag="1" text="Подгориця"/>
+    <answer flag="0" text="Скоп‘є"/>
+  </question>
+  <question level="1" simple="True" text="Яка держава за площею та чисельністю населення посідає п‘яте місце серед країн світу?">
+    <answer flag="0" text="Індонезія"/>
+    <answer flag="0" text="Пакистан"/>
+    <answer flag="1" text="Бразилія"/>
+  </question>
+  <question level="1" simple="True" text="Найменшою за площею державою світу є">
+    <answer flag="0" text="Монако"/>
+    <answer flag="1" text="Ватикан"/>
+    <answer flag="0" text="Ліхтенштейн"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним?">
+    <answer flag="0" text="Адміністративно Україна складається з Автономної республіки Крим, 24 областей та двох міст, що мають спеціальний статус"/>
+    <answer flag="1" text="Україна є федеративною державою"/>
+    <answer flag="0" text="Україна межує з сімома державами"/>
+  </question>
+  <question level="1" simple="True" text="В яких областях України проживає понад 3 млн жителів?">
+    <answer flag="0" text="Харківській  "/>
+    <answer flag="1" text="Донецькій "/>
+    <answer flag="0" text="Луганській "/>
+    <answer flag="0" text="Львівській"/>
+    <answer flag="1" text="Дніпропетровській"/>
+    <answer flag="0" text="Одеській"/>
+  </question>
+  <question level="1" simple="True" text="Яка область України є найбільшою за площею ?">
+    <answer flag="0" text="Донецька"/>
+    <answer flag="0" text="Дніпропетровська"/>
+    <answer flag="1" text="Одеська"/>
+    <answer flag="0" text="Чернігівська"/>
+  </question>
+  <question level="1" simple="True" text="Яка область України є найбільшою за кількістю населення ?">
+    <answer flag="0" text="Одеська"/>
+    <answer flag="1" text="Донецька"/>
+    <answer flag="0" text="Дніпропетровська"/>
+    <answer flag="0" text="Харківська"/>
+  </question>
+  <question level="1" simple="True" text="У яких із перелічених міст України проживає більше 1 млн жителів ?">
+    <answer flag="1" text="Харків"/>
+    <answer flag="1" text="Одеса"/>
+    <answer flag="0" text="Львів"/>
+    <answer flag="1" text="Дніпропетровськ"/>
+  </question>
+  <question level="1" simple="True" text="Які твердження є неправильним?">
+    <answer flag="0" text="Найменшою за площею серед областей України є Чернівецька область"/>
+    <answer flag="1" text="Україна повністю забезпечує свої потреби у природному газі та нафті за рахунок власного видобутку"/>
+    <answer flag="0" text="Природні умови України сприятливі для розвитку сільського господарства"/>
+    <answer flag="1" text="Останні десять років чисельність населення нашої держави невпинно зростає"/>
+  </question>
+  <question level="1" simple="True" text="Членом яких із перелічених організацій є Україна?">
+    <answer flag="1" text="ООН"/>
+    <answer flag="0" text="НАТО"/>
+    <answer flag="1" text="СНД"/>
+    <answer flag="1" text="ГУАМ"/>
+  </question>
+</testing>

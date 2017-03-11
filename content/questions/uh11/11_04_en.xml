@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Elections in Ukraine 1991-2007 biennium">
+  <question level="1" simple="True" text="In what year was held All-Ukrainian referendum on the attitude of the Act of Independence of Ukraine?">
+    <answer flag="1" text="1991"/>
+    <answer flag="0" text="1996"/>
+    <answer flag="0" text="2001"/>
+    <answer flag="0" text="2004"/>
+  </question>
+  <question level="1" simple="True" text="When was elected President of Ukraine, where the winner Leonid Kravchuk?">
+    <answer flag="1" text="December 1, 1991"/>
+    <answer flag="0" text="June 26, 1994"/>
+    <answer flag="0" text="October 31, 1999"/>
+    <answer flag="0" text="November 14, 1999"/>
+  </question>
+  <question level="1" simple="True" text="Who won the presidential elections, held simultaneously with a referendum on the Act of Independence of Ukraine?">
+    <answer flag="0" text="Vyacheslav Chornovil"/>
+    <answer flag="1" text="Leonid Kravchuk"/>
+    <answer flag="0" text="Leonid Kuchma"/>
+    <answer flag="0" text="President"/>
+  </question>
+  <question level="1" simple="True" text="What two events in 1991 coincided in time?">
+    <answer flag="0" text="Parliamentary elections"/>
+    <answer flag="1" text="Presidential elections in Ukraine"/>
+    <answer flag="1" text="Ukrainian referendum"/>
+    <answer flag="0" text="Early parliamentary elections"/>
+  </question>
+  <question level="1" simple="True" text="What political forces in parliamentary elections in 2002, took almost the same percentage of voters?">
+    <answer flag="0" text="&quot;Our Ukraine&quot;"/>
+    <answer flag="0" text="CPU"/>
+    <answer flag="1" text="&quot;Yulia Tymoshenko&quot;"/>
+    <answer flag="0" text="&quot;For United Ukraine&quot;"/>
+    <answer flag="1" text="SPU"/>
+  </question>
+  <question level="1" simple="True" text="In support of a presidential candidate in 2004, thousands took action that became known as the Orange Revolution?">
+    <answer flag="0" text="Vyacheslav Chornovil"/>
+    <answer flag="0" text="Leonid Kravchuk"/>
+    <answer flag="0" text="Leonid Kuchma"/>
+    <answer flag="1" text="Viktor Yushchenko"/>
+    <answer flag="0" text="Viktor Yanukovych"/>
+  </question>
+  <question level="1" simple="True" text="In every field of early parliamentary elections in 2007, Our Ukraine - People's Self-Defense ranked first by number of votes?">
+    <answer flag="0" text="Kiev"/>
+    <answer flag="0" text="Sumy"/>
+    <answer flag="1" text="Transcarpathian"/>
+    <answer flag="0" text="Lviv"/>
+    <answer flag="0" text="Donetsk"/>
+  </question>
+</testing>

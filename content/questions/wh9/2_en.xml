@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Board of Napoleon Bonaparte. First Empire in France">
+  <question level="1" simple="True" text="In what year was the proclamation of Napoleon Bonaparte emperor?">
+    <answer flag="0" text="1803"/>
+    <answer flag="1" text="1804"/>
+    <answer flag="0" text="1805"/>
+    <answer flag="0" text="1806"/>
+  </question>
+  <question level="1" simple="True" text="What state was part of the third anti-French coalition?">
+    <answer flag="0" text="Spain"/>
+    <answer flag="1" text="Great Britain"/>
+    <answer flag="1" text="Russia"/>
+    <answer flag="0" text="Prussia"/>
+    <answer flag="1" text="Austria"/>
+    <answer flag="1" text="Neapolitan kingdom"/>
+  </question>
+  <question level="1" simple="True" text="Who commanded the English fleet at the Battle of Cape Trafalgar October 21, 1805?">
+    <answer flag="1" text="Nelson"/>
+    <answer flag="0" text="Villeneuve"/>
+    <answer flag="0" text="Wellington"/>
+    <answer flag="0" text="Blyukhera"/>
+  </question>
+  <question level="1" simple="True" text="When the fourth anti-French coalition was formed?">
+    <answer flag="0" text="1805"/>
+    <answer flag="1" text="1806"/>
+    <answer flag="0" text="1807"/>
+    <answer flag="0" text="1808"/>
+  </question>
+  <question level="1" simple="True" text="What anti-French coalition ceased to exist as a result of Napoleon's victory at the Battle of Austerlitz?">
+    <answer flag="0" text="second"/>
+    <answer flag="1" text="third"/>
+    <answer flag="0" text="fourth"/>
+    <answer flag="0" text="heel"/>
+  </question>
+  <question level="1" simple="True" text="In which city Napoleon signed a decree establishing the continental blockade?">
+    <answer flag="0" text="Paris"/>
+    <answer flag="0" text="Madrid"/>
+    <answer flag="0" text="Leipzig"/>
+    <answer flag="1" text="Berlin"/>
+  </question>
+  <question level="1" simple="True" text="Union treaty and peace between Russia and France June 7, 1807 was signed in">
+    <answer flag="0" text="Paris"/>
+    <answer flag="0" text="Fridlandi"/>
+    <answer flag="1" text="Tilzyti"/>
+    <answer flag="0" text="Warsaw"/>
+  </question>
+  <question level="1" simple="True" text="On the territory of a State in a battle Vahram?">
+    <answer flag="1" text="Austrian Empire"/>
+    <answer flag="0" text="Kingdom of Bavaria"/>
+    <answer flag="0" text="Kingdom of Prussia"/>
+    <answer flag="0" text="Duchy of Warsaw"/>
+  </question>
+  <question level="1" simple="True" text="June 24, 1812 Napoleon's army crossed the border and entered the territory">
+    <answer flag="0" text="Austrian Empire"/>
+    <answer flag="1" text="Russian Empire"/>
+    <answer flag="0" text="Spain"/>
+    <answer flag="0" text="Of Denmark"/>
+  </question>
+  <question level="1" simple="True" text="Battle of Waterloo took place June 18">
+    <answer flag="0" text="1814"/>
+    <answer flag="1" text="1815"/>
+    <answer flag="0" text="1816"/>
+    <answer flag="0" text="1817"/>
+  </question>
+  <question level="1" simple="True" text="What event took place earlier?">
+    <answer flag="0" text="Declaration of Paris in the act of an alliance of monarchs and peoples"/>
+    <answer flag="1" text="signing of the Final Act of the General Congress of Vienna"/>
+  </question>
+  <question level="1" simple="True" text="After Napoleon ruled France">
+    <answer flag="0" text="Louis XVI"/>
+    <answer flag="0" text="Louis XVII"/>
+    <answer flag="1" text="Louis XVIII"/>
+  </question>
+</testing>

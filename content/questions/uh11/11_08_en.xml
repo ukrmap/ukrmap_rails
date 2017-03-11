@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Religious Life in Ukraine at the beginning of the XXI century.">
+  <question level="1" simple="True" text="What are two forms of Christianity have long been practicing the Ukrainian people?">
+    <answer flag="1" text="Orthodoxy"/>
+    <answer flag="0" text="Old Believers"/>
+    <answer flag="0" text="Roman Catholicism"/>
+    <answer flag="1" text="Greek Catholicism"/>
+  </question>
+  <question level="1" simple="True" text="In which city is the residence of Archbishop of the Ukrainian Greek Catholic Church?">
+    <answer flag="0" text="Kyiv"/>
+    <answer flag="0" text="Uzhgorod"/>
+    <answer flag="0" text="Ternopil"/>
+    <answer flag="1" text="Lviv"/>
+  </question>
+  <question level="1" simple="True" text="What the church is divided Ukrainian Orthodoxy?">
+    <answer flag="1" text="UOC-KP"/>
+    <answer flag="0" text="Church"/>
+    <answer flag="1" text="UOC-MP"/>
+    <answer flag="1" text="UAOC"/>
+  </question>
+  <question level="1" simple="True" text="Who approves the Greek Metropolitan katolytsho?">
+    <answer flag="0" text="Archbishop of Lviv and all Ukrainian"/>
+    <answer flag="0" text="Metropolitan of Kyiv and all Ukraine"/>
+    <answer flag="1" text="Pope"/>
+  </question>
+  <question level="1" simple="True" text="In what four areas Catholicism has the biggest impact?">
+    <answer flag="1" text="Zhytomyr"/>
+    <answer flag="1" text="Ternopil"/>
+    <answer flag="0" text="Kiev"/>
+    <answer flag="1" text="Vinnitsa"/>
+    <answer flag="0" text="Rivne"/>
+    <answer flag="1" text="Brussels"/>
+  </question>
+  <question level="1" simple="True" text="What is Protestantism's most influential community in Ukraine?">
+    <answer flag="0" text="Adventist"/>
+    <answer flag="0" text="Pentecostals"/>
+    <answer flag="0" text="Lutherans"/>
+    <answer flag="0" text="Reformers"/>
+    <answer flag="1" text="Baptists"/>
+  </question>
+  <question level="1" simple="True" text="Representatives of national minorities in Ukraine which profess Lutheranism?">
+    <answer flag="0" text="Armenians"/>
+    <answer flag="1" text="Germans"/>
+    <answer flag="1" text="Latvians"/>
+    <answer flag="0" text="Poles"/>
+    <answer flag="0" text="Hungarians"/>
+  </question>
+  <question level="1" simple="True" text="In the region of Ukraine is the most common Islam?">
+    <answer flag="0" text="Odessa regions"/>
+    <answer flag="0" text="Donets"/>
+    <answer flag="1" text="Crimea"/>
+  </question>
+</testing>

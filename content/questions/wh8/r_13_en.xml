@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="America in the XVIII century.">
+  <question level="1" simple="True" text="When the British colonization of North America?">
+    <answer flag="0" text="1492"/>
+    <answer flag="1" text="1607"/>
+    <answer flag="0" text="1648"/>
+  </question>
+  <question level="1" simple="True" text="Puritans, the Pilgrims came to the shores of North America and founded the colony of New England on the ship:">
+    <answer flag="0" text="&quot;Virginia&quot;"/>
+    <answer flag="0" text="&quot;Plymouth&quot;"/>
+    <answer flag="1" text="&quot;Mayflower&quot;"/>
+  </question>
+  <question level="1" simple="True" text="The first English colony in North America known as:">
+    <answer flag="0" text="New England"/>
+    <answer flag="1" text="Virginia"/>
+    <answer flag="0" text="Pennsylvania"/>
+  </question>
+  <question level="1" simple="True" text="Declaration of Independence was proclaimed at work:">
+    <answer flag="0" text="And the Continental Congress"/>
+    <answer flag="1" text="Second Continental Congress"/>
+    <answer flag="0" text="U.S. Congress"/>
+  </question>
+  <question level="1" simple="True" text="In what year the war for independence the U.S.?">
+    <answer flag="0" text="1773"/>
+    <answer flag="0" text="1774"/>
+    <answer flag="1" text="1775"/>
+    <answer flag="0" text="1776"/>
+  </question>
+  <question level="1" simple="True" text="USA was the first capital city:">
+    <answer flag="0" text="New York"/>
+    <answer flag="1" text="Philadelphia"/>
+    <answer flag="0" text="Yorktown"/>
+    <answer flag="0" text="Washington"/>
+  </question>
+  <question level="1" simple="True" text="The authors of the Declaration of Independence were:">
+    <answer flag="1" text="Jefferson and Adams"/>
+    <answer flag="0" text="Franklin and Washington"/>
+    <answer flag="0" text="Washington and Madison"/>
+  </question>
+  <question level="1" simple="True" text="A decisive battle of the Revolutionary War took place:">
+    <answer flag="0" text="1775 at Boston"/>
+    <answer flag="1" text="1777 at Saratoga"/>
+    <answer flag="0" text="1781 near Yorktown"/>
+  </question>
+  <question level="1" simple="True" text="Which countries supported the independence of U.S. military assistance provided to her?">
+    <answer flag="0" text="Prussia"/>
+    <answer flag="1" text="France"/>
+    <answer flag="1" text="Holland"/>
+    <answer flag="1" text="Spain"/>
+    <answer flag="0" text="Portugal"/>
+  </question>
+  <question level="1" simple="True" text="When the current re-adopted Constitution of the USA?">
+    <answer flag="0" text="1776"/>
+    <answer flag="0" text="1783"/>
+    <answer flag="1" text="1787"/>
+    <answer flag="0" text="1791"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first U.S. president?">
+    <answer flag="1" text="George Washington"/>
+    <answer flag="0" text="T. Jefferson"/>
+    <answer flag="0" text="J. Adams"/>
+  </question>
+  <question level="1" simple="True" text="When England recognized the independence of the United States?">
+    <answer flag="0" text="1776"/>
+    <answer flag="0" text="1781"/>
+    <answer flag="1" text="1783"/>
+    <answer flag="0" text="1787"/>
+  </question>
+</testing>

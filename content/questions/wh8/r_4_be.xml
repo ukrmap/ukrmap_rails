@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Францыя ў XVI - першай палове XVII ст.">
+  <question level="1" simple="True" text="Горад быў сталіцай Францыі ў XVI ст.?">
+    <answer flag="0" text="Марсэль"/>
+    <answer flag="0" text="Арлеан"/>
+    <answer flag="1" text="Парыж"/>
+    <answer flag="0" text="Гавр"/>
+  </question>
+  <question level="1" simple="True" text="У якой частцы Французскага каралеўства рух гугенотаў набыў найбольшую падтрымку насельніцтва?">
+    <answer flag="0" text="на поўначы"/>
+    <answer flag="1" text="на поўдні"/>
+  </question>
+  <question level="1" simple="True" text="Італьянскія вайны завяршыліся падпісаннем:">
+    <answer flag="1" text="свету з Като-Камбрези"/>
+    <answer flag="0" text="Нантского эдикта"/>
+    <answer flag="0" text="Эдикта міласьці"/>
+    <answer flag="0" text="&quot;Акту аб супрематию&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Гугеноты былі прыхільнікамі:">
+    <answer flag="0" text="лютэранства"/>
+    <answer flag="1" text="кальвінізм"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Вогненная палата&quot; вяла барацьбу з:">
+    <answer flag="0" text="каталікамі"/>
+    <answer flag="1" text="пратэстантамі"/>
+    <answer flag="0" text="злачынцамі"/>
+    <answer flag="0" text="жабракамі"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбыліся падзеі, якія ўвайшлі ў гісторыю як &quot;Варфаламееўскай ноч&quot;?">
+    <answer flag="0" text="1562"/>
+    <answer flag="0" text="1565"/>
+    <answer flag="1" text="1572"/>
+    <answer flag="0" text="1575"/>
+  </question>
+  <question level="1" simple="True" text="Якая каралеўская дынастыя зацвердзілася ў Францыі пасля таго як прастол заняў Генрых Наварскай?">
+    <answer flag="1" text="Бурбонаў"/>
+    <answer flag="0" text="Валуа"/>
+    <answer flag="0" text="Тюдоров"/>
+    <answer flag="0" text="Сцюартаў"/>
+  </question>
+  <question level="1" simple="True" text="Каму належыць выказванне: &quot;Дзяржава гэта я!&quot;?">
+    <answer flag="0" text="Генрыху III"/>
+    <answer flag="0" text="Генрыху IV"/>
+    <answer flag="0" text="Людовіку XIII"/>
+    <answer flag="1" text="Людовіку XIV"/>
+  </question>
+  <question level="1" simple="True" text="Кардынал Рышэлье быў першым міністрам караля:">
+    <answer flag="0" text="Генрыха III"/>
+    <answer flag="0" text="Генрыха IV"/>
+    <answer flag="1" text="Людовіка XIII"/>
+    <answer flag="0" text="Людовіка XIV"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў выдадзены &quot;Эдикт міласьці&quot;?">
+    <answer flag="0" text="1562"/>
+    <answer flag="0" text="1572"/>
+    <answer flag="0" text="1598"/>
+    <answer flag="1" text="1629"/>
+  </question>
+  <question level="1" simple="True" text="Трыццацігадовая вайна завяршылася ў праўленне французскага караля:">
+    <answer flag="0" text="Генрыха III"/>
+    <answer flag="0" text="Генрыха IV"/>
+    <answer flag="0" text="Людовіка XIII"/>
+    <answer flag="1" text="Людовіка XIV"/>
+  </question>
+  <question level="1" simple="True" text="Людовік XIV прызначыў Кольбер на пасаду:">
+    <answer flag="0" text="першага міністра"/>
+    <answer flag="0" text="ваеннага міністра"/>
+    <answer flag="1" text="міністра фінансаў"/>
+    <answer flag="0" text="галоўнакамандуючага арміі"/>
+  </question>
+</testing>

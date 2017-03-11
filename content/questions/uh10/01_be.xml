@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украінскія землі ў гады Першай сусветнай вайны">
+  <question text="Калі пачалася Першая сусветная вайна?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="У якім годзе вайна закранула ўкраінскіх земляў?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="&quot;Брусілоўскі прарыў&quot; быў ажыццёўлены расійскімі войскамі ў">
+    <answer flag="0" text="1913"/>
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="1" text="1916"/>
+  </question>
+  <question text="Да якой войска было мабілізавана больш за ўкраінскі?">
+    <answer flag="1" text="да расійскай"/>
+    <answer flag="0" text="у аўстра-венгерскую"/>
+    <answer flag="0" text="да нямецкай"/>
+    <answer flag="0" text="да ўкраінскіх"/>
+  </question>
+  <question text="У складзе якой арміі быў створаны легіён Украінскіх сечевых стральцоў?">
+    <answer flag="0" text="расійскай"/>
+    <answer flag="1" text="аўстра-венгерскай"/>
+    <answer flag="0" text="нямецкай"/>
+    <answer flag="0" text="французскай"/>
+  </question>
+  <question text="Пераважна якім было стаўленне ўкраінскага насельніцтва Галічыны да паступлення на тэрыторыю краю расійскіх войскаў?">
+    <answer flag="1" text="станоўчым"/>
+    <answer flag="0" text="адмоўным"/>
+    <answer flag="0" text="нейтральным"/>
+  </question>
+  <question text="Як называлася адміністрацыйная адзінка створана рускімі пасля захопу Заходняй Украіне 1914?">
+    <answer flag="0" text="Галіцкая губэрня"/>
+    <answer flag="1" text="Галіцка-Букавінская генерал-губернатарства"/>
+    <answer flag="0" text="&quot;Каралеўства Рускае&quot;"/>
+    <answer flag="0" text="Каронны край"/>
+    <answer flag="0" text="Галіцка-Валынскае губернатарства"/>
+  </question>
+  <question text="Галоўная Украінская Рада (ГУР) заклікала ўкраінскую падтрымаць у вайне:">
+    <answer flag="0" text="Расею"/>
+    <answer flag="1" text="Аўстра-Венгрыю"/>
+    <answer flag="0" text="Англію і Францыю"/>
+    <answer flag="0" text="Нямеччыну"/>
+  </question>
+  <question text="Лідэрамі СВУ былі:">
+    <answer flag="0" text="С. Пятлюра, В. Винниченко"/>
+    <answer flag="1" text="Д. Данцаў, В. Дарашэнка, М. Меленевский"/>
+    <answer flag="0" text="М. Грушэўскі, Я. Чикаленко"/>
+    <answer flag="0" text="А. Шаптыцкага, В. Данцаў"/>
+  </question>
+  <question text="Якія франты расійскай арміі праходзілі украінскімі землямі?">
+    <answer flag="0" text="Заходні"/>
+    <answer flag="1" text="Паўднёва-Заходні"/>
+    <answer flag="0" text="Паўднёвы"/>
+    <answer flag="0" text="Паўночны"/>
+    <answer flag="1" text="Румынская"/>
+  </question>
+  <question text="Аўтарам артыкула &quot;Вайна і украінскім&quot; быў:">
+    <answer flag="0" text="М. Грушэўскі"/>
+    <answer flag="1" text="С. Пятлюра"/>
+    <answer flag="0" text="В. Винниченко"/>
+    <answer flag="0" text="Н. Михновский"/>
+    <answer flag="0" text="А. Шаптыцкага"/>
+  </question>
+  <question text="Апошні наступ рускай арміі ў Галіцыі ў гады Першай сусветнай вайны адбыўся">
+    <answer flag="0" text="летам 1916 г."/>
+    <answer flag="1" text="летам 1917 г."/>
+    <answer flag="0" text="летам 1918 г."/>
+    <answer flag="0" text="восенню 1918 г."/>
+  </question>
+</testing>

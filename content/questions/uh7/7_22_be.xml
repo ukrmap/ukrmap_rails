@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Гістарычнае значэнне Кіеўскай Русі і Галіцка-Валынскай дзяржавы">
+  <question level="1" simple="True" text="Дзяржава была непасрэдным спадчыннікам палітычных і культурных традыцый Кіеўскай Русі?">
+    <answer flag="1" text="Галіцка-Валынскае княства"/>
+    <answer flag="0" text="Пераяслаўскай княства"/>
+  </question>
+  <question level="1" simple="True" text="Які качавы народ турбаваў набегамі Кіеўскую Русь у XII стагоддзі?">
+    <answer flag="0" text="Хазары"/>
+    <answer flag="0" text="Печанегі"/>
+    <answer flag="1" text="Полаўцы"/>
+  </question>
+  <question level="1" simple="True" text="На якія гады прыпадае завяршальны этап гісторыі Кіеўскай Русі?">
+    <answer flag="0" text="Да сярэдзіны XII ст."/>
+    <answer flag="1" text="На першыя чатыры дзесяцігоддзі XIII ст."/>
+  </question>
+  <question level="1" simple="True" text="Храналагічныя межы Галіцка-Валынскай дзяржавы?">
+    <answer flag="0" text="1132 - 1240 рр."/>
+    <answer flag="1" text="1199 - 1340 рр."/>
+  </question>
+  <question level="1" simple="True" text="На якіх з помнікаў захавалася выява трызубца перыяду Кіеўскай Русі?">
+    <answer flag="1" text="На срэбранікаў і залатніка Уладзіміра Вялікага"/>
+    <answer flag="0" text="У кнігах з бібліятэкі Яраслава Мудрага"/>
+  </question>
+  <question level="1" simple="True" text="Якое малюнак на княжым знаку атрымала распаўсюджванне ў пачатку XII ст. у Кіеўскай зямлі?">
+    <answer flag="1" text="Святога сьвятога Міхаіла"/>
+    <answer flag="0" text="Льва, які абапіраецца на скалу"/>
+  </question>
+  <question level="1" simple="True" text="Што напісана на друку Юрыя І Львовіча?">
+    <answer flag="1" text="«Уладар Юрый кароль Русі»"/>
+    <answer flag="0" text="«Уладар Юрый князь Кіеўскай Русі»"/>
+  </question>
+  <question level="1" simple="True" text="Якія мора звязваў шлях &quot;З вараг у грэкі»?">
+    <answer flag="1" text="Балтыйскае і Чорнае мора"/>
+    <answer flag="0" text="Азоўскае і Міжземнае мора"/>
+  </question>
+  <question level="1" simple="True" text="Якога князя называлі цесцем Еўропы?">
+    <answer flag="1" text="Яраслава Мудрага"/>
+    <answer flag="0" text="Святаполка Акаяннага"/>
+  </question>
+  <question level="1" simple="True" text="Які князь стаў першым каралём у нашай гісторыі?">
+    <answer flag="0" text="Уладзімір Манамах"/>
+    <answer flag="1" text="Данііл Рамановіч"/>
+  </question>
+  <question level="1" simple="True" text="Якая з краін мела найбольшы ўплыў на культуру рускіх земляў?">
+    <answer flag="0" text="Польшча"/>
+    <answer flag="1" text="Візантыя"/>
+  </question>
+  <question level="1" simple="True" text="Як завуць форму дзяржаўнага кіравання, пры якой вярхоўную ўлада засяроджаная ў руках аднаасобнага кіраўніка з прадстаўнікоў кіруючай дынастыі?">
+    <answer flag="0" text="Рэспубліка"/>
+    <answer flag="1" text="Манархія"/>
+  </question>
+</testing>

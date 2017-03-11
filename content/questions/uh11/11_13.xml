@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Зовнішня політика України. Українська діаспора">
+  <question level="1" simple="True" text="Які дві країни визнали Україну першими?">
+    <answer flag="0" text="Росія"/>
+    <answer flag="1" text="Польща"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="США"/>
+  </question>
+  <question level="1" simple="True" text="Які країни-республіки колишнього Радянського Союзу не увійшли до СНД?">
+    <answer flag="0" text="Грузія"/>
+    <answer flag="1" text="Латвія"/>
+    <answer flag="1" text="Литва"/>
+    <answer flag="1" text="Естонія"/>
+  </question>
+  <question level="1" simple="True" text="Які з країни є сьогодні одночасно членами  ГУАМ і СНД?">
+    <answer flag="0" text="Узбекистан"/>
+    <answer flag="1" text="Україна"/>
+    <answer flag="0" text="Грузія"/>
+    <answer flag="1" text="Молдова"/>
+    <answer flag="1" text="Азербайджан"/>
+  </question>
+  <question level="1" simple="True" text="Засновницею якої міжнародної організації стала Україна у 1945 р.?">
+    <answer flag="0" text="НАТО"/>
+    <answer flag="0" text="Ліга Націй"/>
+    <answer flag="1" text="ООН"/>
+  </question>
+  <question level="1" simple="True" text="Що було головною причиною першої хвилі української еміграції другої половини XIX ст.?">
+    <answer flag="1" text="Малоземелля"/>
+    <answer flag="0" text="Політині переслідування"/>
+    <answer flag="0" text="Етнічні утиски"/>
+  </question>
+  <question level="1" simple="True" text="На який період припадає потік українських емігрантів до Австраліх та Нової Зеландії?">
+    <answer flag="1" text="Після Другої світової війни"/>
+    <answer flag="0" text="До Першої світової війни"/>
+    <answer flag="0" text="В період між двома світовими війнами"/>
+  </question>
+  <question level="1" simple="True" text="В яких  країнах зосереджені три найбільші українські громади?">
+    <answer flag="0" text="Польща"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="1" text="Росія"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Бразилія"/>
+  </question>
+  <question level="1" simple="True" text="Як називається країна, центром політичного життя українців у якій є місто Прудентополіс?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="Бразилія"/>
+    <answer flag="0" text="Австралія"/>
+    <answer flag="0" text="Нова зеландія"/>
+  </question>
+</testing>

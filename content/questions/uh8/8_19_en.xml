@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Zaporizhzhya Sich in the second half XVII.">
+  <question level="1" simple="True" text="As in the historical literature called Sich that existed in the years 1652-1709?">
+    <answer flag="0" text="Mykytynska"/>
+    <answer flag="1" text="Chortomlyk"/>
+    <answer flag="0" text="Tomakivs'ka"/>
+  </question>
+  <question level="1" simple="True" text="Which Host Khmelnytsky spread preparation of the National Liberation War against the Commonwealth?">
+    <answer flag="1" text="Mikitinsky"/>
+    <answer flag="0" text="Chortomlyk"/>
+    <answer flag="0" text="Tomakivsky"/>
+  </question>
+  <question level="1" simple="True" text="Which events coincided in time with the existence Chortomlyk Host?">
+    <answer flag="0" text="The national-liberation uprising led by Mr. Pavlyuk, J. Ostrainyn, D. Huneyu"/>
+    <answer flag="1" text="Chygyryns'ka hiking joint Turkish-Tatar army"/>
+    <answer flag="0" text="Zbarazhskoy-Zborivska campaign and making Zborivsky agreement between the Ukrainian and Polish"/>
+  </question>
+  <question level="1" simple="True" text="To get help with the hetman hetman's mace Support Cossacks?">
+    <answer flag="0" text="Peter Doroshenko"/>
+    <answer flag="1" text="John Bryuhovetskomu"/>
+    <answer flag="0" text="John Vyhovsky"/>
+  </question>
+  <question level="1" simple="True" text="What is the status of the Zaporizhzhya Sich was within Hetmanate?">
+    <answer flag="1" text="Zaporizhzhya Sich was a separate administrative unit"/>
+    <answer flag="0" text="In Zaporozhye Zaporozhian created a separate regiment, led by Colonel"/>
+  </question>
+  <question level="1" simple="True" text="Under the authority of a State for &quot;Eternal peace&quot; had to be ground Zaporizhzhya Sich?">
+    <answer flag="1" text="Muscovy"/>
+    <answer flag="0" text="Poland"/>
+    <answer flag="0" text="Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="Who is considered the most prominent ataman the history of the Zaporizhzhya Sich?">
+    <answer flag="0" text="Bohdan Khmelnytsky"/>
+    <answer flag="1" text="Ivan Sirko"/>
+    <answer flag="0" text="John Briukhovetsky"/>
+  </question>
+  <question level="1" simple="True" text="What events took part ataman John Lassie?">
+    <answer flag="1" text="Denial by Peter Doroshenko Hetman October 1675"/>
+    <answer flag="0" text="Cossack Council in Pereiaslav 1654"/>
+    <answer flag="0" text="First Crimean campaign in 1687"/>
+  </question>
+  <question level="1" simple="True" text="Reason for the royal government roztashovuvav to Host their garrisons?">
+    <answer flag="1" text="The tsarist government sought to conquer Jan closely to use its military and economic opportunities"/>
+    <answer flag="0" text="The tsarist government sought to carry out joint campaigns Russians and Cossacks against the Ottoman Empire for its seizure"/>
+  </question>
+  <question level="1" simple="True" text="Who supported the trade contacts directly Cossacks?">
+    <answer flag="0" text="Since the inhabitants of Western Ukraine, Polish cities"/>
+    <answer flag="1" text="Since residents of Left Bank Ukraine, Moscow city"/>
+  </question>
+  <question level="1" simple="True" text="What sold the Cossacks of your trading partners?">
+    <answer flag="0" text="Bread, as well as firearms, ammunition, cloth, paper"/>
+    <answer flag="1" text="Honey, skins, furs, fish, wax, cattle and horses"/>
+  </question>
+  <question level="1" simple="True" text="Where now the capital of the Cossacks during Chortomlyk Host?">
+    <answer flag="0" text="At the modern city of Zaporizhia"/>
+    <answer flag="1" text="Buried under the waters of an artificial reservoir Kakhovskoe"/>
+  </question>
+</testing>

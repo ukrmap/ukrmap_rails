@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Європа в XIV-XV ст. Духовний світ людини середньовіччя">
+  <question text="Основу англійської армії в роки Столітньої війни складали">
+    <answer flag="1" text="вільні селяни"/>
+    <answer flag="0" text="рицарі"/>
+    <answer flag="0" text="іноземні найманці"/>
+  </question>
+  <question text="Повстання селян у Франції під час Столітньої війни називалося">
+    <answer flag="0" text="повстання Вота Тайлера"/>
+    <answer flag="1" text="Жакерія"/>
+    <answer flag="0" text="Селянська війна"/>
+  </question>
+  <question text="Чи використовувалася вогнепальна зброя в роки Столітньої війни?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question text="Останнього візантійського імператора звали">
+    <answer flag="1" text="Константин ХІ"/>
+    <answer flag="0" text="Олксій І Комнін"/>
+    <answer flag="0" text="Юстиніан ІІІ"/>
+  </question>
+  <question text="Яку назву дали турки Константинополю після його захоплення?">
+    <answer flag="0" text="Анкара"/>
+    <answer flag="1" text="Стамбул"/>
+    <answer flag="0" text="Порта"/>
+  </question>
+  <question text="Головними прикрасами ґотичних храмів були">
+    <answer flag="1" text="вітражі"/>
+    <answer flag="0" text="скульптури"/>
+    <answer flag="0" text="ікони"/>
+  </question>
+  <question text="У 1479 р. шлюб Ізабелли Кастильської та Фердинанда Араґонського призвів до">
+    <answer flag="0" text="утворення королівства Португалія"/>
+    <answer flag="1" text="утворення королівства Іспанія."/>
+  </question>
+  <question text="Як називався правитель Венеції?">
+    <answer flag="0" text="герцог"/>
+    <answer flag="1" text="дож"/>
+    <answer flag="0" text="великий князь"/>
+    <answer flag="0" text="король"/>
+  </question>
+  <question text="Боротьбу гуситів проти рицарів-хрестоносців очолив">
+    <answer flag="0" text="Ян Гус"/>
+    <answer flag="1" text="Ян Жижка"/>
+    <answer flag="0" text="Сигізмунд Люксембурзький"/>
+  </question>
+  <question text="Навчання в середньовічних університетах велось на">
+    <answer flag="0" text="національних мовах"/>
+    <answer flag="1" text="латинській мові"/>
+    <answer flag="0" text="французькій мові"/>
+  </question>
+  <question text="В якій країні зародився ґотичний стиль в архітектурі?">
+    <answer flag="0" text="Англії"/>
+    <answer flag="1" text="Франції"/>
+    <answer flag="0" text="Італії"/>
+    <answer flag="0" text="Німеччині"/>
+  </question>
+  <question text="Хто був винахідником книгодрукування в Європі?">
+    <answer flag="0" text="Іван Федоров"/>
+    <answer flag="1" text="Йоган Ґутенберґ"/>
+    <answer flag="0" text="Фома Аквінський"/>
+  </question>
+</testing>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Famous people in Kiev">
+  <Item Caption="Monument to Vladimir Vernadsky" FileName="01"/>
+  <Item Caption="The monument to Sholom Aleichem" FileName="02"/>
+  <Item Caption="Monument to Ivan Kotlyarevsky" FileName="03"/>
+  <Item Caption="Monument Leonid Bykov" FileName="04"/>
+  <Item Caption="Monument to Mikhail Drahomanov" FileName="05"/>
+  <Item Caption="Monument Anatolia Solovyanenko" FileName="06"/>
+  <Item Caption="Monument to Mykola Lysenko" FileName="07"/>
+  <Item Caption="Monument to Peter Konashevych-Sahaydachnyy" FileName="08"/>
+</List>

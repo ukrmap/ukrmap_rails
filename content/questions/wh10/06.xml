@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Азії, Африки та Латинської Америки">
+  <question text="Коли було проголошено меморандум генерала Танака?">
+    <answer flag="0" text="У 1925 р."/>
+    <answer flag="0" text="У 1926 р."/>
+    <answer flag="1" text="У 1927 р."/>
+    <answer flag="0" text="У 1928 р."/>
+  </question>
+  <question text="«Чакською війною» називають збройний конфлікт між">
+    <answer flag="0" text="Перу й Еквадором"/>
+    <answer flag="1" text="Болівією та Параґваєм"/>
+    <answer flag="0" text="Колумбією та Перу"/>
+  </question>
+  <question text="Під яким гаслом Японія розгортала агресію в азійсько-тихоокеанському регіоні?">
+    <answer flag="1" text="&qout;Азія для азійців&qout;"/>
+    <answer flag="0" text="&qout;Новий порядок&qout;"/>
+    <answer flag="0" text="&qout;Імперія над якою ніколи б не заходило сонце&qout;"/>
+  </question>
+  <question text="Громадянська війна між Ґомінданом і комуністами розпочалася в">
+    <answer flag="0" text="1925 р."/>
+    <answer flag="1" text="1927 р."/>
+    <answer flag="0" text="1934 р."/>
+  </question>
+  <question text="Які країни в 20-30-ті роки ХХ ст. мали колоніальні володіння в Африці?">
+    <answer flag="0" text="Англія та Франція"/>
+    <answer flag="0" text="Англія, Франція, Бельгія"/>
+    <answer flag="1" text="Англія, Франція, Бельгія, Італія, Португалія, Іспанія"/>
+    <answer flag="0" text="Англія, Франція, Бельгія, Німеччина, Португалія"/>
+  </question>
+  <question text="Основною силою національно-визвольної боротьби в Індії була">
+    <answer flag="0" text="Комуністична партія"/>
+    <answer flag="1" text="Індійський національний конгрес"/>
+    <answer flag="0" text="Мусульманська ліга"/>
+  </question>
+  <question text="Коли відбувся “соляний похід”?">
+    <answer flag="0" text="У 1919 р."/>
+    <answer flag="1" text="У 1930 р."/>
+    <answer flag="0" text="У 1939 р."/>
+  </question>
+  <question text="Агресія Італії проти Ефіопії відбулась у">
+    <answer flag="0" text="1925 р."/>
+    <answer flag="1" text="1935-1936 рр."/>
+    <answer flag="0" text="1939 р."/>
+  </question>
+  <question text="На управління якими близькосхідними територіями Англія отримала мандат Ліги Націй?">
+    <answer flag="1" text="Ірак, Палестина, Трансйорданія"/>
+    <answer flag="0" text="Єгипет, Палестина"/>
+    <answer flag="0" text="Сирія, Ліван"/>
+  </question>
+  <question text="Туреччина була проголошена республікою в">
+    <answer flag="0" text="1919 р."/>
+    <answer flag="1" text="1923 р."/>
+    <answer flag="0" text="1924 р."/>
+  </question>
+  <question text="У якому році Реза Пехлеві став шахом Ірану?">
+    <answer flag="0" text="1922 р."/>
+    <answer flag="0" text="1924 р."/>
+    <answer flag="1" text="1925 р."/>
+  </question>
+  <question text="Коли було проголошено декларацію Бальфура?">
+    <answer flag="1" text="1917 р."/>
+    <answer flag="0" text="1918 р."/>
+    <answer flag="0" text="1921 р."/>
+  </question>
+</testing>

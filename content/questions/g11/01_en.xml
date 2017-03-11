@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Political Map of the World">
+  <question level="1" simple="True" text="State formation, delegated to its foreign policy (and sometimes domestic) law sovereign state, called">
+    <answer flag="0" text="colonies"/>
+    <answer flag="1" text="protectorate"/>
+    <answer flag="0" text="Trust Territories"/>
+    <answer flag="0" text="vasalitetamy"/>
+  </question>
+  <question level="1" simple="True" text="Union State, which includes self-governing territories, which have a certain political and economic independence, but some issues (defense, foreign policy, finance, etc.) within the scope zahalnoderzhavnh authorities, it">
+    <answer flag="1" text="federation"/>
+    <answer flag="0" text="confederation"/>
+    <answer flag="0" text="unitary state"/>
+    <answer flag="0" text="union"/>
+  </question>
+  <question level="1" simple="True" text="Generally accepted criterion for determining the level of economic development is">
+    <answer flag="0" text="size of the territory"/>
+    <answer flag="1" text="value of gross domestic product per capita"/>
+    <answer flag="0" text="availability of natural resources"/>
+    <answer flag="0" text="branch structure of economy"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Banana Republic&quot; is a country that">
+    <answer flag="1" text="exporting to the world market for one or two products"/>
+    <answer flag="0" text="is the largest supplier of bananas to the world market"/>
+    <answer flag="0" text="are the largest importers of bananas"/>
+    <answer flag="0" text="have the largest banana plantation"/>
+  </question>
+  <question level="1" simple="True" text="Specify a group of countries constituting the Group of Eight">
+    <answer flag="0" text="U.S., Japan, Germany, France, Great Britain, Italy, China, India"/>
+    <answer flag="0" text="U.S., Japan, Germany, France, Great Britain, Brazil, Canada, Russia"/>
+    <answer flag="0" text="U.S., Russia, Japan, Germany, France, Great Britain, Brazil, India"/>
+    <answer flag="1" text="U.S., Japan, Germany, France, Great Britain, Italy, Japan, Russia"/>
+  </question>
+  <question level="1" simple="True" text="How many states - former Soviet republics are part of the CIS?">
+    <answer flag="0" text="10"/>
+    <answer flag="0" text="12"/>
+    <answer flag="0" text="15"/>
+    <answer flag="1" text="11"/>
+  </question>
+  <question level="1" simple="True" text="Name the states - former Soviet republics that are not members of CIS">
+    <answer flag="0" text="Russia, Ukraine, Armenia"/>
+    <answer flag="0" text="Kazakhstan, Turkmenistan,"/>
+    <answer flag="1" text="Lithuania, Latvia, Estonia, Georgia"/>
+    <answer flag="0" text="Georgia, Kyrgyzstan, Armenia"/>
+  </question>
+  <question level="1" simple="True" text="For the countries of centrally controlled economy is characterized">
+    <answer flag="0" text="developed mechanisms for self management"/>
+    <answer flag="1" text="high level of socialization"/>
+    <answer flag="0" text="objective distribution and control of resources"/>
+    <answer flag="0" text="minimal government interference in the activities of entities"/>
+  </question>
+  <question level="1" simple="True" text="In what year was established the United Nations?">
+    <answer flag="1" text="In 1945"/>
+    <answer flag="0" text="In 1991"/>
+    <answer flag="0" text="In 1980"/>
+    <answer flag="0" text="1914"/>
+  </question>
+  <question level="1" simple="True" text="Select the group of countries constituting the Security Council">
+    <answer flag="1" text="U.S., Russia, Britain, France, China"/>
+    <answer flag="0" text="U.S., Russia, Germany, France, China"/>
+    <answer flag="0" text="U.S., Russia, Britain, France, Japan"/>
+    <answer flag="0" text="U.S., Russia, Britain, France, China, Germany, Japan"/>
+  </question>
+  <question level="1" simple="True" text="UNESCO Headquarters is located in">
+    <answer flag="0" text="Moscow"/>
+    <answer flag="0" text="Brussels"/>
+    <answer flag="0" text="New York"/>
+    <answer flag="1" text="Paris"/>
+  </question>
+  <question level="1" simple="True" text="An efficient countries are Australia and Oceania (select an exhaustive answer)">
+    <answer flag="0" text="Japan and Philippines"/>
+    <answer flag="1" text="Australia &amp; New Zealand"/>
+    <answer flag="0" text="Federated States of Micronesia and New Zealand"/>
+    <answer flag="0" text="Australia and Papua New Guinea"/>
+  </question>
+</testing>

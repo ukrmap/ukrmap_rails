@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Еўропы">
+  <question text="Што з'яўляецца характэрным для дэмаграфічнай сітуацыі большасці краін Еўропы?">
+    <answer flag="0" text="Другі тып ўзнаўлення насельніцтва"/>
+    <answer flag="1" text="Першы тып ўзнаўлення насельніцтва"/>
+    <answer flag="0" text="Дэмаграфічны выбух"/>
+  </question>
+  <question text="Якая з галін машынабудавання з'яўляецца традыцыйнай для еўрапейскіх краін Вялікай васьмёркі?">
+    <answer flag="1" text="Аўтамабілебудаванне"/>
+    <answer flag="0" text="Трактарабудаванне"/>
+    <answer flag="0" text="Цяжкае машынабудаванне"/>
+  </question>
+  <question text="Якія з названых краін маюць рэспубліканскую форму праўлення?">
+    <answer flag="1" text="Францыя"/>
+    <answer flag="0" text="Нарвегія"/>
+    <answer flag="1" text="Аўстрыя"/>
+    <answer flag="1" text="Ірландыя"/>
+  </question>
+  <question text="У якой з краінаў самы высокі ўзровень урбанізацыі?">
+    <answer flag="0" text="У Нямеччыне"/>
+    <answer flag="0" text="У Італіі"/>
+    <answer flag="1" text="У Ісландыі"/>
+    <answer flag="0" text="У Вялікабрытаніі"/>
+  </question>
+  <question text="Камбінаты чорнай металургіі ў Руре (Германія) арыентуюцца на">
+    <answer flag="0" text="радовішча жалезных руд"/>
+    <answer flag="1" text="коксу вугаль"/>
+    <answer flag="0" text="поўны комплекс сыравіны"/>
+  </question>
+  <question text="Які з пералічаных партоў Заходняй Еўропы належыць да катэгорыі сусветных?">
+    <answer flag="0" text="Осла"/>
+    <answer flag="0" text="Глазга"/>
+    <answer flag="1" text="Марсэль"/>
+    <answer flag="0" text="Амстэрдам"/>
+  </question>
+  <question text="Па велічыні ВНП лідэрам у Еўропе з'яўляецца">
+    <answer flag="1" text="Германія"/>
+    <answer flag="0" text="Вялікабрытанія"/>
+    <answer flag="0" text="Францыя"/>
+  </question>
+  <question text="Якія з пералічаных краін ўваходзяць у еўразону (прастора, дзе ў звароце еўра)">
+    <answer flag="1" text="Германія"/>
+    <answer flag="1" text="Партугалія"/>
+    <answer flag="0" text="Швецыя"/>
+    <answer flag="1" text="Ірландыя"/>
+  </question>
+  <question text="Які від транспарту Расіі займае першае месца па грузазвароце?">
+    <answer flag="0" text="Аўтамабільны"/>
+    <answer flag="1" text="Чыгуначны"/>
+    <answer flag="0" text="Унутраны водны"/>
+    <answer flag="0" text="Трубаправодны"/>
+  </question>
+  <question text="Якія з пералічаных краін з'яўляюцца членамі НАТА">
+    <answer flag="1" text="Літва"/>
+    <answer flag="0" text="Беларусь"/>
+    <answer flag="1" text="Славакія"/>
+    <answer flag="1" text="Венгрыя"/>
+  </question>
+  <question text="Якія з пералічаных краін не з'яўляецца членам ЕС?">
+    <answer flag="1" text="Нарвегія"/>
+    <answer flag="1" text="Швейцарыя"/>
+    <answer flag="0" text="Іспанія"/>
+  </question>
+  <question text="Сталіцай еўрапейскай дзяржавы, што ўтварыўся ў 2006 годзе, з'яўляецца">
+    <answer flag="0" text="Прышціна"/>
+    <answer flag="1" text="Падгорыца"/>
+    <answer flag="0" text="Любляна"/>
+  </question>
+</testing>

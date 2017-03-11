@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Адукацыя нацыянальных дзяржаў у Італіі і Германіі. Цэнтральная Еўропа ў 1860-1870-я гады">
+  <question level="1" simple="True" text="Уваходзіла Аўстрыя у склад Германскага саюза, заснаванага па рашэнні Венскага кангрэса?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="У выніку вайны Прусіі і Аўстрыі супраць Даніі у 1864 г. Данія страціла">
+    <answer flag="1" text="Шлезвіг і Гальштэйн"/>
+    <answer flag="0" text="Мекленбург і Ольденбург"/>
+  </question>
+  <question level="1" simple="True" text="Падчас прускай-аўстрыйскай вайны 1866 г. пруская армія нанесла аўстрыйцам поўнае паражэнне ў вырашальнай бітве пры">
+    <answer flag="0" text="Прагі"/>
+    <answer flag="0" text="Брно"/>
+    <answer flag="1" text="Садовай"/>
+    <answer flag="0" text="Пильзен"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў створаны Паўночнагерманскага саюз?">
+    <answer flag="1" text="1866"/>
+    <answer flag="0" text="1867"/>
+    <answer flag="0" text="1868"/>
+    <answer flag="0" text="1869"/>
+  </question>
+  <question level="1" simple="True" text="Франка-пруская вайна 1870-1871 гг пачалася тым, што">
+    <answer flag="1" text="Францыя аб'явіла вайну Прусіі"/>
+    <answer flag="0" text="Прусія абвясціла вайну Францыі"/>
+  </question>
+  <question level="1" simple="True" text="Дзе было абвешчана стварэнне Германскай імперыі ў 1871 г.?">
+    <answer flag="0" text="Берлін"/>
+    <answer flag="0" text="Франкфурт"/>
+    <answer flag="0" text="Парыж"/>
+    <answer flag="1" text="Версаль"/>
+  </question>
+  <question level="1" simple="True" text="У працэсе аб'яднання Італіі галоўнай аб'яднаўчыя сілай стала самая моцная ў палітычным і эканамічным дачыненні да паўночна-заходняя італьянская дзяржава">
+    <answer flag="0" text="Каралеўства Абедзвюх Сіцылій"/>
+    <answer flag="0" text="Ламбарда-Венецыянскай каралеўства"/>
+    <answer flag="1" text="Сардзінскія каралеўства"/>
+    <answer flag="0" text="Папская дзяржава"/>
+  </question>
+  <question level="1" simple="True" text="У 1859 г. у Сардынскага каралеўства быў далучаны">
+    <answer flag="1" text="Ламбард"/>
+    <answer flag="0" text="Венецыю"/>
+    <answer flag="0" text="Парму"/>
+    <answer flag="0" text="Модны"/>
+  </question>
+  <question level="1" simple="True" text="У 1860 годзе Францыі было перададзена">
+    <answer flag="0" text="Савам"/>
+    <answer flag="0" text="Ніцу"/>
+    <answer flag="1" text="П'емонт"/>
+    <answer flag="0" text="Модны"/>
+  </question>
+  <question level="1" simple="True" text="Паход чырвонай тысячу Дж. Гарыбальдзі быў накіраваны на дапамогу паўстанцам на выспе">
+    <answer flag="0" text="Капрера"/>
+    <answer flag="0" text="Корсіка"/>
+    <answer flag="1" text="Сіцылія"/>
+    <answer flag="0" text="Сардзінія"/>
+  </question>
+  <question level="1" simple="True" text="Калі было ўтворана Італьянскае каралеўства?">
+    <answer flag="1" text="1861"/>
+    <answer flag="0" text="1867"/>
+    <answer flag="0" text="1870"/>
+    <answer flag="0" text="1871"/>
+  </question>
+  <question level="1" simple="True" text="Сталіцай італьянскага каралеўства ў 1865-1870 гг быў горад">
+    <answer flag="0" text="Турын"/>
+    <answer flag="1" text="Фларэнцыя"/>
+    <answer flag="0" text="Рым"/>
+    <answer flag="0" text="Нэапаль"/>
+  </question>
+</testing>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Господарська діяльність">
+  <question level="1" simple="True" text="Продукцією якого заводу є екскаватори, дорожня техніка?">
+    <answer flag="1" text="АТЕК"/>
+    <answer flag="0" text="Авіант"/>
+    <answer flag="0" text="Більшовик"/>
+  </question>
+  <question level="1" simple="True" text="Яка з відповідей є неправильною?">
+    <answer flag="0" text="Більшість київських підприємств знаходиться в правобережній частині міста"/>
+    <answer flag="1" text="На заводі Авіант виробляють тільки літаки"/>
+    <answer flag="0" text="Гривневі банкноти та монети виготовляють на одному з київських підприємств"/>
+  </question>
+  <question level="1" simple="True" text="Який з видів транспортних засобів виробляють на одному з київських підприємств?">
+    <answer flag="1" text="Тролейбуси"/>
+    <answer flag="0" text="Автобуси"/>
+    <answer flag="0" text="Трамваї"/>
+  </question>
+  <question level="1" simple="True" text="Які електростанції для виробництва електроенергії спалюють вугілля, мазут, газ?">
+    <answer flag="0" text="ГЕС"/>
+    <answer flag="1" text="ТЕС"/>
+    <answer flag="0" text="АЕС"/>
+  </question>
+  <question level="1" simple="True" text="Які з електростанцій найменше забруднюють навколишнє середовище?">
+    <answer flag="0" text="ТЕС"/>
+    <answer flag="0" text="ТЕЦ"/>
+    <answer flag="1" text="ГЕС"/>
+  </question>
+  <question level="1" simple="True" text="Скільки у Києві діючих ліній метрополітену?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+  </question>
+  <question level="1" simple="True" text="Як називається станція метро, яку було введено в дію у 2008 році?">
+    <answer flag="0" text="Сирець"/>
+    <answer flag="1" text="Червоний Хутір"/>
+    <answer flag="0" text="Бориспільська"/>
+    <answer flag="0" text="Дорогожичі"/>
+  </question>
+  <question level="1" simple="True" text="В якому адміністративному районі Києва знаходиться телевежа?">
+    <answer flag="1" text="Шевченківському"/>
+    <answer flag="0" text="Подільському"/>
+    <answer flag="0" text="Солом‘янському"/>
+  </question>
+  <question level="1" simple="True" text="Яка лінія київського метрополітену була споруджена найпершою?">
+    <answer flag="0" text="Куренівсько-Либідська"/>
+    <answer flag="1" text="Святошинсько-Броварська"/>
+    <answer flag="0" text="Сирецько-Печерська"/>
+  </question>
+  <question level="1" simple="True" text="Який вид транспорту Києва є найстарішим?">
+    <answer flag="0" text="Фунікулер"/>
+    <answer flag="1" text="Трамвай"/>
+    <answer flag="0" text="Автобус"/>
+  </question>
+  <question level="1" simple="True" text="Яка відповідь є неправильною? ">
+    <answer flag="0" text="Метрополітен в нашому місті функціонує з 1960 р."/>
+    <answer flag="0" text="Аеропорт “Бориспіль” знаходиться за межами Києва"/>
+    <answer flag="1" text="Київська ГЕС знаходиться південніше Києва"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті знаходиться найбільший аеропорт України ? ">
+    <answer flag="1" text="В Борисполі"/>
+    <answer flag="0" text="В Києві"/>
+    <answer flag="0" text="В Харкові"/>
+  </question>
+</testing>

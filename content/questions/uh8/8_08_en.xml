@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Culture of Ukraine in the second half of XVI - first half XVII. Development of Education and Science">
+  <question level="1" simple="True" text="When it was founded the Kyiv Mohyla Academy?">
+    <answer flag="0" text="1576"/>
+    <answer flag="1" text="1632"/>
+  </question>
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="0" text="Ostrog Bible Edition"/>
+    <answer flag="1" text="Create Peresopnytsia Gospel"/>
+  </question>
+  <question level="1" simple="True" text="Where and when Ukraine had the first burial school?">
+    <answer flag="1" text="Lviv 1586"/>
+    <answer flag="0" text="In Kiev, 1615"/>
+  </question>
+  <question level="1" simple="True" text="What event provided the opportunity to create Brotherhood school in London?">
+    <answer flag="0" text="Providing Kyiv Epiphany brotherhood rights stavropihiyi"/>
+    <answer flag="1" text="Kiev shlyahtyanka Halshka Gulevychivna gave Kiev Brotherhood of plyatsem yard &quot;at the hem"/>
+  </question>
+  <question level="1" simple="True" text="What the school considers the first higher school in Ukraine?">
+    <answer flag="1" text="Ostrog school"/>
+    <answer flag="0" text="Lviv Brotherhood school"/>
+  </question>
+  <question level="1" simple="True" text="How did the Kyiv Mohyla Academy?">
+    <answer flag="1" text="As a result of mergers Kyiv Brotherhood and Lavra schools"/>
+    <answer flag="0" text="After reorganization of Ostrog Academy"/>
+  </question>
+  <question level="1" simple="True" text="What a book called the first known book of Scripture portrait of contemporary Ukrainian?">
+    <answer flag="1" text="Peresopnitske Gospel"/>
+    <answer flag="0" text="Ostrog Bible"/>
+  </question>
+  <question level="1" simple="True" text="Which book was the first complete printed edition of the Bible in Church Slavonic language?">
+    <answer flag="0" text="Formulary Peter Graves"/>
+    <answer flag="1" text="Ostrog Bible"/>
+  </question>
+  <question level="1" simple="True" text="Who was the author of the first Ukrainian paper dictionary &quot;Leksys?">
+    <answer flag="1" text="Lawrence Zyzaniy"/>
+    <answer flag="0" text="Meletii Smotrytsky"/>
+  </question>
+  <question level="1" simple="True" text="Who is Ivan Fedorov?">
+    <answer flag="0" text="Ukrainian prince of Ostrog Academy founder, initiator edition Ostrog Bible"/>
+    <answer flag="1" text="Moscow pioneer, founder of the constant printing of Ukrainian lands"/>
+  </question>
+  <question level="1" simple="True" text="What books were printed by Ivan Fedorov in Ukraine?">
+    <answer flag="1" text="The Apostle, &quot;Primer&quot;"/>
+    <answer flag="0" text="&quot;Adelfotes&quot;, &quot;Lexicon slavenoroskyy&quot;"/>
+  </question>
+  <question level="1" simple="True" text="What is printing in the Ukraine was strongest in the first half of XVII century.?">
+    <answer flag="1" text="Printing Lavra"/>
+    <answer flag="0" text="Printing of John F."/>
+  </question>
+</testing>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Российское государство в конце XVII - XVIII вв.">
+  <question level="1" simple="True" text="Кто из указанных правителей России царствовал первым?">
+    <answer flag="0" text="Екатерина II"/>
+    <answer flag="0" text="Елизавета"/>
+    <answer flag="1" text="Петр"/>
+  </question>
+  <question level="1" simple="True" text="С каким государством пришлось вести борьбу Петру I за выход России к Балтийскому морю?">
+    <answer flag="0" text="Польшей"/>
+    <answer flag="1" text="Швецией"/>
+    <answer flag="0" text="Османской империей"/>
+  </question>
+  <question level="1" simple="True" text="Россию была провозглашена империей в:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1721"/>
+    <answer flag="0" text="1725"/>
+  </question>
+  <question level="1" simple="True" text="Екатерина II боролась за выход России к побережью:">
+    <answer flag="0" text="Балтийского моря"/>
+    <answer flag="1" text="Черного моря"/>
+    <answer flag="0" text="Тихого океана"/>
+  </question>
+  <question level="1" simple="True" text="На какие континенты распространялись владения Российской империи в конце XVIII века?">
+    <answer flag="1" text="Европа"/>
+    <answer flag="1" text="Азия"/>
+    <answer flag="0" text="Африка"/>
+    <answer flag="1" text="Северная Америка"/>
+    <answer flag="0" text="Южная Америка"/>
+  </question>
+  <question level="1" simple="True" text="Эпоха &quot;дворцовых переворотов&quot; в России началась:">
+    <answer flag="1" text="после смерти Петра I"/>
+    <answer flag="0" text="после смерти Елизаветы I"/>
+    <answer flag="0" text="с воцарения Екатерины II"/>
+  </question>
+  <question level="1" simple="True" text="В какой европейской войне участвовала Россия в царствование Елизаветы I?">
+    <answer flag="0" text="Составляющая"/>
+    <answer flag="0" text="Северной"/>
+    <answer flag="1" text="Семилетний"/>
+  </question>
+  <question level="1" simple="True" text="Сколько разделов Речи Посполитой произошло в XVIII веке?">
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Крестьянская война под предводительством Е. Пугачева продолжалась в течение:">
+    <answer flag="0" text="1756-1763 гг"/>
+    <answer flag="0" text="1768-1774 гг"/>
+    <answer flag="1" text="1773-1775 гг"/>
+  </question>
+  <question level="1" simple="True" text="Когда была ликвидирована Запорожская Сечь?">
+    <answer flag="0" text="1710"/>
+    <answer flag="0" text="1734"/>
+    <answer flag="1" text="1775"/>
+  </question>
+  <question level="1" simple="True" text="Столицу Российской империи Санкт-Петербург был основан в:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1703"/>
+    <answer flag="0" text="1721"/>
+  </question>
+  <question level="1" simple="True" text="Какое название получил период правления Екатерины II?">
+    <answer flag="1" text="&quot;Золотой век&quot;"/>
+    <answer flag="0" text="&quot;Серебряный век&quot;"/>
+    <answer flag="0" text="Эпоха &quot;дворцовых переворотов&quot;"/>
+  </question>
+</testing>

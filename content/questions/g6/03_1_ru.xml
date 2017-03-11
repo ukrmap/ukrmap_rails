@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЛИТОСФЕРА">
+  <question level="1" simple="True" text="На какой глубине от поверхности расположено ядро Земли?">
+    <answer flag="0" text="5-10 км"/>
+    <answer flag="0" text="80 км"/>
+    <answer flag="1" text="2900 км"/>
+    <answer flag="0" text="7 000 км"/>
+  </question>
+  <question level="1" simple="True" text="Из которых слоев состоит земная кора под океанами?">
+    <answer flag="1" text="Осадочного"/>
+    <answer flag="0" text="Гранитного"/>
+    <answer flag="1" text="Базальтового"/>
+  </question>
+  <question level="1" simple="True" text="Какая температура в центральной части земного ядра?">
+    <answer flag="0" text="100°С"/>
+    <answer flag="0" text="1000°С"/>
+    <answer flag="1" text="5000°С"/>
+    <answer flag="0" text="10 000°С"/>
+  </question>
+  <question level="1" simple="True" text="Что происходит в тех местах планеты, где литосферные плиты расходятся?">
+    <answer flag="0" text="Образуются горы"/>
+    <answer flag="1" text="Образуются срединно-океанические хребты"/>
+    <answer flag="0" text="Образуются глубоководные желоба"/>
+  </question>
+  <question level="1" simple="True" text="Что Альфред Лотар Вегенер считал основными доказательствами своей гипотезы дрейфа материков?">
+    <answer flag="0" text="Значительное сходство флоры и фауны материков, лежащих по обе стороны Атлантического океана"/>
+    <answer flag="1" text="Значительное сходство очертаний материков, лежащих по обе стороны Атлантического океана"/>
+    <answer flag="0" text="Постоянные сейсмические процессы на Земле"/>
+  </question>
+  <question level="1" simple="True" text="Как называется процесс, при котором магма, не достигнув поверхности, застывает в трещинах и полостях земной коры?">
+    <answer flag="1" text="Внутренний магматизм"/>
+    <answer flag="0" text="Вулканизм"/>
+    <answer flag="0" text="Метаморфизм"/>
+    <answer flag="0" text="Внешний магматизм"/>
+  </question>
+  <question level="1" simple="True" text="Как называется вязкий внутренний слой Земли, расположенный на глубине 150-200 км от поверхности?">
+    <answer flag="0" text="Внешнее ядро"/>
+    <answer flag="0" text="Внутреннее ядро"/>
+    <answer flag="1" text="Астеносфера"/>
+  </question>
+  <question level="1" simple="True" text="Как изменяется температура с проникновением вглубь Земли?">
+    <answer flag="0" text="Повышается на 1°С на каждые 100 м"/>
+    <answer flag="0" text="Снижается на 1°С на каждые 33 м"/>
+    <answer flag="1" text="Повышается на 1°С на каждые 33 м"/>
+    <answer flag="0" text="Практически не меняется"/>
+  </question>
+  <question level="1" simple="True" text="Что происходит при столкновении материковой и океанической литосферных плит?">
+    <answer flag="0" text="Материковая плита погружается под океаническую, поднимая ее"/>
+    <answer flag="0" text="Материковая плита отодвигает океаническую и площадь материка увеличивается"/>
+    <answer flag="0" text="Океаническая плита отодвигает материковую и площадь океана увеличивается"/>
+    <answer flag="1" text="Океаническая плита погружается под материковую, поднимая ее"/>
+  </question>
+  <question level="1" simple="True" text="Как называется место в земной коре, где во время землетрясения произошло смещение масс горных пород?">
+    <answer flag="1" text="Гипоцентр"/>
+    <answer flag="0" text="Эпицентр"/>
+    <answer flag="0" text="Разлом"/>
+    <answer flag="0" text="Смещение"/>
+  </question>
+  <question level="1" simple="True" text="Место на поверхности над очагом землетрясения называют">
+    <answer flag="1" text="Эпицентром"/>
+    <answer flag="0" text="Гипоцентром"/>
+  </question>
+  <question level="1" simple="True" text="Какие эры развития Земли охватывает древнейший период докембрий?">
+    <answer flag="1" text="Архейскую"/>
+    <answer flag="1" text="Протерозойские"/>
+    <answer flag="0" text="Палеозойскую"/>
+    <answer flag="0" text="Мезозойскую"/>
+    <answer flag="0" text="Кайнозойскую"/>
+  </question>
+</testing>

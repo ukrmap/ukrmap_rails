@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Давня Греція">
+  <question level="1" simple="True" text="Як жителі Греції називають свою країну?">
+    <answer flag="1" text="Еллада"/>
+    <answer flag="0" text="Епір"/>
+    <answer flag="0" text="Етолія"/>
+    <answer flag="0" text="Еоліда"/>
+  </question>
+  <question level="1" simple="True" text="Які дві головні причини загибелі Критської цивілізації?">
+    <answer flag="1" text="Виверження вулкану"/>
+    <answer flag="1" text="Завоювання"/>
+    <answer flag="0" text="Епідемія"/>
+    <answer flag="0" text="Перенаселення"/>
+    <answer flag="0" text="Неврожай"/>
+  </question>
+  <question level="1" simple="True" text="На якій горі, за уявленнями древніх греків, мешкали боги?">
+    <answer flag="1" text="Олімп"/>
+    <answer flag="0" text="Парнас"/>
+    <answer flag="0" text="Санторин"/>
+    <answer flag="0" text="Гімета"/>
+  </question>
+  <question level="1" simple="True" text="Коли, ймовірно, відбулася Троянська війна?">
+    <answer flag="0" text="1300-1290 рр. до н. е."/>
+    <answer flag="1" text="1240-1230 рр. до н. е."/>
+    <answer flag="0" text="1180-1170 рр. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Яка подія поклала край існуванню Ахейської цивілізації?">
+    <answer flag="1" text="Дорійська навала"/>
+    <answer flag="0" text="Троянська війна"/>
+    <answer flag="0" text="Пелопоннеська війна"/>
+  </question>
+  <question level="1" simple="True" text="Хто правив Спартанською державою?">
+    <answer flag="0" text="Два імператори"/>
+    <answer flag="0" text="П'ять вождів"/>
+    <answer flag="1" text="Два царі"/>
+    <answer flag="1" text="Рада старійшин"/>
+    <answer flag="1" text="П'ять ефорів"/>
+  </question>
+  <question level="1" simple="True" text="Що робили з кволими й потворними дітьми в Спарті?">
+    <answer flag="0" text="Намагалися лікувати"/>
+    <answer flag="1" text="Скидали в прірву"/>
+    <answer flag="0" text="Топили в річці"/>
+  </question>
+  <question level="1" simple="True" text="Які два заняття були головними у вихованні спартанських юнаків?">
+    <answer flag="0" text="Малювання"/>
+    <answer flag="1" text="Хоровий спів"/>
+    <answer flag="1" text="Військова справа"/>
+    <answer flag="0" text="Поезія"/>
+  </question>
+  <question level="1" simple="True" text="Коли Солон став архонтом?">
+    <answer flag="0" text="560 р. до н. е."/>
+    <answer flag="0" text="510 р. до н. е."/>
+    <answer flag="1" text="594 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Хто і яку форму правління ввів в Атиці в 510 р. до н. е.?">
+    <answer flag="0" text="Солон"/>
+    <answer flag="0" text="Пісістрат"/>
+    <answer flag="1" text="Клісфен"/>
+    <answer flag="0" text="Демократію"/>
+    <answer flag="0" text="Тиранію"/>
+    <answer flag="1" text="Остракізм"/>
+  </question>
+  <question level="1" simple="True" text="Як грецькою мовою називалося місто, яке заснувало колонію?">
+    <answer flag="1" text="Метрополія"/>
+    <answer flag="0" text="Магістрат"/>
+    <answer flag="0" text="Мусейон"/>
+  </question>
+  <question level="1" simple="True" text="Як елліни (греки) називали чужоземців, що розмовляли незрозумілими мовами?">
+    <answer flag="0" text="Метеки"/>
+    <answer flag="1" text="Варвари"/>
+    <answer flag="0" text="Ілоти"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбувалися греко-перські війни?">
+    <answer flag="1" text="500-449 рр. до н. е."/>
+    <answer flag="0" text="431-404 рр. до н. е."/>
+    <answer flag="0" text="359-336 рр. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Хто й коли командував 300 спартанцями - захисниками Фермопільського проходу?">
+    <answer flag="0" text="Фемістокл"/>
+    <answer flag="1" text="Леонід"/>
+    <answer flag="0" text="449 р. до н. е."/>
+    <answer flag="1" text="480 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Де та коли відбулися перші спортивні змагання (ігри), присвячені Зевсу?">
+    <answer flag="0" text="Афіни"/>
+    <answer flag="1" text="Олімпія"/>
+    <answer flag="0" text="Спарта"/>
+    <answer flag="0" text="777 р. до н. е."/>
+    <answer flag="1" text="776 р. до н. е."/>
+    <answer flag="0" text="775 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Хто започаткував історію як науку?">
+    <answer flag="0" text="Піфагор"/>
+    <answer flag="0" text="Гіппократ"/>
+    <answer flag="1" text="Геродот"/>
+    <answer flag="0" text="Арістотель"/>
+  </question>
+  <question level="1" simple="True" text="В битві під Гавгамелами військо Александра Македонського перемогло армію персів на чолі з">
+    <answer flag="0" text="Дарієм ІІ"/>
+    <answer flag="0" text="Ксерксом"/>
+    <answer flag="1" text="Дарієм ІІІ"/>
+  </question>
+</testing>

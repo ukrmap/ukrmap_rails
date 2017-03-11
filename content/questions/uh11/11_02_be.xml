@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Акупацыйны рэжым у Украіне">
+  <question level="1" simple="True" text="Як называліся Райхскамісарыят, укараненні нацысцкім камандаваннем на акупаваных землях Савецкага Саюза?">
+    <answer flag="1" text="&quot;Украіна&quot;"/>
+    <answer flag="0" text="&quot;Транснистрия&quot;"/>
+    <answer flag="1" text="&quot;Остланд&quot;"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе знаходзілася гітлераўская адміністрацыя акупіраванай Ўкраіне?">
+    <answer flag="0" text="Варшава"/>
+    <answer flag="0" text="Адэса"/>
+    <answer flag="1" text="Роўна"/>
+  </question>
+  <question level="1" simple="True" text="Які рэгіён быў уключаны ў Генеральны губернатарства (Польшча)?">
+    <answer flag="0" text="Валынь"/>
+    <answer flag="0" text="Правабярэжжа"/>
+    <answer flag="0" text="Палтаўскай"/>
+    <answer flag="1" text="Усходняя Галіцыя"/>
+    <answer flag="0" text="Паўночная Букавіна"/>
+    <answer flag="0" text="Бесарабіі"/>
+  </question>
+  <question level="1" simple="True" text="Калі было заключана германа-румынская пагадненне аб перадачы мижириччя Днястра і Паўднёвага Буга з горадам Адэсай?">
+    <answer flag="1" text="19 Ліпеня 1941 года"/>
+    <answer flag="0" text="19 верасні 1941 года"/>
+    <answer flag="0" text="19 жніўня 1941 г."/>
+  </question>
+  <question level="1" simple="True" text="У якіх гарадах прайшлі масавыя расстрэлы шматлюдных габрэйскіх суполак?">
+    <answer flag="0" text="Жмеринка"/>
+    <answer flag="0" text="Бердичев"/>
+    <answer flag="1" text="Янив"/>
+    <answer flag="1" text="Кіеў"/>
+  </question>
+  <question level="1" simple="True" text="У якога горада размяшчалася Стаўка Гітлера (&quot;Вервольф&quot;) ва Ўкраіну?">
+    <answer flag="0" text="Кіеў"/>
+    <answer flag="1" text="Ваўкавыск"/>
+    <answer flag="0" text="Роўна"/>
+    <answer flag="0" text="Вапнярка"/>
+  </question>
+</testing>

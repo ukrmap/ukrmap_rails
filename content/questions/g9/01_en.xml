@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="INTRODUCTION">
+  <question level="1" simple="True" text="First time the name &quot;Ukraine&quot; is mentioned:">
+    <answer flag="1" text="in &quot;Kiev Chronicle&quot; (1187)"/>
+    <answer flag="0" text="G. Boplana in the book &quot;Description of Ukraine&quot; (1650)"/>
+    <answer flag="0" text="in descriptions of Byzantine and Arab travelers X century."/>
+  </question>
+  <question level="1" simple="True" text="Pre geographical center of Ukraine is:">
+    <answer flag="1" text="near. Marianivka Cherkasy region"/>
+    <answer flag="0" text="near the town of Kirovograd region Dobrovelichkivka"/>
+    <answer flag="0" text="Cherkasy region near m.Chyhyryn"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="The area among the European countries, Ukraine is second only to Russia"/>
+    <answer flag="1" text="With a population of Ukraine second in Europe"/>
+    <answer flag="0" text="Ukraine borders with seven countries"/>
+  </question>
+  <question level="1" simple="True" text="Good prize are:">
+    <answer flag="1" text="With the largest population of Donetsk region of Ukraine"/>
+    <answer flag="1" text="With its area of greatest region of Ukraine Odessa"/>
+    <answer flag="1" text="Chernivtsi - the smallest in area region of Ukraine"/>
+    <answer flag="0" text="Volyn - the smallest in population region of Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="The extreme north point of Ukraine is located near:">
+    <answer flag="0" text="City Tarkhankut"/>
+    <answer flag="1" text="with. Hremiacha"/>
+    <answer flag="0" text="s.Chervona Star"/>
+  </question>
+  <question level="1" simple="True" text="Which statements are correct?">
+    <answer flag="1" text="Ukraine borders with seven countries"/>
+    <answer flag="1" text="Area of Ukraine is 603,7 thousand sq. km. km"/>
+    <answer flag="0" text="The territory of Ukraine is washed by three seas"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries not bordering Ukraine?">
+    <answer flag="1" text="From Slovenia"/>
+    <answer flag="1" text="From Bulgaria"/>
+    <answer flag="0" text="Slovakia"/>
+  </question>
+  <question level="1" simple="True" text="In what year was completed forming the territory of Ukraine?">
+    <answer flag="0" text="In 1922"/>
+    <answer flag="1" text="In 1954"/>
+    <answer flag="0" text="In 1991"/>
+  </question>
+  <question level="1" simple="True" text="Which of the above areas were incorporated into the Ukraine in the prewar days?">
+    <answer flag="1" text="South Bessarabia"/>
+    <answer flag="1" text="Northern Bukovina"/>
+    <answer flag="0" text="Transcarpathia and Crimea region"/>
+  </question>
+  <question level="1" simple="True" text="Member of these institutions, which is Ukraine?">
+    <answer flag="1" text="World Trade Organization"/>
+    <answer flag="1" text="International Monetary Fund"/>
+    <answer flag="1" text="Commonwealth of Independent States"/>
+    <answer flag="0" text="OPEC"/>
+  </question>
+  <question level="1" simple="True" text="Which answers are wrong?">
+    <answer flag="1" text="Elections to the Verkhovna Rada of Ukraine are held every five years"/>
+    <answer flag="1" text="Presidential elections in Ukraine are held every four years"/>
+    <answer flag="0" text="Ukraine's Parliament consists of 450 members"/>
+  </question>
+  <question level="1" simple="True" text="Member of an international organization by Ukraine in 2008?">
+    <answer flag="0" text="IMF"/>
+    <answer flag="1" text="WTO"/>
+    <answer flag="0" text="NATO"/>
+    <answer flag="0" text="OPEC"/>
+  </question>
+  <question level="1" simple="True" text="Which term describes Ukraine?">
+    <answer flag="1" text="Unitary"/>
+    <answer flag="0" text="Federal"/>
+    <answer flag="1" text="Republic"/>
+    <answer flag="0" text="Monarchy"/>
+  </question>
+  <question level="1" simple="True" text="Headquarters of international organizations is listed in London?">
+    <answer flag="0" text="WTO"/>
+    <answer flag="1" text="GUAM"/>
+    <answer flag="0" text="CIS"/>
+    <answer flag="0" text="IRF"/>
+  </question>
+  <question level="1" simple="False" text="Check the consistency between the country and its characteristic">
+    <answer text="Russia -"/>
+    <answer text="Moldova -"/>
+    <answer text="Romania -"/>
+    <answer text="Belarus -"/>
+    <variant>
+      <item flag="2" text="country that is a partner of Ukraine on interstate GUAM"/>
+      <item flag="1" text="country with which Ukraine has the longest common border"/>
+      <item flag="4" text="country, the capital of which is the headquarters of the CIS"/>
+      <item flag="3" text="country, part of the border with Ukraine, which runs along the river Danube"/>
+      <item flag="0" text="country that is a partner of Ukraine in Euro 2012"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between the region and its characteristics">
+    <answer text="Kharkiv -"/>
+    <answer text="Crimean -"/>
+    <answer text="Chernigov -"/>
+    <answer text="Dnepropetrovsk -"/>
+    <variant>
+      <item flag="3" text="region, which borders Russia and Belarus"/>
+      <item flag="1" text="region, which is the administrative center since 1919 to 1934, was the capital of Ukraine"/>
+      <item flag="4" text="where is the city near which in 1654 Khmelnytsky took the first victory for the Polish army"/>
+      <item flag="2" text="region, which was transferred to the USSR in 1954"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between statements">
+    <answer text="Sevastopol -"/>
+    <answer text="Donetsk -"/>
+    <answer text="Kharkiv -"/>
+    <answer text="Odessa -"/>
+    <variant>
+      <item flag="2" text="administrative center of the most populous region"/>
+      <item flag="4" text="the only regional center of Ukraine, located on the seashore"/>
+      <item flag="3" text="second city of the state population"/>
+      <item flag="1" text="A city that has a special status"/>
+      <item flag="0" text="Ukraine's largest shipbuilding center"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between statements">
+    <answer text="Marianivka -"/>
+    <answer text="Chop -"/>
+    <answer text="Red Star -"/>
+    <answer text="Hremiacha -"/>
+    <variant>
+      <item flag="4" text="town, which lies near the extreme northern point of Ukraine"/>
+      <item flag="2" text="city, near which is the extreme point of western Ukraine"/>
+      <item flag="3" text="town, which lies near the extreme eastern point of Ukraine"/>
+      <item flag="1" text="town, near which is the geographical center of Ukraine"/>
+      <item flag="0" text="cape - the extreme southern point of Ukraine"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between statements">
+    <answer text="Volyn -"/>
+    <answer text="Bucovina -"/>
+    <answer text="Beresteyschina -"/>
+    <answer text="Siverschyna -"/>
+    <variant>
+      <item flag="2" text="historical and ethnographic region within the predominantly Chernivtsi region"/>
+      <item flag="1" text="historical and ethnographic region in northwestern Ukraine"/>
+      <item flag="4" text="historical and ethnographic region, which borders the Russian Federation"/>
+      <item flag="3" text="istoyko-ethnographic region within the current Belarus"/>
+    </variant>
+  </question>
+</testing>

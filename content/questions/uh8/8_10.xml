@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Передумови й початок Національно-визвольної війни українського народу проти польського панування. Розгортання Національно-визвольної війни в 1648-1649 рр.">
+  <question level="1" simple="True" text="Коли розпочалася Національно-визвольна війна?">
+    <answer flag="0" text="1548 p."/>
+    <answer flag="1" text="1648 p."/>
+  </question>
+  <question level="1" simple="True" text="Хто очолив Нацiонально-визвольну війну українського народу?">
+    <answer flag="1" text="Богдан Хмельницький"/>
+    <answer flag="0" text="Максим Кривоніс"/>
+  </question>
+  <question level="1" simple="True" text="Який стан суспільства відігравав провідну роль у ході й керівництві Нацiонально-визвольної війни?">
+    <answer flag="0" text="Селянство"/>
+    <answer flag="1" text="Козацтво"/>
+  </question>
+  <question level="1" simple="True" text="Де відбувся перший бій між повстанцями й польським військом?">
+    <answer flag="1" text="На Жовтих Водах"/>
+    <answer flag="0" text="Під Корсунем"/>
+  </question>
+  <question level="1" simple="True" text="Яка з подій відбулася раніше?">
+    <answer flag="0" text="Уpочистий в'їзд Б. Хмельницького до Києва"/>
+    <answer flag="1" text="Облога українським вiйськом Львова та Замостя"/>
+  </question>
+  <question level="1" simple="True" text="Яка битва відкрила українській армії шлях на Галичину в 1648 р.?">
+    <answer flag="0" text="Жовтоводська"/>
+    <answer flag="1" text="Пилявецька"/>
+  </question>
+  <question level="1" simple="True" text="Про яку історичну постать ідеться? Український полководець. Брав участь у всіх битвах 1648 р. Помер у листопаді 1648 р. у таборі під Замостям від чуми">
+    <answer flag="0" text="Іван Виговський"/>
+    <answer flag="1" text="Максим Кривоніс"/>
+  </question>
+  <question level="1" simple="True" text="Чим закінчилася Збаразько-Зборівська воєнна кампанія?">
+    <answer flag="0" text="Укладенням Білоцерківського договору"/>
+    <answer flag="1" text="Підписанням Зборівського договору"/>
+  </question>
+  <question level="1" simple="True" text="Які землі перейшли пiд владу гетьмана за Збоpiвським договоpом?">
+    <answer flag="0" text="Усі землі України, що перебували у складі Речі Посполитої"/>
+    <answer flag="1" text="Території колишніх Київського, Брацлавського й Чернігівського воєводств"/>
+  </question>
+  <question level="1" simple="True" text="Яку кількість козаків передбачав козацький реєстр за Зборівським договором?">
+    <answer flag="0" text="20 тис."/>
+    <answer flag="1" text="40 тис."/>
+  </question>
+  <question level="1" simple="True" text="З ким на початку війни Б. Хмельницький уклав союзну угоду про військову допомогу?">
+    <answer flag="0" text="З Московiєю"/>
+    <answer flag="1" text="З Кримським ханством"/>
+  </question>
+  <question level="1" simple="True" text="Яку битву поляки вважали найганебнішою за всю історію Польщі?">
+    <answer flag="0" text="Жовтоводську"/>
+    <answer flag="1" text="Пилявецьку"/>
+  </question>
+</testing>

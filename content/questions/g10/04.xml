@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Мировое хозяйство">
+  <question text="Какой тип электростанций является ведущим в топливно-энергетическом балансе мира?">
+    <answer flag="0" text="АЭС"/>
+    <answer flag="1" text="ТЭС"/>
+    <answer flag="0" text="ГЭС"/>
+  </question>
+  <question text="Для химической промышленности характерным является">
+    <answer flag="0" text="экстенсивное производство"/>
+    <answer flag="0" text="энергоемкость"/>
+    <answer flag="1" text="водоемкость"/>
+    <answer flag="0" text="высокая стоимость оборудования"/>
+  </question>
+  <question text="Какая страна имеет наибольший парк автомобилей?">
+    <answer flag="0" text="Япония"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Китай"/>
+  </question>
+  <question text="Самый большой по грузообороту порт мира - это">
+    <answer flag="0" text="Лондон"/>
+    <answer flag="0" text="Роттердам"/>
+    <answer flag="1" text="Шанхай"/>
+    <answer flag="0" text="Нью-Йорк"/>
+  </question>
+  <question text="Лидером в мире по производству минеральных удобрений является">
+    <answer flag="0" text="Россия"/>
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Индия"/>
+  </question>
+  <question text="Основой сельскохозяйственного производства являются">
+    <answer flag="1" text="земельные ресурсы"/>
+    <answer flag="0" text="этнические и религиозные особенности населения"/>
+    <answer flag="0" text="исторические традиции"/>
+  </question>
+  <question text="Какие черты ведения хозяйства присущи экстенсивному животноводству?">
+    <answer flag="0" text="Племенная работа"/>
+    <answer flag="0" text="Стойловое содержание животных"/>
+    <answer flag="1" text="Прирост производства преимущественно за счет увеличения поголовья"/>
+    <answer flag="0" text="Пастбищно-стойловое содержание животных"/>
+  </question>
+  <question text="Организацией стран-экспортеров нефти является">
+    <answer flag="1" text="ОПЕК"/>
+    <answer flag="0" text="АТЕС"/>
+    <answer flag="0" text="НАФТА"/>
+  </question>
+  <question text="По видам выполняемых работ транспорт разделяют на">
+    <answer flag="0" text="водный, воздушный, автомобильный, железнодорожный"/>
+    <answer flag="1" text="грузовой и пассажирский"/>
+    <answer flag="0" text="вьючный и гужевой"/>
+  </question>
+  <question text="Ведущими отраслями сельского хозяйства являются">
+    <answer flag="0" text="аквакультура и пчеловодство"/>
+    <answer flag="0" text="шелководство"/>
+    <answer flag="1" text="растениеводство"/>
+    <answer flag="1" text="животноводство"/>
+  </question>
+  <question text="Предприятия цветной металлургии по выплавке тяжелых металлов в размещении ориентируются, в основном, на">
+    <answer flag="0" text="дешевую электроэнергию"/>
+    <answer flag="1" text="наличие сырья"/>
+    <answer flag="0" text="наличие воды"/>
+  </question>
+  <question text="Какие грузы преобладают в грузообороте морского транспорта?">
+    <answer flag="0" text="Строительные материалы"/>
+    <answer flag="0" text="Руды черных и цветных металлов"/>
+    <answer flag="0" text="Зерно"/>
+    <answer flag="1" text="Нефть и нефтепродукты"/>
+  </question>
+</testing>

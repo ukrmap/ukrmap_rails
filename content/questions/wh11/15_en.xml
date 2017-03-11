@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Central and Eastern Europe">
+  <question level="1" simple="True" text="In what year and country in which there was social and political movement Solidarity?">
+    <answer flag="1" text="1980"/>
+    <answer flag="0" text="1989"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="0" text="Romania"/>
+    <answer flag="1" text="Poland"/>
+    <answer flag="0" text="Albania"/>
+  </question>
+  <question level="1" simple="True" text="In countries where there were &quot;velvet&quot; revolution of autumn 1989?">
+    <answer flag="1" text="Czechoslovakia"/>
+    <answer flag="0" text="Romania"/>
+    <answer flag="1" text="Hungary"/>
+    <answer flag="1" text="GDR"/>
+    <answer flag="1" text="Bulgaria"/>
+  </question>
+  <question level="1" simple="True" text="When was the Berlin Wall fall?">
+    <answer flag="1" text="November 9, 1989"/>
+    <answer flag="0" text="October 3, 1990"/>
+    <answer flag="0" text="December 2, 1990"/>
+  </question>
+  <question level="1" simple="True" text="When Serbia and Montenegro announced the formation of a new state - the Federal Republic of Yugoslavia?">
+    <answer flag="1" text="April 27, 1992"/>
+    <answer flag="0" text="March 1, 1992"/>
+    <answer flag="0" text="March 18, 1994"/>
+  </question>
+  <question level="1" simple="True" text="When Yugoslavia ceased to exist?">
+    <answer flag="0" text="March 1, 1992"/>
+    <answer flag="0" text="March 18, 1994"/>
+    <answer flag="1" text="March 14, 2002"/>
+  </question>
+  <question level="1" simple="True" text="Which of these European countries are members of NATO?">
+    <answer flag="0" text="Ukraine"/>
+    <answer flag="0" text="Denmark"/>
+    <answer flag="1" text="Lithuania"/>
+    <answer flag="1" text="Romania"/>
+  </question>
+</testing>

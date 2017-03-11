@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Расійская імперыя ў канцы XIX - пачатку ХХ ст.">
+  <question level="1" simple="True" text="Якое падзея стала падставай да першай рускай рэвалюцыі?">
+    <answer flag="0" text="паўстанне на браняносцы 'Пацёмкін''"/>
+    <answer flag="1" text="крывавая нядзеля"/>
+    <answer flag="0" text="Маніфест цара 17 кастрычніка"/>
+  </question>
+  <question level="1" simple="True" text="Другім па колькасці народам расейскай імперыі былі">
+    <answer flag="0" text="татары"/>
+    <answer flag="1" text="Украінскі"/>
+    <answer flag="0" text="грузіны"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў рускім царом у пачатку ХХ стагоддзя?">
+    <answer flag="0" text="Мікалай I"/>
+    <answer flag="0" text="Аляксандр III"/>
+    <answer flag="1" text="Мікалай II"/>
+  </question>
+  <question level="1" simple="True" text="У якой вайне Расія пацярпела паразу ў пачатку ХХ стагоддзя?">
+    <answer flag="0" text="з Германіяй"/>
+    <answer flag="0" text="з Турцыяй"/>
+    <answer flag="1" text="з Японіяй"/>
+    <answer flag="0" text="з Аўстрыяй"/>
+  </question>
+  <question level="1" simple="True" text="Аўтарам аграрных рэформаў пасля рэвалюцыі 1905-1907 гг быў">
+    <answer flag="0" text="С. Вітэ"/>
+    <answer flag="1" text="П. Сталыпін"/>
+    <answer flag="0" text="Ленін"/>
+  </question>
+  <question level="1" simple="True" text="Кульмінацыяй рэвалюцыі 1905-1907 гг стала">
+    <answer flag="0" text="''Крывавая нядзеля '"/>
+    <answer flag="1" text="ўзброенае паўстанне ў Маскве"/>
+    <answer flag="0" text="Маніфест цара 17 кастрычніка"/>
+  </question>
+  <question level="1" simple="True" text="Першая дзяржаўная дума ў Расеі была скліканая ў">
+    <answer flag="0" text="1905"/>
+    <answer flag="1" text="1906"/>
+    <answer flag="0" text="1907"/>
+  </question>
+  <question level="1" simple="True" text="Існавалі ў Расіі манапалістычных аб'яднання ў пачатку ХХ стагоддзя?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Якая тэрыторыя Расійскай імперыі карысталася правам самакіравання?">
+    <answer flag="0" text="Закаўказзя"/>
+    <answer flag="0" text="Сібір"/>
+    <answer flag="1" text="Фінляндыя"/>
+    <answer flag="0" text="Украіна"/>
+  </question>
+  <question level="1" simple="True" text="Або ажыццявіла Расія якія тэрытарыяльныя набыцця ў пачатку ХХ стагоддзя?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Або панесла Расія тэрытарыяльных страт у пачатку ХХ стагоддзя?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question level="1" simple="True" text="Найбуйнейшыя паклады нафты ў Расійскай імперыі былі">
+    <answer flag="0" text="ва Ўкраіне"/>
+    <answer flag="0" text="ў Сібіры"/>
+    <answer flag="1" text="на Каўказе"/>
+    <answer flag="0" text="у Прыбалтыцы"/>
+  </question>
+</testing>

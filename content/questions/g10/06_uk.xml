@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Європи">
+  <question text="Що є характерним для демографічної ситуації більшості країн Європи?">
+    <answer flag="0" text="Другий тип відтворення населення"/>
+    <answer flag="1" text="Перший тип відтворення населення"/>
+    <answer flag="0" text="Демографічний вибух"/>
+  </question>
+  <question text="Яка з галузей машинобудування є традиційною для європейських країн Великої вісімки?">
+    <answer flag="1" text="Автомобілебудування"/>
+    <answer flag="0" text="Тракторобудування"/>
+    <answer flag="0" text="Важке машинобудування"/>
+  </question>
+  <question text="Які з названих країн мають республіканську форму правління?">
+    <answer flag="1" text="Франція"/>
+    <answer flag="0" text="Норвегія"/>
+    <answer flag="1" text="Австрія"/>
+    <answer flag="1" text="Ірландія"/>
+  </question>
+  <question text="В якій з країн найвищий рівень урбанізації?">
+    <answer flag="0" text="У Німеччині"/>
+    <answer flag="0" text="В Італії"/>
+    <answer flag="1" text="В Ісландії"/>
+    <answer flag="0" text="У Великобританії"/>
+  </question>
+  <question text="Комбінати чорної металургії в Рурі (Німеччина) орієнтуються на">
+    <answer flag="0" text="родовища залізних руд"/>
+    <answer flag="1" text="коксівне вугілля"/>
+    <answer flag="0" text="повний комплекс сировини"/>
+  </question>
+  <question text="Який з перерахованих портів Західної Європи належить до категорії світових?">
+    <answer flag="0" text="Осло"/>
+    <answer flag="0" text="Глазго"/>
+    <answer flag="1" text="Марсель"/>
+    <answer flag="0" text="Амстердам"/>
+  </question>
+  <question text="За величиною ВНП лідером в Європі є">
+    <answer flag="1" text="Німеччина"/>
+    <answer flag="0" text="Великобританія"/>
+    <answer flag="0" text="Франція"/>
+  </question>
+  <question text="Які з перерахованих країн входять до єврозони (простір, де в обігу євро)">
+    <answer flag="1" text="Німеччина"/>
+    <answer flag="1" text="Португалія"/>
+    <answer flag="0" text="Швеція"/>
+    <answer flag="1" text="Ірландія"/>
+  </question>
+  <question text="Який вид транспорту Росії займає перше місце по вантажообігу?">
+    <answer flag="0" text="Автомобільний"/>
+    <answer flag="1" text="Залізничний"/>
+    <answer flag="0" text="Внутрішній водний"/>
+    <answer flag="0" text="Трубопровідний"/>
+  </question>
+  <question text="Які з перерахованих країн є членами НАТО">
+    <answer flag="1" text="Литва"/>
+    <answer flag="0" text="Білорусія"/>
+    <answer flag="1" text="Словаччина"/>
+    <answer flag="1" text="Угорщина"/>
+  </question>
+  <question text="Які з перерахованих країн не є членом ЄС?">
+    <answer flag="1" text="Норвегія"/>
+    <answer flag="1" text="Швейцарія"/>
+    <answer flag="0" text="Іспанія"/>
+  </question>
+  <question text="Столицею європейської держави, що утворився в 2006 році, є">
+    <answer flag="0" text="Пріштіна"/>
+    <answer flag="1" text="Подгоріца"/>
+    <answer flag="0" text="Любляна"/>
+  </question>
+</testing>

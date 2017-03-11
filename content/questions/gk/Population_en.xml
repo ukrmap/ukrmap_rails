@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Population. History and Present">
+  <question level="1" simple="True" text="In Kiev is a place whose name means:">
+    <answer flag="0" text="group of outbuildings"/>
+    <answer flag="0" text="crossing for cattle"/>
+    <answer flag="1" text="device to deal with household pests"/>
+  </question>
+  <question level="1" simple="True" text="Which of the locations listed in the XVIII century. was settled?">
+    <answer flag="1" text="Priorka"/>
+    <answer flag="0" text="Pusha Voditsa"/>
+    <answer flag="0" text="Obolon"/>
+    <answer flag="0" text="Telychka"/>
+  </question>
+  <question level="1" simple="True" text="Which district of present administrative division belongs Kudriavets area?">
+    <answer flag="0" text="Caves"/>
+    <answer flag="0" text="Podolski"/>
+    <answer flag="1" text="Shevchenko"/>
+    <answer flag="0" text="Solomyanskogo"/>
+  </question>
+  <question level="1" simple="True" text="Which of the listed areas is not officially belong to the city of Kyiv at the beginning of XX century. (As of 1914)?">
+    <answer flag="0" text="Obolon"/>
+    <answer flag="1" text="Scoops"/>
+    <answer flag="0" text="Paradise"/>
+    <answer flag="0" text="Truhanov Island"/>
+  </question>
+  <question level="1" simple="True" text="In today's Pechersk district is the town whose name is derived:">
+    <answer flag="0" text="on behalf of the Slavic god"/>
+    <answer flag="0" text="from ancient burial mounds"/>
+    <answer flag="1" text="of lime grove"/>
+    <answer flag="0" text="on behalf of the Polovtsian Khan"/>
+  </question>
+  <question level="1" simple="True" text="In today's Kiev region is a residential area, named in honor of:">
+    <answer flag="1" text="capital of Belarus"/>
+    <answer flag="0" text="Academy of Sciences"/>
+    <answer flag="0" text="WWII hero"/>
+    <answer flag="0" text="Ukrainian Soviet poet"/>
+  </question>
+  <question level="1" simple="True" text="In the territory of modern Darnytsky is a former village, whose name is associated with:">
+    <answer flag="0" text="Chumakov"/>
+    <answer flag="0" text="fishermen"/>
+    <answer flag="1" text="beekeepers"/>
+    <answer flag="0" text="Cossacks"/>
+  </question>
+  <question level="1" simple="True" text="In honor of the Metropolitan Raphael Zaborowski called:">
+    <answer flag="1" text="the gate that led to the monastery of Saint Sophia"/>
+    <answer flag="0" text="Street at the Cave"/>
+    <answer flag="0" text="audience Mohyla"/>
+    <answer flag="0" text="source of the Lavra"/>
+  </question>
+  <question level="1" simple="True" text="The original purpose building Philharmonic:">
+    <answer flag="1" text="Merchant's assembly"/>
+    <answer flag="0" text="Palace of the governor general"/>
+    <answer flag="0" text="Pedagogical Museum"/>
+    <answer flag="0" text="Theatre Solovtsov"/>
+  </question>
+  <question level="1" simple="True" text="Racetracks Expocentre, University Library. Vernadsky are:">
+    <answer flag="0" text="in Kiev"/>
+    <answer flag="1" text="in Kiev"/>
+    <answer flag="0" text="In Kiev"/>
+    <answer flag="0" text="the Pechersk district"/>
+  </question>
+  <question level="1" simple="True" text="Which of the above persons in Kiev there is no memorial?">
+    <answer flag="0" text="Mykola Lysenko"/>
+    <answer flag="0" text="Yaroslav the Wise"/>
+    <answer flag="0" text="Vladimir Vernadsky"/>
+    <answer flag="1" text="Peter Graves"/>
+  </question>
+  <question level="1" simple="True" text="Sculptural images of Mikhail Glinka, Ukrainian Lesya, Zankovetska can see:">
+    <answer flag="0" text="at Mariinsky park"/>
+    <answer flag="1" text="in Garden City"/>
+    <answer flag="0" text="in Kreschaty Park"/>
+    <answer flag="0" text="the Pechersk Landscape Park"/>
+  </question>
+</testing>

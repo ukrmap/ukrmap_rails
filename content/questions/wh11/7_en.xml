@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="American Countries">
+  <question level="1" simple="True" text="The first Governor of Canada, which had a Canadian origin, was">
+    <answer flag="0" text="Saint Laurent"/>
+    <answer flag="1" text="Messi"/>
+    <answer flag="0" text="Clark"/>
+  </question>
+  <question level="1" simple="True" text="When adopted the Act of Canada &quot;and&quot; deed of constitution?">
+    <answer flag="0" text="Spring 1967"/>
+    <answer flag="0" text="Spring 1980"/>
+    <answer flag="1" text="Spring 1982"/>
+  </question>
+  <question level="1" simple="True" text="In which years were held referendums on independence of Quebec?">
+    <answer flag="0" text="1967"/>
+    <answer flag="1" text="1980"/>
+    <answer flag="0" text="1982"/>
+    <answer flag="1" text="1995"/>
+  </question>
+  <question level="1" simple="True" text="Which countries are members of the international organization of NAFTA?">
+    <answer flag="1" text="U.S."/>
+    <answer flag="1" text="Canada"/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="0" text="Argentina"/>
+    <answer flag="1" text="Mexico"/>
+  </question>
+  <question level="1" simple="True" text="Rivalry between the two superpowers which led to the &quot;cold war&quot;?">
+    <answer flag="1" text="U.S."/>
+    <answer flag="1" text="USSR"/>
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Great Britain"/>
+    <answer flag="0" text="Japan"/>
+  </question>
+  <question level="1" simple="True" text="Who was U.S. president in 1945-1952 years?">
+    <answer flag="1" text="Truman"/>
+    <answer flag="0" text="Kennedy"/>
+    <answer flag="0" text="Nixon"/>
+    <answer flag="0" text="Reagan"/>
+  </question>
+  <question level="1" simple="True" text="Which U.S. cities held massive racial riots in years 1964-1969?">
+    <answer flag="1" text="Boston"/>
+    <answer flag="1" text="Buffalo"/>
+    <answer flag="1" text="Philadelphia"/>
+    <answer flag="0" text="Anchorage"/>
+    <answer flag="0" text="Las Vegas"/>
+    <answer flag="1" text="New York"/>
+  </question>
+  <question level="1" simple="True" text="Who was the acknowledged leader of Negro population in the U.S. fight against racial discrimination?">
+    <answer flag="0" text="Johnson"/>
+    <answer flag="1" text="King"/>
+    <answer flag="0" text="Kennedy"/>
+    <answer flag="0" text="Dyfenbeyker"/>
+  </question>
+  <question level="1" simple="True" text="In what year and under the rule which the U.S. president won the war with Iraq to liberate Kuwait (Operation Desert Storm)?">
+    <answer flag="0" text="2003"/>
+    <answer flag="1" text="1991"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="0" text="Reagan"/>
+    <answer flag="1" text="Bush"/>
+    <answer flag="0" text="Bush Jr."/>
+  </question>
+  <question level="1" simple="True" text="When the Cuban revolution took place and who headed?">
+    <answer flag="0" text="February 3, 1952"/>
+    <answer flag="0" text="December 2, 1956"/>
+    <answer flag="1" text="January 1, 1959"/>
+    <answer flag="0" text="Che Guevara"/>
+    <answer flag="1" text="Castro"/>
+    <answer flag="0" text="Batista"/>
+  </question>
+  <question level="1" simple="True" text="In what year and between which countries there was an armed conflict, titled the &quot;Soccer War&quot;?">
+    <answer flag="1" text="1969"/>
+    <answer flag="0" text="1982"/>
+    <answer flag="0" text="1995"/>
+    <answer flag="0" text="Ecuador - Peru"/>
+    <answer flag="1" text="El Salvador - Honduras"/>
+    <answer flag="0" text="Argentina - UK"/>
+  </question>
+</testing>

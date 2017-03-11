@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Цэнтральнай і Усходняй Еўропы">
+  <question level="1" simple="True" text="У якім годзе і ў якой краіне паўстаў грамадска-палітычнае рух &quot;Салідарнасць&quot;?">
+    <answer flag="1" text="1980"/>
+    <answer flag="0" text="1989"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="0" text="Румынія"/>
+    <answer flag="1" text="Польшча"/>
+    <answer flag="0" text="Албанія"/>
+  </question>
+  <question level="1" simple="True" text="У якіх краінах адбываліся &quot;аксамітныя&quot; рэвалюцыі ўвосень 1989 г.?">
+    <answer flag="1" text="Чэха-Славакіі"/>
+    <answer flag="0" text="Румыніі"/>
+    <answer flag="1" text="Венгрыі"/>
+    <answer flag="1" text="ГДР"/>
+    <answer flag="1" text="Балгарыі"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылося падзення Берлінскай сцяны?">
+    <answer flag="1" text="9 лістапада 1989 г"/>
+    <answer flag="0" text="3 Кастрычнік 1990 года"/>
+    <answer flag="0" text="2 сьнежня 1990"/>
+  </question>
+  <question level="1" simple="True" text="Калі Сербія і Чарнагорыя абвясцілі ўтварэнне новай дзяржавы - Саюзнай Рэспублікі Югаславіі?">
+    <answer flag="1" text="27 красавіка 1992"/>
+    <answer flag="0" text="1 Сакавік 1992"/>
+    <answer flag="0" text="18 Сакавіка 1994"/>
+  </question>
+  <question level="1" simple="True" text="Калі Югаславія спыніла сваё існаванне?">
+    <answer flag="0" text="1 Сакавік 1992"/>
+    <answer flag="0" text="18 Сакавіка 1994"/>
+    <answer flag="1" text="14 сакавіка 2002 года"/>
+  </question>
+  <question level="1" simple="True" text="Якія з названых краіны Еўропы з'яўляюцца членамі НАТО?">
+    <answer flag="0" text="Украіна"/>
+    <answer flag="0" text="Данія"/>
+    <answer flag="1" text="Літва"/>
+    <answer flag="1" text="Румынія"/>
+  </question>
+</testing>

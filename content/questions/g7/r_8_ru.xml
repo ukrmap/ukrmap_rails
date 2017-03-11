@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЕВРАЗИЯ">
+  <question level="1" simple="True" text="Площадь Евразии вместе с островами составляет:">
+    <answer flag="0" text="30,32 млн. кв. км"/>
+    <answer flag="1" text="54,6 млн. кв. км"/>
+    <answer flag="0" text="24,25 млн. кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является правильным?">
+    <answer flag="1" text="г. Эверест - высочайшая вершина планеты"/>
+    <answer flag="0" text="В Евразии находится - крупнейшая пустыня планеты"/>
+    <answer flag="0" text="Длинной рекой Европы является Днепр"/>
+  </question>
+  <question level="1" simple="True" text="Крайней восточной точкой Евразии являются:">
+    <answer flag="1" text="м. Дежнева"/>
+    <answer flag="0" text="м. Челюскин"/>
+    <answer flag="0" text="м. Пиай"/>
+  </question>
+  <question level="1" simple="True" text="Самым глубоким озером планеты являются:">
+    <answer flag="1" text="Байкал"/>
+    <answer flag="0" text="Лобнор"/>
+    <answer flag="0" text="Иссык-Куль"/>
+  </question>
+  <question level="1" simple="True" text="Большим по площади:">
+    <answer flag="1" text="Аравийский полуостров"/>
+    <answer flag="0" text="Скандинавский полуостров"/>
+    <answer flag="0" text="Пиренейский полуостров"/>
+  </question>
+  <question level="1" simple="True" text="На формирование климата каких частей Евразии имеют наибольшее влияние Индийский и Тихий океаны?">
+    <answer flag="0" text="Западной части континента"/>
+    <answer flag="0" text="Центральных частей материка"/>
+    <answer flag="1" text="Южной и Юго-Восточной Азии"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer flag="0" text="В Евразии распространены все природные зоны Северного полушария"/>
+    <answer flag="0" text="Смешанные и широколиственные леса наиболее распространены в западной части континента"/>
+    <answer flag="1" text="Наибольшее количество высотных поясов сформировалась на северных склонах Гималаев"/>
+  </question>
+  <question level="1" simple="True" text="Из перечисленных путешественников наибольший вклад в исследование Евразии сделал:">
+    <answer flag="1" text="Марко Поло"/>
+    <answer flag="0" text="Христофор Колумб"/>
+    <answer flag="0" text="Джеймс Кук"/>
+  </question>
+  <question level="1" simple="True" text="Среди мировых религий в западной части Евразии наиболее распространенной является:">
+    <answer flag="1" text="христианство"/>
+    <answer flag="0" text="буддизм"/>
+    <answer flag="0" text="ислам"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer flag="0" text="Китай - крупнейшая по численности населения страна мира"/>
+    <answer flag="1" text="В Индии меньше, чем в Китае плотность населения"/>
+    <answer flag="0" text="Индонезия - крупнейшая по численности населения мусульманская страна мира"/>
+  </question>
+  <question level="1" simple="True" text="Из перечисленных государств в группу высокоразвитых стран мира относятся:">
+    <answer flag="0" text="Китай"/>
+    <answer flag="1" text="Япония"/>
+    <answer flag="0" text="Сингапур"/>
+  </question>
+  <question level="1" simple="True" text="Большая часть разведанных запасов нефти мира сосредоточено:">
+    <answer flag="0" text="в регионе Каспийского моря"/>
+    <answer flag="0" text="на шельфе Северного моря"/>
+    <answer flag="1" text="в районе Персидского залива"/>
+  </question>
+</testing>

@@ -1,0 +1,40 @@
+<h1><%= @entry.testing.name %></h1>
+
+<% @entry.testing.questions.each do |question| %>
+
+  <div class="question">
+    <h4><%= question[:text] %></h4>
+    <br/>
+
+    <% if question[:simple] == 'False' %>
+
+      <ol type="1">
+      <% question.children.select {|ch| ch.name == 'answer' }.each do |answer| %>
+        <li><%= answer[:text] %></li>
+      <% end %>
+      </ol>
+
+      <ol type="a">
+      <% question.children.find {|ch| ch.name == 'variant' }.children.select(&:element?).each do |item| %>
+        <li><%= item[:text] %></li>
+      <% end %>
+      </ol>
+
+    <% else %>
+
+      <ol type="a">
+      <% question.children.select {|ch| ch.name == 'answer' }.each do |answer| %>
+        <li><%= answer[:text] %></li>
+      <% end %>
+      </ol>
+
+    <% end %>
+  </div>
+  <div class="correct-answer">
+    Answer: <%= Testing.correct_answers(question) %>
+  </div>
+
+<% end %>
+
+<br/>
+<%= render 'pager' %>

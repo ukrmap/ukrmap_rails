@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in terms of modernization.">
+  <question text="Most industrial enterprises in Ukraine during the years of industrialization was built in">
+    <answer flag="1" text="And five years"/>
+    <answer flag="0" text="Second Five-Year Plan"/>
+    <answer flag="0" text="Third Five-Year Plan"/>
+  </question>
+  <question text="Who was the first secretary of the CC CP (B) in 1928-1938 years?">
+    <answer flag="1" text="Lazar Kaganovich"/>
+    <answer flag="0" text="S. Kosior"/>
+    <answer flag="0" text="Nikita Khrushchev"/>
+  </question>
+  <question text="Year of the great fracture &quot;is a">
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1933"/>
+    <answer flag="0" text="1936"/>
+  </question>
+  <question text="In the 30 years the dominant method in art and literature was:">
+    <answer flag="0" text="critical realism"/>
+    <answer flag="1" text="socialist realism"/>
+    <answer flag="0" text="symbolism"/>
+  </question>
+  <question text="What is the main cause of the famine of 1932-1933 in Ukraine?">
+    <answer flag="0" text="drought and crop failure"/>
+    <answer flag="1" text="deliberate policy of the communist leadership of senior"/>
+    <answer flag="0" text="aggression against neighboring Ukraine"/>
+    <answer flag="0" text="failure of industrialization"/>
+  </question>
+  <question text="What is the congress of the CPSU (b) it was decided to collectivization?">
+    <answer flag="0" text="XIV"/>
+    <answer flag="1" text="XV"/>
+    <answer flag="0" text="XVI"/>
+  </question>
+  <question text="&quot;Stalin&quot; Constitution was adopted in the USSR">
+    <answer flag="0" text="1929"/>
+    <answer flag="0" text="1934"/>
+    <answer flag="0" text="1936"/>
+    <answer flag="1" text="1937"/>
+  </question>
+  <question text="What `s yatyrichka was in the words of Stalin time&quot; destroy religion &quot;?">
+    <answer flag="0" text="Home"/>
+    <answer flag="1" text="Second"/>
+    <answer flag="0" text="Third"/>
+  </question>
+  <question text="Grand opening held at Dnipro">
+    <answer flag="0" text="1930"/>
+    <answer flag="0" text="1931"/>
+    <answer flag="1" text="1932"/>
+  </question>
+  <question text="The main charge for Ukrainian leaders were">
+    <answer flag="1" text="bourgeois nationalism"/>
+    <answer flag="0" text="espionage"/>
+    <answer flag="0" text="wrecking"/>
+  </question>
+  <question text="Specify year course on the proclamation of total collectivization in the USSR.">
+    <answer flag="0" text="1919"/>
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1932"/>
+    <answer flag="0" text="1937"/>
+  </question>
+  <question text="Specify the lawsuit, which was sentenced to various terms of imprisonment Efremova, M. Slabchenko, I. Hermayze and other representatives of the Ukrainian intelligentsia.">
+    <answer flag="1" text="the right of the Union of Liberation of Ukraine &quot;"/>
+    <answer flag="0" text="&quot;Shakhtyns'ka right&quot;"/>
+    <answer flag="0" text="case &quot;Ukrainian National Center&quot;"/>
+    <answer flag="0" text="Case of Ukrainian military organization"/>
+  </question>
+</testing>

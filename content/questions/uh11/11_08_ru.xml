@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Религиозная жизнь в Украине в начале XXI в.">
+  <question level="1" simple="True" text="Какие две формы христианства издавна исповедует украинский народ?">
+    <answer flag="1" text="Православие"/>
+    <answer flag="0" text="Старообрядчество"/>
+    <answer flag="0" text="Римо-католицизм"/>
+    <answer flag="1" text="Греко-католицизм"/>
+  </question>
+  <question level="1" simple="True" text="В каком городе находится резиденция Верховного Архиепископа Украинской Греко-Католической Церкви?">
+    <answer flag="0" text="Киев"/>
+    <answer flag="0" text="Ужгород"/>
+    <answer flag="0" text="Тернополь"/>
+    <answer flag="1" text="Львов"/>
+  </question>
+  <question level="1" simple="True" text="На какие церкви делится украинское православие?">
+    <answer flag="1" text="УПЦ-КП"/>
+    <answer flag="0" text="УГКЦ"/>
+    <answer flag="1" text="УПЦ-МП"/>
+    <answer flag="1" text="УАПЦ"/>
+  </question>
+  <question level="1" simple="True" text="Кто утверждает греко-католицьго митрополита?">
+    <answer flag="0" text="Архиепископ Львовский и всех украинском"/>
+    <answer flag="0" text="Митрополит Киевский и всей Украины"/>
+    <answer flag="1" text="Папа Римский"/>
+  </question>
+  <question level="1" simple="True" text="В каких четырех областях католицизм имеет наибольшее влияние?">
+    <answer flag="1" text="Житомирской"/>
+    <answer flag="1" text="Тернопольской"/>
+    <answer flag="0" text="Киевской"/>
+    <answer flag="1" text="Винницкой"/>
+    <answer flag="0" text="Ровенской"/>
+    <answer flag="1" text="Хмельницкой"/>
+  </question>
+  <question level="1" simple="True" text="Какая протистантська община является самой влиятельной в Украине?">
+    <answer flag="0" text="Адвентисты"/>
+    <answer flag="0" text="Пятидесятники"/>
+    <answer flag="0" text="Лютеране"/>
+    <answer flag="0" text="Реформаторы"/>
+    <answer flag="1" text="Баптисты"/>
+  </question>
+  <question level="1" simple="True" text="Представители каких национальных меньшинств Украины исповедуют лютеранство?">
+    <answer flag="0" text="Армяне"/>
+    <answer flag="1" text="Немцы"/>
+    <answer flag="1" text="Латыши"/>
+    <answer flag="0" text="Поляки"/>
+    <answer flag="0" text="Венгры"/>
+  </question>
+  <question level="1" simple="True" text="В каком регионе Украины наиболее распространен ислам?">
+    <answer flag="0" text="Одесщина"/>
+    <answer flag="0" text="Донетчина"/>
+    <answer flag="1" text="Крым"/>
+  </question>
+</testing>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The political structure of the world">
+  <question text="Public education, delegate its foreign policy (and sometimes domestic) as a sovereign state, called">
+    <answer flag="0" text="colonies"/>
+    <answer flag="1" text="protectorates"/>
+    <answer flag="0" text="Trust Territories"/>
+    <answer flag="0" text="vassalage"/>
+  </question>
+  <question text="Union State, which includes self-governing territory, with definite political and economic independence, but some issues (defense, foreign policy, financial activities, etc.) are within the competence of national authorities, it">
+    <answer flag="1" text="Federation"/>
+    <answer flag="0" text="confederation"/>
+    <answer flag="0" text="unitary state"/>
+    <answer flag="0" text="union"/>
+  </question>
+  <question text="Generally accepted criterion for determining the level of economic development is">
+    <answer flag="0" text="size of the territory"/>
+    <answer flag="1" text="the gross domestic product per capita"/>
+    <answer flag="0" text="natural resource endowment"/>
+    <answer flag="0" text="sectoral structure of economy"/>
+  </question>
+  <question text="&quot;Banana Republic&quot; referred to countries that">
+    <answer flag="1" text="export to world markets one or two types of products"/>
+    <answer flag="0" text="is a major supplier of bananas in the world market"/>
+    <answer flag="0" text="are the largest importers of bananas"/>
+    <answer flag="0" text="have the largest banana plantations"/>
+  </question>
+  <question text="Specify the group of countries that make up the Big Eight">
+    <answer flag="0" text="U.S., Japan, Germany, France, Britain, Italy, China, Russia"/>
+    <answer flag="0" text="U.S., Japan, Germany, France, Britain, Brazil, Canada, Russia"/>
+    <answer flag="0" text="U.S., Russia, Japan, Germany, France, Britain, Brazil, Italy"/>
+    <answer flag="1" text="U.S., Japan, Germany, France, Britain, Italy, Japan, Russia"/>
+  </question>
+  <question text="How many states - former Soviet republics are part of the CIS?">
+    <answer flag="0" text="10"/>
+    <answer flag="1" text="12"/>
+    <answer flag="0" text="15"/>
+    <answer flag="0" text="11"/>
+  </question>
+  <question text="Check the state - the former Soviet republics that are not members of the CIS">
+    <answer flag="1" text="Lithuania"/>
+    <answer flag="1" text="Latvia"/>
+    <answer flag="0" text="Moldavia"/>
+    <answer flag="1" text="Estonia"/>
+  </question>
+  <question text="For the centrally managed economy are not typical">
+    <answer flag="1" text="developed mechanisms for self-management"/>
+    <answer flag="0" text="high level of socialization of production"/>
+    <answer flag="1" text="objective allocation and management of resources"/>
+    <answer flag="1" text="minimal government interference in the activities of economic entities"/>
+  </question>
+  <question text="In what year was formed by the United Nations?">
+    <answer flag="1" text="In 1945"/>
+    <answer flag="0" text="In 1991"/>
+    <answer flag="0" text="In 1980,"/>
+    <answer flag="0" text="In 1914,"/>
+  </question>
+  <question text="Permanent members of UN Security Council are">
+    <answer flag="1" text="U.S., Russia, Britain, France, China"/>
+    <answer flag="0" text="U.S., Russia, Germany, France, China"/>
+    <answer flag="0" text="U.S., Russia, Britain, France, Japan"/>
+    <answer flag="0" text="U.S., Russia, Britain, France, China, Germany, Japan"/>
+  </question>
+  <question text="UNESCO Headquarters in">
+    <answer flag="0" text="Moscow"/>
+    <answer flag="0" text="Brussels"/>
+    <answer flag="0" text="New York"/>
+    <answer flag="1" text="Paris"/>
+  </question>
+  <question text="Which of the states included in the Big Eight, but are not permanent members of UN Security Council?">
+    <answer flag="1" text="Germany"/>
+    <answer flag="1" text="Italy"/>
+    <answer flag="0" text="France"/>
+    <answer flag="1" text="Japan"/>
+    <answer flag="0" text="United Kingdom"/>
+    <answer flag="0" text="Russia"/>
+  </question>
+</testing>

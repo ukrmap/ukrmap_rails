@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ethnic groups">
+  <question level="1" simple="True" text="In the region of Ukraine, representatives of the titular nation is not a predominant ethnos?">
+    <answer flag="0" text="Odessa regions"/>
+    <answer flag="0" text="Donbass"/>
+    <answer flag="0" text="Kyiv region"/>
+    <answer flag="1" text="Crimea"/>
+  </question>
+  <question level="1" simple="True" text="What ethnographic group of Ukrainian Chernihiv lives?">
+    <answer flag="0" text="Polishchuk"/>
+    <answer flag="0" text="Boyko"/>
+    <answer flag="0" text="Hutsuls"/>
+    <answer flag="1" text="Litvin"/>
+  </question>
+  <question level="1" simple="True" text="In which areas Boyko live?">
+    <answer flag="0" text="Brussels"/>
+    <answer flag="1" text="Ivano-Frankivsk"/>
+    <answer flag="1" text="Lviv"/>
+    <answer flag="0" text="Rivne"/>
+  </question>
+  <question level="1" simple="True" text="Representatives whom three are the largest minority in London?">
+    <answer flag="1" text="Belarusians"/>
+    <answer flag="0" text="Moldovan"/>
+    <answer flag="0" text="Poles"/>
+    <answer flag="1" text="Jews"/>
+    <answer flag="1" text="Russians"/>
+  </question>
+  <question level="1" simple="True" text="How many representatives of other nationalities (according to the Census 2001) living in our country?">
+    <answer flag="0" text="More than 7.5 million"/>
+    <answer flag="1" text="More than 10.5 million"/>
+    <answer flag="0" text="More than 12.5 million"/>
+  </question>
+  <question level="1" simple="True" text="In what cities are a major ethnic groups are the Poles?">
+    <answer flag="0" text="Exactly"/>
+    <answer flag="1" text="Zhitomir"/>
+    <answer flag="0" text="Vinnitsa"/>
+    <answer flag="1" text="Inc"/>
+    <answer flag="0" text="Luck"/>
+    <answer flag="1" text="Lviv"/>
+  </question>
+</testing>

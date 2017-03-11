@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Українські землі в роки Першої світової війни">
+  <question text="Коли розпочалася Перша світова війна?">
+    <answer flag="0" text="1913 р."/>
+    <answer flag="1" text="1914 р."/>
+    <answer flag="0" text="1915 р."/>
+    <answer flag="0" text="1916 р."/>
+  </question>
+  <question text="У якому році війна торкнулась українських земель?">
+    <answer flag="0" text="1913 р."/>
+    <answer flag="1" text="1914 р."/>
+    <answer flag="0" text="1915 р."/>
+    <answer flag="0" text="1916 р."/>
+  </question>
+  <question text="&quot;Брусиловський прорив&quot; був здійснений російськими військами у">
+    <answer flag="0" text="1913 р."/>
+    <answer flag="0" text="1914 р."/>
+    <answer flag="0" text="1915 р."/>
+    <answer flag="1" text="1916 р."/>
+  </question>
+  <question text="До якої армії було мобілізовано більше українців?">
+    <answer flag="1" text="до російської"/>
+    <answer flag="0" text="до австро-угорської"/>
+    <answer flag="0" text="до німецької"/>
+    <answer flag="0" text="до української"/>
+  </question>
+  <question text="У складі якої армії було створено легіон Українських січових стрільців?">
+    <answer flag="0" text="російської"/>
+    <answer flag="1" text="австро-угорської"/>
+    <answer flag="0" text="німецької"/>
+    <answer flag="0" text="французької"/>
+  </question>
+  <question text="Переважно яким було ставлення українського населення Галичини до вступу на територію краю російських військ?">
+    <answer flag="1" text="позитивним"/>
+    <answer flag="0" text="негативним"/>
+    <answer flag="0" text="нейтральним"/>
+  </question>
+  <question text="Як називалась адміністративна одиниця створена росіянами після загарбання Західної України 1914 р.?">
+    <answer flag="0" text="Галицька губернія"/>
+    <answer flag="1" text="Галицько-Буковинське генерал-губернаторство"/>
+    <answer flag="0" text="“Королівство Руське”"/>
+    <answer flag="0" text="Коронний край"/>
+    <answer flag="0" text="Галицько-Волинське губернаторство"/>
+  </question>
+  <question text="Головна Українська Рада (ГУР) закликала українців підтримати у війні:">
+    <answer flag="0" text="Росію"/>
+    <answer flag="1" text="Австро-Угорщину"/>
+    <answer flag="0" text="Англію і Францію"/>
+    <answer flag="0" text="Німеччину"/>
+  </question>
+  <question text="Лідерами СВУ були:">
+    <answer flag="0" text="С.Петлюра, В.Винниченко"/>
+    <answer flag="1" text="Д.Донцов, В.Дорошенко, М.Меленевський"/>
+    <answer flag="0" text="М.Грушевський, Є.Чикаленко"/>
+    <answer flag="0" text="А.Шептицький, В.Донцов"/>
+  </question>
+  <question text="Які фронти російської армії проходили українськими землями?">
+    <answer flag="0" text="Західний"/>
+    <answer flag="1" text="Південно-Західний"/>
+    <answer flag="0" text="Південний"/>
+    <answer flag="0" text="Північний"/>
+    <answer flag="1" text="Румунський"/>
+  </question>
+  <question text="Автором статті “Війна і українці” був:">
+    <answer flag="0" text="М.Грушевський"/>
+    <answer flag="1" text="С.Петлюра"/>
+    <answer flag="0" text="В.Винниченко"/>
+    <answer flag="0" text="М.Міхновський"/>
+    <answer flag="0" text="А.Шептицький"/>
+  </question>
+  <question text="Останній наступ російської армії в Галичині у роки Першої світової війни відбувся">
+    <answer flag="0" text="влітку 1916 р."/>
+    <answer flag="1" text="влітку 1917 р."/>
+    <answer flag="0" text="влітку 1918 р."/>
+    <answer flag="0" text="восени 1918 р."/>
+  </question>
+</testing>

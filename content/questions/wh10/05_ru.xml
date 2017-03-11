@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Центральной и Восточной Европы">
+  <question text="Независимость Польской республики была провозглашена в">
+    <answer flag="0" text="1917"/>
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+  </question>
+  <question text="Титулом &quot;вождь государства&quot; пользовался">
+    <answer flag="1" text="Ю. Пилсудский"/>
+    <answer flag="0" text="И. Мосцицький"/>
+    <answer flag="0" text="Э. Рыдз-Смиглы"/>
+  </question>
+  <question text="Послевоенные границы Польши были окончательно определены в">
+    <answer flag="0" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1923"/>
+  </question>
+  <question text="Польша в 20-30-е годы имела территориальные проблемы с">
+    <answer flag="1" text="всеми своими соседями"/>
+    <answer flag="0" text="Литвой и СССР"/>
+    <answer flag="0" text="Литвой и ЧСР"/>
+  </question>
+  <question text="Когда в Польше был установлен режим &quot;санации&quot;?">
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="1" text="1926"/>
+  </question>
+  <question text="Чехословакия была образована в">
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+  </question>
+  <question text="Первым президентом ЧСР стал">
+    <answer flag="0" text="К. Генляйн"/>
+    <answer flag="0" text="Э. Бенеш"/>
+    <answer flag="1" text="Т. Масарик"/>
+    <answer flag="0" text="Г. Гаха"/>
+  </question>
+  <question text="Чехословакия была расчленена соседними государствами и окончательно прекратила свое существование в">
+    <answer flag="0" text="1938"/>
+    <answer flag="1" text="1939"/>
+    <answer flag="0" text="1941"/>
+  </question>
+  <question text="Когда в Венгрии существовала советская власть?">
+    <answer flag="0" text="В 1918 г."/>
+    <answer flag="1" text="В 1919 г."/>
+    <answer flag="0" text="В 1920 г."/>
+  </question>
+  <question text="Какая из представленных стран понесла наибольшие территориальные потери по результатам Первой мировой войны?">
+    <answer flag="1" text="Венгрия"/>
+    <answer flag="0" text="Болгария"/>
+    <answer flag="0" text="Румыния"/>
+  </question>
+  <question text="Диктаторский режим генерала И. Антонеску действовал">
+    <answer flag="1" text="в Румынии"/>
+    <answer flag="0" text="в Болгарии"/>
+    <answer flag="0" text="в Венгрии"/>
+  </question>
+  <question text="Владайське восстания 1918 г. произошло в">
+    <answer flag="0" text="Румынии"/>
+    <answer flag="1" text="Болгарии"/>
+    <answer flag="0" text="Венгрии"/>
+    <answer flag="0" text="Югославии"/>
+  </question>
+</testing>

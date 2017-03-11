@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЕМЛЯ НА ПЛАНІ ТА КАРТІ">
+  <question level="1" simple="True" text="Що в перекладі з латинської означає слово &quot;глобус&quot;?">
+    <answer flag="1" text="Куля"/>
+    <answer flag="0" text="Макет"/>
+    <answer flag="0" text="Модель"/>
+    <answer flag="0" text="Землеподібний"/>
+  </question>
+  <question level="1" simple="True" text="Як на глобусі чи карті називається сітка меридіанів та паралелей?">
+    <answer flag="0" text="Паралельна"/>
+    <answer flag="0" text="Прямокутна"/>
+    <answer flag="0" text="Меридіанна"/>
+    <answer flag="1" text="Градусна"/>
+  </question>
+  <question level="1" simple="True" text="Як називається уявна лінія на поверхні Землі, рівновіддалена від полюсів?">
+    <answer flag="1" text="Екватор"/>
+    <answer flag="0" text="Меридіан"/>
+    <answer flag="0" text="Тропік"/>
+  </question>
+  <question level="1" simple="True" text="Що є початком відліку географічної широти?">
+    <answer flag="0" text="Північний полюс"/>
+    <answer flag="0" text="Південний полюс"/>
+    <answer flag="1" text="Екватор"/>
+    <answer flag="0" text="Ґринвіцький меридіан"/>
+  </question>
+  <question level="1" simple="True" text="Які твердження є правильними?">
+    <answer flag="1" text="Екватор – найдовша паралель"/>
+    <answer flag="1" text="Від Ґринвіцького меридіану здійснюється відлік географічної довготи"/>
+    <answer flag="0" text="Довжина всіх паралелей збільшується в напрямку від екватора до полюсів"/>
+  </question>
+  <question level="1" simple="True" text="Які точки на земній поверхні не мають географічної довготи?">
+    <answer flag="0" text="Розташовані на Ґринвіцькому меридіані"/>
+    <answer flag="1" text="Розташовані на екваторі"/>
+    <answer flag="0" text="Географічні полюси Землі"/>
+    <answer flag="0" text="Магнітні полюси Землі"/>
+  </question>
+  <question level="1" simple="True" text="Які з ознак вказують на північ?">
+    <answer flag="1" text="Мох на одному боці стовбура"/>
+    <answer flag="0" text="Більш пологий схил мурашника"/>
+    <answer flag="1" text="Коротше гілля з одного боку дерева, аніж з іншого"/>
+    <answer flag="1" text="Полярна зоря"/>
+  </question>
+  <question level="1" simple="True" text="У якому напрямі завжди вказує стрілка  компаса?">
+    <answer flag="0" text="У бік Північного географічного полюса Землі"/>
+    <answer flag="1" text="У бік Північного магнітного полюса Землі"/>
+    <answer flag="0" text="У бік Південного географічного полюса Землі"/>
+    <answer flag="0" text="У бік Південного магнітного полюса Землі"/>
+  </question>
+  <question level="1" simple="True" text="Якщо стати обличчям на південь, то ">
+    <answer flag="1" text="позаду буде північ"/>
+    <answer flag="0" text="праворуч буде схід"/>
+    <answer flag="1" text="схід буде ліворуч"/>
+  </question>
+  <question level="1" simple="True" text="Як правильно визначити азимут?">
+    <answer flag="0" text="Від південного напрямку до будь-якого предмету за ходом годинникової стрілки"/>
+    <answer flag="0" text="Від південного напрямку до будь-якого предмету проти ходу годинникової стрілки"/>
+    <answer flag="1" text="Від північного напрямку до будь-якого предмету за ходом годинникової стрілки"/>
+    <answer flag="0" text="Від північного напрямку до будь-якого предмету проти ходу годинникової стрілки"/>
+  </question>
+  <question level="1" simple="True" text="Які з азимутів визначені правильно?">
+    <answer flag="1" text="Азимут південного напрямку становить 180°"/>
+    <answer flag="1" text="Азимут північного напрямку становить 0°"/>
+    <answer flag="1" text="Азимут східного напрямку становить 90°"/>
+    <answer flag="0" text="Азимут західного напрямку становить 360°"/>
+  </question>
+  <question level="1" simple="True" text="Як має бути зорієнтований планшет під час окомірного знімання? ">
+    <answer flag="0" text="Верхнім краєм на південь"/>
+    <answer flag="1" text="Верхнім краєм на північ"/>
+    <answer flag="0" text="Верхнім краєм схід"/>
+    <answer flag="0" text="Довільно"/>
+  </question>
+  <question level="1" simple="True" text="Як називається висота об'єкта над рівнем моря?">
+    <answer flag="0" text="Відносна висота"/>
+    <answer flag="0" text="Умовна висота"/>
+    <answer flag="1" text="Абсолютна висота"/>
+  </question>
+  <question level="1" simple="True" text="Які твердження є неправильними? ">
+    <answer flag="0" text="На карті територія зображується дещо спотвореною"/>
+    <answer flag="1" text="На одному плані можна зобразити всю поверхню Землі"/>
+    <answer flag="1" text="На карті територія зображена точніше ніж на плані"/>
+    <answer flag="1" text="На плані можна зобразити більшу територію ніж на карті"/>
+  </question>
+  <question level="1" simple="True" text="Як називають масштаб, записаний у вигляді дробового числа, чисельник якого одиниця, а знаменник – число, яке вказує у скільки разів зменшено зображення? ">
+    <answer flag="0" text="Іменованим"/>
+    <answer flag="0" text="Дробовим"/>
+    <answer flag="1" text="Числовим або чисельним"/>
+    <answer flag="0" text="Графічним"/>
+  </question>
+  <question level="1" simple="True" text="Карти, 1 см яких відповідає до 2 км на місцевості, відносяться до категорії  ">
+    <answer flag="0" text="середньомасштабних"/>
+    <answer flag="1" text="великомасштабних"/>
+    <answer flag="0" text="дрібномасштабних"/>
+  </question>
+  <question level="1" simple="True" text="Яке твердження є неправильним? ">
+    <answer flag="1" text="План враховує кулясту форму Землі"/>
+    <answer flag="0" text="Карта враховує кулясту форму Землі"/>
+    <answer flag="0" text="Чим більший знаменник масштабу, тим дрібніший масштаб"/>
+  </question>
+  <question level="1" simple="True" text="На скільки основних груп поділяються всі умовні знаки топографічних планів та карт? ">
+    <answer flag="1" text="на 4"/>
+    <answer flag="0" text="на 2"/>
+    <answer flag="0" text="на 5"/>
+    <answer flag="0" text="на 3"/>
+  </question>
+  <question level="1" simple="True" text="Які твердження є правильними? ">
+    <answer flag="1" text="Контурні умовні знаки передають дійсну форму об’єкта"/>
+    <answer flag="1" text="Лінійні умовні знаки довжину об’єкта передають у масштабі"/>
+    <answer flag="0" text="Чим крупніший масштаб, тим більший знаменник масштабу"/>
+  </question>
+  <question level="1" simple="True" text="Значкові умовні знаки ">
+    <answer flag="0" text="передають дійсну форму та розміри об'єкта в масштабі плану"/>
+    <answer flag="0" text="використовують для зображення лінійних об'єктів"/>
+    <answer flag="1" text="застосовуються тоді, коли форма об'єкта, через свій малий розмір, не може бути відображена у масштабі"/>
+  </question>
+  <question level="1" simple="True" text="Чому дорівнює знаменник масштабу, якщо 1 см карти відповідає 100 м на місцевості?">
+    <answer flag="0" text="100"/>
+    <answer flag="0" text="1000"/>
+    <answer flag="1" text="10 000"/>
+  </question>
+  <question level="1" simple="True" text="Горизонталі це">
+    <answer flag="0" text="лінії, що з’єднують точки місцевості з однаковою відносною висотою"/>
+    <answer flag="0" text="лінії, що з’єднують найвищі точки місцевості "/>
+    <answer flag="1" text="лінії, що з’єднують точки місцевості з однаковою абсолютною висотою"/>
+  </question>
+  <question level="1" simple="True" text="Що є ознакою значної крутості схилу на карті?">
+    <answer flag="0" text="Горизонталі розташовуються далеко одна від одної"/>
+    <answer flag="0" text="Горизонталі дуже звивисті"/>
+    <answer flag="1" text="Горизонталі розташовуються близько одна від одної"/>
+  </question>
+  <question level="1" simple="True" text="Як правильно розміщувати бергштрихи на карті?">
+    <answer flag="0" text="Вільним кінцем у бік підвищення рельєфу"/>
+    <answer flag="1" text="Вільним кінцем у бік зниження рельєфу"/>
+    <answer flag="0" text="Завжди вільним кінцем у напрямку до найближчого моря"/>
+  </question>
+</testing>

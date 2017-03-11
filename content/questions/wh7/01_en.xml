@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Birth of Medieval Europe">
+  <question text="Migration began an invasion from the east on the Black Sea Turkic tribes">
+    <answer flag="0" text="Alanya"/>
+    <answer flag="0" text="Goths"/>
+    <answer flag="1" text="Hun"/>
+    <answer flag="0" text="Vandal"/>
+  </question>
+  <question text="Year of the fall of the Western Roman Empire is">
+    <answer flag="0" text="395 was"/>
+    <answer flag="0" text="410 was"/>
+    <answer flag="0" text="455 was"/>
+    <answer flag="1" text="476"/>
+  </question>
+  <question text="In 493 proclaimed himself &quot;King of the Goths and Italics&quot; and founded the kingdom Osthotske">
+    <answer flag="0" text="Odoacer"/>
+    <answer flag="1" text="Theodoric"/>
+    <answer flag="0" text="Geyser"/>
+    <answer flag="0" text="Romulus Avhustul"/>
+  </question>
+  <question text="Frankish kingdom formed as a result of the conquest of the Franks">
+    <answer flag="1" text="Northern Gaul"/>
+    <answer flag="0" text="North Africa"/>
+    <answer flag="0" text="Iberian Peninsula"/>
+    <answer flag="0" text="Apennine peninsula"/>
+  </question>
+  <question text="Fertile land in the southwestern part of the Arabian Peninsula called">
+    <answer flag="0" text="Najd"/>
+    <answer flag="0" text="Bahrain"/>
+    <answer flag="1" text="Yemen"/>
+    <answer flag="0" text="Hijaz"/>
+  </question>
+  <question text="In 732, the further advancement of the Arabs - the conquerors of Europe was stopped at the Battle of the Franks">
+    <answer flag="0" text="Toledo"/>
+    <answer flag="1" text="Poitiers"/>
+    <answer flag="0" text="Zaragoza"/>
+    <answer flag="0" text="Paris"/>
+  </question>
+  <question text="Byzantine Emperor Justinian ruled in">
+    <answer flag="0" text="V cent."/>
+    <answer flag="1" text="VI."/>
+    <answer flag="0" text="Article VII."/>
+    <answer flag="0" text="Article VIII."/>
+  </question>
+  <question text="The brothers Cyril and Methodius preached the Christian faith in">
+    <answer flag="0" text="Kievan Rus"/>
+    <answer flag="0" text="Khazar Khanate"/>
+    <answer flag="1" text="Velykomoravskiy State"/>
+  </question>
+  <question text="The longest war was the conquest of Charlemagne by Germanic tribes">
+    <answer flag="0" text="Lombard"/>
+    <answer flag="1" text="Saxons"/>
+    <answer flag="0" text="Bavarians"/>
+    <answer flag="0" text="CHF"/>
+  </question>
+  <question text="Charlemagne was crowned with the imperial crown and proclaimed Roman Emperor in">
+    <answer flag="0" text="788 was"/>
+    <answer flag="1" text="800 was"/>
+    <answer flag="0" text="803 was"/>
+    <answer flag="0" text="814 was"/>
+  </question>
+  <question text="The first attack on the British coast Norman was">
+    <answer flag="0" text="750 was"/>
+    <answer flag="1" text="793 was"/>
+    <answer flag="0" text="937 was"/>
+    <answer flag="0" text="1078"/>
+  </question>
+  <question text="A decisive battle between the armies of Norman Duke William and King Harald held June 14, 1066 under">
+    <answer flag="0" text="London"/>
+    <answer flag="0" text="Dover"/>
+    <answer flag="1" text="Hastings"/>
+    <answer flag="0" text="Oxford"/>
+  </question>
+</testing>

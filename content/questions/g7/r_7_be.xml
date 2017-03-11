@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Антарктыдзе">
+  <question level="1" simple="True" text="Першымі пакарылі Паўднёвы полюс:">
+    <answer flag="1" text="Роберт Скот і Руаль Амундсен"/>
+    <answer flag="0" text="Фадзей Беллинсгаузен і Міхаіл Лазараў"/>
+    <answer flag="0" text="Уільям Сміт"/>
+  </question>
+  <question level="1" simple="True" text="Вобласць зямнога шара, якая аб'ядноўвае мацярык Антарктыду разам з прыбярэжнымі акіянічнымі водамі і прылеглымі выспамі, завуць:">
+    <answer flag="0" text="Полюс холаду"/>
+    <answer flag="1" text="Антарктыка"/>
+    <answer flag="0" text="Арктыка"/>
+  </question>
+  <question level="1" simple="True" text="Дзеючым вулканам Антарктыды з'яўляюцца:">
+    <answer flag="1" text="Эребус"/>
+    <answer flag="0" text="Эльбрус"/>
+    <answer flag="0" text="Этна"/>
+  </question>
+  <question level="1" simple="True" text="Вышэйшая кропка Антарктыды знаходзіцца:">
+    <answer flag="1" text="у гарах Элсуэрт"/>
+    <answer flag="0" text="у трансантарктычны горах"/>
+    <answer flag="0" text="на вулкане Эребус"/>
+  </question>
+  <question level="1" simple="True" text="Айсберга завуць:">
+    <answer flag="1" text="мацерыковы лёд, спаўзае ў ваду і ўтварае плывучыя крыгі"/>
+    <answer flag="0" text="буйныя крыгі, узнімальныя са дна акіяна"/>
+    <answer flag="0" text="лёд, які ўтвараецца ў выніку замярзання паверхневых вод"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Антарктыда - адзіны мацярык, цалкам знаходзіцца ў палярных шыротах"/>
+    <answer flag="0" text="З усіх кантынентаў Антарктыда была адкрыта апошняй"/>
+    <answer flag="1" text="Антарктыда - самы маленькі мацярык"/>
+  </question>
+  <question level="1" simple="True" text="Самая нізкая тэмпература на планеце - 89,2 ° С зафіксавана на антарктычнай станцыі:">
+    <answer flag="0" text="Акадэмік Вярнадскі (Украіна)"/>
+    <answer flag="1" text="Ўсход (Расія)"/>
+    <answer flag="0" text="Амундсен - Скот (ЗША)"/>
+  </question>
+  <question level="1" simple="True" text="Халоднае паветра, якая сцякае з цэнтральных абласцей да краёў мацерыка Антарктыды, фармуе:">
+    <answer flag="1" text="стоковые вятры"/>
+    <answer flag="0" text="пасаты"/>
+    <answer flag="0" text="пырскі"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Антарктыда - самы высокі мацярык Зямлі"/>
+    <answer flag="1" text="Антарктыда - гэта архіпелаг"/>
+    <answer flag="0" text="Частка Антарктыды знаходзіцца за межамі Паўднёвага палярнага круга"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца правільным?">
+    <answer flag="1" text="У Антарктыдзе знаходзіцца найбуйнейшы шэльфавых ледавік у свеце"/>
+    <answer flag="0" text="У Антарктыдзе вядзецца інтэнсіўная здабыча карысных выкапняў"/>
+    <answer flag="0" text="Жыццё большасці жывёл Антарктыды звязана з цэнтральнай часткай мацерыка"/>
+  </question>
+  <question level="1" simple="True" text="Плошча Антарктыды складае:">
+    <answer flag="0" text="7600000 кв. км"/>
+    <answer flag="1" text="14100000 кв. км"/>
+    <answer flag="0" text="30000000 кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="У Антарктыдзе засяроджана 4 / 5 прэснай вады свету, закансерваванай ў ледніках."/>
+    <answer flag="0" text="Вільготнасць паветра ў многіх месцах Антарктыды ніжэй, чым у гарачых пустынях планеты"/>
+    <answer flag="1" text="Антарктыда цалкам ляжыць за Паўднёвым палярным кругам"/>
+  </question>
+</testing>

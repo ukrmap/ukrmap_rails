@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Развіццё культуры">
+  <question text="Дамінуючай мастацкай цягам ў СССР быў">
+    <answer flag="0" text="рэалізм"/>
+    <answer flag="0" text="крытычны рэалізм"/>
+    <answer flag="1" text="сацыялістычны рэалізм"/>
+  </question>
+  <question text="У якой групе краін сфера культуры ў 20-30-я гады была пад поўным кантролем дзяржавы?">
+    <answer flag="1" text="Германіі, Італіі, СССР"/>
+    <answer flag="0" text="Англіі, Францыі, ЗША"/>
+    <answer flag="0" text="Польшчы, Венгрыі, Румыніі"/>
+  </question>
+  <question text="Створаная В. Гроппиусом ў Нямеччыне школа Баўхаўс вызначала новыя тэндэнцыі развіцця">
+    <answer flag="0" text="літаратуры"/>
+    <answer flag="0" text="жывапісу"/>
+    <answer flag="1" text="архітэктуры"/>
+  </question>
+  <question text="С. Далі быў заснавальнікам">
+    <answer flag="0" text="рэалізму"/>
+    <answer flag="1" text="сюррэалізму"/>
+    <answer flag="0" text="сацыялістычнага рэалізму"/>
+    <answer flag="0" text="крытычнага рэалізму"/>
+  </question>
+  <question text="Цэнтрам вытворчасці кінафільмаў ў ЗША ў 30-я гады стаў">
+    <answer flag="0" text="Чыкага"/>
+    <answer flag="0" text="Нью-Ёрк"/>
+    <answer flag="1" text="Галівуд"/>
+  </question>
+  <question text="Найбольш палітызаваным Алімпіядай у 20-30-я гады стала Алімпіяда ў">
+    <answer flag="0" text="Парыжы"/>
+    <answer flag="1" text="Берліне"/>
+    <answer flag="0" text="Лос-Анджэлесе"/>
+  </question>
+  <question text="Кіч - гэта">
+    <answer flag="1" text="масавая прадукцыя, разлічаная на знешні эфект"/>
+    <answer flag="0" text="разнавіднасць масавай культуры"/>
+    <answer flag="0" text="новы від эстраднага жанру"/>
+  </question>
+  <question text="Які новы сродак масавай інфармацыі стаў шырока прымяняцца ў 20-30-я гады?">
+    <answer flag="0" text="Газеты"/>
+    <answer flag="0" text="Часопісы"/>
+    <answer flag="1" text="Радыё"/>
+    <answer flag="0" text="Кіно"/>
+  </question>
+  <question text="Для масавай культуры краін з таталітарнымі рэжымамі характэрны">
+    <answer flag="1" text="пропагандизм"/>
+    <answer flag="0" text="падкантрольнасць"/>
+    <answer flag="0" text="дэмакратызм, раскаванасць"/>
+  </question>
+  <question text="Якую асноўную ролю гуляла масавая культура ў таталітарных дзяржавах?">
+    <answer flag="0" text="Забаўляльную"/>
+    <answer flag="1" text="Ідэалагічную"/>
+    <answer flag="0" text="Выхаваўчую"/>
+  </question>
+  <question text="Мастацтва, якое зводзілася да пэўнага суадносін ліній і постацяў, атрымала назву">
+    <answer flag="1" text="абстракцыянізм"/>
+    <answer flag="0" text="декаденство"/>
+    <answer flag="0" text="сюррэалізм"/>
+  </question>
+  <question text="У якой краіне ў 20-30-я гады адбылася &quot;культурная рэвалюцыя&quot;?">
+    <answer flag="0" text="Германія"/>
+    <answer flag="0" text="Італія"/>
+    <answer flag="1" text="СССР"/>
+  </question>
+</testing>

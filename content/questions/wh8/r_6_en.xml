@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Moscow State in XVI - XVII century.">
+  <question level="1" simple="True" text="During whose reign the king of the territory of the Moscow State increased the most?">
+    <answer flag="0" text="Basil III"/>
+    <answer flag="1" text="Ivan IV"/>
+    <answer flag="0" text="And Theodore"/>
+    <answer flag="0" text="Boris Godunov"/>
+  </question>
+  <question level="1" simple="True" text="Specify the beginning and end of year Livonian War:">
+    <answer flag="0" text="1547-1564"/>
+    <answer flag="0" text="1552-1572"/>
+    <answer flag="1" text="1558-1583"/>
+    <answer flag="0" text="1572-1598"/>
+  </question>
+  <question level="1" simple="True" text="Which of these states was destroyed by Ivan IV?">
+    <answer flag="1" text="Siberian Khanate"/>
+    <answer flag="1" text="Kazan Khanate"/>
+    <answer flag="0" text="Crimean Khanate"/>
+    <answer flag="1" text="Astrakhan Khanate"/>
+    <answer flag="0" text="Hivynske Khanate"/>
+    <answer flag="1" text="Livonian Order"/>
+    <answer flag="0" text="Duchy of Prussia"/>
+  </question>
+  <question level="1" simple="True" text="What events happened before?">
+    <answer flag="1" text="Top Livonian War"/>
+    <answer flag="0" text="Union of Lublin"/>
+  </question>
+  <question level="1" simple="True" text="Which of these events in the world occurred in the reign of Ivan IV?">
+    <answer flag="1" text="second round the world F. Drake"/>
+    <answer flag="1" text="&quot;Massacre of St. Bartholomew in Paris"/>
+    <answer flag="0" text="the civil war in France"/>
+    <answer flag="0" text="death &quot;invincible armada&quot;"/>
+    <answer flag="0" text="rebellion iconoclast in the Netherlands"/>
+  </question>
+  <question level="1" simple="True" text="Which state has departed most possessions because of the Livonian Order Livonian War?">
+    <answer flag="0" text="Sweden"/>
+    <answer flag="1" text="Rzeczpospolita"/>
+    <answer flag="0" text="Moscow State"/>
+    <answer flag="0" text="Duchy of Prussia"/>
+  </question>
+  <question level="1" simple="True" text="In 1606 - 1607 Famine in the Muscovite state was a revolt led by:">
+    <answer flag="1" text="John Bolotnikova"/>
+    <answer flag="0" text="Stepan Razin"/>
+  </question>
+  <question level="1" simple="True" text="Which is sad for the city was formed during the second militia headed by Minin and D. K. Pozharsky?">
+    <answer flag="0" text="Kostroma"/>
+    <answer flag="0" text="Yaroslavl"/>
+    <answer flag="1" text="Nizhny Novgorod"/>
+    <answer flag="0" text="Tula"/>
+  </question>
+  <question level="1" simple="True" text="Which country has Deulynsku Moscow State agreement?">
+    <answer flag="0" text="Sweden"/>
+    <answer flag="1" text="Rzeczpospolita"/>
+    <answer flag="0" text="Duchy of Prussia"/>
+    <answer flag="0" text="Crimean Khanate"/>
+  </question>
+  <question level="1" simple="True" text="When a Muscovite state began the Romanov dynasty?">
+    <answer flag="0" text="1612"/>
+    <answer flag="1" text="1613"/>
+    <answer flag="0" text="1614"/>
+    <answer flag="0" text="1615"/>
+  </question>
+  <question level="1" simple="True" text="What king of Moscow first to use the title &quot;God's mercy great ruler, the King and the Great Prince of All the Great and Little Russia czar&quot;?">
+    <answer flag="0" text="Vasily III"/>
+    <answer flag="0" text="Ivan IV"/>
+    <answer flag="0" text="Mikhail Romanov"/>
+    <answer flag="1" text="Alexis"/>
+  </question>
+  <question level="1" simple="True" text="Trip to Moscow in 1618 the Ukrainian Cossacks led by P. Konashevich Sagaidachnogo-ended:">
+    <answer flag="0" text="winning Moscow"/>
+    <answer flag="1" text="P. Sagaidachnogo refusal of the city assault"/>
+    <answer flag="0" text="long and ineffective siege in Moscow"/>
+  </question>
+</testing>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Африки, Австралии и Океании">
+  <question level="1" simple="True" text="В какой части Африки выращивается больше риса?">
+    <answer flag="0" text="Западной"/>
+    <answer flag="1" text="Восточной"/>
+    <answer flag="0" text="Южной"/>
+    <answer flag="0" text="Северной"/>
+  </question>
+  <question level="1" simple="True" text="Обрабатывающая промышленность стран Африки размещена преимущественно в">
+    <answer flag="0" text="столицах"/>
+    <answer flag="1" text="портовых городах"/>
+    <answer flag="0" text="центральных частях страны"/>
+  </question>
+  <question level="1" simple="True" text="Колониальными чертами транспортной сети стран Африки является">
+    <answer flag="0" text="отсутствие единой транспортной системы"/>
+    <answer flag="1" text="более густая транспортная сеть на побережье"/>
+    <answer flag="0" text="фактическое отсутствие железнодорожного транспорта"/>
+  </question>
+  <question level="1" simple="True" text="Укажите страну, для которой проблема дефицита пресной воды является наиболее актуальной?">
+    <answer flag="0" text="Конго"/>
+    <answer flag="1" text="Египет"/>
+    <answer flag="0" text="Либерия"/>
+    <answer flag="0" text="Ангола"/>
+  </question>
+  <question level="1" simple="True" text="Годом освобождения Африки является">
+    <answer flag="0" text="1950"/>
+    <answer flag="1" text="1960"/>
+    <answer flag="0" text="1970"/>
+  </question>
+  <question level="1" simple="True" text="Народ, проживающий на юге Африки, это">
+    <answer flag="0" text="берберы"/>
+    <answer flag="1" text="буры"/>
+    <answer flag="0" text="пигмеи"/>
+    <answer flag="0" text="арабы"/>
+  </question>
+  <question level="1" simple="True" text="Какая Монокультурная страна Африки специализируется на экспорте бокситов?">
+    <answer flag="0" text="Кот-д'Ивуар"/>
+    <answer flag="0" text="Южная Африка"/>
+    <answer flag="1" text="Гвинея"/>
+    <answer flag="0" text="Камерун"/>
+  </question>
+  <question level="1" simple="True" text="Какая из указанных стран, по данным ООН относится к группе беднейших стран мира?">
+    <answer flag="0" text="Ливия"/>
+    <answer flag="0" text="Папуа-Новая Гвинея"/>
+    <answer flag="1" text="Сьерра-Леоне"/>
+  </question>
+  <question level="1" simple="True" text="Влияние колониального прошлого Австралии и Новой Зеландии проявляется в">
+    <answer flag="1" text="сырьевой специализации экспорта"/>
+    <answer flag="0" text="преобладании крупного землевладения"/>
+    <answer flag="0" text="территориальной структуре хозяйства"/>
+  </question>
+  <question level="1" simple="True" text="Какой вид транспорта практически отсутствует в Австралии?">
+    <answer flag="0" text="Автомобильный"/>
+    <answer flag="0" text="Железнодорожный"/>
+    <answer flag="1" text="Речной"/>
+    <answer flag="0" text="Воздушный"/>
+  </question>
+  <question level="1" simple="True" text="Наиболее густозаселенным районом в Австралии является">
+    <answer flag="0" text="Север"/>
+    <answer flag="1" text="Юго-Восток"/>
+    <answer flag="0" text="Юго-Запад"/>
+  </question>
+  <question level="1" simple="True" text="Основным экспортным товаром островных стран Океании является">
+    <answer flag="0" text="рыба"/>
+    <answer flag="0" text="жемчуг"/>
+    <answer flag="1" text="копра"/>
+    <answer flag="0" text="цитрусовые"/>
+  </question>
+</testing>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Disintegration of Kievan Rus">
+  <question level="1" simple="True" text="When first mentioned in chronicles of the name &quot;Ukraine&quot;?">
+    <answer flag="0" text="1132"/>
+    <answer flag="1" text="1187"/>
+  </question>
+  <question level="1" simple="True" text="What was the leading cause disintegration of Kievan Rus?">
+    <answer flag="1" text="The development of feudal land tenure, strengthening his patrimonial forms and different ethnic composition of the territories of Kievan Rus"/>
+    <answer flag="0" text="Existence stolonasliduvannya sustainable manner, development of trade route &quot;from the Varangian to the Greeks' lack of attacks against the steppe nomads"/>
+  </question>
+  <question level="1" simple="True" text="How autonomous principalities formed in the mid 12 century. on the territory of Kievan Rus?">
+    <answer flag="0" text="About 5"/>
+    <answer flag="1" text="About 15"/>
+  </question>
+  <question level="1" simple="True" text="Which of the principalities existed in the Ukrainian territory in the mid 12 century.?">
+    <answer flag="0" text="Smolensk, Muro-Ryazan, Polotsk, Vladimir-Suzdal"/>
+    <answer flag="1" text="Kiev, Chernihiv, Pereyaslavskoe, Volyn and Galician"/>
+  </question>
+  <question level="1" simple="True" text="Around which the capitals principalities - is not the richest city in Europe, there were some of the worst mizhknyazivski dispute for power?">
+    <answer flag="1" text="Kyiv"/>
+    <answer flag="0" text="Chernihiv"/>
+    <answer flag="0" text="Pereyaslav"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities existed in the Chernihiv principality?">
+    <answer flag="0" text="Toompea, Belgorod, Ovruch, Yur'yiv"/>
+    <answer flag="1" text="Novgorod-Seversky, Putyvl, Ljubech, Starodub"/>
+  </question>
+  <question level="1" simple="True" text="Which Duchy of directly related experience that is immortalized in her poem &quot;The Tale of Igor&quot;?">
+    <answer flag="0" text="Volyn"/>
+    <answer flag="1" text="Chernihiv"/>
+  </question>
+  <question level="1" simple="True" text="What ended march Novgorod-Seversky against Prince Igor Polovtsian Svyatoslavich?">
+    <answer flag="1" text="Russians defeat wives and captives Rus princes"/>
+    <answer flag="0" text="Victory of Russians wives and captives Polovtsi khans"/>
+  </question>
+  <question level="1" simple="True" text="Areas where principalities rozprostorylysya on the left bank?">
+    <answer flag="0" text="Kyiv and Volyn"/>
+    <answer flag="1" text="Chernigov and Pereyaslavsky"/>
+  </question>
+  <question level="1" simple="True" text="What is the event associated with Pereyaslavs'kyi Prince Vladimir Hlibovychi?">
+    <answer flag="1" text="The first mention of the name &quot;Ukraine&quot; in the annals"/>
+    <answer flag="0" text="Lubech Congress of Princes"/>
+  </question>
+  <question level="1" simple="True" text="Most of the land which the principality rozlyahlysya on the Right Bank, bordering the south of polovtsi steppes?">
+    <answer flag="0" text="Pereyaslavsky"/>
+    <answer flag="1" text="Kiev"/>
+  </question>
+  <question level="1" simple="True" text="What principalities bordered on the Kiev principality?">
+    <answer flag="1" text="Volyn and Galicia"/>
+    <answer flag="0" text="Chernihiv and Pereyaslav"/>
+  </question>
+</testing>

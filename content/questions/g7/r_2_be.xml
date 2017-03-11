@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Акіян">
+  <question level="1" simple="True" text="Які акіян з'яўляецца самым вялікім на планеце?">
+    <answer flag="0" text="Атлантычны"/>
+    <answer flag="1" text="Ціхі"/>
+    <answer flag="0" text="Індыйскі"/>
+    <answer flag="0" text="Паўночны Ледавіты"/>
+  </question>
+  <question level="1" simple="True" text="Пад уплывам якіх фактараў ўзнікаюць марскія плыні?">
+    <answer flag="1" text="Пастаянных вятроў"/>
+    <answer flag="0" text="Абрысаў берагоў"/>
+    <answer flag="0" text="Руху дна акіянаў"/>
+  </question>
+  <question level="1" simple="True" text="Якую глыбіню мае жолаб Пуэрта-Рыка?">
+    <answer flag="0" text="11022 м"/>
+    <answer flag="1" text="8742 м"/>
+    <answer flag="0" text="9783 м"/>
+  </question>
+  <question level="1" simple="True" text="Які акіян з'яўляецца самым цёплым?">
+    <answer flag="1" text="Індыйскі"/>
+    <answer flag="0" text="Атлантычны"/>
+    <answer flag="0" text="Ціхі"/>
+  </question>
+  <question level="1" simple="True" text="Сваю назву Ціхі акіян атрымаў ад:">
+    <answer flag="0" text="Марка Пола"/>
+    <answer flag="1" text="Фернан Магеллана"/>
+    <answer flag="0" text="Хрыстафора Калумба"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Паўночны Ледавіты акіян - найменшы сярод акіянаў"/>
+    <answer flag="0" text="У параўнанні з Ціхім Атлантычны акіян значна больш адчувае ўплыў сушы"/>
+    <answer flag="1" text="Арганічны свет акіянаў багаты ў глыбінях акіянаў"/>
+  </question>
+  <question level="1" simple="True" text="У якой частцы Атлантычнага акіяна назіраецца найбольшая салёнасць?">
+    <answer flag="0" text="У месцах, дзе ў акіян ўпадаюць магутныя ракі"/>
+    <answer flag="1" text="У трапічных шыротах"/>
+    <answer flag="0" text="У палярных шыротах"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="1" text="У Індыйскім акіяне няма сярэдзіна-акіянічных хрыбтоў"/>
+    <answer flag="0" text="Індыйскі акіян - салёны на планеце"/>
+    <answer flag="0" text="Індыйскі акіян - самы цёплы на планеце"/>
+  </question>
+  <question level="1" simple="True" text="Галоўную ролю ў фарміраванні марскіх плыняў Паўночнага Ледавітага акіяна грае:">
+    <answer flag="0" text="атмасферная цыркуляцыя"/>
+    <answer flag="1" text="магутны паток вод Атлантычнага акіяна"/>
+    <answer flag="0" text="рэльеф дна акіяна"/>
+  </question>
+  <question level="1" simple="True" text="Найбольшая салёнасць Паўночнага Ледавітага акіяна назіраецца:">
+    <answer flag="0" text="у месцах, дзе ў акіян ўпадаюць рэкі"/>
+    <answer flag="1" text="там, дзе ў акіян ўпадаюць вады Атлантычнага і Ціхага акіянаў"/>
+    <answer flag="0" text="у цэнтральнай частцы акіяна"/>
+  </question>
+  <question level="1" simple="True" text="Якую глыбіню мае Марыянскія жолаб?">
+    <answer flag="0" text="8848 м"/>
+    <answer flag="0" text="8742 м"/>
+    <answer flag="1" text="11022 м"/>
+  </question>
+  <question level="1" simple="True" text="Якое мора з'яўляецца самым салёным?">
+    <answer flag="0" text="Міжземнае"/>
+    <answer flag="0" text="Чорнае"/>
+    <answer flag="1" text="Чырвонае"/>
+  </question>
+</testing>

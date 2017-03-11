@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Facilities of Ukrainian lands in the first half of the nineteenth century.">
+  <question level="1" simple="True" text="What region of Ukraine at the end of XVIII - the first half of the nineteenth century. osvoyuvavsya intensively and Ukrainian immigrants of other nationalities?">
+    <answer flag="0" text="Carpathians and the Carpathian"/>
+    <answer flag="0" text="Right Bank"/>
+    <answer flag="0" text="Left Bank"/>
+    <answer flag="1" text="South"/>
+  </question>
+  <question level="1" simple="True" text="What form of transport dominated trade in Ukraine in the early nineteenth century.?">
+    <answer flag="1" text="Chumachestvo"/>
+    <answer flag="0" text="River transport"/>
+    <answer flag="0" text="Maritime Transport"/>
+    <answer flag="0" text="Rail transport"/>
+  </question>
+  <question level="1" simple="True" text="What city in the Ukrainian lands had the status of free port?">
+    <answer flag="0" text="Kherson"/>
+    <answer flag="0" text="Nikolaev"/>
+    <answer flag="1" text="Odessa"/>
+    <answer flag="0" text="Sevastopol"/>
+  </question>
+  <question level="1" simple="True" text="What is the definition reveals the concept of &quot;industrial revolution (revolution)?">
+    <answer flag="0" text="Relations which are between producers and buyers at the sale, the organic link between production and consumption"/>
+    <answer flag="0" text="The process of transition from handicraft to manufacture manufactury"/>
+    <answer flag="0" text="Form of production, where products are manufactured for sale"/>
+    <answer flag="1" text="The process of development of the productive forces of society in which the transition from manufactury to machine production"/>
+  </question>
+  <question level="1" simple="True" text="When the bank Ukraine started the Industrial Revolution?">
+    <answer flag="0" text="in 20-ies of XIX century."/>
+    <answer flag="1" text="in 30-ies of XIX century."/>
+    <answer flag="0" text="in 40-ies of XIX century."/>
+    <answer flag="0" text="in 50-ies of XIX century."/>
+  </question>
+  <question level="1" simple="True" text="What was the basis of economic development of Ukrainian lands in the first half of the nineteenth century.?">
+    <answer flag="1" text="Agriculture"/>
+    <answer flag="0" text="Trade"/>
+    <answer flag="0" text="Craft"/>
+    <answer flag="0" text="Industry"/>
+  </question>
+</testing>

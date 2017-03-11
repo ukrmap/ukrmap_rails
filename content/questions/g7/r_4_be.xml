@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АЎСТРАЛІЯ">
+  <question level="1" simple="True" text="Плошча Аўстраліі складае">
+    <answer flag="0" text="14,1 млн. кв. км"/>
+    <answer flag="1" text="7,7 млн. кв. км"/>
+    <answer flag="0" text="17,8 млн. кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Крайняй паўночнай кропкай Аўстраліі з'яўляецца">
+    <answer flag="1" text="г. Ёрк"/>
+    <answer flag="0" text="г. Байран"/>
+    <answer flag="0" text="м. Стоп-Пойнт"/>
+  </question>
+  <question level="1" simple="True" text="Найвысокай вяршыняй Аўстраліі з'яўляецца">
+    <answer flag="1" text="г. Косцюшко"/>
+    <answer flag="0" text="г. Котопахи"/>
+    <answer flag="0" text="г. Кіліманджара"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца няправільным?">
+    <answer flag="0" text="Аўстралія - самы сухі мацярык"/>
+    <answer flag="1" text="Аўстралія - самы вялікі востраў"/>
+    <answer flag="0" text="Аўстралія - самы маленькі кантынент"/>
+  </question>
+  <question level="1" simple="True" text="Як называюцца часовыя вадацёкі ў Аўстраліі?">
+    <answer flag="1" text="Маскоги"/>
+    <answer flag="0" text="Вадзі"/>
+    <answer flag="0" text="Аазісы"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца няправільным?">
+    <answer flag="0" text="Большасць азёр Аўстраліі з'яўляецца бясцёкавыя і засоленых"/>
+    <answer flag="0" text="У Аўстраліі значныя запасы падземных вод"/>
+    <answer flag="1" text="Аўстралія добра забяспечана воднымі рэсурсамі"/>
+  </question>
+  <question level="1" simple="True" text="Вялікі Водападзельны хрыбет - гэта:">
+    <answer flag="0" text="своеасаблівае каралавыя адукацыю на дне мора"/>
+    <answer flag="1" text="горны хрыбет на ўсходзе Аўстраліі"/>
+    <answer flag="0" text="выхад цвёрдых крышталічных парод на ўскраіне мацерыка"/>
+  </question>
+  <question level="1" simple="True" text="З пералічаных жывёл эндэмікаў Аўстраліі з'яўляюцца:">
+    <answer flag="1" text="Каала і страўс эму"/>
+    <answer flag="0" text="Кракадзіл і пінгвін"/>
+    <answer flag="0" text="Лама і лянівы"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца няправільным?">
+    <answer flag="0" text="Сярод жывёл Аўстраліі шмат эндэмікаў"/>
+    <answer flag="1" text="Паветраныя масы, якія рухаюцца з Ціхага акіяна, прыносяць багатыя ападкі ў цэнтральныя раёны Аўстраліі"/>
+    <answer flag="0" text="На кантыненце размешчана адна краіна - Аўстралія"/>
+  </question>
+  <question level="1" simple="True" text="Большую частку насельніцтва Аўстраліі складаюць:">
+    <answer flag="1" text="нашчадкі перасяленцаў з Еўропы"/>
+    <answer flag="0" text="аўстралійскія абарыгены"/>
+    <answer flag="0" text="нашчадкі перасяленцаў з Паўднёвай і Паўднёва-Усходняй Азіі"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца правільным?">
+    <answer flag="0" text="Аўстралія - краіна з вялікай шчыльнасцю насельніцтва"/>
+    <answer flag="1" text="У Аўстралія высокі ўзровень урбанізацыі"/>
+    <answer flag="0" text="Найбуйнейшым горадам Аўстраліі з'яўляецца Канбера"/>
+  </question>
+  <question level="1" simple="True" text="У групу якіх краін належыць Аўстралія па ўзроўні развіцця?">
+    <answer flag="0" text="Да якія развіваюцца"/>
+    <answer flag="0" text="Да краінам з пераходнай эканомікай"/>
+    <answer flag="1" text="Да высокаразвітых краін"/>
+  </question>
+</testing>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украина в Великой Отечественной войне (июнь 1941-ноябрь 1942)">
+  <question level="1" simple="True" text="Когда был подписан план нападения на СССР, получивший название &quot;Барбаросса&quot;?">
+    <answer flag="0" text="В декабре 1939 г."/>
+    <answer flag="1" text="В декабре 1940 г."/>
+    <answer flag="0" text="В марте 1941 г."/>
+  </question>
+  <question level="1" simple="True" text="Нацистская Германия внезапно напала на СССР">
+    <answer flag="0" text="1 сентября 1939 г"/>
+    <answer flag="0" text="22 декабря 1940"/>
+    <answer flag="1" text="22 июня 1941"/>
+  </question>
+  <question level="1" simple="True" text="Силами которых армий в январе 1942 г. был проведен наступление с целью возврата Харькова?">
+    <answer flag="1" text="6-й армии"/>
+    <answer flag="1" text="12-й армии"/>
+    <answer flag="1" text="21-й армии"/>
+    <answer flag="0" text="44-й армии"/>
+    <answer flag="0" text="55-й армии"/>
+    <answer flag="1" text="58-й армии"/>
+  </question>
+  <question level="1" simple="True" text="Каким фронтом командовал Михаил Кирпонос?">
+    <answer flag="0" text="Брянским"/>
+    <answer flag="0" text="Южным"/>
+    <answer flag="0" text="Северокавказским"/>
+    <answer flag="1" text="Юго-Западным"/>
+  </question>
+  <question level="1" simple="True" text="Город, который советские войска в августе 1942 г. оставили последнее, это">
+    <answer flag="0" text="Мариуполь"/>
+    <answer flag="1" text="Свердловск"/>
+    <answer flag="0" text="Харьков"/>
+    <answer flag="0" text="Севастополь"/>
+    <answer flag="0" text="Суммы"/>
+  </question>
+  <question level="1" simple="True" text="Бои за Сталинград шли в период">
+    <answer flag="1" text="август - ноябрь 1942"/>
+    <answer flag="0" text="ноябрь - декабрь 1942 г"/>
+    <answer flag="0" text="Декабрь 1942 г - январь 1943 г"/>
+    <answer flag="0" text="октябрь - ноябрь 1942 г"/>
+  </question>
+  <question level="1" simple="True" text="В июне 1941 г. группа армий &quot;Юг&quot; противостояли войска">
+    <answer flag="0" text="Харьковского военного округа"/>
+    <answer flag="1" text="Киевского особого округа"/>
+    <answer flag="1" text="Одесского военного округа"/>
+  </question>
+  <question level="1" simple="True" text="Армии каких стран (кроме Германии) участвовали во вторжении в Украину?">
+    <answer flag="0" text="Италии"/>
+    <answer flag="1" text="Венгрии"/>
+    <answer flag="1" text="Румынии"/>
+  </question>
+</testing>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Political, social order and economic life of Kievan Rus and Galicia-Volyn state">
+  <question level="1" simple="True" text="Who is the greatest of the powers held power in Kievan Rus and the Galicia-Volyn state?">
+    <answer flag="0" text="Rogue"/>
+    <answer flag="1" text="Princes"/>
+    <answer flag="0" text="Boyars"/>
+  </question>
+  <question level="1" simple="True" text="At that meeting an old shodylasya whole community to address critical issues of life?">
+    <answer flag="0" text="Conventions Princes"/>
+    <answer flag="1" text="Vecha"/>
+  </question>
+  <question level="1" simple="True" text="Which element was the most closed state, access to which only gave birth?">
+    <answer flag="0" text="Boyarskaya"/>
+    <answer flag="1" text="Princely"/>
+  </question>
+  <question level="1" simple="True" text="What layers and as the top social group sat pyramids?">
+    <answer flag="1" text="The princes, boyars, warriors, clergy"/>
+    <answer flag="0" text="Merchants, artisans, smerds"/>
+  </question>
+  <question level="1" simple="True" text="Which groups were formed with local rodopleminnoyi nobility, as well as with influential men, who by military service received from the estates of the princes of the land?">
+    <answer flag="1" text="Boyars"/>
+    <answer flag="0" text="Farmers"/>
+  </question>
+  <question level="1" simple="True" text="As a group known as the largest population of that time?">
+    <answer flag="0" text="Princes"/>
+    <answer flag="1" text="Peasants smerds"/>
+    <answer flag="0" text="Boyars"/>
+  </question>
+  <question level="1" simple="True" text="What was crucial in the position smerds?">
+    <answer flag="1" text="They were dependent, but free people personally who had their own farm land, lived in villages and princely prince paid tribute"/>
+    <answer flag="0" text="They were dependent people, mostly prisoners who could sell, donate, transfer by inheritance"/>
+  </question>
+  <question level="1" simple="True" text="Who are the outcasts?">
+    <answer flag="1" text="All these names of people who for various reasons dropped from his usual environment, lost contact with him"/>
+    <answer flag="0" text="So called peasant who worked &quot;for a bunch of&quot; the farm of Mr."/>
+  </question>
+  <question level="1" simple="True" text="That involved a patrimonial land ownership?">
+    <answer flag="1" text="Consolidation of certain areas within a particular branch of prince or boyar family"/>
+    <answer flag="0" text="Allocation of land for military service of princes and boyars"/>
+  </question>
+  <question level="1" simple="True" text="What are the duties performed by villagers working in the land of the landowner?">
+    <answer flag="0" text="Were not only in military campaigns, but also covered some government posts"/>
+    <answer flag="1" text="For some time working on feudal or give part of the food produced in their own house, or pay tax money"/>
+  </question>
+  <question level="1" simple="True" text="What is the hryvnia currency called?">
+    <answer flag="1" text="Silver bullions stable weight and shape"/>
+    <answer flag="0" text="Coin depicting Vladimir Svyatoslavich and trident"/>
+  </question>
+  <question level="1" simple="True" text="The population of the cities to which the Mongol invasion counted more than 20 thousand people?">
+    <answer flag="1" text="Kyiv, Galich, Chernigov, Vladimir"/>
+    <answer flag="0" text="Toompea, Luck, Przemysl, Novgorod-Seversky"/>
+  </question>
+</testing>

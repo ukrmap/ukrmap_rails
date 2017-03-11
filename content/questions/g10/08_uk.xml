@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Америки">
+  <question text="Найбільшими нафтовидобувними штатами США є">
+    <answer flag="1" text="Аляска, Техас"/>
+    <answer flag="0" text="Массачусетс, Каліфорнія"/>
+    <answer flag="0" text="Огайо, Мічиган"/>
+  </question>
+  <question text="Який тип електростанцій є провідним в електроенергетиці США?">
+    <answer flag="1" text="ТЕС"/>
+    <answer flag="0" text="ГЕС"/>
+    <answer flag="0" text="АЕС"/>
+  </question>
+  <question text="В якому з регіонів США зосереджено найбільше нафтопереробних підприємств?">
+    <answer flag="0" text="Штати Атлантичного узбережжя"/>
+    <answer flag="0" text="Каліфорнія та Аляска"/>
+    <answer flag="1" text="Техас і Луїзіана"/>
+  </question>
+  <question text="Де знаходиться &quot;кукурудзяний пояс&quot; США?">
+    <answer flag="0" text="Північно-схід"/>
+    <answer flag="0" text="Тихоокеанське узбережжя"/>
+    <answer flag="0" text="На узбережжі Мексиканської затоки"/>
+    <answer flag="1" text="Середній Захід"/>
+  </question>
+  <question text="Нерівномірне розміщення господарства на території Канади пояснюється">
+    <answer flag="1" text="природними умовами"/>
+    <answer flag="0" text="розміщенням корисних копалин"/>
+    <answer flag="0" text="умовами освоєння території країни"/>
+  </question>
+  <question text="Який тип електростанцій виробляє основну частину електроенергії в Канаді?">
+    <answer flag="0" text="ТЕС"/>
+    <answer flag="1" text="ГЕС"/>
+    <answer flag="0" text="АЕС"/>
+  </question>
+  <question text="Які провінції Канади виділяються найбільшою концентрацією промисловості?">
+    <answer flag="0" text="Саскачеван і Манітоба"/>
+    <answer flag="1" text="Квебек і Онтаріо"/>
+    <answer flag="0" text="Нова Шотландія і Ньюфаундленд"/>
+  </question>
+  <question text="Яка з названих країн не входить до складу Британської Співдружності Націй?">
+    <answer flag="0" text="Ямайка"/>
+    <answer flag="0" text="Багамські Острови"/>
+    <answer flag="1" text="Панама"/>
+    <answer flag="0" text="Барбадос"/>
+  </question>
+  <question text="Унікальним багатством Чилі є">
+    <answer flag="0" text="нафту"/>
+    <answer flag="0" text="кам'яне вугілля"/>
+    <answer flag="1" text="селітра"/>
+    <answer flag="0" text="олово"/>
+  </question>
+  <question text="Степу Аргентини називають">
+    <answer flag="0" text="Льянос"/>
+    <answer flag="0" text="кампос"/>
+    <answer flag="1" text="пампа"/>
+    <answer flag="0" text="прерія"/>
+  </question>
+  <question text="Житницею Канади є провінції">
+    <answer flag="0" text="Манітоба, Британська Колумбія"/>
+    <answer flag="0" text="Квебек, Онтаріо"/>
+    <answer flag="1" text="Альберта, Саскачеван"/>
+  </question>
+  <question text="Міською агломерацією Південної Америки з населенням понад 5 млн осіб є">
+    <answer flag="0" text="Монтевідео"/>
+    <answer flag="1" text="Ліма"/>
+    <answer flag="0" text="Каракас"/>
+    <answer flag="0" text="Порту-Алегрі"/>
+  </question>
+</testing>

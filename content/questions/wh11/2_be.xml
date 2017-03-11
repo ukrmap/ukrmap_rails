@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Другая сусветная вайна (падзеі 22 чэрвеня 1941 - 18 лістапада 1942 г.)">
+  <question level="1" simple="True" text="Калі быў падпісаны дырэктыву № 21 - план &quot;Барбароса&quot;?">
+    <answer flag="0" text="23 Жніўня 1939"/>
+    <answer flag="0" text="1 верасні 1940"/>
+    <answer flag="0" text="27 верасня 1940 г."/>
+    <answer flag="1" text="18 Снежань 1940"/>
+    <answer flag="0" text="21 чэрвеня 1941 г"/>
+  </question>
+  <question level="1" simple="True" text="Калі Нямеччына напала на Савецкі Саюз?">
+    <answer flag="1" text="22 чэрвеня 1941 г"/>
+    <answer flag="0" text="24 верасня 1941 г."/>
+    <answer flag="0" text="7 сьнежня 1941 г."/>
+  </question>
+  <question level="1" simple="True" text="Якая падзея лічаць першай значнай паразай фашысцкай Германіі ў Другой сусветнай вайне?">
+    <answer flag="0" text="Кіеўская абарончая аперацыя"/>
+    <answer flag="0" text="Смаленскае бітва"/>
+    <answer flag="0" text="Абарона Адэсы"/>
+    <answer flag="0" text="Бітва за Ленінград"/>
+    <answer flag="0" text="Абарона Севастопаля"/>
+    <answer flag="1" text="Бітва за Маскву"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны падпісалі атлантычную хартыю &quot;і калі дакумент быў канчаткова аформлены?">
+    <answer flag="0" text="Італія"/>
+    <answer flag="1" text="Вялікабрытанія"/>
+    <answer flag="1" text="СССР"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="ЗША"/>
+    <answer flag="1" text="24 верасня 1941 г."/>
+    <answer flag="0" text="7 сьнежня 1941 г."/>
+  </question>
+  <question level="1" simple="True" text="Гістарычная падзея пачалася 17 Лістапада 1942?">
+    <answer flag="1" text="Сталінградская бітва"/>
+    <answer flag="0" text="Курская бітва"/>
+    <answer flag="0" text="Бітва за Днепр"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў галоўнакамандуючым нямецка-італьянскіх войскаў у Паўночнай Афрыцы з лютага 1941 па сакавік 1943?">
+    <answer flag="1" text="Роммель"/>
+    <answer flag="0" text="Гудэрыян"/>
+    <answer flag="0" text="Клейст"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца супрацоўніцтва урадаў, асобных асоб з акупантамі?">
+    <answer flag="1" text="Калабарацыянізм"/>
+    <answer flag="0" text="Халакост"/>
+    <answer flag="0" text="Гета"/>
+  </question>
+</testing>

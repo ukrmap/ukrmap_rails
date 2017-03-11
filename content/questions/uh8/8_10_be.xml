@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Перадумовы і пачатак Нацыянальна-вызваленчай вайны ўкраінскага народа супраць польскага панавання. Разгортванне Нацыянальна-вызваленчай вайны ў 1648-1649 гг">
+  <question level="1" simple="True" text="Калі пачалася Нацыянальна-вызваленчая вайна?">
+    <answer flag="0" text="1548 p."/>
+    <answer flag="1" text="1648 p."/>
+  </question>
+  <question level="1" simple="True" text="Хто ўзначаліў Нацыянальна-вызваленчую вайну ўкраінскага народа?">
+    <answer flag="1" text="Багдан Хмяльніцкі"/>
+    <answer flag="0" text="Максім Крыванос"/>
+  </question>
+  <question level="1" simple="True" text="Якое стан грамадства гуляў вядучую ролю ў ходзе і кіраўніцтве Нацыянальна-вызваленчай вайны?">
+    <answer flag="0" text="Сялянства"/>
+    <answer flag="1" text="Казацтва"/>
+  </question>
+  <question level="1" simple="True" text="Дзе адбыўся першы бой паміж паўстанцамі і польскім войскам?">
+    <answer flag="1" text="На Жаўтых Водах"/>
+    <answer flag="0" text="Пад Корсунь"/>
+  </question>
+  <question level="1" simple="True" text="Якое з падзеяў адбылося раней?">
+    <answer flag="0" text="Уpочистий ўезд Б. Хмяльніцкага ў Кіеў"/>
+    <answer flag="1" text="Аблога ўкраінскі войскам Львова і Замосьце"/>
+  </question>
+  <question level="1" simple="True" text="Якая бітва адкрыла ўкраінскі арміі шлях на Галічыны ў 1648 г.?">
+    <answer flag="0" text="Жаўтаводскі"/>
+    <answer flag="1" text="Пилявецкая"/>
+  </question>
+  <question level="1" simple="True" text="Аб якой гістарычнай постаці ідзе гаворка? Украінскі палкаводзец. Удзельнічаў ва ўсіх бітва 1648 г. Памёр у лістападзе 1648 г. у лагеры пад Замосьце ад чумы">
+    <answer flag="0" text="Іван Выгоўскі"/>
+    <answer flag="1" text="Максім Крыванос"/>
+  </question>
+  <question level="1" simple="True" text="Чым скончылася Збаражской-Збароўскі ваенная кампанія?">
+    <answer flag="0" text="Заключэннем Белацаркоўскі дагавора"/>
+    <answer flag="1" text="Падпісаннем Збароўскага дагавора"/>
+  </question>
+  <question level="1" simple="True" text="Якія землі перайшлі пад уладу гетмана за Збоpiвським договоpа?">
+    <answer flag="0" text="Усе землі Украіны, якія знаходзіліся ў складзе Рэчы Паспалітай"/>
+    <answer flag="1" text="Тэрыторыі былых Кіеўскага, Брацлаўскі і Чарнігаўскага ваяводстваў"/>
+  </question>
+  <question level="1" simple="True" text="Колькі казакоў прадугледжваў казацкі рэестр па збароўскім дамове?">
+    <answer flag="0" text="20 тыс."/>
+    <answer flag="1" text="40 тыс."/>
+  </question>
+  <question level="1" simple="True" text="З кім у пачатку вайны Б. Хмяльніцкі заключыў саюзны дагавор аб ваеннай дапамогі?">
+    <answer flag="0" text="З Московiею"/>
+    <answer flag="1" text="З Крымскім ханствам"/>
+  </question>
+  <question level="1" simple="True" text="Якую бітву палякі лічылі ганебнай за ўсю гісторыю Польшчы?">
+    <answer flag="0" text="Жаўтаводскі"/>
+    <answer flag="1" text="Пилявецкой"/>
+  </question>
+</testing>

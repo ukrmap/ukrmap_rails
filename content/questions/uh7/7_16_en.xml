@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Formation of Galicia-Volhynia State">
+  <question level="1" simple="True" text="On which of the Galician author tells princes &quot;The Tale of Igor&quot;?">
+    <answer flag="1" text="Jaroslav Osmomysl"/>
+    <answer flag="0" text="Roman Mstyslavych"/>
+  </question>
+  <question level="1" simple="True" text="Which of the principalities consider a model of oligarchic rule in Russia?">
+    <answer flag="0" text="Volyn"/>
+    <answer flag="1" text="Galician"/>
+    <answer flag="0" text="Kiev"/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of Volyn in the second half of the 12 century.?">
+    <answer flag="0" text="Volin"/>
+    <answer flag="1" text="Vladimir"/>
+    <answer flag="0" text="Galich"/>
+  </question>
+  <question level="1" simple="True" text="When the times of the Galician prince who united the capital of Galician principality was Galich?">
+    <answer flag="1" text="In 1141, with the Volodymyrka Volodarevycha"/>
+    <answer flag="0" text="In the 1199 novel by Mstyslavych"/>
+  </question>
+  <question level="1" simple="True" text="Which states susidylo Galician principality in the west in the second half of the 12 century.?">
+    <answer flag="0" text="From Duchy of Lithuania and the Polish kingdom"/>
+    <answer flag="1" text="With Polish and Hungarian kingdoms"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities existed in Volyn in the second half of the 12 century.?">
+    <answer flag="1" text="Belz, June, Lutsk, Kremenets, Peresopnytsya"/>
+    <answer flag="0" text="Przemysl, Coloma, Zvenigorod, Terebovlya"/>
+  </question>
+  <question level="1" simple="True" text="When the association was Galician and Volyn principalities and movements of Galicia-Volyn state?">
+    <answer flag="0" text="In 1187"/>
+    <answer flag="1" text="In 1199"/>
+  </question>
+  <question level="1" simple="True" text="Prince of land which was Roman I of Kiev on the eve of the formation of Galicia-Volyn state?">
+    <answer flag="1" text="Volyn"/>
+    <answer flag="0" text="Galician"/>
+  </question>
+  <question level="1" simple="True" text="What was the political situation in Galicia-Volyn State immediately after the death of Roman Mstyslavych?">
+    <answer flag="1" text="Started internal wars and foreign intervention in the affairs of Galician and Volyn lands"/>
+    <answer flag="0" text="Era of prosperity began to reign State Daniel Romanovich and his brother Vasylko"/>
+  </question>
+  <question level="1" simple="True" text="What events preceded the establishment Daniel Romanovich Galich in 1238?">
+    <answer flag="1" text="Long struggle for the reunification of Galicia-Volyn principality after the establishment of Volyn"/>
+    <answer flag="0" text="Joining together with Kyiv Pereyaslav to Volyn"/>
+  </question>
+  <question level="1" simple="True" text="What city became the capital of Galicia-Volyn principality by Daniel Romanovich?">
+    <answer flag="0" text="Lviv"/>
+    <answer flag="1" text="Holm"/>
+    <answer flag="0" text="Vladimir"/>
+  </question>
+  <question level="1" simple="True" text="Through a land of Volyn pryrostala area for 12 centuries.?">
+    <answer flag="1" text="Kiev"/>
+    <answer flag="0" text="Polish"/>
+    <answer flag="0" text="Lithuania"/>
+    <answer flag="0" text="Galician"/>
+  </question>
+</testing>

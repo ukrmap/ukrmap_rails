@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Расійскае дзяржава ў канцы XVII - XVIII стст.">
+  <question level="1" simple="True" text="Хто з названых кіраўнікоў Расеі валадарыў першым?">
+    <answer flag="0" text="Кацярына II"/>
+    <answer flag="0" text="Лізавета"/>
+    <answer flag="1" text="Пётр"/>
+  </question>
+  <question level="1" simple="True" text="З якой дзяржавай прыйшлося весці барацьбу Пятру I за выхад Расіі да Балтыйскага мора?">
+    <answer flag="0" text="Польшчай"/>
+    <answer flag="1" text="Швецыяй"/>
+    <answer flag="0" text="Асманскай імперыяй"/>
+  </question>
+  <question level="1" simple="True" text="Расею была абвешчана імперыяй ў:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1721"/>
+    <answer flag="0" text="1725"/>
+  </question>
+  <question level="1" simple="True" text="Кацярына II змагалася за выхад Расеі да ўзбярэжжа:">
+    <answer flag="0" text="Балтыйскага мора"/>
+    <answer flag="1" text="Чорнага мора"/>
+    <answer flag="0" text="Ціхага акіяна"/>
+  </question>
+  <question level="1" simple="True" text="На якія кантыненты распаўсюджваліся валодання Расійскай імперыі ў канцы XVIII стагоддзя?">
+    <answer flag="1" text="Еўропа"/>
+    <answer flag="1" text="Азія"/>
+    <answer flag="0" text="Афрыка"/>
+    <answer flag="1" text="Паўночная Амерыка"/>
+    <answer flag="0" text="Паўднёвая Амерыка"/>
+  </question>
+  <question level="1" simple="True" text="Эпоха &quot;палацавых пераваротаў&quot; ў Расіі пачалася:">
+    <answer flag="1" text="пасля смерці Пятра I"/>
+    <answer flag="0" text="пасля смерці Лізаветы I"/>
+    <answer flag="0" text="з ўзыходжання Кацярыны II"/>
+  </question>
+  <question level="1" simple="True" text="У якой еўрапейскай вайне ўдзельнічала Расея ў валадараньне Лізаветы I?">
+    <answer flag="0" text="Складнік"/>
+    <answer flag="0" text="Паўночнай"/>
+    <answer flag="1" text="Сямігадовы"/>
+  </question>
+  <question level="1" simple="True" text="Колькі падзелаў Рэчы Паспалітай адбылося ў XVIII стагоддзі?">
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Сялянская вайна пад кіраўніцтвам Е. Пугачова працягвалася на працягу:">
+    <answer flag="0" text="1756-1763 гг"/>
+    <answer flag="0" text="1768-1774 гг"/>
+    <answer flag="1" text="1773-1775 гг"/>
+  </question>
+  <question level="1" simple="True" text="Калі была ліквідаваная Запароская Сеч?">
+    <answer flag="0" text="1710"/>
+    <answer flag="0" text="1734"/>
+    <answer flag="1" text="1775"/>
+  </question>
+  <question level="1" simple="True" text="Сталіцу Расійскай імперыі Санкт-Пецярбург быў заснаваны ў:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1703"/>
+    <answer flag="0" text="1721"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву атрымаў перыяд праўлення Кацярыны II?">
+    <answer flag="1" text="&quot;Залаты век&quot;"/>
+    <answer flag="0" text="&quot;Сярэбраны век&quot;"/>
+    <answer flag="0" text="Эпоха &quot;палацавых пераваротаў&quot;"/>
+  </question>
+</testing>

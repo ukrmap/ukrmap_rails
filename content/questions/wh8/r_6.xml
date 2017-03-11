@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Московська держава в XVI - XVII ст.">
+  <question level="1" simple="True" text="За правління якого царя територія Московської держави зросла найбільше?">
+    <answer flag="0" text="Василія ІІІ"/>
+    <answer flag="1" text="Івана IV"/>
+    <answer flag="0" text="Федора І"/>
+    <answer flag="0" text="Бориса Годунова"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть роки початку і завершення Лівонської війни:">
+    <answer flag="0" text="1547-1564"/>
+    <answer flag="0" text="1552-1572"/>
+    <answer flag="1" text="1558-1583"/>
+    <answer flag="0" text="1572-1598"/>
+  </question>
+  <question level="1" simple="True" text="Які з названих держав було знищено Іваном IV?">
+    <answer flag="1" text="Сибірське ханство"/>
+    <answer flag="1" text="Казанське ханство"/>
+    <answer flag="0" text="Кримське ханство"/>
+    <answer flag="1" text="Астраханське ханство"/>
+    <answer flag="0" text="Хівинське ханство"/>
+    <answer flag="1" text="Лівонський орден"/>
+    <answer flag="0" text="герцогство Пруссія"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія відбулася раніше?">
+    <answer flag="1" text="початок Лівонської війни"/>
+    <answer flag="0" text="укладення Люблінської унії"/>
+  </question>
+  <question level="1" simple="True" text="Які з названих подій у світі відбулися за царювання Івана IV?">
+    <answer flag="1" text="друга навколосвітня подорож Ф. Дрейка"/>
+    <answer flag="1" text="&quot;Варфоломіївська ніч&quot; у Парижі"/>
+    <answer flag="0" text="завершення громадянської війни у Франції"/>
+    <answer flag="0" text="загибель &quot;Непереможної армади&quot;"/>
+    <answer flag="0" text="повстання іконоборців у Нідерландах"/>
+  </question>
+  <question level="1" simple="True" text="До якої держави відійшла більшість володінь Лівонського ордену внаслідок Лівонської війни?">
+    <answer flag="0" text="Швеція"/>
+    <answer flag="1" text="Річ Посполита"/>
+    <answer flag="0" text="Московська держава"/>
+    <answer flag="0" text="герцогство Пруссія"/>
+  </question>
+  <question level="1" simple="True" text="У 1606 – 1607 рр. в Московській державі відбулося повстання під проводом:">
+    <answer flag="1" text="Івана Болотнікова"/>
+    <answer flag="0" text="Степана Разіна"/>
+  </question>
+  <question level="1" simple="True" text="В якому місті за Смутних часів було сформовано Друге ополчення, очолюване К. Мініним і Д. Пожарським?">
+    <answer flag="0" text="Кострома"/>
+    <answer flag="0" text="Ярославль"/>
+    <answer flag="1" text="Нижній Новгород"/>
+    <answer flag="0" text="Тула"/>
+  </question>
+  <question level="1" simple="True" text="З якою країною Московська держава уклала Деулинську угоду?">
+    <answer flag="0" text="Швеція"/>
+    <answer flag="1" text="Річ Посполита "/>
+    <answer flag="0" text="герцогство Пруссія"/>
+    <answer flag="0" text="Кримське ханство"/>
+  </question>
+  <question level="1" simple="True" text="Коли у Московській державі розпочалося правління династії Романових?">
+    <answer flag="0" text="1612 р."/>
+    <answer flag="1" text="1613 р."/>
+    <answer flag="0" text="1614 р."/>
+    <answer flag="0" text="1615 р. "/>
+  </question>
+  <question level="1" simple="True" text="Який московський цар першим почав використовувати титул &quot;Божою Милістю Великий Государ, Цар і Великий Князь всея Великої і Малої Русі Самодержець&quot;?">
+    <answer flag="0" text="Василій ІІІ"/>
+    <answer flag="0" text="Іван IV"/>
+    <answer flag="0" text="Михайло Романов"/>
+    <answer flag="1" text="Олексій Михайлович"/>
+  </question>
+  <question level="1" simple="True" text="Похід 1618 р. на Москву українських козаків під проводом П. Конашевича-Сагайдачного завершився:">
+    <answer flag="0" text="здобуттям Москви"/>
+    <answer flag="1" text="відмовою П. Сагайдачного від штурму міста"/>
+    <answer flag="0" text="тривалою і безрезультатною облогою Москви"/>
+  </question>
+</testing>

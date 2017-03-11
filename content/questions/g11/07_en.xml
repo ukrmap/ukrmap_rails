@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Asian Countries">
+  <question level="1" simple="True" text="To reverse the situation of most Asian countries are characterized by">
+    <answer flag="0" text="aging nation"/>
+    <answer flag="0" text="demographic crisis"/>
+    <answer flag="1" text="population explosion"/>
+    <answer flag="0" text="depopulation"/>
+  </question>
+  <question level="1" simple="True" text="Which of the South Caucasus countries are well endowed with oil?">
+    <answer flag="0" text="Georgia"/>
+    <answer flag="0" text="Armenia"/>
+    <answer flag="1" text="Azerbaijan"/>
+  </question>
+  <question level="1" simple="True" text="Major crops grown on irrigated lands in Central Asia, is">
+    <answer flag="0" text="rice"/>
+    <answer flag="1" text="cotton"/>
+    <answer flag="0" text="peanuts"/>
+  </question>
+  <question level="1" simple="True" text="China's largest port">
+    <answer flag="1" text="Shanghai"/>
+    <answer flag="0" text="Beijing"/>
+    <answer flag="0" text="Qingdao"/>
+    <answer flag="0" text="Dalian"/>
+  </question>
+  <question level="1" simple="True" text="Please state where the oil industry is not a branch of international specialization">
+    <answer flag="0" text="Kuwait"/>
+    <answer flag="1" text="Syria"/>
+    <answer flag="0" text="Brunei"/>
+    <answer flag="0" text="Saudi Arabia"/>
+  </question>
+  <question level="1" simple="True" text="Taj Mahal is located in">
+    <answer flag="0" text="Nepal"/>
+    <answer flag="0" text="Thailand"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="Turkey"/>
+  </question>
+  <question level="1" simple="True" text="The main role Japan plays in the industry">
+    <answer flag="1" text="Centre, Fr. Honshu"/>
+    <answer flag="0" text="North, Fr. Hokkaido"/>
+    <answer flag="0" text="South, Fr. Kyushu"/>
+    <answer flag="0" text="southeast, Fr. Shikoku"/>
+  </question>
+  <question level="1" simple="True" text="China's national religion">
+    <answer flag="0" text="Shinto"/>
+    <answer flag="1" text="Confucianism and Taoism"/>
+    <answer flag="0" text="Buddhism"/>
+    <answer flag="0" text="Sikhism"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries is part of the &quot;Asian tigers&quot;?">
+    <answer flag="0" text="Israel"/>
+    <answer flag="0" text="Philippines"/>
+    <answer flag="1" text="South Korea"/>
+    <answer flag="0" text="Malaysia"/>
+  </question>
+  <question level="1" simple="True" text="The most economically developed areas of China is">
+    <answer flag="1" text="East"/>
+    <answer flag="0" text="North"/>
+    <answer flag="0" text="Western"/>
+  </question>
+  <question level="1" simple="True" text="In what part of Asia have Islam and Christianity?">
+    <answer flag="0" text="In the central"/>
+    <answer flag="1" text="In the south-west"/>
+    <answer flag="0" text="In Southern"/>
+    <answer flag="0" text="In the south-east"/>
+  </question>
+  <question level="1" simple="True" text="The main export crop of Sri Lanka is">
+    <answer flag="0" text="vanilla"/>
+    <answer flag="0" text="dates"/>
+    <answer flag="1" text="tea"/>
+    <answer flag="0" text="rice"/>
+  </question>
+</testing>

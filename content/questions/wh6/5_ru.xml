@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="История украинских земель">
+  <question level="1" simple="True" text="Какие археологические находки были сделаны в с. Королеве (Закарпатье)?">
+    <answer flag="1" text="Сервис &quot;человека прямоходящего&quot;"/>
+    <answer flag="0" text="Остатки неандертальца"/>
+    <answer flag="0" text="Остатки поселения австралопитеков"/>
+  </question>
+  <question level="1" simple="True" text="Возле которого поселения найденное захоронение неандертальцев?">
+    <answer flag="0" text="Триполье"/>
+    <answer flag="0" text="Добраничевка"/>
+    <answer flag="1" text="Киик-Коба"/>
+  </question>
+  <question level="1" simple="True" text="Когда, по предположениям археологов, могли появиться первые люди на территории Украины?">
+    <answer flag="0" text="Около 2 млн лет назад"/>
+    <answer flag="0" text="Около 1,7 млн лет назад"/>
+    <answer flag="0" text="Около 1,5 млн лет назад"/>
+    <answer flag="1" text="Около 1 млн лет назад"/>
+    <answer flag="0" text="Около 500 тыс. лет назад"/>
+  </question>
+  <question level="1" simple="True" text="Когда появились первые земледельцы и скотоводы на территории Украины?">
+    <answer flag="0" text="Около 10 тыс. лет назад"/>
+    <answer flag="1" text="Около 7 тыс. лет назад"/>
+    <answer flag="0" text="Около 5 тыс. лет назад"/>
+    <answer flag="0" text="Около 30 тыс. лет назад"/>
+  </question>
+  <question level="1" simple="True" text="Как назвали ученые представителей древней земледельческой культуры на территории Украины эпохи неолита?">
+    <answer flag="0" text="Скифы"/>
+    <answer flag="0" text="Киммерийцы"/>
+    <answer flag="1" text="Трипольцы"/>
+  </question>
+  <question level="1" simple="True" text="Как назывались самые сарматские племена?">
+    <answer flag="1" text="Языги"/>
+    <answer flag="1" text="Роксоланы"/>
+    <answer flag="1" text="Аорсы"/>
+    <answer flag="0" text="Скиры"/>
+    <answer flag="1" text="Сираки"/>
+    <answer flag="0" text="Бастарны"/>
+  </question>
+  <question level="1" simple="True" text="Какие названия имеют скифские курганы, найденные на территории Украины?">
+    <answer flag="1" text="Чертомлык"/>
+    <answer flag="1" text="Мариупольский"/>
+    <answer flag="0" text="Милоград"/>
+    <answer flag="1" text="Огуз"/>
+  </question>
+  <question level="1" simple="True" text="В каком году до н. н.э. персидский царь Дарий I отправился завоевывать земли древней Украины и чей сопротивление он так тогда и не одолел?">
+    <answer flag="0" text="521"/>
+    <answer flag="1" text="514"/>
+    <answer flag="0" text="510"/>
+    <answer flag="0" text="Сарматы"/>
+    <answer flag="0" text="Киммерийцы"/>
+    <answer flag="1" text="Скифы"/>
+  </question>
+  <question level="1" simple="True" text="Как называлась государство, существовавшее на украинской территории в VII - IV вв. до н. э?">
+    <answer flag="0" text="Персия"/>
+    <answer flag="1" text="Великая Скифия"/>
+    <answer flag="0" text="Ассирия"/>
+    <answer flag="0" text="Финикия"/>
+  </question>
+  <question level="1" simple="True" text="Какая древняя и современная названия столицы Боспорского царства?">
+    <answer flag="0" text="Херсонес"/>
+    <answer flag="0" text="Ольвия"/>
+    <answer flag="1" text="Пантикапей"/>
+    <answer flag="0" text="Севастополь"/>
+    <answer flag="0" text="Николаев"/>
+    <answer flag="1" text="Керчь"/>
+  </question>
+  <question level="1" simple="True" text="Какие племена в разное время заселяли территорию современной Украины?">
+    <answer flag="0" text="Кельты"/>
+    <answer flag="1" text="Славяне"/>
+    <answer flag="1" text="Киммерийцы"/>
+    <answer flag="1" text="Скифы"/>
+    <answer flag="1" text="Сарматы"/>
+  </question>
+  <question level="1" simple="True" text="Какие славянские племена проживали на территории Украины?">
+    <answer flag="0" text="Готы"/>
+    <answer flag="1" text="Анти"/>
+    <answer flag="1" text="Склавины"/>
+    <answer flag="0" text="Гунны"/>
+  </question>
+</testing>

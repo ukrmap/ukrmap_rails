@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient East">
+  <question level="1" simple="True" text="In the delta of the river which formed the ancient Egyptians?">
+    <answer flag="0" text="Tiger"/>
+    <answer flag="0" text="Euphrates"/>
+    <answer flag="1" text="Nile"/>
+    <answer flag="0" text="Yellow"/>
+  </question>
+  <question level="1" simple="True" text="As called autonomous region, on community-based alliances that have divided the Nile valley?">
+    <answer flag="1" text="Nomy"/>
+    <answer flag="0" text="County"/>
+    <answer flag="0" text="Districts"/>
+    <answer flag="0" text="Colonies"/>
+  </question>
+  <question level="1" simple="True" text="When the association was lower (southern) Egypt and Upper (northern) Egypt into one state?">
+    <answer flag="1" text="About XXX art. BC. e."/>
+    <answer flag="0" text="Some of the XXI century. BC. e."/>
+    <answer flag="0" text="Some of the XVI century. BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Who ruled ancient Egypt?">
+    <answer flag="1" text="King"/>
+    <answer flag="1" text="Pharaoh"/>
+    <answer flag="0" text="Zherets"/>
+    <answer flag="0" text="Leader"/>
+    <answer flag="0" text="Emperor"/>
+  </question>
+  <question level="1" simple="True" text="Which cities were capitals of ancient Egypt?">
+    <answer flag="1" text="Memphis"/>
+    <answer flag="1" text="Ittauyi"/>
+    <answer flag="1" text="Thebes"/>
+    <answer flag="0" text="Cairo"/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of Egypt during the period of the new kingdom?">
+    <answer flag="1" text="Thebes"/>
+    <answer flag="1" text="Ahetaton"/>
+    <answer flag="0" text="Ittauyi"/>
+    <answer flag="0" text="Memphis"/>
+    <answer flag="1" text="Per-Ramses"/>
+  </question>
+  <question level="1" simple="True" text="Who is buried in the pyramids in ancient Egypt?">
+    <answer flag="0" text="Servants have"/>
+    <answer flag="0" text="The priests"/>
+    <answer flag="1" text="Pharaohs"/>
+    <answer flag="0" text="Officials"/>
+    <answer flag="0" text="Warriors"/>
+  </question>
+  <question level="1" simple="True" text="Which states have in the second anniversary?">
+    <answer flag="1" text="Akkad"/>
+    <answer flag="0" text="Egypt"/>
+    <answer flag="0" text="India"/>
+    <answer flag="1" text="Assyria"/>
+    <answer flag="1" text="Schumer"/>
+  </question>
+  <question level="1" simple="True" text="In the middle of a millennium BC. Babylon AD arose?">
+    <answer flag="1" text="III"/>
+    <answer flag="0" text="II"/>
+    <answer flag="0" text="I"/>
+  </question>
+  <question level="1" simple="True" text="Who was the most famous king of Babylon, and when he ruled?">
+    <answer flag="0" text="Ramses II"/>
+    <answer flag="1" text="Hammurabi"/>
+    <answer flag="0" text="Solon"/>
+    <answer flag="1" text="XVIII century. BC. e."/>
+    <answer flag="0" text="III millennium BC. e."/>
+    <answer flag="0" text="III. BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Who was created the first alphabet?">
+    <answer flag="0" text="Egyptians"/>
+    <answer flag="0" text="Indians"/>
+    <answer flag="0" text="Romans"/>
+    <answer flag="0" text="Greeks"/>
+    <answer flag="1" text="Phoenicians"/>
+  </question>
+  <question level="1" simple="True" text="What translation of the Greek language means the Bible?">
+    <answer flag="0" text="Saga"/>
+    <answer flag="0" text="History"/>
+    <answer flag="1" text="Book"/>
+    <answer flag="0" text="Will"/>
+  </question>
+  <question level="1" simple="True" text="Where and who created the oldest library?">
+    <answer flag="0" text="Babylon"/>
+    <answer flag="1" text="Assyria"/>
+    <answer flag="0" text="Egypt"/>
+    <answer flag="0" text="India"/>
+    <answer flag="0" text="Hammurabi"/>
+    <answer flag="1" text="Ashurbanipal"/>
+    <answer flag="0" text="Ramses I"/>
+    <answer flag="0" text="Buddha"/>
+  </question>
+  <question level="1" simple="True" text="What country originated from the ancient world religions - Buddhism?">
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Japan"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="Vietnam"/>
+  </question>
+  <question level="1" simple="True" text="Who and when the first rowed around Africa?">
+    <answer flag="0" text="Egyptians"/>
+    <answer flag="1" text="Phoenicians"/>
+    <answer flag="0" text="Persians"/>
+    <answer flag="0" text="XX century. BC. e."/>
+    <answer flag="1" text="600 BC. e."/>
+    <answer flag="0" text="The third millennium BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Sanskrit - a language ...">
+    <answer flag="0" text="Egyptians"/>
+    <answer flag="0" text="Phoenicians"/>
+    <answer flag="1" text="Aryans"/>
+  </question>
+  <question level="1" simple="True" text="Which state is called the Celestial Empire?">
+    <answer flag="0" text="India"/>
+    <answer flag="0" text="Persia"/>
+    <answer flag="0" text="Egypt"/>
+    <answer flag="0" text="Syria"/>
+    <answer flag="1" text="China"/>
+  </question>
+  <question level="1" simple="True" text="What building was built during the reign of Emperor Qin-Shihuan?">
+    <answer flag="0" text="Pyramid"/>
+    <answer flag="1" text="Great Wall"/>
+    <answer flag="0" text="Buddhist Temple"/>
+    <answer flag="0" text="Coliseum"/>
+    <answer flag="0" text="Statue of Athena"/>
+  </question>
+  <question level="1" simple="True" text="How many Chinese states exist in an era of &quot;Warring?">
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="7"/>
+    <answer flag="0" text="9"/>
+  </question>
+  <question level="1" simple="True" text="Silk Route &quot;goes from China to">
+    <answer flag="0" text="Central Asia"/>
+    <answer flag="0" text="Iran"/>
+    <answer flag="0" text="India"/>
+    <answer flag="1" text="Mediterranean"/>
+  </question>
+</testing>

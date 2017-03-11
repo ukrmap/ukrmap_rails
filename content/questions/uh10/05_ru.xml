@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украина в условиях советской модернизации.">
+  <question text="Основная масса промышленных предприятий Украины за годы индустриализации была построена в">
+    <answer flag="1" text="И пятилетку"/>
+    <answer flag="0" text="II пятилетку"/>
+    <answer flag="0" text="III пятилетку"/>
+  </question>
+  <question text="Кто был Первым секретарем ЦК КП (б) У в 1928-1938 гг?">
+    <answer flag="1" text="Л. Каганович"/>
+    <answer flag="0" text="С. Косиор"/>
+    <answer flag="0" text="Н. Хрущев"/>
+  </question>
+  <question text="Годом &quot;великого перелома&quot; называют">
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1933"/>
+    <answer flag="0" text="1936"/>
+  </question>
+  <question text="В 30-е годы доминирующим методом в искусстве и литературе был:">
+    <answer flag="0" text="критический реализм"/>
+    <answer flag="1" text="социалистический реализм"/>
+    <answer flag="0" text="символизм"/>
+  </question>
+  <question text="Какова главная причина голодомора 1932-1933 годов в Украине?">
+    <answer flag="0" text="засуха и неурожай"/>
+    <answer flag="1" text="целенаправленная политика высшего коммунистического руководства"/>
+    <answer flag="0" text="агрессия против Украины соседних государств"/>
+    <answer flag="0" text="провал индустриализации"/>
+  </question>
+  <question text="На каком из съезде ВКП (б) было принято решение о коллективизации?">
+    <answer flag="0" text="XIV"/>
+    <answer flag="1" text="ХV"/>
+    <answer flag="0" text="XVI"/>
+  </question>
+  <question text="&quot;Сталинская&quot; Конституция РСФСР была принята в">
+    <answer flag="0" text="1929"/>
+    <answer flag="0" text="1934"/>
+    <answer flag="0" text="1936"/>
+    <answer flag="1" text="1937"/>
+  </question>
+  <question text="Какая пятилетка стала по выражению И. Сталина время &quot;уничтожение религии&quot;?">
+    <answer flag="0" text="Первая"/>
+    <answer flag="1" text="Вторая"/>
+    <answer flag="0" text="Третья"/>
+  </question>
+  <question text="Торжественное открытие Днепрогэса состоялось в">
+    <answer flag="0" text="1930"/>
+    <answer flag="0" text="1931"/>
+    <answer flag="1" text="1932"/>
+  </question>
+  <question text="Главным обвинением для украинских деятелей было">
+    <answer flag="1" text="буржуазный национализм"/>
+    <answer flag="0" text="шпионаж"/>
+    <answer flag="0" text="вредительство"/>
+  </question>
+  <question text="Укажите год провозглашения курса на сплошную коллективизацию в УССР.">
+    <answer flag="0" text="1919"/>
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1932"/>
+    <answer flag="0" text="1937"/>
+  </question>
+  <question text="Укажите судебный процесс, на котором были осуждены к различным срокам заключения С. Ефремова, М. Слабченко, И. Гермайзе и других представителей украинской интеллигенции.">
+    <answer flag="1" text="дело &quot;Союза освобождения Украины&quot;"/>
+    <answer flag="0" text="&quot;Шахтинское дело&quot;"/>
+    <answer flag="0" text="дело &quot;Украинского национального центра&quot;"/>
+    <answer flag="0" text="дело &quot;Украинской военной организации&quot;"/>
+  </question>
+</testing>

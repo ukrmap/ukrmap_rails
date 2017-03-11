@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Французская рэвалюцыя канца XVIII стагоддзя.">
+  <question level="1" simple="True" text="Пры праўленні якога караля ў Францыі пачалася рэвалюцыя?">
+    <answer flag="0" text="Людовіка XIV"/>
+    <answer flag="0" text="Людовіка ХV"/>
+    <answer flag="1" text="Людовіка XVI"/>
+    <answer flag="0" text="Людовіка XVIII"/>
+  </question>
+  <question level="1" simple="True" text="Узяцце крэпасці-турмы Бастыліі адбылося">
+    <answer flag="0" text="5 мая 1789"/>
+    <answer flag="0" text="17 мая 1789"/>
+    <answer flag="1" text="14 Ліпень 1789"/>
+    <answer flag="0" text="3 верасня 1789 года"/>
+  </question>
+  <question level="1" simple="True" text="Якія назвы з'яўляюцца лішнімі ў пераліку гарадоў-цэнтраў контррэвалюцыйнай эміграцыі?">
+    <answer flag="1" text="Гаага"/>
+    <answer flag="0" text="Лондан"/>
+    <answer flag="0" text="Кобленц"/>
+    <answer flag="1" text="Бэрн"/>
+    <answer flag="0" text="Турын"/>
+    <answer flag="1" text="Кёльн"/>
+  </question>
+  <question level="1" simple="True" text="Які востраў быў захоплены Напалеонам падчас Егіпецкага паходу?">
+    <answer flag="0" text="Сардзінія"/>
+    <answer flag="1" text="Мальта"/>
+    <answer flag="0" text="Крыт"/>
+  </question>
+  <question level="1" simple="True" text="У склад першай антифранцузской кааліцыі ўваходзілі">
+    <answer flag="1" text="Іспанія"/>
+    <answer flag="1" text="Вялікабрытанія"/>
+    <answer flag="0" text="Асманская імперыя"/>
+    <answer flag="1" text="Прусія"/>
+    <answer flag="0" text="Швейцарскі саюз"/>
+    <answer flag="1" text="Аўстрыя"/>
+    <answer flag="1" text="Сардзінскія каралеўства"/>
+  </question>
+  <question level="1" simple="True" text="Якая французская правінцыя стала цэнтрам роялистского паўстання ў сакавіку-снежні 1793р.?">
+    <answer flag="0" text="Шампань"/>
+    <answer flag="1" text="Вандэя"/>
+    <answer flag="0" text="Авернь"/>
+    <answer flag="0" text="Гасконь"/>
+  </question>
+  <question level="1" simple="True" text="Якія з названых дзяржаў не ўваходзіла ў склад другі антифранцузской кааліцыі?">
+    <answer flag="0" text="Неапалітанскай каралеўства"/>
+    <answer flag="0" text="Расійская імперыя"/>
+    <answer flag="1" text="каралеўства Швецыя"/>
+    <answer flag="1" text="каралеўства Прусія"/>
+    <answer flag="0" text="Асманская імперыя"/>
+    <answer flag="0" text="Вялікабрытанія"/>
+    <answer flag="0" text="каралеўства Партугалія"/>
+  </question>
+  <question level="1" simple="True" text="У Абукире французскія караблі ваявалі з флотам">
+    <answer flag="1" text="Вялікабрытаніі"/>
+    <answer flag="0" text="Турцыі"/>
+    <answer flag="0" text="Расіі"/>
+  </question>
+  <question level="1" simple="True" text="У бітве каля пірамід 20 ліпеня 1798 г. войска Напалеона перамаглі">
+    <answer flag="0" text="ангельцаў"/>
+    <answer flag="0" text="персаў"/>
+    <answer flag="1" text="турак"/>
+  </question>
+  <question level="1" simple="True" text="Лідэрам Дырэкторыі быў">
+    <answer flag="0" text="Тальен"/>
+    <answer flag="0" text="Фрер"/>
+    <answer flag="1" text="Баррас"/>
+    <answer flag="0" text="Мюрат"/>
+  </question>
+  <question level="1" simple="True" text="1 жніўня 1798 года французскія караблі былі знішчаны ангельскай флотам">
+    <answer flag="0" text="у Ла-Манш"/>
+    <answer flag="0" text="поруч выспы Мальта"/>
+    <answer flag="0" text="у мыса Трафальгар"/>
+    <answer flag="1" text="у мыса Абукире"/>
+  </question>
+  <question level="1" simple="True" text="Пераварот 18 брюмера і ўсталяванне Консульствы адбыўся">
+    <answer flag="0" text="16 лістапада 1796 г."/>
+    <answer flag="1" text="9 лістапада 1799"/>
+    <answer flag="0" text="14 Чэрвеня 1800"/>
+    <answer flag="0" text="18 чэрвеня 1804 года"/>
+  </question>
+</testing>

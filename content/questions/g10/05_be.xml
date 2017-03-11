@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Глабальныя праблемы чалавецтва">
+  <question text="Энергетычная праблема выклікана">
+    <answer flag="1" text="ростам спажывання энергіі"/>
+    <answer flag="0" text="нізкай якасцю паліўных рэсурсаў"/>
+    <answer flag="0" text="выкарыстаннем нетрадыцыйных крыніц энергіі"/>
+  </question>
+  <question text="Дэмаграфічны выбух у ХХ ст. выкліканы">
+    <answer flag="0" text="ростам колькасці гарадоў у свеце"/>
+    <answer flag="0" text="высокім узроўнем развіцця прамысловасці ў развітых краінах"/>
+    <answer flag="1" text="істотным зніжэннем ўзроўню смяротнасці ў краінах, якія развіваюцца"/>
+  </question>
+  <question text="Якая з міжнародных арганізацый каардынуе работу па пераадоленні глабальных праблем чалавецтва?">
+    <answer flag="0" text="АСЕАН"/>
+    <answer flag="0" text="СНД"/>
+    <answer flag="0" text="ЕС"/>
+    <answer flag="1" text="ААН"/>
+  </question>
+  <question text="На якім кантыненце знаходзіцца &quot;полюс голаду&quot;?">
+    <answer flag="0" text="Аўстралія"/>
+    <answer flag="1" text="Афрыка"/>
+    <answer flag="0" text="Еўразія"/>
+    <answer flag="0" text="Паўднёвая Амерыка"/>
+  </question>
+  <question text="Якія часткі Сусветнага акіяна з'яўляюцца найбольш забруджанымі?">
+    <answer flag="1" text="Тэрытарыяльныя вады"/>
+    <answer flag="0" text="Адкрытая акваторыя"/>
+    <answer flag="1" text="Шэльфавых зоны"/>
+  </question>
+  <question text="Які з кантынентаў мае самую вялікую долю прыродаахоўных тэрыторый у агульнай плошчы?">
+    <answer flag="0" text="Паўночная Амерыка"/>
+    <answer flag="0" text="Еўразія"/>
+    <answer flag="0" text="Афрыка"/>
+    <answer flag="1" text="Аўстралія"/>
+  </question>
+  <question text="Якія лесу зямнога шара найбольш інтэнсіўна высякаюцца?">
+    <answer flag="0" text="Тайга"/>
+    <answer flag="1" text="Сэльва"/>
+    <answer flag="0" text="Джунглі экватарыяльнай Афрыкі"/>
+  </question>
+  <question text="У вялікіх гарадах асноўнай крыніцай забруджвання паветра з'яўляецца">
+    <answer flag="0" text="ТЭС"/>
+    <answer flag="0" text="прадпрыемствы нафтахіміі"/>
+    <answer flag="0" text="прадпрыемствы будаўнічых матэрыялаў"/>
+    <answer flag="1" text="аўтатранспарт"/>
+  </question>
+  <question text="Рэкультывацыя земляў гэта">
+    <answer flag="0" text="кар'ерныя зямельныя работы"/>
+    <answer flag="1" text="аднаўленне парушаных зямель"/>
+    <answer flag="0" text="узворванне цаліны"/>
+    <answer flag="0" text="скарачэнне плошчаў сельскагаспадарчых угоддзяў"/>
+  </question>
+  <question text="Адукацыі парніковага эфекту спрыяе павелічэнне ў атмасферы Зямлі">
+    <answer flag="1" text="вуглякіслага газу"/>
+    <answer flag="0" text="сярністага газу"/>
+    <answer flag="0" text="фреонов"/>
+    <answer flag="0" text="азону"/>
+  </question>
+  <question text="На якім кантыненце самая нізкая працягласць жыцця?">
+    <answer flag="0" text="Азія"/>
+    <answer flag="1" text="Афрыка"/>
+    <answer flag="0" text="Аўстралія"/>
+    <answer flag="0" text="Паўднёвая Амерыка"/>
+  </question>
+  <question text="Краіна, у якой не заціхаюць сепаратысцкія рухі, гэта">
+    <answer flag="0" text="ЗША"/>
+    <answer flag="1" text="Індыя"/>
+    <answer flag="0" text="Польшча"/>
+  </question>
+</testing>

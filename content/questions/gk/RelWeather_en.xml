@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The surface of Kyiv. Weather">
+  <question level="1" simple="True" text="Kyiv Left Bank lies within:">
+    <answer flag="1" text="Pridniprovskoy lowland"/>
+    <answer flag="0" text="Polesie lowlands"/>
+    <answer flag="0" text="Dnieper Upland"/>
+  </question>
+  <question level="1" simple="True" text="Within which the administrative district of Kyiv is the highest point of the city?">
+    <answer flag="0" text="Goloseevskogo"/>
+    <answer flag="1" text="Caves"/>
+    <answer flag="0" text="Podolski"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="Yara in Kiev appeared mainly under the influence of external forces of nature"/>
+    <answer flag="0" text="Landforms are artificial embankments, dams, quarries, canals"/>
+    <answer flag="1" text="Landslides frequently in left-bank part of Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="Soil fertility is determined by the capacity of humus layer"/>
+    <answer flag="1" text="Desna flows into the Dnieper south of Kyiv"/>
+    <answer flag="0" text="The soil within Kyiv heavily modified"/>
+  </question>
+  <question level="1" simple="True" text="What artificial landforms formed in mining areas?">
+    <answer flag="0" text="Channels"/>
+    <answer flag="0" text="Rowe"/>
+    <answer flag="1" text="Careers"/>
+  </question>
+  <question level="1" simple="True" text="The process of detachment-existence and rocks under the force of gravity is called:">
+    <answer flag="0" text="detritus"/>
+    <answer flag="1" text="landslide"/>
+    <answer flag="0" text="yaroutvorennya"/>
+  </question>
+  <question level="1" simple="True" text="Within which the administrative district of Kyiv the lowest point of the city?">
+    <answer flag="1" text="Goloseevskogo"/>
+    <answer flag="0" text="Podolski"/>
+    <answer flag="0" text="Desnyanskogo"/>
+  </question>
+  <question level="1" simple="True" text="What is the name established on the slopes of watercourses special system of pipes and ditches for drainage of underground water?">
+    <answer flag="0" text="Sewerage"/>
+    <answer flag="1" text="Drainage"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="Soil fertility is determined by the capacity of humus layer"/>
+    <answer flag="0" text="Kyyevske reservoir produces tangible impact on climate Kyiv"/>
+    <answer flag="1" text="In each administrative district of Kyiv is a meteorological station"/>
+  </question>
+  <question level="1" simple="True" text="Change of seasons on Earth are the result of:">
+    <answer flag="0" text="Earth's rotation around its axis"/>
+    <answer flag="1" text="Earth's rotation around the sun"/>
+  </question>
+  <question level="1" simple="True" text="How does the air temperature increased gas content of air in Kiev and a large number of harmful emissions into the atmosphere?">
+    <answer flag="0" text="The temperature in town is always lower than in Kyiv"/>
+    <answer flag="1" text="The temperature in town is always higher than in Kyiv"/>
+    <answer flag="0" text="The temperature in Kiev, such as outside the city"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="The warmest month is July in Kiev"/>
+    <answer flag="1" text="Most precipitation falls in Kiev the cold season"/>
+    <answer flag="0" text="Weather - a state of surface air in a particular area at certain times"/>
+  </question>
+</testing>

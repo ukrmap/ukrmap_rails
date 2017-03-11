@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Знешняя палітыка Украіны. Украінская дыяспара">
+  <question level="1" simple="True" text="Якія дзве краіны прызналі Украіны першымі?">
+    <answer flag="0" text="Расія"/>
+    <answer flag="1" text="Польшча"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="ЗША"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны-рэспублікі былога Савецкага Саюза не ўвайшлі ў СНД?">
+    <answer flag="0" text="Грузія"/>
+    <answer flag="1" text="Латвія"/>
+    <answer flag="1" text="Літва"/>
+    <answer flag="1" text="Эстонія"/>
+  </question>
+  <question level="1" simple="True" text="Якія з краіны з'яўляецца сёння адначасова членамі ГУАМ і СНД?">
+    <answer flag="0" text="Узбекістан"/>
+    <answer flag="1" text="Украіна"/>
+    <answer flag="0" text="Грузія"/>
+    <answer flag="1" text="Малдова"/>
+    <answer flag="1" text="Азербайджан"/>
+  </question>
+  <question level="1" simple="True" text="Заснавальніцай альбо міжнароднай арганізацыі стала Украіна ў 1945 г.?">
+    <answer flag="0" text="НАТА"/>
+    <answer flag="0" text="Ліга Нацый"/>
+    <answer flag="1" text="ААН"/>
+  </question>
+  <question level="1" simple="True" text="Што было галоўнай прычынай першай хвалі ўкраінскай эміграцыі другой паловы XIX стагоддзя?">
+    <answer flag="1" text="Малоземелья"/>
+    <answer flag="0" text="Политини пераследу"/>
+    <answer flag="0" text="Этнічныя прыгнёту"/>
+  </question>
+  <question level="1" simple="True" text="На які перыяд даводзіцца паток ўкраінскіх эмігрантаў у Аўстраліі і Новай Зеландыі?">
+    <answer flag="1" text="Пасля Другой сусветнай вайны"/>
+    <answer flag="0" text="Да Першай сусветнай вайны"/>
+    <answer flag="0" text="У перыяд паміж дзвюма сусветнымі войнамі"/>
+  </question>
+  <question level="1" simple="True" text="У якіх краінах сканцэнтраваны тры найбуйнейшыя ўкраінскія суполкі?">
+    <answer flag="0" text="Польшча"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="1" text="Расія"/>
+    <answer flag="1" text="ЗША"/>
+    <answer flag="0" text="Бразілія"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца краіна, цэнтрам палітычнага жыцця украінскім у якой з'яўляецца горад Прудентополис?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="Бразілія"/>
+    <answer flag="0" text="Аўстралія"/>
+    <answer flag="0" text="Новая Зеландыя"/>
+  </question>
+</testing>

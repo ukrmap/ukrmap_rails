@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The First World War">
+  <question text="The German plan called the swift defeat of France">
+    <answer flag="0" text="&quot;Plan Hindenburg"/>
+    <answer flag="1" text="&quot;Plan Shliffena&quot;"/>
+    <answer flag="0" text="&quot;Plan of Kaiser Wilhelm II&quot;"/>
+  </question>
+  <question text="Fighting World War in Ukraine in 1914 occurred mainly">
+    <answer flag="1" text="in Galicia"/>
+    <answer flag="0" text="on tail"/>
+    <answer flag="0" text="Transcarpathia"/>
+  </question>
+  <question text="Among the most hostile of the army was">
+    <answer flag="0" text="in Germany"/>
+    <answer flag="1" text="in Russia"/>
+    <answer flag="0" text="France"/>
+  </question>
+  <question text="During the First World War, Netherlands">
+    <answer flag="0" text="performed at the side of the Entente"/>
+    <answer flag="0" text="performed on the side of the Central Powers"/>
+    <answer flag="1" text="observed neutrality"/>
+  </question>
+  <question text="From the Belgian city of Ypres names got the name kind of weapons:">
+    <answer flag="0" text="model tank"/>
+    <answer flag="1" text="poisonous gas"/>
+    <answer flag="0" text="long-range gun"/>
+  </question>
+  <question text="During an attack on Austria-Hungary, Russian forces captured">
+    <answer flag="0" text="Budapest and Vienna"/>
+    <answer flag="1" text="Lviv and Przemysl"/>
+    <answer flag="0" text="Krakow and Prague"/>
+  </question>
+  <question text="The most successful attack Russian troops in 1916 associated with the name of General">
+    <answer flag="0" text="Kornilov"/>
+    <answer flag="1" text="Brusylov"/>
+    <answer flag="0" text="Denikin"/>
+  </question>
+  <question text="Russia withdrew from the first world war because">
+    <answer flag="0" text="came to power for peace"/>
+    <answer flag="0" text="in the country ended mobilization resources"/>
+    <answer flag="1" text="Bolsheviks needed a rest with an external enemy, to eliminate internal opposition"/>
+  </question>
+  <question text="After the conclusion of the Bucharest peace treaty between Bulgaria and Romania disputed territory of South Dobrogea">
+    <answer flag="1" text="moved to Bulgaria"/>
+    <answer flag="0" text="remained in Romania"/>
+  </question>
+  <question text="At the time of concluding a truce Komp'yenskoho">
+    <answer flag="0" text="Entente troops controlled the western part of Germany"/>
+    <answer flag="1" text="German troops controlled the Baltic States, Poland, Ukraine and most of Belgium"/>
+  </question>
+  <question text="After losing the war the Austro-Hungarian Empire broke up into">
+    <answer flag="0" text="two independent states"/>
+    <answer flag="1" text="five independent states"/>
+  </question>
+  <question text="During the First World War, first applied">
+    <answer flag="0" text="guns"/>
+    <answer flag="1" text="tanks"/>
+    <answer flag="0" text="Air Combat"/>
+  </question>
+</testing>

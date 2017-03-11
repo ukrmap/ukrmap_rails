@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Африки, Австралії та Океанії">
+  <question level="1" simple="True" text="В якій частині Африки вирощується найбільше рису?">
+    <answer flag="0" text="Західній"/>
+    <answer flag="1" text="Східній"/>
+    <answer flag="0" text="Південній"/>
+    <answer flag="0" text="Північній"/>
+  </question>
+  <question level="1" simple="True" text="Обробна промисловість країн Африки розміщена, переважно, в">
+    <answer flag="0" text="столицях"/>
+    <answer flag="1" text="портових містах"/>
+    <answer flag="0" text="центральних частинах країн"/>
+  </question>
+  <question level="1" simple="True" text="Колоніальними рисами транспортної мережі країн Африки є">
+    <answer flag="0" text="відсутність єдиної транспортної системи"/>
+    <answer flag="1" text="більш густа транспортна мережа на узбережжі"/>
+    <answer flag="0" text="фактична відсутність залізничного транспорту"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть країну, для якої проблема дефіциту прісної води є найбільш актуальною?">
+    <answer flag="0" text="Конґо"/>
+    <answer flag="1" text="Єгипет"/>
+    <answer flag="0" text="Ліберія"/>
+    <answer flag="0" text="Анґола"/>
+  </question>
+  <question level="1" simple="True" text="Роком визволення Африки є">
+    <answer flag="0" text="1950"/>
+    <answer flag="1" text="1960"/>
+    <answer flag="0" text="1970"/>
+  </question>
+  <question level="1" simple="True" text="Народ, що проживає на півдні Африки, це">
+    <answer flag="0" text="бербери"/>
+    <answer flag="1" text="бури"/>
+    <answer flag="0" text="пігмеї"/>
+    <answer flag="0" text="араби"/>
+  </question>
+  <question level="1" simple="True" text="Яка монокультурна країна Африки спеціалізується на експорті бокситів?">
+    <answer flag="0" text="Кот-д’Івуар"/>
+    <answer flag="0" text="Південна Африка"/>
+    <answer flag="1" text="Ґвінея"/>
+    <answer flag="0" text="Камерун"/>
+  </question>
+  <question level="1" simple="True" text="Яка з зазначених країн, за даними ООН належить до групи найбідніших країн світу?">
+    <answer flag="0" text="Лівія"/>
+    <answer flag="0" text="Папуа-Нова Ґвінея"/>
+    <answer flag="1" text="Сьєрра-Леоне"/>
+  </question>
+  <question level="1" simple="True" text="Вплив колоніального минулого Австралії і Нової Зеландії проявляється в">
+    <answer flag="1" text="сировинній спеціалізації експорту"/>
+    <answer flag="0" text="переважанні великого землеволодіння"/>
+    <answer flag="0" text="територіальній структурі господарства"/>
+  </question>
+  <question level="1" simple="True" text="Який вид транспорту практично відсутній в Австралії?">
+    <answer flag="0" text="Автомобільний"/>
+    <answer flag="0" text="Залізничний"/>
+    <answer flag="1" text="Річковий"/>
+    <answer flag="0" text="Повітряний"/>
+  </question>
+  <question level="1" simple="True" text="Найбільш густозаселеним районом в Австралії є">
+    <answer flag="0" text="Північ"/>
+    <answer flag="1" text="Південний Схід"/>
+    <answer flag="0" text="Південний Захід"/>
+  </question>
+  <question level="1" simple="True" text="Основним експортним товаром острівних країн Океанії є">
+    <answer flag="0" text="риба"/>
+    <answer flag="0" text="перли"/>
+    <answer flag="1" text="копра"/>
+    <answer flag="0" text="цитрусові"/>
+  </question>
+</testing>

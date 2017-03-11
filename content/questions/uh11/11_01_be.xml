@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украіна ў Вялікай Айчыннай вайне (чэрвень 1941-лістапад 1942)">
+  <question level="1" simple="True" text="Калі быў падпісаны план нападу на СССР, які атрымаў назву &quot;Барбароса&quot;?">
+    <answer flag="0" text="У снежні 1939 г."/>
+    <answer flag="1" text="У снежні 1940 г."/>
+    <answer flag="0" text="У сакавіку 1941 г."/>
+  </question>
+  <question level="1" simple="True" text="Нацысцкая Германія раптам напала на СССР">
+    <answer flag="0" text="1 верасня 1939 года г"/>
+    <answer flag="0" text="22 сьнежня 1940 г"/>
+    <answer flag="1" text="22 чэрвеня 1941 г"/>
+  </question>
+  <question level="1" simple="True" text="Сіламі якіх армій у студзені 1942 г. быў праведзены наступ з мэтай вяртання Харкава?">
+    <answer flag="1" text="6-й арміі"/>
+    <answer flag="1" text="12-й арміі"/>
+    <answer flag="1" text="21-й арміі"/>
+    <answer flag="0" text="44-й арміі"/>
+    <answer flag="0" text="55-й арміі"/>
+    <answer flag="1" text="58-й арміі"/>
+  </question>
+  <question level="1" simple="True" text="Якім фронтам камандаваў Міхаіл Кирпонос?">
+    <answer flag="0" text="Бранскім"/>
+    <answer flag="0" text="Паўднёвым"/>
+    <answer flag="0" text="Паўночнакаўказскіх"/>
+    <answer flag="1" text="Паўднёва-Заходнім"/>
+  </question>
+  <question level="1" simple="True" text="Горад, які савецкія войскі ў жніўні 1942 г. пакінулі апошняе, гэта">
+    <answer flag="0" text="Марыупаль"/>
+    <answer flag="1" text="Свярдлоўск"/>
+    <answer flag="0" text="Харкаў"/>
+    <answer flag="0" text="Севастопаль"/>
+    <answer flag="0" text="Сумы"/>
+  </question>
+  <question level="1" simple="True" text="Баі за Сталінград ішлі ў перыяд">
+    <answer flag="1" text="жнівень - лістапад 1942 г."/>
+    <answer flag="0" text="лістапад - снежань 1942 г"/>
+    <answer flag="0" text="Снежні 1942 г - студзень 1943 года г"/>
+    <answer flag="0" text="Кастрычнік - лістапад 1942 г"/>
+  </question>
+  <question level="1" simple="True" text="У чэрвені 1941 г. група армій &quot;Поўдзень&quot; супрацьстаялі войскі">
+    <answer flag="0" text="Харкаўскага ваеннай акругі"/>
+    <answer flag="1" text="Кіеўскага адмысловага акругі"/>
+    <answer flag="1" text="Адэскага ваеннай акругі"/>
+  </question>
+  <question level="1" simple="True" text="Арміі якіх краін (акрамя Германіі) ўдзельнічалі ва ўварванні ва Ўкраіну?">
+    <answer flag="0" text="Італіі"/>
+    <answer flag="1" text="Венгрыі"/>
+    <answer flag="1" text="Румыніі"/>
+  </question>
+</testing>

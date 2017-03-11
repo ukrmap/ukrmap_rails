@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Galicia-Volyn state by Prince Daniel Romanovich and his successors">
+  <question level="1" simple="True" text="When was the coronation Daniel Romanovich?">
+    <answer flag="1" text="In 1253"/>
+    <answer flag="0" text="In 1264"/>
+  </question>
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="0" text="Travel Daniel Romanovich in the Golden Horde"/>
+    <answer flag="1" text="Destruction of Kyiv Mongols"/>
+  </question>
+  <question level="1" simple="True" text="Which opponent converges Galician-Volyn army at the Battle of Yaroslav in 1245?">
+    <answer flag="1" text="From the Hungarian-Polish army"/>
+    <answer flag="0" text="From the German knights-crusaders"/>
+  </question>
+  <question level="1" simple="True" text="What battle ended Yaroslavl in 1245?">
+    <answer flag="1" text="Galician-Volyn victory troops"/>
+    <answer flag="0" text="Defeat of the Galician-Volyn troops"/>
+  </question>
+  <question level="1" simple="True" text="Strengthening the bridge where State Daniel Romanovich was destroyed at the request of the Mongolian princes?">
+    <answer flag="1" text="City, Vladimir, Lutsk"/>
+    <answer flag="0" text="Hill, Kyiv, Pereiaslav"/>
+  </question>
+  <question level="1" simple="True" text="Which cities were part of the Galicia-Volyn principality by Daniel Romanovich?">
+    <answer flag="0" text="Mukachevo, Chernigov, Novgorod-Seversky, Ljubech, Krakow"/>
+    <answer flag="1" text="Holm Terebovlya, Luck, Daniel, Sanok, Przemysl"/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of Galicia and Volyn State by Leo L. Kuchma and Yuri?">
+    <answer flag="0" text="Holm and Galich"/>
+    <answer flag="1" text="Lions and Vladimir"/>
+  </question>
+  <question level="1" simple="True" text="Who are the descendants of Daniel Romanovich had the title &quot;King of Russia&quot;?">
+    <answer flag="0" text="Leo D."/>
+    <answer flag="1" text="And George L."/>
+  </question>
+  <question level="1" simple="True" text="In what years reign of Yuri L. I?">
+    <answer flag="1" text="In 1301-1308 he"/>
+    <answer flag="0" text="In 1325-1340 he"/>
+  </question>
+  <question level="1" simple="True" text="What is the event associated with the board and George L.?">
+    <answer flag="0" text="Liquidation Golden Yoke"/>
+    <answer flag="1" text="Formation Galician Orthodox Metropolis"/>
+  </question>
+  <question level="1" simple="True" text="What event made possible a trip to the Polish King Casimir the Galician-Volyn land in 1349 and initiated a long war for them?">
+    <answer flag="0" text="Agreement with the Polish kingdom of association"/>
+    <answer flag="1" text="Death of George II Boleslav"/>
+  </question>
+  <question level="1" simple="True" text="On that land after the death of George II Boleslaw Prince Lubart extended power of the Lithuanian dynasty Hedyminovychiv?">
+    <answer flag="0" text="the Galician"/>
+    <answer flag="1" text="in Volyn"/>
+  </question>
+</testing>

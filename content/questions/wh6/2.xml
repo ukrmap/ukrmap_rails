@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Давній Схід">
+  <question level="1" simple="True" text="В дельті якої річки сформувався стародавній Єгипет?">
+    <answer flag="0" text="Тигр"/>
+    <answer flag="0" text="Євфрат"/>
+    <answer flag="1" text="Ніл"/>
+    <answer flag="0" text="Хуанхе"/>
+  </question>
+  <question level="1" simple="True" text="Як називалися самостійні області, на які общинні союзи розділили долину Нілу?">
+    <answer flag="1" text="Номи"/>
+    <answer flag="0" text="Округи"/>
+    <answer flag="0" text="Райони"/>
+    <answer flag="0" text="Колонії"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулося об'єднання Нижнього (Південного) Єгипту та Верхнього (Північного) Єгипту в єдину державу?">
+    <answer flag="1" text="Близько XXX ст. до н. е."/>
+    <answer flag="0" text="Близько XXI ст. до н. е."/>
+    <answer flag="0" text="Близько XVI ст. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Хто керував Давнім Єгиптом?">
+    <answer flag="1" text="Цар"/>
+    <answer flag="1" text="Фараон"/>
+    <answer flag="0" text="Жерець"/>
+    <answer flag="0" text="Вождь"/>
+    <answer flag="0" text="Імператор"/>
+  </question>
+  <question level="1" simple="True" text="Які міста були столицями Стародавнього Єгипту?">
+    <answer flag="1" text="Мемфіс"/>
+    <answer flag="1" text="Іттауї"/>
+    <answer flag="1" text="Фіви"/>
+    <answer flag="0" text="Каїр"/>
+  </question>
+  <question level="1" simple="True" text="Які міста були столицями Єгипту за доби нового царства?">
+    <answer flag="1" text="Фіви"/>
+    <answer flag="1" text="Ахетатон"/>
+    <answer flag="0" text="Іттауї"/>
+    <answer flag="0" text="Мемфіс"/>
+    <answer flag="1" text="Пер-Рамзес"/>
+  </question>
+  <question level="1" simple="True" text="Кого хоронили в пірамідах в давньому Єгипті?">
+    <answer flag="0" text="Рабів"/>
+    <answer flag="0" text="Жерців"/>
+    <answer flag="1" text="Фараонів"/>
+    <answer flag="0" text="Чиновників"/>
+    <answer flag="0" text="Воїнів"/>
+  </question>
+  <question level="1" simple="True" text="Які держави виникли на території Дворіччя?">
+    <answer flag="1" text="Аккад"/>
+    <answer flag="0" text="Єгипет"/>
+    <answer flag="0" text="Індія"/>
+    <answer flag="1" text="Ассирія"/>
+    <answer flag="1" text="Шумер"/>
+  </question>
+  <question level="1" simple="True" text="В середині якого тисячоліття до н. е. виник Вавилон?">
+    <answer flag="1" text="III"/>
+    <answer flag="0" text="II"/>
+    <answer flag="0" text="I"/>
+  </question>
+  <question level="1" simple="True" text="Як звали найвідомішого вавилонського царя і коли він правив?">
+    <answer flag="0" text="Рамзес ІІ"/>
+    <answer flag="1" text="Хаммурапі"/>
+    <answer flag="0" text="Солон"/>
+    <answer flag="1" text="XVIII ст. до н. е."/>
+    <answer flag="0" text="III тис. до н. е."/>
+    <answer flag="0" text="III ст. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Ким був створений перший алфавіт?">
+    <answer flag="0" text="Єгиптянами"/>
+    <answer flag="0" text="Індійцями"/>
+    <answer flag="0" text="Римлянами"/>
+    <answer flag="0" text="Греками"/>
+    <answer flag="1" text="Фінікійцями"/>
+  </question>
+  <question level="1" simple="True" text="Що в перекладі з давньогрецької мови означає Біблія?">
+    <answer flag="0" text="Сказання"/>
+    <answer flag="0" text="Історія"/>
+    <answer flag="1" text="Книга"/>
+    <answer flag="0" text="Заповіт"/>
+  </question>
+  <question level="1" simple="True" text="Де і хто створив найдавнішу бібліотеку?">
+    <answer flag="0" text="Вавилон"/>
+    <answer flag="1" text="Ассирія"/>
+    <answer flag="0" text="Єгипет"/>
+    <answer flag="0" text="Індія"/>
+    <answer flag="0" text="Хаммурапі"/>
+    <answer flag="1" text="Ашшурбаніпал"/>
+    <answer flag="0" text="Рамзес І"/>
+    <answer flag="0" text="Будда"/>
+  </question>
+  <question level="1" simple="True" text="З якої країни бере свій початок найдавніша зі світових релігій - Буддизм?">
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="Індія"/>
+    <answer flag="0" text="В'єтнам"/>
+  </question>
+  <question level="1" simple="True" text="Хто і коли першими пропливли навколо Африки?">
+    <answer flag="0" text="Єгиптяни "/>
+    <answer flag="1" text="Фінікійці"/>
+    <answer flag="0" text="Перси"/>
+    <answer flag="0" text="XX ст. до н. е."/>
+    <answer flag="1" text="600 р. до н. е."/>
+    <answer flag="0" text="ІІІ тис. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Санскрит - це мова...">
+    <answer flag="0" text="Єгиптян"/>
+    <answer flag="0" text="Фінікійців"/>
+    <answer flag="1" text="Аріїв"/>
+  </question>
+  <question level="1" simple="True" text="Яку державу називають Піднебесна імперія?">
+    <answer flag="0" text="Індія"/>
+    <answer flag="0" text="Персія"/>
+    <answer flag="0" text="Єгипет"/>
+    <answer flag="0" text="Сирія"/>
+    <answer flag="1" text="Китай"/>
+  </question>
+  <question level="1" simple="True" text="Яку споруду було побудовано за часів правління імператора Цінь-Шіхуан?">
+    <answer flag="0" text="Піраміда"/>
+    <answer flag="1" text="Великий Китайський мур"/>
+    <answer flag="0" text="Буддійський храм"/>
+    <answer flag="0" text="Колізей"/>
+    <answer flag="0" text="Статуя Афіни"/>
+  </question>
+  <question level="1" simple="True" text="Скільки китайських держав існувало за доби &quot;Воюючих царств&quot;?">
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="7"/>
+    <answer flag="0" text="9"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Великий шовковий шлях&quot; пролягав від Китаю до">
+    <answer flag="0" text="Середньої Азії"/>
+    <answer flag="0" text="Ірану"/>
+    <answer flag="0" text="Індії"/>
+    <answer flag="1" text="Середземного моря"/>
+  </question>
+</testing>

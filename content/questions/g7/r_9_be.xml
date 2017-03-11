@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЯМЛЯ - НАШ ДОМ">
+  <question level="1" simple="True" text="Адпраўляючыся ў падарожжа ў 1492 г., Хрыстафор Калумб спадзяваўся адкрыць:">
+    <answer flag="0" text="Амерыку"/>
+    <answer flag="1" text="Індыю"/>
+    <answer flag="0" text="Кітай"/>
+  </question>
+  <question level="1" simple="True" text="Самай вялікай па колькасці насельніцтва краінай свету з'яўляюцца:">
+    <answer flag="0" text="Індыя"/>
+    <answer flag="1" text="Кітай"/>
+    <answer flag="0" text="Расія"/>
+  </question>
+  <question level="1" simple="True" text="У якой з пералічаных краін найбольшая шчыльнасць насельніцтва?">
+    <answer flag="1" text="У Індыі"/>
+    <answer flag="0" text="У Кітаі"/>
+    <answer flag="0" text="У Украіну"/>
+  </question>
+  <question level="1" simple="True" text="Найбольшай па колькасці вернікаў сусветнай рэлігіяй з'яўляецца:">
+    <answer flag="0" text="Іслам"/>
+    <answer flag="1" text="Хрысціянства"/>
+    <answer flag="0" text="Будызм"/>
+  </question>
+  <question level="1" simple="True" text="Старажытнай сярод сусветных рэлігій з'яўляецца">
+    <answer flag="0" text="Іслам"/>
+    <answer flag="1" text="Будызм"/>
+    <answer flag="0" text="Хрысціянства"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца працэс узнаўлення парушаных земляў?">
+    <answer flag="0" text="Рэканструкцыя"/>
+    <answer flag="0" text="Рэстаўрацыя"/>
+    <answer flag="1" text="Рэкультывацыя"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца сістэма стандартных вымярэнняў, ацэнкі і прагназавання стану прыроднага асяроддзя і змяненняў, якія ў ім адбываюцца?">
+    <answer flag="0" text="Метэаралагічныя назіранні"/>
+    <answer flag="1" text="Маніторынг"/>
+    <answer flag="0" text="Зандзіравання"/>
+  </question>
+  <question level="1" simple="True" text="Як называюцца прыродаахоўныя тэрыторыі, дзе забароненая любая гаспадарчая дзейнасць і праводзяцца толькі навуковыя даследаванні?">
+    <answer flag="1" text="Запаведнікі"/>
+    <answer flag="0" text="Помнікі прыроды"/>
+    <answer flag="0" text="Нацыянальныя паркі"/>
+  </question>
+  <question level="1" simple="True" text="Галоўным вынікам парніковага эфекту на Зямлі з'яўляюцца:">
+    <answer flag="1" text="агульнае пацяпленне клімату"/>
+    <answer flag="0" text="агульнае пахаладанне клімату"/>
+    <answer flag="0" text="павелічэнне ўраджайнасці парніковых культур"/>
+  </question>
+  <question level="1" simple="True" text="Павелічэнне вуглякіслага газу ў атмасферы з'яўляецца прамым сьледзтвам:">
+    <answer flag="0" text="павелічэнне плошчаў пустыняў"/>
+    <answer flag="1" text="памяншэнне плошчаў лясоў"/>
+    <answer flag="0" text="памяншэнне азонавага пласта"/>
+  </question>
+  <question level="1" simple="True" text="Найбуйнейшымі забруджвальнікамі атмасферы з'яўляюцца:">
+    <answer flag="0" text="краіны, якія развіваюцца"/>
+    <answer flag="1" text="прамыслова развітыя краіны"/>
+    <answer flag="0" text="найбяднейшыя краіны"/>
+  </question>
+  <question level="1" simple="True" text="Галоўнай прычынай энергетычна-сыравіннай праблемы ў другой палове XX ст. з'яўляюцца:">
+    <answer flag="0" text="памяншэнне запасаў карысных выкапняў на планеце"/>
+    <answer flag="1" text="імклівы рост патрэбнасцей у паліве і сыравіну"/>
+    <answer flag="0" text="палітычная нестабільнасць у некаторых рэгіёнах, багатых карыснымі выкапнямі"/>
+  </question>
+</testing>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="World War II. The fighting in the Pacific (1939 - 1945's)">
+  <question level="1" simple="True" text="Areas which countries were occupied by Japan in March 1939 - November 1941?">
+    <answer flag="0" text="Thailand"/>
+    <answer flag="1" text="Cambodia"/>
+    <answer flag="1" text="Vietnam"/>
+    <answer flag="1" text="Laos"/>
+  </question>
+  <question level="1" simple="True" text="When Japanese troops attack took place on the American naval base at Pearl Harbor?">
+    <answer flag="0" text="September 27, 1940"/>
+    <answer flag="0" text="July 2, 1941"/>
+    <answer flag="1" text="December 7, 1941"/>
+  </question>
+  <question level="1" simple="True" text="Which country was on the side of Japan at the beginning of World War II in combat in the Pacific?">
+    <answer flag="1" text="Thailand"/>
+    <answer flag="0" text="India"/>
+    <answer flag="0" text="Australia"/>
+    <answer flag="0" text="Philippines"/>
+  </question>
+  <question level="1" simple="True" text="What territories were occupied by Japan until the end of 1942?">
+    <answer flag="1" text="French Indochina"/>
+    <answer flag="1" text="Netherlands East Indies"/>
+    <answer flag="1" text="Singapore"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="When was the biggest in the history of World War II naval battle near the island of Leyte (Philippines)?">
+    <answer flag="0" text="October 28, 1943"/>
+    <answer flag="0" text="November 2, 1943"/>
+    <answer flag="1" text="October 23, 1944"/>
+    <answer flag="0" text="April 7, 1945"/>
+  </question>
+  <question level="1" simple="True" text="When the atomic bombing was carried out by American aircraft of Japanese cities and that it was the city?">
+    <answer flag="1" text="August 6, 1945"/>
+    <answer flag="0" text="August 8, 1945"/>
+    <answer flag="1" text="August 9, 1945"/>
+    <answer flag="1" text="Hiroshima"/>
+    <answer flag="0" text="Kyoto"/>
+    <answer flag="0" text="Tokyo"/>
+    <answer flag="1" text="Nagasaki"/>
+  </question>
+  <question level="1" simple="True" text="The troops entered a state of war against Japan, August 9, 1945?">
+    <answer flag="0" text="England"/>
+    <answer flag="1" text="USSR"/>
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="China"/>
+  </question>
+  <question level="1" simple="True" text="When and on board the American battleship was the signing of the act of unconditional surrender of Japan?">
+    <answer flag="0" text="August 9, 1945"/>
+    <answer flag="1" text="September 2, 1945"/>
+    <answer flag="0" text="September 6, 1945"/>
+    <answer flag="1" text="&quot;Missouri&quot;"/>
+    <answer flag="0" text="&quot;Boards&quot;"/>
+    <answer flag="0" text="&quot;Mississippi&quot;"/>
+  </question>
+</testing>

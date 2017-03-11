@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Orient in XVI - XVIII centuries.">
+  <question level="1" simple="True" text="Which country east widespread caste system?">
+    <answer flag="0" text="China"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="Mongolia"/>
+  </question>
+  <question level="1" simple="True" text="Who was the founder of the Mughal?">
+    <answer flag="0" text="Akbar"/>
+    <answer flag="1" text="Babur"/>
+    <answer flag="0" text="Aurangzeb"/>
+  </question>
+  <question level="1" simple="True" text="For a Mughal ruler of power has spread to almost the entire peninsula of Hindustan?">
+    <answer flag="1" text="Akbar"/>
+    <answer flag="0" text="Babur"/>
+    <answer flag="0" text="Aurangzeb"/>
+  </question>
+  <question level="1" simple="True" text="What year Manchus captured Beijing and founded a new dynasty Qing?">
+    <answer flag="0" text="1526"/>
+    <answer flag="0" text="1571"/>
+    <answer flag="1" text="1644"/>
+  </question>
+  <question level="1" simple="True" text="What dynasty rules in China before the Manchu conquest?">
+    <answer flag="0" text="Zin"/>
+    <answer flag="1" text="Low"/>
+    <answer flag="0" text="Sun"/>
+  </question>
+  <question level="1" simple="True" text="Which of the Turkish sultans as &quot;legislator&quot;?">
+    <answer flag="1" text="Suleiman I"/>
+    <answer flag="0" text="Selim I"/>
+    <answer flag="0" text="Ahmed and"/>
+  </question>
+  <question level="1" simple="True" text="The most flourishing of the Ottoman Empire reached the reign of Sultan:">
+    <answer flag="0" text="Selim I"/>
+    <answer flag="1" text="Suleiman I"/>
+    <answer flag="0" text="Mohammed IV"/>
+  </question>
+  <question level="1" simple="True" text="Peasant War in China lasted for:">
+    <answer flag="0" text="1620-1639 biennium"/>
+    <answer flag="1" text="1639-1644 biennium"/>
+    <answer flag="0" text="1644-1656 biennium"/>
+  </question>
+  <question level="1" simple="True" text="Famous mosque-mausoleum of the Taj Mahal is a masterpiece of architecture:">
+    <answer flag="0" text="China"/>
+    <answer flag="1" text="Mughal Empire"/>
+    <answer flag="0" text="Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="When it was founded by the English East India Company?">
+    <answer flag="1" text="1600"/>
+    <answer flag="0" text="1602"/>
+    <answer flag="0" text="1639"/>
+  </question>
+  <question level="1" simple="True" text="Battle of Vienna in 1683 ended in victory:">
+    <answer flag="0" text="Turkish Army"/>
+    <answer flag="1" text="anti-Turkish coalition troops"/>
+  </question>
+  <question level="1" simple="True" text="When the battle at Mohachem, which resulted in Hungary fell under the rule of Ottoman Empire?">
+    <answer flag="0" text="1520"/>
+    <answer flag="1" text="1526"/>
+    <answer flag="0" text="1571"/>
+  </question>
+</testing>

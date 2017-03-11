@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Центральної та Східної Європи">
+  <question text="Незалежність Польської республіки була проголошена в">
+    <answer flag="0" text="1917 р."/>
+    <answer flag="1" text="1918 р."/>
+    <answer flag="0" text="1919 р."/>
+  </question>
+  <question text="Титулом „вождь держави” користувався">
+    <answer flag="1" text="Ю.Пілсудський"/>
+    <answer flag="0" text="І. Мосцицький"/>
+    <answer flag="0" text="Е. Ридз-Смігли"/>
+  </question>
+  <question text="Повоєнні кордони Польщі були остаточно визначені в">
+    <answer flag="0" text="1918 р."/>
+    <answer flag="0" text="1919 р."/>
+    <answer flag="0" text="1921 р."/>
+    <answer flag="1" text="1923 р."/>
+  </question>
+  <question text="Польща в 20-30-ті роки мала територіальні проблеми з">
+    <answer flag="1" text="усіма своїми сусідами"/>
+    <answer flag="0" text="Литвою та СРСР"/>
+    <answer flag="0" text="Литвою та ЧСР"/>
+  </question>
+  <question text="Коли в Польщі було встановлено режим “санації”?">
+    <answer flag="0" text="1919 р."/>
+    <answer flag="0" text="1920 р."/>
+    <answer flag="1" text="1926 р."/>
+  </question>
+  <question text="Чехо-Словаччина була утворена в">
+    <answer flag="1" text="1918 р."/>
+    <answer flag="0" text="1919 р."/>
+    <answer flag="0" text="1920 р."/>
+  </question>
+  <question text="Першим президентом ЧСР став">
+    <answer flag="0" text="К.Генляйн"/>
+    <answer flag="0" text="Е.Бенеш"/>
+    <answer flag="1" text="Т.Масарик"/>
+    <answer flag="0" text="Г.Гаха"/>
+  </question>
+  <question text="Чехо-Словаччина була розчленована сусідніми державами й остаточно припинила своє існування в">
+    <answer flag="0" text="1938 р."/>
+    <answer flag="1" text="1939 р."/>
+    <answer flag="0" text="1941 р."/>
+  </question>
+  <question text="Коли в Угорщині існувала радянська влада?">
+    <answer flag="0" text="У 1918 р."/>
+    <answer flag="1" text="У 1919 р."/>
+    <answer flag="0" text="У 1920 р."/>
+  </question>
+  <question text="Яка з наведених країн зазнала найбільших територіальних втрат за результатами Першої світової  війни?">
+    <answer flag="1" text="Угорщина"/>
+    <answer flag="0" text="Болгарія"/>
+    <answer flag="0" text="Румунія"/>
+  </question>
+  <question text="Диктаторський режим генерала Й.Антонеску діяв">
+    <answer flag="1" text="у Румунії"/>
+    <answer flag="0" text="у Болгарії"/>
+    <answer flag="0" text="в Угорщині"/>
+  </question>
+  <question text="Владайське повстання 1918 р. відбулося в">
+    <answer flag="0" text="Румунії"/>
+    <answer flag="1" text="Болгарії"/>
+    <answer flag="0" text="Угорщині"/>
+    <answer flag="0" text="Югославії"/>
+  </question>
+</testing>

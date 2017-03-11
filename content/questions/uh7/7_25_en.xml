@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian land of Hungary, Moldova, and Moscow State. Crimea and the Ukrainian Black Sea">
+  <question level="1" simple="True" text="Who belonged to the Black Sea steppes of Mongol invasions?">
+    <answer flag="1" text="Polovtsy"/>
+    <answer flag="0" text="Mongols"/>
+  </question>
+  <question level="1" simple="True" text="Who and when was the first ruler of the Crimean Khanate, which was formed as a result of the collapse of the Golden Horde?">
+    <answer flag="0" text="Stefan III in 1457"/>
+    <answer flag="1" text="Hajji Giray in 1449"/>
+  </question>
+  <question level="1" simple="True" text="As first called Genoese colony in the Northern Black Sea, conquered in 1475 the Turkish sultan?">
+    <answer flag="1" text="Kafa"/>
+    <answer flag="0" text="Mangup"/>
+  </question>
+  <question level="1" simple="True" text="When the Crimean khan Mengli-Gil acknowledged supremacy of the Turkish sultan?">
+    <answer flag="1" text="In 1478"/>
+    <answer flag="0" text="In 1482"/>
+  </question>
+  <question level="1" simple="True" text="To which came the hordes of the Crimean Khan Mengli Giray during the first major campaign in Ukraine?">
+    <answer flag="1" text="In Kyiv"/>
+    <answer flag="0" text="By city"/>
+  </question>
+  <question level="1" simple="True" text="What campaigns were aimed at the hordes of the Crimean Ukrainian lands?">
+    <answer flag="0" text="Occupation of land and join the possession of the Crimean Khanate"/>
+    <answer flag="1" text="The destruction, plunder, capture prisoners captured"/>
+  </question>
+  <question level="1" simple="True" text="Lithuanian prince who ruled in our region, many contributing to the development of the region?">
+    <answer flag="1" text="Theodore Koriatovych"/>
+    <answer flag="0" text="Vladimir Olgerdovich"/>
+  </question>
+  <question level="1" simple="True" text="Between the States was divided Transcarpathian Hungarian troops after the defeat of the Turks at the Battle of Mohachem in 1526?">
+    <answer flag="0" text="Between Duchy of Lithuania and the Moscow kingdom"/>
+    <answer flag="1" text="Between the Duchy of Transylvania and the Holy Roman Empire, where emperors ruled the Austrian Habsburg dynasty"/>
+  </question>
+  <question level="1" simple="True" text="As a part of a State was in Bukovina XV.?">
+    <answer flag="1" text="In the Moldavian principality"/>
+    <answer flag="0" text="In the Hungarian Kingdom"/>
+  </question>
+  <question level="1" simple="True" text="What are the ground lost in the Grand Duchy of Lithuania to Moscow's war in 1537?">
+    <answer flag="1" text="Chernihiv-Siverian region and Smolensk"/>
+    <answer flag="0" text="Galicia and Volhynia"/>
+  </question>
+  <question level="1" simple="True" text="What happened before?">
+    <answer flag="1" text="Final disposition of the local prince of Kiev and its transformation to Province Grand Duchy of Lithuania"/>
+    <answer flag="0" text="Recognition of the Crimean Khanate Ottoman domination"/>
+  </question>
+  <question level="1" simple="True" text="Who led the troops Grand Duchy of Lithuania in winning the battle of Orsha in 1514 against Muscovy?">
+    <answer flag="1" text="Konstantin Ostrog"/>
+    <answer flag="0" text="Andrew Barula"/>
+  </question>
+</testing>

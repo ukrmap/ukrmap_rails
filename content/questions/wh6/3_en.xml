@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient Greece">
+  <question level="1" simple="True" text="As residents of Greece called their country?">
+    <answer flag="1" text="Ellada"/>
+    <answer flag="0" text="Epirus"/>
+    <answer flag="0" text="Etoliya"/>
+    <answer flag="0" text="Eolida"/>
+  </question>
+  <question level="1" simple="True" text="What are the two main causes of death Crete civilization?">
+    <answer flag="1" text="Eruption"/>
+    <answer flag="1" text="Conquest"/>
+    <answer flag="0" text="Epidemic"/>
+    <answer flag="0" text="Overpopulation"/>
+    <answer flag="0" text="Poor crop"/>
+  </question>
+  <question level="1" simple="True" text="On which mountain, according to beliefs of ancient Greeks, the gods lived?">
+    <answer flag="1" text="Olymp"/>
+    <answer flag="0" text="Parnassus"/>
+    <answer flag="0" text="Santorini"/>
+    <answer flag="0" text="Himeta"/>
+  </question>
+  <question level="1" simple="True" text="When probably held Trojan War?">
+    <answer flag="0" text="1300-1290 years BC. e."/>
+    <answer flag="1" text="1240-1230 years BC. e."/>
+    <answer flag="0" text="1180-1170 years BC. e."/>
+  </question>
+  <question level="1" simple="True" text="What event ended the existence Aheyskoyi civilization?">
+    <answer flag="1" text="Dorian invasion"/>
+    <answer flag="0" text="Trojan War"/>
+    <answer flag="0" text="Peloponnesian War"/>
+  </question>
+  <question level="1" simple="True" text="Who ruled the Spartan state?">
+    <answer flag="0" text="Two Emperors"/>
+    <answer flag="0" text="Five leaders"/>
+    <answer flag="1" text="Two kings"/>
+    <answer flag="1" text="Council of Elders"/>
+    <answer flag="1" text="Five eforiv"/>
+  </question>
+  <question level="1" simple="True" text="What do with sickly and ugly children in Sparta?">
+    <answer flag="0" text="Tried to treat"/>
+    <answer flag="1" text="Thrown into the abyss"/>
+    <answer flag="0" text="Topyla in the river"/>
+  </question>
+  <question level="1" simple="True" text="Which two classes were the main Spartan boys in education?">
+    <answer flag="0" text="Painting"/>
+    <answer flag="1" text="Choral singing"/>
+    <answer flag="1" text="Soldiery"/>
+    <answer flag="0" text="Poetry"/>
+  </question>
+  <question level="1" simple="True" text="When Solon was archon?">
+    <answer flag="0" text="560 BC. e."/>
+    <answer flag="0" text="510 BC. e."/>
+    <answer flag="1" text="594 BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Who and what form of government introduced in Atytsi in 510 BC. BC?">
+    <answer flag="0" text="Solon"/>
+    <answer flag="0" text="Pisistrat"/>
+    <answer flag="1" text="Klisfen"/>
+    <answer flag="0" text="Democracy"/>
+    <answer flag="0" text="Tyranny"/>
+    <answer flag="1" text="Ostracism"/>
+  </question>
+  <question level="1" simple="True" text="As a Greek, called the city that founded a colony?">
+    <answer flag="1" text="Metropolis"/>
+    <answer flag="0" text="Magistrate"/>
+    <answer flag="0" text="Museyon"/>
+  </question>
+  <question level="1" simple="True" text="As the Greeks (the Greeks) called foreigners who spoke unintelligible languages?">
+    <answer flag="0" text="Meteky"/>
+    <answer flag="1" text="Barbara"/>
+    <answer flag="0" text="Helot"/>
+  </question>
+  <question level="1" simple="True" text="When there were Greek-Persian War?">
+    <answer flag="1" text="500-449 years BC. e."/>
+    <answer flag="0" text="431-404 years BC. e."/>
+    <answer flag="0" text="359-336 years BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Who and when commanded by 300 Spartans - defenders Fermopilskoho passage?">
+    <answer flag="0" text="Themistocles"/>
+    <answer flag="1" text="Leonid"/>
+    <answer flag="0" text="449 BC. e."/>
+    <answer flag="1" text="480 BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Where and when the first sports (games), dedicated to Zeus?">
+    <answer flag="0" text="Athens"/>
+    <answer flag="1" text="Olympia"/>
+    <answer flag="0" text="Sparta"/>
+    <answer flag="0" text="777 BC. e."/>
+    <answer flag="1" text="776 BC. e."/>
+    <answer flag="0" text="775 BC. e."/>
+  </question>
+  <question level="1" simple="True" text="Who started the story as science?">
+    <answer flag="0" text="Pythagoras"/>
+    <answer flag="0" text="Hippocrates"/>
+    <answer flag="1" text="Herodotus"/>
+    <answer flag="0" text="Aristotle"/>
+  </question>
+  <question level="1" simple="True" text="In the battle of Havhamelamy host Alexander Macedonian army defeated the Persians, led by">
+    <answer flag="0" text="Darius II"/>
+    <answer flag="0" text="Xerxes"/>
+    <answer flag="1" text="Darius III"/>
+  </question>
+</testing>

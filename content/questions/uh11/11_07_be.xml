@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Этнічны склад насельніцтва">
+  <question level="1" simple="True" text="У якім рэгіёне Украіны прадстаўнікі тытульнай нацыі не з'яўляецца пераважным этнасам?">
+    <answer flag="0" text="Одесщина"/>
+    <answer flag="0" text="Данбас"/>
+    <answer flag="0" text="Кіеўшчыны"/>
+    <answer flag="1" text="Крым"/>
+  </question>
+  <question level="1" simple="True" text="Якая этнаграфічная група Украінскі жыве на Чарнігаўшчыне?">
+    <answer flag="0" text="Палішчук"/>
+    <answer flag="0" text="Байкі"/>
+    <answer flag="0" text="Гуцулы"/>
+    <answer flag="1" text="Літвіны"/>
+  </question>
+  <question level="1" simple="True" text="У якіх галінах пражываюць Бойка?">
+    <answer flag="0" text="Хмяльніцкай"/>
+    <answer flag="1" text="Івана-Франкоўскай"/>
+    <answer flag="1" text="Львоўскай"/>
+    <answer flag="0" text="Ровенскай"/>
+  </question>
+  <question level="1" simple="True" text="Прадстаўнікі якіх трох нацыянальных меншасцяў з'яўляецца самымі шматлікімі ў Кіеве?">
+    <answer flag="1" text="Беларусы"/>
+    <answer flag="0" text="Малдаване"/>
+    <answer flag="0" text="Палякі"/>
+    <answer flag="1" text="Габрэі"/>
+    <answer flag="1" text="Расейцы"/>
+  </question>
+  <question level="1" simple="True" text="Колькі прадстаўнікоў іншых нацыянальнасцяў (па дадзеных перапісу насельніцтва 2001 г.) пражывае ў нашай дзяржаве?">
+    <answer flag="0" text="Звыш 7500000"/>
+    <answer flag="1" text="Больш 10500000"/>
+    <answer flag="0" text="Больш 12500000"/>
+  </question>
+  <question level="1" simple="True" text="У якіх гарадах адным з асноўных этнасаў палякі?">
+    <answer flag="0" text="Роўна"/>
+    <answer flag="1" text="Жытомір"/>
+    <answer flag="0" text="Ваўкавыск"/>
+    <answer flag="1" text="Хмяльніцкі"/>
+    <answer flag="0" text="Луцк"/>
+    <answer flag="1" text="Львоў"/>
+  </question>
+</testing>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Таталітарныя і дыктатарскія рэжымы">
+  <question text="Манархію ў Расіі было звергнуты ў выніку">
+    <answer flag="1" text="лютаўскай рэвалюцыі"/>
+    <answer flag="0" text="кастрычніцкага перавароту"/>
+    <answer flag="0" text="мецяжу генерала Карнілава"/>
+  </question>
+  <question text="Першы бальшавіцкае ўрад Расеі узначальваў">
+    <answer flag="0" text="Л. Троцкі"/>
+    <answer flag="1" text="Ленін"/>
+    <answer flag="0" text="І. Сталін"/>
+  </question>
+  <question text="Брэсцкі мір падпісалі">
+    <answer flag="0" text="18 сьнежня 1917 г."/>
+    <answer flag="0" text="23 лютага 1918"/>
+    <answer flag="1" text="3 Сакавік 1918"/>
+  </question>
+  <question text="Збройны выступ спартаковцев (камуністаў) у Берліне адбыўся ў">
+    <answer flag="0" text="лістападзе 1918 г."/>
+    <answer flag="1" text="студзені 1919 г."/>
+    <answer flag="0" text="красавіку 1919 г."/>
+  </question>
+  <question text="Нацысцкі &quot;піўны путч&quot; адбыўся ў">
+    <answer flag="0" text="Берліне"/>
+    <answer flag="1" text="Мюнхене"/>
+    <answer flag="0" text="Нюрнбергу"/>
+    <answer flag="0" text="Кілі"/>
+  </question>
+  <question text="Прыход нацыстаў да ўлады ў Германіі адбыўся ў">
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1923"/>
+    <answer flag="1" text="1933"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="Мяцеж нацыяналістаў супраць урада Народнага фронту ў Іспаніі успыхнуў">
+    <answer flag="0" text="28 студзеня 1930 года"/>
+    <answer flag="0" text="14 красавіка 1931"/>
+    <answer flag="1" text="17 ліпеня 1936"/>
+  </question>
+  <question text="Антысэмітызм найбольш актыўна выявіўся ў палітыцы">
+    <answer flag="1" text="нямецкіх нацыстаў"/>
+    <answer flag="0" text="італьянскіх фашыстаў"/>
+    <answer flag="0" text="іспанскіх фалангістаў"/>
+  </question>
+  <question text="Якое назву атрымала палітыка бальшавікоў, уведзеная ў 1921 г.?">
+    <answer flag="0" text="«Ваенны камунізм»"/>
+    <answer flag="1" text="Нэп"/>
+    <answer flag="0" text="Калектывізацыя"/>
+  </question>
+  <question text="3 прыведзены груп краін назавіце тыя, дзе на працягу 20-30-х гг ўсталяваліся таталітарныя рэжымы.">
+    <answer flag="0" text="Балгарыя, Кітай, Польшча, Румынія"/>
+    <answer flag="0" text="Югаславія, Чэхаславакія, Японія, СССР, Германія"/>
+    <answer flag="1" text="СССР, Нямеччына, Італія"/>
+  </question>
+  <question text="У якім годзе быў створаны СССР?">
+    <answer flag="1" text="1922"/>
+    <answer flag="0" text="1923"/>
+    <answer flag="0" text="1924"/>
+  </question>
+  <question text="У якой краіне былі &quot;Два чырвоныя гады&quot;?">
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Італія"/>
+    <answer flag="0" text="СССР"/>
+    <answer flag="0" text="Германія"/>
+  </question>
+</testing>

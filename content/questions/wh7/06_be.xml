@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Адукацыя Маскоўскай дзяржавы. Краіны Азіі">
+  <question text="Якое падзея сусветнай гісторыі спрыяла абвяшчэнню Масквы &quot;трэцім Рымам&quot;?">
+    <answer flag="0" text="Фларэнтыйскай унія"/>
+    <answer flag="1" text="падзенне Канстанцінопаля"/>
+    <answer flag="0" text="Кулікоўская бітва"/>
+  </question>
+  <question text="Баскакаў - гэта">
+    <answer flag="0" text="камандзір карнага атрада, які павінен прыглядаць за выкананнем парадку"/>
+    <answer flag="0" text="мангольскі вайскавод"/>
+    <answer flag="1" text="зборшчык даніны"/>
+  </question>
+  <question text="Калі адбылася бітва на Куліковым полі?">
+    <answer flag="1" text="1380"/>
+    <answer flag="0" text="1382 г"/>
+    <answer flag="0" text="1480"/>
+  </question>
+  <question text="Калі быў створаны Дэлійскі султанат?">
+    <answer flag="1" text="1206"/>
+    <answer flag="0" text="1398"/>
+    <answer flag="0" text="1453"/>
+  </question>
+  <question text="Пагада - гэта">
+    <answer flag="1" text="будыйскі храм у выглядзе шматпавярховай вежы"/>
+    <answer flag="0" text="індуісцкай храм"/>
+    <answer flag="0" text="абарончае збудаванне ў Індыі і Кітаі"/>
+  </question>
+  <question text="Як называліся князі ў Індыі?">
+    <answer flag="0" text="мандарыны"/>
+    <answer flag="0" text="самураі"/>
+    <answer flag="1" text="раджы"/>
+  </question>
+  <question text="Як называлася мангольская дынастыя ў Кітаі?">
+    <answer flag="0" text="Сун"/>
+    <answer flag="0" text="Мін"/>
+    <answer flag="1" text="Юань"/>
+  </question>
+  <question text="Андрэй Рублёў і Феафан Грэк былі">
+    <answer flag="0" text="выбітнымі архітэктарамі"/>
+    <answer flag="1" text="іканапісца"/>
+    <answer flag="0" text="летапісцам"/>
+  </question>
+  <question text="Лёс Ноўгарада вырашыла бітва на рацэ">
+    <answer flag="0" text="Вугры"/>
+    <answer flag="0" text="Калкі"/>
+    <answer flag="1" text="Шэлоні"/>
+  </question>
+  <question text="З XII ст. рэальнымі кіраўнікамі Японіі становяцца">
+    <answer flag="0" text="самураі"/>
+    <answer flag="0" text="кшатрыяў"/>
+    <answer flag="1" text="сягун."/>
+  </question>
+  <question text="Якая бітва атрымала назву &quot;Мамаевым пабоішча&quot;?">
+    <answer flag="1" text="Кулікоўская бітва"/>
+    <answer flag="0" text="«Стаянне на Угре»"/>
+    <answer flag="0" text="бітва на Калкі"/>
+  </question>
+  <question text="Якая дынастыя правілы ў Кітаі раней?">
+    <answer flag="1" text="Сун"/>
+    <answer flag="0" text="Юань"/>
+    <answer flag="0" text="Мін"/>
+  </question>
+</testing>

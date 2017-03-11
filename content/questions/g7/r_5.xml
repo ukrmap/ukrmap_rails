@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПІВДЕННА АМЕРИКА">
+  <question level="1" simple="True" text="В Південній Америці знаходиться:">
+    <answer flag="1" text="найповноводніша річка світу"/>
+    <answer flag="0" text="найдовша річка світу"/>
+    <answer flag="0" text="найбільша пустеля"/>
+  </question>
+  <question level="1" simple="True" text="Найвищою вершиною Південної Америки є:">
+    <answer flag="1" text="Аконкаґуа"/>
+    <answer flag="0" text="Мак-Кінлі"/>
+    <answer flag="0" text="Котопахі"/>
+  </question>
+  <question level="1" simple="True" text="Яке твердження є неправильним?">
+    <answer flag="1" text="Колібрі є ендеміком"/>
+    <answer flag="0" text="Південна Америка - найвологіший материк планети"/>
+    <answer flag="0" text="В Південній Америці знаходиться найсухіша пустеля"/>
+  </question>
+  <question level="1" simple="True" text="Христофор Колумб відкрив Америку у:">
+    <answer flag="1" text="1492 році"/>
+    <answer flag="0" text="1498 році"/>
+    <answer flag="0" text="1502 році"/>
+  </question>
+  <question level="1" simple="True" text="Найвищим на планеті є водоспад:">
+    <answer flag="0" text="Іґуасу"/>
+    <answer flag="1" text="Анхель"/>
+    <answer flag="0" text="Вікторія"/>
+  </question>
+  <question level="1" simple="True" text="Більшість річок Південної Америки:">
+    <answer flag="1" text="належить до басейну Атлантичного океану"/>
+    <answer flag="0" text="належить до басейну Тихого океану"/>
+    <answer flag="0" text="знаходиться в області внутрішнього стоку"/>
+  </question>
+  <question level="1" simple="True" text="Вологі екваторіальні ліси Південної Америки називаються:">
+    <answer flag="0" text="пампа"/>
+    <answer flag="0" text="джунглі"/>
+    <answer flag="1" text="сельва"/>
+  </question>
+  <question level="1" simple="True" text="Пампа це:">
+    <answer flag="1" text="трав'янисті степи Південної Америки"/>
+    <answer flag="0" text="вологі екваторіальні ліси Південної Америки"/>
+    <answer flag="0" text="пустелі Південної Америки"/>
+  </question>
+  <question level="1" simple="True" text="Корінним населенням Південної Америки є:">
+    <answer flag="0" text="метиси"/>
+    <answer flag="1" text="індіанці"/>
+    <answer flag="0" text="самбо"/>
+  </question>
+  <question level="1" simple="True" text="Країни Південної Америки належать:">
+    <answer flag="1" text="до групи країн, що розвиваються"/>
+    <answer flag="0" text="до групи найбідніших країн світу"/>
+    <answer flag="0" text="до групи найбільш розвинутих країн"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним?">
+    <answer flag="0" text="Бразилія - найбільша за площею країна Південної Америки"/>
+    <answer flag="1" text="Бразилія - батьківщина футболу"/>
+    <answer flag="0" text="Бразилія - найбільша за кількістю населення країна Південної Америки"/>
+  </question>
+  <question level="1" simple="True" text="Найбільш поширеними мовами серед населення країн Південної Америки є:">
+    <answer flag="0" text="німецька і мова інків"/>
+    <answer flag="0" text="англійська і французька"/>
+    <answer flag="1" text="іспанська і португальська"/>
+  </question>
+</testing>

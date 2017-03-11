@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Еўропа ў 1945-1989 гг">
+  <question level="1" simple="True" text="Якія краіны былі ўдзельнікамі Еўрапейскай асацыяцыі сумеснай гандлю з 1960 г.?">
+    <answer flag="1" text="Фінляндыя"/>
+    <answer flag="0" text="Румынія"/>
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Аўстрыя"/>
+    <answer flag="1" text="Швейцарыя"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны атрымалі дапамогу ў адпаведнасці з планам &quot;Маршала&quot; з 1948-1952 гг?">
+    <answer flag="0" text="Польшча"/>
+    <answer flag="1" text="Югаславія"/>
+    <answer flag="1" text="Францыя"/>
+    <answer flag="0" text="Балгарыя"/>
+    <answer flag="1" text="Нарвегія"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіне ў 1967-1974 гг правілаў рэжым &quot;чорных палкоўнікаў&quot;?">
+    <answer flag="0" text="Турцыі"/>
+    <answer flag="0" text="Албаніі"/>
+    <answer flag="1" text="Грэцыі"/>
+    <answer flag="0" text="Югаславіі"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе адбылася рэвалюцыя ў Партугаліі, якая адкрыла шлях да дэмакратыі?">
+    <answer flag="0" text="1968"/>
+    <answer flag="1" text="1974"/>
+    <answer flag="0" text="1984"/>
+    <answer flag="0" text="1989"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіне адбылося звяржэнне манархіі ў 1946 г.?">
+    <answer flag="0" text="Румыніі"/>
+    <answer flag="0" text="Югаславіі"/>
+    <answer flag="1" text="Балгарыі"/>
+    <answer flag="0" text="Грэцыі"/>
+  </question>
+  <question level="1" simple="True" text="Якія з пералічаных дзяржаў былі заснавальнікамі ААН 26 чэрвень 1945 на канферэнцыі ў Сан-Францыска?">
+    <answer flag="1" text="Чэха-Славакія"/>
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Францыя"/>
+    <answer flag="1" text="Польшча"/>
+    <answer flag="1" text="Украіна (УССР)"/>
+  </question>
+</testing>

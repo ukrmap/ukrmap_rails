@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Географічне положення">
+  <Item Caption="Пам’ятник засновникам Києва" FileName="1"/>
+  <Item Caption="Дніпро в районі Московського мосту" FileName="2"/>
+  <Item Caption="Міністерство закордонних справ України" FileName="3"/>
+  <Item Caption="Знак в центрі Києва, від якого ведеться відлік відстаней до міст України та світу" FileName="4"/>
+  <Item Caption="Національний університет ім. Т. Шевченка" FileName="5"/>
+  <Item Caption="Аеропорт «Бориспіль» — повітряні ворота України" FileName="6"/>
+  <Item Caption="Софійська площа" FileName="7"/>
+  <Item Caption="Музей Великої Вітчизняної війни" FileName="8"/>
+  <Item Caption="Верхнє місто з висоти пташиного польоту" FileName="9"/>
+  <Item Caption="Церква Всіх Святих у Києво-Печерській лаврі" FileName="10"/>
+  <Item Caption="Печерськ" FileName="11"/>
+  <Item Caption="Міст Метро" FileName="12"/>
+  <Item Caption="Вечірній Київ" FileName="13"/>
+  <Item Caption="Зимовий Київ" FileName="14"/>
+</List>

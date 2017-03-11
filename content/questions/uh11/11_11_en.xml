@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Annexation of Western Ukraine SSR">
+  <question level="1" simple="True" text="When the Red Army launched &quot;liberation campaign&quot; to western land, committing aggression against Poland?">
+    <answer flag="0" text="August 23, 1939"/>
+    <answer flag="0" text="September 1, 1939"/>
+    <answer flag="1" text="September 17, 1939 p"/>
+    <answer flag="0" text="September 28, 1939 p"/>
+  </question>
+  <question level="1" simple="True" text="Do sapience? Sovietization Activities: 1) the perceived population of Western Ukraine unambiguously negative, and 2) were performed only violent actions punitive organs.">
+    <answer flag="0" text="both are valid /"/>
+    <answer flag="0" text="only 1 correct option"/>
+    <answer flag="1" text="only 2 are valid"/>
+    <answer flag="0" text="both wrong"/>
+  </question>
+  <question level="1" simple="True" text="When the Soviet government ordered the General Headquarters of the Red Army to cross the border and take under his protection of life and property of the population of Western Ukraine and Western Belorussia?">
+    <answer flag="0" text="August 23, 1939"/>
+    <answer flag="0" text="September 1, 1939"/>
+    <answer flag="1" text="September 17, 1939"/>
+    <answer flag="0" text="September 28, 1939"/>
+  </question>
+  <question level="1" simple="True" text="Which of these Ukrainian lands were a part of the USSR and the USSR before?">
+    <answer flag="1" text="Eastern Galicia"/>
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="South Bessarabia"/>
+    <answer flag="0" text="Transcarpathia"/>
+  </question>
+  <question level="1" simple="True" text="What measures Sovietization in Western Ukraine in 1939-1941 were positively accepted by the Ukrainian population: 1) elimination of the Polish and Romanian state apparatus, 2) the introduction of free medical care, 3) the elimination of political parties, 4) the persecution and deportation, 5) Ukrainization education 6) elimination of large land owners and of their distribution among farmers; 7) collectivization.">
+    <answer flag="1" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="1" text="1"/>
+    <answer flag="1" text="6"/>
+    <answer flag="1" text="5"/>
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="7"/>
+  </question>
+</testing>

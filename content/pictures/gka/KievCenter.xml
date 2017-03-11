@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Центр Києва">
+  <Item Caption="Софійський собор" FileName="1"/>
+  <Item Caption="Пам'ятник Богдану Хмельницькому" FileName="2"/>
+  <Item Caption="Пам'ятник княгині Ользі" FileName="3"/>
+  <Item Caption="Михайлівський Золотоверхий монастир" FileName="4"/>
+  <Item Caption="Пам'ятник князю Володимиру" FileName="5"/>
+  <Item Caption="Золоті ворота" FileName="6"/>
+  <Item Caption="Головпоштамт" FileName="7"/>
+  <Item Caption="Печерські ворота" FileName="8"/>
+  <Item Caption="Будинок профспілок" FileName="9"/>
+  <Item Caption="Костел св.Олександра" FileName="10"/>
+  <Item Caption="Український дім" FileName="11"/>
+  <Item Caption="Філармонія" FileName="12"/>
+  <Item Caption="Монумент Возз'єднання України з Росією" FileName="13"/>
+  <Item Caption="Центральний універмаг" FileName="14"/>
+  <Item Caption="Міська рада" FileName="15"/>
+  <Item Caption="Висотний житловий будинок" FileName="16"/>
+  <Item Caption="Музична академія ім. П.Чайковського" FileName="17"/>
+  <Item Caption="Монумент Незалежності України" FileName="18"/>
+  <Item Caption="Готель &quot;Україна&quot;" FileName="19"/>
+  <Item Caption="Національний центр культури та мистецтв" FileName="20"/>
+  <Item Caption="Парламентська бібліотека" FileName="21"/>
+  <Item Caption="Національний художній музей" FileName="22"/>
+  <Item Caption="Будинок Уряду України" FileName="23"/>
+  <Item Caption="Бессарабський критий ринок" FileName="24"/>
+  <Item Caption="Кірха св.Катерини" FileName="25"/>
+  <Item Caption="Адміністрація Президента України" FileName="26"/>
+  <Item Caption="&quot;Будинок з химерами&quot;" FileName="27"/>
+  <Item Caption="Національний банк України" FileName="28"/>
+  <Item Caption="Кловський палац" FileName="29"/>
+  <Item Caption="Торговельно-розважальний центр &quot;Глобус&quot;" FileName="30"/>
+  <Item Caption="Цирк" FileName="31"/>
+</List>

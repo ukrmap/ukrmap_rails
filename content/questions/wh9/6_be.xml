@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Міжнародныя адносіны ў 1840-1860-х гадах">
+  <question level="1" simple="True" text="&quot;Опіумная вайны еўрапейскія дзяржавы вялі супроць">
+    <answer flag="0" text="Індыі"/>
+    <answer flag="1" text="Кітая"/>
+    <answer flag="0" text="Індакітая"/>
+  </question>
+  <question level="1" simple="True" text="Якая краіна прайграла Крымскую вайну (1853-1856 гг)?">
+    <answer flag="0" text="Турцыя"/>
+    <answer flag="0" text="Англія"/>
+    <answer flag="0" text="Францыя"/>
+    <answer flag="1" text="Расія"/>
+  </question>
+  <question level="1" simple="True" text="Сипайське паўстанне ўспыхнула супраць">
+    <answer flag="1" text="англійскіх каланізатараў"/>
+    <answer flag="0" text="французскіх каланізатараў"/>
+    <answer flag="0" text="іспанскіх каланізатараў"/>
+  </question>
+  <question level="1" simple="True" text="Якая краіна была адкрыта еўрапейцамі раней?">
+    <answer flag="1" text="Кітай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="0" text="Карэя"/>
+  </question>
+  <question level="1" simple="True" text="Назва &quot;Вялікі трэк&quot; атрымалі падзеі">
+    <answer flag="1" text="выхаду бураў з ангельскіх валадарстваў"/>
+    <answer flag="0" text="каланіяльнае заваёва Алжыра Францыяй"/>
+    <answer flag="0" text="Крымскай вайны"/>
+  </question>
+  <question level="1" simple="True" text="Правам дамініёнаў карысталіся некаторыя калоніі">
+    <answer flag="0" text="Францыі"/>
+    <answer flag="0" text="Іспаніі"/>
+    <answer flag="1" text="Англіі"/>
+  </question>
+  <question level="1" simple="True" text="Галоўным прынцыпам &quot;рэальнай палітыкі&quot; з'яўляецца">
+    <answer flag="1" text="&quot;Хто мацней, той і правоў&quot;"/>
+    <answer flag="0" text="&quot;Прыярытэт права&quot;"/>
+    <answer flag="0" text="&quot;Прыярытэтнае права манархаў&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Знешнепалітычны курс якой краіны прывёў да краху венскай сістэмы міжнародных адносін?">
+    <answer flag="1" text="Францыі"/>
+    <answer flag="0" text="Англіі"/>
+    <answer flag="0" text="Расіі"/>
+  </question>
+  <question level="1" simple="True" text="Якую лацінаамерыканскую краіну спрабаваў захапіць Напалеон III?">
+    <answer flag="1" text="Мексіку"/>
+    <answer flag="0" text="Бразілію"/>
+    <answer flag="0" text="Аргентыну"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў пабудаваны Суэцкі канал?">
+    <answer flag="1" text="1869"/>
+    <answer flag="0" text="1875"/>
+    <answer flag="0" text="1882"/>
+  </question>
+  <question level="1" simple="True" text="Якую краіну ў першай палове XIX стагоддзя называлі &quot;жандарам Эўропы&quot;?">
+    <answer flag="0" text="Англію"/>
+    <answer flag="0" text="Францыю"/>
+    <answer flag="1" text="Расею"/>
+  </question>
+  <question level="1" simple="True" text="Працягнеце лагічны шэраг: Англія - Гібралтар - Мальта - Суецький канал - Аден - ...">
+    <answer flag="0" text="Амерыка"/>
+    <answer flag="1" text="Індыя"/>
+    <answer flag="0" text="Францыя"/>
+    <answer flag="0" text="Паўднёвая Афрыка"/>
+  </question>
+</testing>

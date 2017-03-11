@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Asia, Africa and Latin America">
+  <question text="When was the memorandum of General Tanaka?">
+    <answer flag="0" text="In 1925"/>
+    <answer flag="0" text="In 1926,"/>
+    <answer flag="1" text="In 1927"/>
+    <answer flag="0" text="In 1928"/>
+  </question>
+  <question text="&quot;Chakskoyu war&quot; referred to the armed conflict between">
+    <answer flag="0" text="Peru and Ecuador"/>
+    <answer flag="1" text="Bolivia and Paraguay"/>
+    <answer flag="0" text="Colombia and Peru"/>
+  </question>
+  <question text="Under the slogan that Japan rozhortala aggression in the Asia-Pacific region?">
+    <answer flag="1" text="&quot;Asia for Asia&quot;"/>
+    <answer flag="0" text="&quot;New Order&quot;"/>
+    <answer flag="0" text="&quot;Empire on which would not sunset&quot;"/>
+  </question>
+  <question text="Civil war between Communists and Homindanom began in">
+    <answer flag="0" text="1925"/>
+    <answer flag="1" text="1927"/>
+    <answer flag="0" text="1934"/>
+  </question>
+  <question text="Which country in the 20-30-years of the twentieth century. had colonial possessions in Africa?">
+    <answer flag="0" text="England and France"/>
+    <answer flag="0" text="England, France, Belgium"/>
+    <answer flag="1" text="England, France, Belgium, Italy, Portugal, Spain"/>
+    <answer flag="0" text="England, France, Belgium, Germany, Portugal"/>
+  </question>
+  <question text="The main force of the national liberation struggle in India was">
+    <answer flag="0" text="Communist Party"/>
+    <answer flag="1" text="Indian National Congress"/>
+    <answer flag="0" text="Muslim League"/>
+  </question>
+  <question text="When an &quot;salt march&quot;?">
+    <answer flag="0" text="In 1919"/>
+    <answer flag="1" text="In 1930"/>
+    <answer flag="0" text="In 1939"/>
+  </question>
+  <question text="Italian aggression against Ethiopia was held in">
+    <answer flag="0" text="1925"/>
+    <answer flag="1" text="1935-1936 biennium"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="In managed areas in the Near East England won the League of Nations mandate?">
+    <answer flag="1" text="Iraq, Palestine, Transjordan"/>
+    <answer flag="0" text="Egypt, Palestine"/>
+    <answer flag="0" text="Syria, Lebanon"/>
+  </question>
+  <question text="Turkey was proclaimed a republic in">
+    <answer flag="0" text="1919"/>
+    <answer flag="1" text="1923"/>
+    <answer flag="0" text="1924"/>
+  </question>
+  <question text="In what year was Pehlevi Reza Shah of Iran?">
+    <answer flag="0" text="1922"/>
+    <answer flag="0" text="1924"/>
+    <answer flag="1" text="1925"/>
+  </question>
+  <question text="When it was proclaimed Foxtail?">
+    <answer flag="1" text="1917"/>
+    <answer flag="0" text="1918"/>
+    <answer flag="0" text="1921"/>
+  </question>
+</testing>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Architecture and art of Kievan Rus and Galicia-Volyn state">
+  <question level="1" simple="True" text="As the oldest known part of any ancient city - the fortress, in which sporudzhaly courts and by the boyars, the most important churches and cathedrals?">
+    <answer flag="0" text="Division"/>
+    <answer flag="1" text="Detinets"/>
+    <answer flag="0" text="Parties"/>
+  </question>
+  <question level="1" simple="True" text="When and where was erected the first Christian stone church of Kievan Rus?">
+    <answer flag="1" text="In 989 - 996 years in Kiev"/>
+    <answer flag="0" text="In 1017-1037 he was in Chernigov"/>
+  </question>
+  <question level="1" simple="True" text="What temple was built in Pechersk monastery in 1073-1078 he became a lasting example of church architecture?">
+    <answer flag="0" text="St. Michael's Cathedral"/>
+    <answer flag="1" text="Assumption Cathedral"/>
+  </question>
+  <question level="1" simple="True" text="In which city was built Boris Cathedral, Uspensky Cathedral Eletskogo monastery Illinsku Bloc and the church?">
+    <answer flag="0" text="In Kiev"/>
+    <answer flag="1" text="In Chernihiv"/>
+  </question>
+  <question level="1" simple="True" text="What is the structure of ancient Galic preserved to our times?">
+    <answer flag="1" text="St. Panteleimon, built in the second half of the 12 century."/>
+    <answer flag="0" text="Church of Our Saviour in Brest, built in 1125"/>
+  </question>
+  <question level="1" simple="True" text="For a Galician prince of Galich was built in the famous monument of architecture - the Assumption Cathedral?">
+    <answer flag="1" text="By Jaroslav Osmomysl"/>
+    <answer flag="0" text="By Daniel Galician"/>
+  </question>
+  <question level="1" simple="True" text="What happened before?">
+    <answer flag="0" text="Activities of the famous icon painter of Kiev - Alypius"/>
+    <answer flag="1" text="The construction of Saint Sophia Cathedral in Kiev"/>
+  </question>
+  <question level="1" simple="True" text="What icon of the last third of 13 century. consider the most prominent and most distinctive landmark brush culture in Ukraine princely iconography?">
+    <answer flag="1" text="Icon of the Virgin of the Assumption Church in Dorogobuzh Volyn"/>
+    <answer flag="0" text="Icon of Our Lady Vyshhorod"/>
+  </question>
+  <question level="1" simple="True" text="Who is shown on the thumbnails &quot;Ostromirov Gospel&quot;?">
+    <answer flag="0" text="Kyiv princes of the families"/>
+    <answer flag="1" text="Evangelicals John, Mark and Luke"/>
+  </question>
+  <question level="1" simple="True" text="In which famous book contains thumbnail images of princely families - the first group of ancient portraits of real people?">
+    <answer flag="0" text="In Galicia-Volyn chronicle"/>
+    <answer flag="1" text="In History Computerization Sviatoslav"/>
+  </question>
+  <question level="1" simple="True" text="What is a fibula?">
+    <answer flag="1" text="The metal clasp on the clothing that is both decorations"/>
+    <answer flag="0" text="The picture painted by special paints on raw tynku"/>
+  </question>
+  <question level="1" simple="True" text="As a technique known as floor and wall decoration with small pieces of colored stone or glass (smalt), which are taught on a cement foundation?">
+    <answer flag="0" text="Fresco"/>
+    <answer flag="1" text="Mosaic"/>
+  </question>
+</testing>

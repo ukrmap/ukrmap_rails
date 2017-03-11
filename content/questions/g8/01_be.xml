@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АГУЛЬНЫ РАЗДЗЕЛ">
+  <question level="1" simple="True" text="Якія з адказаў з'яўляюцца правільнымі?">
+    <answer flag="0" text="Украіна знаходзіцца ў III часавым поясе"/>
+    <answer flag="1" text="Адлік часу вядзецца ад 180-га мерыдыяна"/>
+    <answer flag="1" text="Апоўдні ў Украіне наступае на дзьве гадзіны раней, чым у нулявым (заходнееўрапейскім) часавым поясе"/>
+  </question>
+  <question level="1" simple="True" text="Які з адказаў з'яўляецца няправільнай?">
+    <answer flag="0" text="Па выглядзе геаметрычнай паверхні картаграфічныя праекцыі дзеляцца на цыліндрычныя, азімутальная, канічныя"/>
+    <answer flag="0" text="Да тэматычных карт ставяцца фізіка-геаграфічныя і эканамічныя карты"/>
+    <answer flag="1" text="Выкарыстоўваючы роўнавялікія праекцыі, можна ствараць карты без скажэнняў"/>
+  </question>
+  <question level="1" simple="True" text="Упершыню назва &quot;Украіна&quot; згадваецца:">
+    <answer flag="1" text="у Кіеўскім Летапісы (1187 г.)"/>
+    <answer flag="0" text="у кнізе Г. Боплана &quot;Апісанне Украіны&quot; (1650 г.)"/>
+    <answer flag="0" text="у апісаннях візантыйскіх і арабскіх вандроўцаў X ст."/>
+  </question>
+  <question level="1" simple="True" text="Аўтарам &quot;Апісанні Украіны&quot; з'яўляюцца:">
+    <answer flag="0" text="Гіпакрат"/>
+    <answer flag="1" text="Г. Боплан"/>
+    <answer flag="0" text="Герадот"/>
+  </question>
+  <question level="1" simple="True" text="Агульнапрызнаны геаграфічны цэнтр Украіны знаходзіцца:">
+    <answer flag="0" text="ў г. Сьветлаводск Кіраваградскай вобласці"/>
+    <answer flag="1" text="побач з. Марьяновка Чаркаскай вобласці"/>
+    <answer flag="0" text="у г.Чигирин Чаркаскай вобласці"/>
+  </question>
+  <question level="1" simple="True" text="Крайняй паўднёвай кропкай Украіны з'яўляюцца:">
+    <answer flag="1" text="м. Сарыч"/>
+    <answer flag="0" text="м. Тарханкут"/>
+    <answer flag="0" text="м. Меганом"/>
+  </question>
+  <question level="1" simple="True" text="Якія з сцвярджэнняў з'яўляюцца правільнымі?">
+    <answer flag="1" text="Плошча тэрыторыі Украіны складае 603,7 тыс. кв. км"/>
+    <answer flag="1" text="Украіна мяжуе з сямю краінамі"/>
+    <answer flag="0" text="Тэрыторыя Украіны абмываецца водамі трох мораў"/>
+  </question>
+  <question level="1" simple="True" text="З якімі з пералічаных краін не мяжуе Украіна?">
+    <answer flag="0" text="Са Славакіяй"/>
+    <answer flag="1" text="З Балгарыяй"/>
+    <answer flag="1" text="Са Славеніяй"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе завяршылася фарміраванне тэрыторыі Украіны?">
+    <answer flag="0" text="У 1922"/>
+    <answer flag="1" text="У 1954"/>
+    <answer flag="0" text="У 1991"/>
+  </question>
+  <question level="1" simple="True" text="Якія тэрыторыі былі ўключаны ў склад Украіны ў пасляваенны час?">
+    <answer flag="0" text="Паўночная Букавіна"/>
+    <answer flag="0" text="Паўднёвая Бесарабія"/>
+    <answer flag="1" text="Закарпацце"/>
+    <answer flag="1" text="Крымская вобласць"/>
+  </question>
+  <question level="1" simple="True" text="Членам якіх з пералічаных арганізацый з'яўляюцца Ўкраіне?">
+    <answer flag="0" text="АПЕК"/>
+    <answer flag="1" text="Садружнасць незалежных дзяржаў"/>
+    <answer flag="1" text="Міжнародны валютны фонд"/>
+    <answer flag="1" text="Сусветная гандлёвая"/>
+  </question>
+  <question level="1" simple="True" text="Які з адказаў з'яўляецца правільнай?">
+    <answer flag="0" text="Выбары ў Вярхоўную Раду Украіны праводзяцца раз у пяць гадоў"/>
+    <answer flag="0" text="Выбары Прэзідэнта Украіны праходзяць раз у чатыры гады"/>
+    <answer flag="1" text="Парламент Украіны складаецца з 450 дэпутатаў"/>
+  </question>
+  <question level="1" simple="False" text="Встановисть адпаведнасць паміж геаграфічнымі аб'ектамі і іх характарыстыкамі">
+    <answer text="с.Мар 'Яноўка -"/>
+    <answer text="Мыс Сарыч -"/>
+    <answer text="с.Грем 'мяч"/>
+    <answer text="Червона Зорка"/>
+    <variant>
+      <item flag="2" text="крайняя паўднёвая кропка Украіны"/>
+      <item flag="1" text="геаграфічны цэнтр Украіны"/>
+      <item flag="3" text="крайняя паўночная кропка Украіны"/>
+      <item flag="0" text="крайняя заходняя кропка Украіны"/>
+      <item flag="4" text="крайняя ўсходняя кропка Украіны"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж гадамі і падзеямі ў гісторыі Украіны">
+    <answer text="1919 г. -"/>
+    <answer text="1991 г. -"/>
+    <answer text="1954 г. -"/>
+    <answer text="1187 -"/>
+    <variant>
+      <item flag="2" text="абвяшчэння незалежнасці"/>
+      <item flag="3" text="завяршэнне фарміравання тэрыторыі"/>
+      <item flag="1" text="абвяшчэння Акту уз'яднання"/>
+      <item flag="0" text="прыняцця дэкларацыі аб дзяржаўным суверэнітэце"/>
+      <item flag="4" text="упершыню ўжыта назва &quot;Украіна&quot;"/>
+    </variant>
+  </question>
+</testing>

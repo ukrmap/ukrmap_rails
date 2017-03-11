@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Грамадска-палітычнае жыццё на ўкраінскіх землях у другой палове">
+  <question level="1" simple="True" text="Якія ўкраінскія землі ў другой палове XIX ст. праваднік громадовского руху В. Антонавіч назваў &quot;украінскім П'емонт&quot;?">
+    <answer flag="0" text="Слобожанщину"/>
+    <answer flag="0" text="Прыдняпроўе"/>
+    <answer flag="1" text="Ўсходнюю Галічыны"/>
+    <answer flag="0" text="Закарпацце"/>
+  </question>
+  <question level="1" simple="True" text="Якая працягу ва ўкраінскім руху на заходнеўкраінскіх землях стала дамінуючай на канец XIX - пачатак ХХ стагоддзя?">
+    <answer flag="0" text="Москвофильская"/>
+    <answer flag="0" text="Старорусинська"/>
+    <answer flag="0" text="Радыкальная"/>
+    <answer flag="1" text="Народовская"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых падзей было абумоўлена дзейнасцю народнікаў на ўкраінскіх землях?">
+    <answer flag="0" text="&quot;Кіеўская казацтва&quot;"/>
+    <answer flag="0" text="&quot;У Таўрыю за воляй&quot;"/>
+    <answer flag="1" text="&quot;Чыгірынскім змова&quot;"/>
+    <answer flag="0" text="&quot;Рутенской акцыя&quot;"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе была створана першая ўкраінская партыю ў Прыдняпроўскай Украіне?">
+    <answer flag="0" text="1890"/>
+    <answer flag="0" text="1892"/>
+    <answer flag="1" text="1900"/>
+    <answer flag="0" text="1905"/>
+  </question>
+  <question level="1" simple="True" text="Якія з названых арганізацый вядучай лічылі культурна-асветніцкую дзейнасць?">
+    <answer flag="0" text="&quot;Сокал&quot;, &quot;Сич&quot;, &quot;Пласт&quot;"/>
+    <answer flag="1" text="&quot;Руская гутарка&quot;, &quot;Асвета&quot;"/>
+    <answer flag="0" text="&quot;Маслосоюз&quot;, &quot;Сельскі гаспадар&quot;"/>
+    <answer flag="0" text="&quot;Днестр&quot;, &quot;Краёвай зямельны банк&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Якая з плыняў нацыянальна-вызвольнага руху на заходнеўкраінскіх землях сфармавалася раней?">
+    <answer flag="0" text="Народовская"/>
+    <answer flag="1" text="Москвофильская"/>
+    <answer flag="0" text="Радыкальная"/>
+    <answer flag="0" text="Русінская"/>
+  </question>
+  <question level="1" simple="True" text="Як называлася палітычная арганізацыя масквафілы (русафілаў) у 1870-1880-х гг?">
+    <answer flag="1" text="Руская савет"/>
+    <answer flag="0" text="Народны савет"/>
+    <answer flag="0" text="Галіцка-руская трамай"/>
+    <answer flag="0" text="Руская гутарка"/>
+  </question>
+  <question level="1" simple="True" text="Папярэднікамі небудзь руху былі &quot;хлопоманы&quot;?">
+    <answer flag="0" text="Народнікаў"/>
+    <answer flag="0" text="Народнікаў"/>
+    <answer flag="1" text="Громадовцев"/>
+    <answer flag="0" text="Масквафілы"/>
+  </question>
+  <question level="1" simple="True" text="У якія гады вялася актыўная дзейнасць па украиноведческих даследаванняў Паўднёва-заходняга аддзялення рускага геаграфічнага таварыства?">
+    <answer flag="0" text="1863-1873 гг"/>
+    <answer flag="0" text="1861-1862 гг"/>
+    <answer flag="1" text="1873-1876 гг"/>
+    <answer flag="0" text="1878-1879 гг"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе быў выдадзены ўказ цара, у якім абвяшчалася &quot;... не дапускаць ўвозу ў межы імперыі ... якіх бы то ні было кніг і брашур, якія выдаюцца за мяжой на маларасійскай прыслоўі, а таксама і друкаванне на ім тэкстаў да музычных нот ...&quot;?">
+    <answer flag="0" text="1861"/>
+    <answer flag="0" text="1863"/>
+    <answer flag="1" text="1876"/>
+    <answer flag="0" text="1882"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе ў 1900 г. быў заснаваны Рэвалюцыйную ўкраінскую партыю (РУП)?">
+    <answer flag="1" text="Харкаве"/>
+    <answer flag="0" text="Кіеве"/>
+    <answer flag="0" text="Адэсе"/>
+    <answer flag="0" text="Львове"/>
+  </question>
+  <question level="1" simple="True" text="Вакол якой арганізацыі збіраўся ўкраінскае нацыянальнае рух у Надднепрянской Украіне ў першай палове 70-х гадоў XIX стагоддзя?">
+    <answer flag="0" text="Кірыла-Мефодзіеўскай грамадства (брацтва)"/>
+    <answer flag="1" text="Паўднёва-Заходняе аддзяленне рускай геаграфічнага таварыства"/>
+    <answer flag="0" text="Агульная ўкраінскіх беспартыйная арганізацыя"/>
+    <answer flag="0" text="Гурток &quot;хлопаманія&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Якія ўкраінскія землі былі ахоплены польскім нацыянальна-вызваленчым паўстаннем 1863 г.?">
+    <answer flag="0" text="Усходняй Галіцыі"/>
+    <answer flag="1" text="Правабярэжжа"/>
+    <answer flag="0" text="Поўдня"/>
+    <answer flag="0" text="Левабярэжжа"/>
+  </question>
+  <question level="1" simple="True" text="Які ўкраінскі палітычны часопіс выдаваўся М. Драгаманава ў Жэневе ў 1878-1882 гг?">
+    <answer flag="0" text="&quot;Зямля і воля&quot;"/>
+    <answer flag="0" text="&quot;Зоря Галіцкая&quot;"/>
+    <answer flag="0" text="&quot;Аснова&quot;"/>
+    <answer flag="1" text="&quot;Грамада&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў заснавальнікам Руска-ўкраінскай радыкальнай партыі (РУРП) на заходнеўкраінскіх землях?">
+    <answer flag="1" text="І. Франка і М. Паўлік"/>
+    <answer flag="0" text="М. Ганкевич, С. Витык, Ю. Бачинский"/>
+    <answer flag="0" text="Я. Лявіцкі, В. Охримович"/>
+    <answer flag="0" text="В. Антонавіч, М. Грушэўскі"/>
+  </question>
+</testing>

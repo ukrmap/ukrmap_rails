@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЕЎРАЗІЯ">
+  <question level="1" simple="True" text="Плошча Еўразіі разам з выспамі складае:">
+    <answer flag="0" text="30,32 млн. кв. км"/>
+    <answer flag="1" text="54,6 млн. кв. км"/>
+    <answer flag="0" text="24,25 млн. кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца правільным?">
+    <answer flag="1" text="г. Эверэст - найвышэйшая вяршыня планеты"/>
+    <answer flag="0" text="У Еўразіі знаходзіцца - найбуйнейшая пустыня планеты"/>
+    <answer flag="0" text="Доўгай ракой Еўропы з'яўляецца Днепр"/>
+  </question>
+  <question level="1" simple="True" text="Крайняй усходняй кропкай Еўразіі з'яўляюцца:">
+    <answer flag="1" text="м. Дежнева"/>
+    <answer flag="0" text="м. Чалюскін"/>
+    <answer flag="0" text="м. Пиай"/>
+  </question>
+  <question level="1" simple="True" text="Самым глыбокім возерам планеты з'яўляюцца:">
+    <answer flag="1" text="Байкал"/>
+    <answer flag="0" text="Лабнор"/>
+    <answer flag="0" text="Ісык-Куль"/>
+  </question>
+  <question level="1" simple="True" text="Вялікім па плошчы:">
+    <answer flag="1" text="Аравійскі паўвостраў"/>
+    <answer flag="0" text="Скандынаўскі паўвостраў"/>
+    <answer flag="0" text="Пірэнейскі паўвостраў"/>
+  </question>
+  <question level="1" simple="True" text="На фарміраванне клімату якіх частак Еўразіі маюць найбольшы ўплыў Індыйскі і Ціхі акіяны?">
+    <answer flag="0" text="Заходняй часткі кантынента"/>
+    <answer flag="0" text="Цэнтральных частак мацерыка"/>
+    <answer flag="1" text="Паўднёвай і Паўднёва-Усходняй Азіі"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="У Еўразіі распаўсюджаныя ўсе прыродныя зоны Паўночнага паўшар'я"/>
+    <answer flag="0" text="Змешаныя і шыракалістыя лясы найбольш распаўсюджаныя ў заходняй часткі кантынента"/>
+    <answer flag="1" text="Найбольшая колькасць вышынных паясоў сфармавалася на паўночных схілах Гімалаяў"/>
+  </question>
+  <question level="1" simple="True" text="З пералічаных падарожнікаў найбольшы ўклад у даследаванне Еўразіі зрабіў:">
+    <answer flag="1" text="Марка Пола"/>
+    <answer flag="0" text="Хрыстафор Калумб"/>
+    <answer flag="0" text="Джэймс Кук"/>
+  </question>
+  <question level="1" simple="True" text="Сярод сусветных рэлігій у заходняй частцы Еўразіі найбольш распаўсюджанай з'яўляецца:">
+    <answer flag="1" text="хрысціянства"/>
+    <answer flag="0" text="будызм"/>
+    <answer flag="0" text="іслам"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Кітай - найбуйнейшая па колькасці насельніцтва краіна свету"/>
+    <answer flag="1" text="У Індыі менш, чым у Кітаі шчыльнасць насельніцтва"/>
+    <answer flag="0" text="Інданезія - найбуйнейшая па колькасці насельніцтва мусульманская краіна свету"/>
+  </question>
+  <question level="1" simple="True" text="З пералічаных дзяржаў у групу высокаразвітых краін свету адносяцца:">
+    <answer flag="0" text="Кітай"/>
+    <answer flag="1" text="Японія"/>
+    <answer flag="0" text="Сінгапур"/>
+  </question>
+  <question level="1" simple="True" text="Большая частка разведаных запасаў нафты свету засяроджана:">
+    <answer flag="0" text="ў рэгіёне Каспійскага мора"/>
+    <answer flag="0" text="на шэльфе Паўночнага мора"/>
+    <answer flag="1" text="у раёне Персідскага заліва"/>
+  </question>
+</testing>

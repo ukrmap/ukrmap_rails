@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Soviet Union in 1945-1953 and in 1954-1985 he he">
+  <question level="1" simple="True" text="What period in the history of the USSR in 1945-1953 he falls?">
+    <answer flag="1" text="&quot;Stalinism&quot;"/>
+    <answer flag="0" text="&quot;Thaw&quot;"/>
+    <answer flag="0" text="The years of &quot;stagnation&quot;"/>
+    <answer flag="0" text="&quot;Perestroika&quot;"/>
+  </question>
+  <question level="1" simple="True" text="What territory by treaty in 1945 with Czechoslovakia was annexed to the USSR?">
+    <answer flag="0" text="Bessarabia"/>
+    <answer flag="0" text="Pivnnichnu Bukovina"/>
+    <answer flag="0" text="Tuvynsku People's Republic"/>
+    <answer flag="1" text="Carpathian Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="In which regions of the USSR acted anti-Soviet resistance in the 1945-1953 biennium?">
+    <answer flag="1" text="Western Ukraine"/>
+    <answer flag="1" text="West Belarus"/>
+    <answer flag="1" text="Baltic"/>
+    <answer flag="0" text="Republic of Transcaucasia"/>
+  </question>
+  <question level="1" simple="True" text="Against any nation in time of war were held massive brutal punitive operation?">
+    <answer flag="1" text="Kalmyks"/>
+    <answer flag="1" text="Poles"/>
+    <answer flag="0" text="Kazakhs"/>
+    <answer flag="1" text="Volga Germans"/>
+  </question>
+  <question level="1" simple="True" text="Who were the main contenders for power in the Soviet Union after Stalin's death?">
+    <answer flag="1" text="Khrushchev"/>
+    <answer flag="0" text="Molotov"/>
+    <answer flag="0" text="Bulganin"/>
+    <answer flag="1" text="Beria"/>
+    <answer flag="1" text="Malenkov"/>
+  </question>
+  <question level="1" simple="True" text="In which year began the period, which in the history of the Soviet Union called &quot;Thaw&quot;?">
+    <answer flag="0" text="1945"/>
+    <answer flag="1" text="1953"/>
+    <answer flag="0" text="1964"/>
+    <answer flag="0" text="1985"/>
+  </question>
+  <question level="1" simple="True" text="In what year and in which Soviet republic launched the first artificial Earth satellite?">
+    <answer flag="0" text="1954"/>
+    <answer flag="1" text="1957"/>
+    <answer flag="0" text="1961"/>
+    <answer flag="1" text="Kazakh"/>
+    <answer flag="0" text="Uzbek"/>
+    <answer flag="0" text="Russian"/>
+  </question>
+  <question level="1" simple="True" text="What is the republic of the USSR was one of the main areas of developing virgin and fallow lands in 1954 - 1960 рр.?">
+    <answer flag="0" text="Ukrainian SSR"/>
+    <answer flag="1" text="Kazakh SSR"/>
+    <answer flag="0" text="Turkmenistan"/>
+    <answer flag="0" text="Yakut ASSR"/>
+  </question>
+  <question level="1" simple="True" text="What is the period of its history has survived the Soviet Union in 1964 - 1985 рр.?">
+    <answer flag="0" text="&quot;Stalinism&quot;"/>
+    <answer flag="0" text="&quot;Thaw&quot;"/>
+    <answer flag="1" text="The years of &quot;stagnation&quot;"/>
+    <answer flag="0" text="&quot;Perestroika&quot;"/>
+  </question>
+  <question level="1" simple="True" text="He was appointed Secretary of the CPSU Central Committee in March 1985?">
+    <answer flag="0" text="Stalin"/>
+    <answer flag="0" text="Khrushchev"/>
+    <answer flag="0" text="Brezhnev"/>
+    <answer flag="0" text="Andropov"/>
+    <answer flag="1" text="Gorbachev"/>
+  </question>
+  <question level="1" simple="True" text="When was the invasion of Soviet troops in Avhanistan?">
+    <answer flag="0" text="1949-1980 biennium"/>
+    <answer flag="0" text="1956-1962 biennium"/>
+    <answer flag="0" text="1954-1960 biennium"/>
+    <answer flag="0" text="1974-1984 biennium"/>
+    <answer flag="1" text="From 1979-1989 he"/>
+  </question>
+  <question level="1" simple="True" text="When carried out construction of the Baikal-Amur railroad?">
+    <answer flag="0" text="From 1979-1989 he"/>
+    <answer flag="0" text="1956-1962 biennium"/>
+    <answer flag="0" text="1954-1960 biennium"/>
+    <answer flag="1" text="1974-1984 biennium"/>
+  </question>
+</testing>

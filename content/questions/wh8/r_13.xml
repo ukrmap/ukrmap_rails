@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Америка у XVIII ст.">
+  <question level="1" simple="True" text="Коли почалася колонізація англійцями Північної Америки?">
+    <answer flag="0" text="1492 р."/>
+    <answer flag="1" text="1607 р."/>
+    <answer flag="0" text="1648 р."/>
+  </question>
+  <question level="1" simple="True" text="Пуритани-пілігрими прибули до берегів Північної Америки і заснували колонію Нова Англія на кораблі:">
+    <answer flag="0" text="&quot;Вірґінія&quot;"/>
+    <answer flag="0" text="&quot;Плімут&quot;"/>
+    <answer flag="1" text="&quot;Мейфлауер&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Перша колонія англійців у Північній Америці отримала назву:">
+    <answer flag="0" text="Нова Англія "/>
+    <answer flag="1" text="Вірґінія"/>
+    <answer flag="0" text="Пенсільванія"/>
+  </question>
+  <question level="1" simple="True" text="Декларація незалежності США була проголошена під час роботи:">
+    <answer flag="0" text="І Континентального конгресу"/>
+    <answer flag="1" text="ІІ Континентального конгресу"/>
+    <answer flag="0" text="Конгресу США"/>
+  </question>
+  <question level="1" simple="True" text="В якому році розпочалася війна за незалежність США? ">
+    <answer flag="0" text="1773"/>
+    <answer flag="0" text="1774"/>
+    <answer flag="1" text="1775"/>
+    <answer flag="0" text="1776"/>
+  </question>
+  <question level="1" simple="True" text="Першою столицею США було місто:">
+    <answer flag="0" text="Нью-Йорк"/>
+    <answer flag="1" text="Філадельфія"/>
+    <answer flag="0" text="Йорктаун"/>
+    <answer flag="0" text="Вашинґтон"/>
+  </question>
+  <question level="1" simple="True" text="Авторами декларації незалежності США були:">
+    <answer flag="1" text="Джефферсон і Адамс"/>
+    <answer flag="0" text="Франклін і Вашинґтон"/>
+    <answer flag="0" text="Вашинґтон і Медісон"/>
+  </question>
+  <question level="1" simple="True" text="Вирішальна битва війни за незалежність відбулась:">
+    <answer flag="0" text="1775 р. біля Бостона"/>
+    <answer flag="1" text="1777 р. біля Саратоґи"/>
+    <answer flag="0" text="1781 р. біля Йорктауна"/>
+  </question>
+  <question level="1" simple="True" text="Які країни підтримали незалежність США і надали їй воєнну допомогу?">
+    <answer flag="0" text="Пруссія"/>
+    <answer flag="1" text="Франція "/>
+    <answer flag="1" text="Голландія "/>
+    <answer flag="1" text="Іспанія"/>
+    <answer flag="0" text="Португалія"/>
+  </question>
+  <question level="1" simple="True" text="Коли було прийнято нині діючу Конституцію США?">
+    <answer flag="0" text="1776 р."/>
+    <answer flag="0" text="1783 р."/>
+    <answer flag="1" text="1787 р."/>
+    <answer flag="0" text="1791 р."/>
+  </question>
+  <question level="1" simple="True" text="Хто став першим президентом США?">
+    <answer flag="1" text="Дж. Вашинґтон"/>
+    <answer flag="0" text="Т. Джефферсон"/>
+    <answer flag="0" text="Дж. Адамс"/>
+  </question>
+  <question level="1" simple="True" text="Коли Англія визнала незалежність США?">
+    <answer flag="0" text="1776 р."/>
+    <answer flag="0" text="1781 р."/>
+    <answer flag="1" text="1783 р."/>
+    <answer flag="0" text="1787 р."/>
+  </question>
+</testing>

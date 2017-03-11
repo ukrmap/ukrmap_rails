@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вызваленчы рух у Нідэрландах">
+  <question level="1" simple="True" text="Найбуйнейшымі па колькасці насельніцтва горадам Нідэрландаў у XVI ст. быў:">
+    <answer flag="1" text="Антвэрпэн"/>
+    <answer flag="0" text="Амстэрдам"/>
+    <answer flag="0" text="Гаарлем"/>
+    <answer flag="0" text="Брусэль"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе ў Нідэрландах ўспыхнула паўстанне іканаборцаў?">
+    <answer flag="0" text="1656"/>
+    <answer flag="1" text="1566"/>
+    <answer flag="0" text="1567"/>
+    <answer flag="0" text="1568"/>
+  </question>
+  <question level="1" simple="True" text="Пры праўленні якога іспанскага караля пачаўся вызваленчы рух у Нідэрландах?">
+    <answer flag="0" text="Карла I"/>
+    <answer flag="0" text="Генрыха III"/>
+    <answer flag="1" text="Піліпа II"/>
+    <answer flag="0" text="Жыгімонта III"/>
+  </question>
+  <question level="1" simple="True" text="Апазіцыю іспанскім уладам у гады вызваленчай барацьбы ў Нідэрландах узначальваў:">
+    <answer flag="0" text="герцаг Альба"/>
+    <answer flag="0" text="граф Лестэр"/>
+    <answer flag="1" text="Вільгельм Аранскага"/>
+    <answer flag="0" text="Морыц Аранскага"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея стала штуршком да паўстання супраць іспанцаў на поўначы Нідэрландаў?">
+    <answer flag="0" text="паўстанне іканаборцаў"/>
+    <answer flag="0" text="аблога іспанцамі горада Лейдэн"/>
+    <answer flag="1" text="захоп марскімі гезамы горада Брылі"/>
+    <answer flag="0" text="аблога іспанцамі горада Гаарлема"/>
+  </question>
+  <question level="1" simple="True" text="Чыёй перамогай завяршылася аблога горада Лейдэн?">
+    <answer flag="0" text="іспанцаў"/>
+    <answer flag="1" text="галандцаў"/>
+  </question>
+  <question level="1" simple="True" text="Хто ўвёў у Нідэрландах 10-працэнтны падатак з продажаў усіх тавараў?">
+    <answer flag="0" text="Маргарыта Пармская"/>
+    <answer flag="1" text="герцаг Альба"/>
+    <answer flag="0" text="Вільгельм Аранскага"/>
+    <answer flag="0" text="Морыц Аранскага"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея адбылося раней?">
+    <answer flag="1" text="заключэння Аррасской уніі"/>
+    <answer flag="0" text="заключэння Утрэхтскі уніі"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых правінцый ўвайшла ў Аррасской уніі?">
+    <answer flag="1" text="Артуа"/>
+    <answer flag="0" text="Зеландыя"/>
+    <answer flag="0" text="Утрэхт"/>
+    <answer flag="0" text="Фрысландыя"/>
+  </question>
+  <question level="1" simple="True" text="Каго абралі штатгальтером Злучаных правінцый Нідэрландаў пасля гібелі Вільгельма Аранскага?">
+    <answer flag="1" text="Морыца Аранскага"/>
+    <answer flag="0" text="Маргарыту Пармская"/>
+    <answer flag="0" text="Генрыха Наварскай"/>
+    <answer flag="0" text="герцага Гиза"/>
+  </question>
+  <question level="1" simple="True" text="Калі Іспанія канчаткова прызнала незалежнасць Злучаных правінцый Нідэрландаў?">
+    <answer flag="0" text="1579"/>
+    <answer flag="0" text="1584"/>
+    <answer flag="0" text="1609"/>
+    <answer flag="1" text="1648"/>
+  </question>
+  <question level="1" simple="True" text="Горад Галандскай рэспублікі стала новым цэнтрам сусветнай гандлю ў XVII стагоддзі?">
+    <answer flag="0" text="Антвэрпэн"/>
+    <answer flag="1" text="Амстэрдам"/>
+    <answer flag="0" text="Лейдэн"/>
+    <answer flag="0" text="Гаарлем"/>
+  </question>
+</testing>

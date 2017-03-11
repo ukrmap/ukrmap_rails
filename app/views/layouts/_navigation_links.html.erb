@@ -1,0 +1,24 @@
+<li class="dropdown<%= " active" if @entry && @entry.category == "g" %>">
+  <a href="<%= category_path(category: "g") %>" class="dropdown-toggle" data-toggle="dropdown">
+    <%= category("g") %> <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu">
+    <%= render Entry.where(category: "g", level: 2).order(:sequence) %>
+  </ul>
+</li>
+<li class="dropdown<%= " active" if @entry && @entry.category == "wh" %>">
+  <a href="<%= category_path(category: "wh") %>" class="dropdown-toggle" data-toggle="dropdown">
+    <%= category("wh") %> <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu">
+    <%= render Entry.where(category: "wh", level: 2).order(:sequence) %>
+  </ul>
+</li>
+<li class="dropdown<%= " active" if @entry && @entry.category == "uh" %>">
+  <a href="<%= category_path(category: "uh") %>" class="dropdown-toggle" data-toggle="dropdown">
+    <%= category("uh") %> <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu">
+    <%= render Entry.where(category: "uh", level: 2).order(:sequence) %>
+  </ul>
+</li>

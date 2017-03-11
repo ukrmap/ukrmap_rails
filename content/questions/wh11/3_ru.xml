@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вторая мировая война (события 19 ноября 1942 - 9 мая 1945)">
+  <question level="1" simple="True" text="В любом городе, с участием каких государств в ноябре-декабре 1943 года состоялась историческая конференция по разработке окончательной стратегии борьбы с Германией и ее союзниками и открытия второго фронта в Западной Европе?">
+    <answer flag="0" text="Ялта"/>
+    <answer flag="1" text="Тегеран"/>
+    <answer flag="0" text="Потсдам"/>
+    <answer flag="1" text="СССР"/>
+    <answer flag="0" text="Франция"/>
+    <answer flag="1" text="США"/>
+    <answer flag="1" text="Великобритания"/>
+    <answer flag="0" text="Китай"/>
+  </question>
+  <question level="1" simple="True" text="Ход которой события изменила крупнейшая танковая битва Второй мировой войны, которая состоялась под Прохоровкой 12 июля 1943?">
+    <answer flag="0" text="Сталинградской битвы"/>
+    <answer flag="0" text="Битвы за Москву"/>
+    <answer flag="1" text="Курской битвы"/>
+    <answer flag="0" text="Битвы за Днепр"/>
+  </question>
+  <question level="1" simple="True" text="Войска которых фронтов и под чьим командованием участвовали в Корсунь-Шевченковской операции?">
+    <answer flag="1" text="1-го Украинского"/>
+    <answer flag="1" text="2-го Украинского"/>
+    <answer flag="0" text="4-го Украинского"/>
+    <answer flag="1" text="Н. Ватутина"/>
+    <answer flag="1" text="И. Конева"/>
+    <answer flag="0" text="Ф. Толбухина"/>
+  </question>
+  <question level="1" simple="True" text="Когда была проведена успешная наступательная операция результате которого закончилась 900-дневная блокада Ленинграда?">
+    <answer flag="0" text="27 января - 17 февраля 1944"/>
+    <answer flag="1" text="14 января - 29 февраля 1944"/>
+    <answer flag="0" text="23червня - 29 августа 1944"/>
+    <answer flag="0" text="20-29 августа 1944"/>
+  </question>
+  <question level="1" simple="True" text="Как называлась и где осуществлялась судьбоносная операция союзников по антигитлеровской коалиции с 6 июня - 24 июля 1944?">
+    <answer flag="0" text="Операция &quot;Багратион&quot;"/>
+    <answer flag="0" text="Операция &quot;Драгун&quot;"/>
+    <answer flag="1" text="Операция &quot;Оверлорд&quot;"/>
+    <answer flag="1" text="Номандия"/>
+    <answer flag="0" text="Сицилия"/>
+    <answer flag="0" text="Северная Африка"/>
+  </question>
+  <question level="1" simple="True" text="Какие операции были проведены и какие страны освобожден во время освободительной миссии Советской армии в Европе?">
+    <answer flag="1" text="Ясско-Кишиневская"/>
+    <answer flag="1" text="Белградская"/>
+    <answer flag="0" text="Арденские"/>
+    <answer flag="1" text="Румыния"/>
+    <answer flag="1" text="Болгария"/>
+    <answer flag="1" text="Югославия"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошел авантюрный наступление немецких войск в Арденнах?">
+    <answer flag="0" text="16-26 ноября 1944"/>
+    <answer flag="1" text="16-26 декабря 1944"/>
+    <answer flag="0" text="16-26 января 1944"/>
+    <answer flag="0" text="16-26 ноября 1945"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялась Ялтинская конференция и кто приймяв в ней участие?">
+    <answer flag="1" text="4-11 февраля 1945"/>
+    <answer flag="0" text="25 апреля - 26 июня 1945"/>
+    <answer flag="0" text="17 июля - 2 августа 1945"/>
+    <answer flag="1" text="Сталин"/>
+    <answer flag="1" text="Рузвельт"/>
+    <answer flag="1" text="Черчилль"/>
+  </question>
+  <question level="1" simple="True" text="Когда был подписан Акт о безоговорочной капитуляции германских вооруженных сил?">
+    <answer flag="0" text="7 мая 1945"/>
+    <answer flag="1" text="8 мая 1945"/>
+    <answer flag="0" text="9 мая 1945"/>
+  </question>
+</testing>

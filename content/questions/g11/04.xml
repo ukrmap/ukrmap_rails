@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Світове господарство ">
+  <question level="1" simple="True" text="Який тип електростанцій є провідним в паливно-енергетичному балансі світу?">
+    <answer flag="0" text="АЕС"/>
+    <answer flag="1" text="ТЕС"/>
+    <answer flag="0" text="ГЕС"/>
+  </question>
+  <question level="1" simple="True" text="Для хімічної промисловості характерним є">
+    <answer flag="0" text="екстенсивне виробництво"/>
+    <answer flag="0" text="енергомісткість"/>
+    <answer flag="1" text="водомісткість"/>
+    <answer flag="0" text="висока вартість обладнання"/>
+  </question>
+  <question level="1" simple="True" text="Яка країна має найбільший парк автомобілів?">
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Китай"/>
+  </question>
+  <question level="1" simple="True" text="Найбільший за вантажооборотом порт світу це">
+    <answer flag="0" text="Лондон"/>
+    <answer flag="0" text="Роттердам"/>
+    <answer flag="1" text="Шанхай"/>
+    <answer flag="0" text="Нью-Йорк"/>
+  </question>
+  <question level="1" simple="True" text="Перше місце в світі з виробництва мінеральних добрив посідає">
+    <answer flag="0" text="Росія"/>
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Індія"/>
+  </question>
+  <question level="1" simple="True" text="Основою сільськогосподарського виробництва є">
+    <answer flag="1" text="земельні ресурси"/>
+    <answer flag="0" text="етнічні і релігійні особливості населення"/>
+    <answer flag="0" text="історичні традиції"/>
+  </question>
+  <question level="1" simple="True" text="Які риси ведення господарства притаманні екстенсивному тваринництву?">
+    <answer flag="0" text="Племінна робота"/>
+    <answer flag="0" text="Стійлове утримання тварин"/>
+    <answer flag="1" text="Приріст виробництва переважно за рахунок збільшення поголів’я"/>
+    <answer flag="0" text="Пасовищно-стійлове утримання тварин"/>
+  </question>
+  <question level="1" simple="True" text="Організацією країн-експортерів нафти є">
+    <answer flag="1" text="ОПЕК"/>
+    <answer flag="0" text="АТЕС"/>
+    <answer flag="0" text="НАФТА"/>
+  </question>
+  <question level="1" simple="True" text="За видами робіт транспорт поділяють на">
+    <answer flag="0" text="водний, повітряний, автомобільний, залізничний"/>
+    <answer flag="1" text="вантажний та пасажирський"/>
+    <answer flag="0" text="в‘ючний і гужовий"/>
+  </question>
+  <question level="1" simple="True" text="Провідними галузями сільського господарства є">
+    <answer flag="0" text="аквакультура і бджільництво"/>
+    <answer flag="0" text="шовківництво"/>
+    <answer flag="1" text="рослинництво і тваринництво"/>
+  </question>
+  <question level="1" simple="True" text="Підприємства кольорової металургії з виплавки важких металів орієнтуються в розміщені, в основному, на">
+    <answer flag="0" text="дешеву електроенергію"/>
+    <answer flag="1" text="наявність сировини"/>
+    <answer flag="0" text="наявність води"/>
+  </question>
+  <question level="1" simple="True" text="Які вантажі переважають у вантажооборот морського транспорту?">
+    <answer flag="0" text="Будівельні матеріали"/>
+    <answer flag="0" text="Руди чорних і кольорових металів"/>
+    <answer flag="0" text="Зерно"/>
+    <answer flag="1" text="Нафта та нафтопродукти"/>
+  </question>
+</testing>

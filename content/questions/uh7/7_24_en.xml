@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands under the rule of Lithuania and Poland at the end of XIV - in the first half of XVI century.">
+  <question level="1" simple="True" text="Which events led to the struggle of the Lithuanian nobility, led by Duke Vytautas to Save the Grand Duchy of Lithuania as a separate independent state?">
+    <answer flag="0" text="Battle of Grunwald"/>
+    <answer flag="1" text="KREVO union"/>
+  </question>
+  <question level="1" simple="True" text="Which administrative unit divided Galician lands within the Kingdom of Poland from 1434?">
+    <answer flag="1" text="In Ruske and Belz Voivodship"/>
+    <answer flag="0" text="In Podolsk and Bratslav province"/>
+  </question>
+  <question level="1" simple="True" text="Reason for the Lithuanian Grand Duke Vytautas sought to eliminate the largest separate principalities?">
+    <answer flag="1" text="For the establishment and strengthening of its authority"/>
+    <answer flag="0" text="To merge Grand Duchy of Lithuania with Poland"/>
+  </question>
+  <question level="1" simple="True" text="When Kiev separate principalities were finally abolished and converted to a province of the Great Duchy of Lithuania?">
+    <answer flag="0" text="In 1452"/>
+    <answer flag="1" text="In 1471"/>
+  </question>
+  <question level="1" simple="True" text="What ended the battle of Grunwald?">
+    <answer flag="1" text="Crusaders defeat the Teutonic Order"/>
+    <answer flag="0" text="Defeat the union of the Lithuanian-Polish army"/>
+  </question>
+  <question level="1" simple="True" text="What are the consequences for Ukrainian Horodelska union had in 1413?">
+    <answer flag="1" text="Low undesirable result: it particularly included the appointment to senior government positions only Grand Duchy of Lithuania Lithuanian Catholics"/>
+    <answer flag="0" text="Low positive impact, as provided for restoration of Kyiv and Volyn autonomous principalities"/>
+  </question>
+  <question level="1" simple="True" text="What caused the revolt of the Lithuanian-Ruthenian nobles led by Prince Svidrigaylo?">
+    <answer flag="0" text="Striving to restore Svydrygailo union with Poland and the abolition of the Lithuanian Grand Backgrounds"/>
+    <answer flag="1" text="Removal from the grand table Svydrygailo due to collusion of Lithuanian and Polish magnates led by Sigismund Keystutovychem"/>
+  </question>
+  <question level="1" simple="True" text="What are the land included in the Grand Duchy of Rus princes Svydrygailo?">
+    <answer flag="0" text="Galicia, western skirts, Bukovina"/>
+    <answer flag="1" text="Kiev region, Chernigov-Siverschyna, Volyn, Eastern Podolia, Smolensk, Polotsk land and Vitebschiny"/>
+  </question>
+  <question level="1" simple="True" text="What determined the fate of the uprising event Svydrygailo?">
+    <answer flag="0" text="Battle of Grunwald in 1410"/>
+    <answer flag="1" text="Vilkomyrska Battle 1435"/>
+  </question>
+  <question level="1" simple="True" text="He headed the Kyiv principality after his recovery in 1441?">
+    <answer flag="1" text="Olelko son Vladimir Olgerdovich"/>
+    <answer flag="0" text="Svydryhajlo Olgerdovich"/>
+  </question>
+  <question level="1" simple="True" text="In what years Olelkovychiv reign in Kiev principality?">
+    <answer flag="0" text="In 1441-1452 he"/>
+    <answer flag="1" text="In 1441-1471 he"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities were in the Grand Duchy of Lithuania in the mid XV century.?">
+    <answer flag="1" text="Troky, Slutsk, Novogrudok, Luck, Bratslav, Chernigov"/>
+    <answer flag="0" text="Kamenec, Lviv, Holm, Belz, Przemysl"/>
+  </question>
+</testing>

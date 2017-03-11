@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Center Kyiv">
+  <Item Caption="Hagia Sophia" FileName="1"/>
+  <Item Caption="The monument to Bogdan Khmelnitsky" FileName="2"/>
+  <Item Caption="Monument to Princess Olga" FileName="3"/>
+  <Item Caption="Michael's Monastery" FileName="4"/>
+  <Item Caption="Monument to Prince Vladimir" FileName="5"/>
+  <Item Caption="Golden Gate" FileName="6"/>
+  <Item Caption="Central Post Office" FileName="7"/>
+  <Item Caption="Caves gate" FileName="8"/>
+  <Item Caption="House of Trade Unions" FileName="9"/>
+  <Item Caption="Church sv.Oleksandra" FileName="10"/>
+  <Item Caption="Ukrainian home" FileName="11"/>
+  <Item Caption="Philharmonic" FileName="12"/>
+  <Item Caption="Memorial Reunion of Ukraine and Russia" FileName="13"/>
+  <Item Caption="Central Department Store" FileName="14"/>
+  <Item Caption="City Council" FileName="15"/>
+  <Item Caption="High-rise residential building" FileName="16"/>
+  <Item Caption="Music Academy. Tchaikovsky" FileName="17"/>
+  <Item Caption="The Monument of Independence of Ukraine" FileName="18"/>
+  <Item Caption="Ukraine Hotel" FileName="19"/>
+  <Item Caption="National Center for Culture and Arts" FileName="20"/>
+  <Item Caption="Parliamentary Library" FileName="21"/>
+  <Item Caption="National Art Museum" FileName="22"/>
+  <Item Caption="House Government of Ukraine" FileName="23"/>
+  <Item Caption="Bessarabsky covered market" FileName="24"/>
+  <Item Caption="Volcanic Carpathians sv.Kateryny" FileName="25"/>
+  <Item Caption="President of Ukraine" FileName="26"/>
+  <Item Caption="&quot;House with Chimeras&quot;" FileName="27"/>
+  <Item Caption="National Bank of Ukraine" FileName="28"/>
+  <Item Caption="Klovsky Palace" FileName="29"/>
+  <Item Caption="Shopping and entertainment center &quot;Globus&quot;" FileName="30"/>
+  <Item Caption="Circus" FileName="31"/>
+</List>

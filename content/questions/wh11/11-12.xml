@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Радянський Союз у 1945-1953 рр. та у 1954-1985 рр.">
+  <question level="1" simple="True" text="Який період в  історії СРСР припадає на 1945-1953 рр.?">
+    <answer flag="1" text="&quot;Сталінізм&quot;"/>
+    <answer flag="0" text="&quot;Відлига&quot;"/>
+    <answer flag="0" text="Роки &quot;застою&quot;"/>
+    <answer flag="0" text="&quot;Перебудова&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Яку територію за договором 1945 р. з Чехо-Словаччиною було приєднано до СРСР?">
+    <answer flag="0" text="Бессарабію"/>
+    <answer flag="0" text="Півннічну Буковину"/>
+    <answer flag="0" text="Тувинську Народну Республіку"/>
+    <answer flag="1" text="Карпатську Україну"/>
+  </question>
+  <question level="1" simple="True" text="В яких регіонах СРСР діяв антирадянський рух опору в 1945-1953 рр.?">
+    <answer flag="1" text="Західна Україна"/>
+    <answer flag="1" text="Західна Білорусія"/>
+    <answer flag="1" text="Прибалтика"/>
+    <answer flag="0" text="Республіки Закавказзя"/>
+  </question>
+  <question level="1" simple="True" text="Проти яких народів під час війни були проведені масові жорстокі каральні операції?">
+    <answer flag="1" text="Калмиків"/>
+    <answer flag="1" text="Поляків"/>
+    <answer flag="0" text="Казахів"/>
+    <answer flag="1" text="Німців Поволжя"/>
+  </question>
+  <question level="1" simple="True" text="Хто були головними претендентами на владу в СРСР  після смерті Сталіна?">
+    <answer flag="1" text="Хрущов"/>
+    <answer flag="0" text="Молотов"/>
+    <answer flag="0" text="Булганін"/>
+    <answer flag="1" text="Берія"/>
+    <answer flag="1" text="Маленков"/>
+  </question>
+  <question level="1" simple="True" text="В якому році почався період, який в історії СРСР називають &quot;Відлига&quot;?">
+    <answer flag="0" text="1945"/>
+    <answer flag="1" text="1953"/>
+    <answer flag="0" text="1964"/>
+    <answer flag="0" text="1985"/>
+  </question>
+  <question level="1" simple="True" text="В якому році та з території якої радянської республіки був запущений перший штучний супутник Землі?">
+    <answer flag="0" text="1954"/>
+    <answer flag="1" text="1957"/>
+    <answer flag="0" text="1961"/>
+    <answer flag="1" text="Казахської"/>
+    <answer flag="0" text="Узбецької"/>
+    <answer flag="0" text="Російської"/>
+  </question>
+  <question level="1" simple="True" text="Яка республіка СРСР була одним з головних районів освоєння цілинних і перелогових земель у 1954 - 1960 рр.?">
+    <answer flag="0" text="Українська РСР"/>
+    <answer flag="1" text="Казахська РСР"/>
+    <answer flag="0" text="Туркменська РСР"/>
+    <answer flag="0" text="Якутська АРСР"/>
+  </question>
+  <question level="1" simple="True" text="Який період своєї історії переживав СРСР в 1964 - 1985 рр.?">
+    <answer flag="0" text="&quot;Сталінізм&quot;"/>
+    <answer flag="0" text="&quot;Відлига&quot;"/>
+    <answer flag="1" text="Роки &quot;Застою&quot;"/>
+    <answer flag="0" text="&quot;Перебудова&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Хто зайняв посаду Генерального секретаря ЦК КПРС у березні 1985 р.?">
+    <answer flag="0" text="Сталін"/>
+    <answer flag="0" text="Хрущов"/>
+    <answer flag="0" text="Брежнєв"/>
+    <answer flag="0" text="Андропов"/>
+    <answer flag="1" text="Горбачов"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбувалося вторгнення радянських військ в Авганістан?">
+    <answer flag="0" text="1949-1980 рр."/>
+    <answer flag="0" text="1956-1962 рр."/>
+    <answer flag="0" text="1954-1960 рр."/>
+    <answer flag="0" text="1974-1984 рр."/>
+    <answer flag="1" text="1979-1989 рр."/>
+  </question>
+  <question level="1" simple="True" text="Коли здійснювалося будівництво Байкало-Амурської магістралі?">
+    <answer flag="0" text="1979-1989 рр."/>
+    <answer flag="0" text="1956-1962 рр."/>
+    <answer flag="0" text="1954-1960 рр."/>
+    <answer flag="1" text="1974-1984 рр."/>
+  </question>
+</testing>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Europe in the 1945-1989 biennium">
+  <question level="1" simple="True" text="Which countries were party to the European Association of collaborative commerce since 1960?">
+    <answer flag="1" text="Finland"/>
+    <answer flag="0" text="Romania"/>
+    <answer flag="0" text="Spain"/>
+    <answer flag="1" text="Austria"/>
+    <answer flag="1" text="Switzerland"/>
+  </question>
+  <question level="1" simple="True" text="Which countries have received assistance under the plan, &quot;Marshall&quot; from 1948-1952 he was?">
+    <answer flag="0" text="Poland"/>
+    <answer flag="1" text="Yugoslavia"/>
+    <answer flag="1" text="France"/>
+    <answer flag="0" text="Bulgaria"/>
+    <answer flag="1" text="Norway"/>
+  </question>
+  <question level="1" simple="True" text="In what country he ruled in 1967-1974 mode &quot;Black Colonel&quot;?">
+    <answer flag="0" text="Turkey"/>
+    <answer flag="0" text="Albania"/>
+    <answer flag="1" text="Greece"/>
+    <answer flag="0" text="Yugoslavia"/>
+  </question>
+  <question level="1" simple="True" text="In what year was held in Portugal revolution, which paved the way for democracy?">
+    <answer flag="0" text="1968"/>
+    <answer flag="1" text="1974"/>
+    <answer flag="0" text="1984"/>
+    <answer flag="0" text="1989"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in 1946?">
+    <answer flag="0" text="Romania"/>
+    <answer flag="0" text="Yugoslavia"/>
+    <answer flag="1" text="Bulgaria"/>
+    <answer flag="0" text="Greece"/>
+  </question>
+  <question level="1" simple="True" text="Which of the states were a UN June 26, 1945 at a conference in San Francisco?">
+    <answer flag="1" text="Czechoslovakia"/>
+    <answer flag="0" text="Spain"/>
+    <answer flag="1" text="France"/>
+    <answer flag="1" text="Poland"/>
+    <answer flag="1" text="Ukraine (USSR)"/>
+  </question>
+</testing>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Сусветная гаспадарка">
+  <question level="1" simple="True" text="Які тып электрастанцый з'яўляецца вядучым ў паліўна-энергетычным балансе свету?">
+    <answer flag="0" text="АЭС"/>
+    <answer flag="1" text="ТЭС"/>
+    <answer flag="0" text="ГЭС"/>
+  </question>
+  <question level="1" simple="True" text="Для хімічнай прамысловасці характэрна">
+    <answer flag="0" text="экстэнсіўная вытворчасць"/>
+    <answer flag="0" text="энергаёмістасць"/>
+    <answer flag="1" text="водоемкость"/>
+    <answer flag="0" text="высокая кошт абсталявання"/>
+  </question>
+  <question level="1" simple="True" text="Якая краіна мае самы парк аўтамабіляў?">
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="ЗША"/>
+    <answer flag="0" text="Кітай"/>
+  </question>
+  <question level="1" simple="True" text="Найбуйнейшы па грузазвароце порт свету гэта">
+    <answer flag="0" text="Лондан"/>
+    <answer flag="0" text="Ратэрдам"/>
+    <answer flag="1" text="Шанхай"/>
+    <answer flag="0" text="Нью-Ёрк"/>
+  </question>
+  <question level="1" simple="True" text="Першае месца ў свеце па вытворчасці мінеральных угнаенняў займае">
+    <answer flag="0" text="Расія"/>
+    <answer flag="0" text="ЗША"/>
+    <answer flag="1" text="Кітай"/>
+    <answer flag="0" text="Індыя"/>
+  </question>
+  <question level="1" simple="True" text="Асновай сельскагаспадарчай вытворчасці з'яўляецца">
+    <answer flag="1" text="зямельныя рэсурсы"/>
+    <answer flag="0" text="этнічныя і рэлігійныя асаблівасці насельніцтва"/>
+    <answer flag="0" text="гістарычныя традыцыі"/>
+  </question>
+  <question level="1" simple="True" text="Якія рысы вядзення гаспадаркі ўласцівыя экстэнсіўным жывёлагадоўлі?">
+    <answer flag="0" text="Племянная работа"/>
+    <answer flag="0" text="Стойлавае ўтрыманне жывёл"/>
+    <answer flag="1" text="Прырост вытворчасці ў асноўным за кошт павелічэння пагалоўя"/>
+    <answer flag="0" text="Пашавыя-стойлавае ўтрыманне жывёл"/>
+  </question>
+  <question level="1" simple="True" text="Арганізацыяй краін-экспарцёраў нафты з'яўляецца">
+    <answer flag="1" text="АПЕК"/>
+    <answer flag="0" text="АТЭС"/>
+    <answer flag="0" text="НАФТУ"/>
+  </question>
+  <question level="1" simple="True" text="Па відах работ транспарт падпадзяляюць на">
+    <answer flag="0" text="водны, паветраны, аўтамабільны, чыгуначны"/>
+    <answer flag="1" text="грузавой і пасажырскі"/>
+    <answer flag="0" text="клуначных і конны"/>
+  </question>
+  <question level="1" simple="True" text="Вядучымі галінамі сельскай гаспадаркі зьяўляюцца">
+    <answer flag="0" text="аквакультуры і зямецтва"/>
+    <answer flag="0" text="шелководство"/>
+    <answer flag="1" text="раслінаводства і жывёлагадоўля"/>
+  </question>
+  <question level="1" simple="True" text="Прадпрыемствы каляровай металургіі па выплаўленні цяжкіх металаў арыентуюцца ў размешчаны, у асноўным, на">
+    <answer flag="0" text="танную электраэнергію"/>
+    <answer flag="1" text="наяўнасць сыравіны"/>
+    <answer flag="0" text="наяўнасць вады"/>
+  </question>
+  <question level="1" simple="True" text="Якія грузы ць грузаабарот марскога транспарту?">
+    <answer flag="0" text="Будаўнічыя матэрыялы"/>
+    <answer flag="0" text="Руды чорных і каляровых металаў"/>
+    <answer flag="0" text="Збожжа"/>
+    <answer flag="1" text="Нафта і нафтапрадукты"/>
+  </question>
+</testing>

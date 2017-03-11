@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Хозяйство">
+  <question level="1" simple="True" text="Какие ответы правильные?">
+    <answer flag="1" text="Николаев - крупнейший центр судостроения государства"/>
+    <answer flag="0" text="Львов - единственный центр автобусостроения Украине"/>
+    <answer flag="1" text="Запорожье - центр цветной металлургии Украины"/>
+  </question>
+  <question level="1" simple="True" text="Какие ответы правильные?">
+    <answer flag="1" text="В трех городах Украины функционирует метрополитен"/>
+    <answer flag="0" text="В Украине пять действующих АЭС"/>
+    <answer flag="1" text="В Одессе находится крупнейший грузовой порт Украине"/>
+  </question>
+  <question level="1" simple="True" text="Большая часть запасов каменного угля Украина сосредоточена в:">
+    <answer flag="0" text="Днепровском бассейне"/>
+    <answer flag="0" text="Львовско-Волынском бассейне"/>
+    <answer flag="1" text="Донецком бассейне"/>
+  </question>
+  <question level="1" simple="True" text="Какие из ответов неправильные?">
+    <answer flag="0" text="Большая доля угля в Украине добывается шахтным (закрытым) способом"/>
+    <answer flag="1" text="Для шахт Донбасса характерна небольшая глубина залегания пластов угля"/>
+    <answer flag="0" text="В Украине есть залежи урановых руд"/>
+    <answer flag="1" text="Бурый уголь имеет большую теплотворную способность чем каменный"/>
+  </question>
+  <question level="1" simple="True" text="Наибольшая доля валового национального продукта Украины приходится на:">
+    <answer flag="0" text="сельское хозяйство"/>
+    <answer flag="1" text="промышленность"/>
+    <answer flag="0" text="строительство и связь"/>
+  </question>
+  <question level="1" simple="True" text="Какие из вариантов 'Название АЭС - город-спутник' правильные?">
+    <answer flag="1" text="Ровенская - Кузнецовск"/>
+    <answer flag="0" text="Запорожская - Южноукраинск"/>
+    <answer flag="1" text="Хмельницкая - Нетешин"/>
+    <answer flag="0" text="Южно - Энергодар"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные утверждения.">
+    <answer flag="1" text="К центральному экономического района входят Черкасская и Кировоградская области"/>
+    <answer flag="1" text="Основную долю железной руды в Украине дает Криворожский бассейн"/>
+    <answer flag="0" text="Большая часть украинской электроэнергии производится на ГЭС"/>
+    <answer flag="1" text="В Николаеве находится большой глиноземный завод"/>
+  </question>
+  <question level="1" simple="True" text="Из перечисленных городов значительным курортным ценром являются:">
+    <answer flag="0" text="Новая Каховка"/>
+    <answer flag="1" text="Миргород"/>
+    <answer flag="0" text="Житомир"/>
+    <answer flag="1" text="Бердянск"/>
+  </question>
+  <question level="1" simple="True" text="Ввоз товаров из-за границы называется:">
+    <answer flag="1" text="импорт"/>
+    <answer flag="0" text="экспорт"/>
+    <answer flag="0" text="бартер"/>
+  </question>
+  <question level="1" simple="True" text="Южно-Украинская АЭС находится:">
+    <answer flag="0" text="в Одесской области"/>
+    <answer flag="0" text="в Запорожской области"/>
+    <answer flag="1" text="в Николаевской области"/>
+  </question>
+  <question level="1" simple="True" text="Центром цветной металлургии Украины является:">
+    <answer flag="0" text="Краматорск"/>
+    <answer flag="1" text="Запорожье"/>
+    <answer flag="0" text="Харьков"/>
+  </question>
+  <question level="1" simple="True" text="Правильными являются утверждения">
+    <answer flag="0" text="Энергодар является городом-спутником АЭС, находящейся на западе Украины"/>
+    <answer flag="1" text="Запорожье является крупнейшим центром автомобилестроения Украине"/>
+    <answer flag="1" text="Залежи урановой руды в Украине сосредоточены в Кировоградской и Днепропетровской областях"/>
+    <answer flag="0" text="Украина полностью удовлетворяет потребности в нефтепродуктах за счет переработки нефти на собственных НПЗ"/>
+  </question>
+  <question level="1" simple="True" text="Какие словосочетания являются правильными?">
+    <answer flag="1" text="Краматорская ТЭЦ"/>
+    <answer flag="0" text="Ровенская ГЭС"/>
+    <answer flag="1" text="Хмельницкая АЭС"/>
+    <answer flag="0" text="Ташлыкская ТЭС"/>
+  </question>
+  <question level="1" simple="True" text="Основными центрами добычи бурого угля являются:">
+    <answer flag="0" text="Донецк"/>
+    <answer flag="1" text="Ватутино"/>
+    <answer flag="0" text="Макеевка"/>
+    <answer flag="1" text="Александрия"/>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;АЭС - город спутник&quot;">
+    <answer text="Ровенская -"/>
+    <answer text="Запорожская -"/>
+    <answer text="Хмельницкая -"/>
+    <answer text="Южно -"/>
+    <variant>
+      <item flag="0" text="Припять"/>
+      <item flag="1" text="Кузнецовск"/>
+      <item flag="3" text="Нетешин"/>
+      <item flag="2" text="Энергодар"/>
+      <item flag="4" text="Южноукраинск"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Области - экономический район&quot;">
+    <answer text="Волынская, Ровенская -"/>
+    <answer text="Черкасская, Кировоградская -"/>
+    <answer text="Днепропетровская, Запорожская -"/>
+    <answer text="Донецкая, Луганская -"/>
+    <variant>
+      <item flag="2" text="Центральный"/>
+      <item flag="1" text="Северо-западный"/>
+      <item flag="4" text="Донецкий"/>
+      <item flag="0" text="Столичный"/>
+      <item flag="3" text="Приднепровский"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Город - специализация машиностроения&quot;">
+    <answer text="Николаев -"/>
+    <answer text="Запорожье -"/>
+    <answer text="Белая Церковь -"/>
+    <answer text="Харьков -"/>
+    <variant>
+      <item flag="2" text="Автомобилестроение"/>
+      <item flag="3" text="Сельхозмашиностроения"/>
+      <item flag="0" text="Автобусостроения"/>
+      <item flag="1" text="Судостроение"/>
+      <item flag="4" text="Авиастроение"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Город - специализация производства&quot;">
+    <answer text="Днепродзержинск, Запорожье -"/>
+    <answer text="Винница, Константиновка -"/>
+    <answer text="Калуш, Стебник -"/>
+    <variant>
+      <item flag="3" text="калийные удобрения"/>
+      <item flag="1" text="азотные удобрения"/>
+      <item flag="2" text="фосфатные удобрения"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие между торговой маркой и экономическим районом">
+    <answer text="NORD -"/>
+    <answer text="Чумак -"/>
+    <answer text="АВИАНТ -"/>
+    <answer text="Светоч -"/>
+    <variant>
+      <item flag="2" text="Причерноморский"/>
+      <item flag="1" text="Донецкий"/>
+      <item flag="4" text="Карпатский"/>
+      <item flag="3" text="Столичный"/>
+      <item flag="0" text="Центральный"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Город - специализация легкой промышленности&quot;">
+    <answer text="Тисменица -"/>
+    <answer text="Чернигов -"/>
+    <answer text="Херсон -"/>
+    <variant>
+      <item flag="1" text="шерстяная"/>
+      <item flag="2" text="меховая"/>
+      <item flag="3" text="хлопчатобумажная"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Город - специализация промышленности&quot;">
+    <answer text="Надворная -"/>
+    <answer text="Енакиево -"/>
+    <answer text="Шебелинка -"/>
+    <variant>
+      <item flag="1" text="нефтепереработка"/>
+      <item flag="2" text="угольная"/>
+      <item flag="3" text="газовая"/>
+    </variant>
+  </question>
+</testing>

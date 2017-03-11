@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Початок Реформації в Європі">
+  <question level="1" simple="True" text="Між якими двома європейськими державами існувало головне протистояння у XVI ст.?">
+    <answer flag="0" text="Польща"/>
+    <answer flag="0" text="Швеція"/>
+    <answer flag="1" text="Священна Римська імперія "/>
+    <answer flag="0" text="Данія"/>
+    <answer flag="0" text="Англія"/>
+    <answer flag="1" text="Франція"/>
+  </question>
+  <question level="1" simple="True" text="Панівною релігією в Західній Європі напередодні Реформації був:">
+    <answer flag="0" text="протестантизм"/>
+    <answer flag="1" text="католицизм"/>
+    <answer flag="0" text="православ'я"/>
+  </question>
+  <question level="1" simple="True" text="Німеччина XVI ст. була:">
+    <answer flag="0" text="єдиною централізованою державою"/>
+    <answer flag="1" text="політично роздробленою країною"/>
+  </question>
+  <question level="1" simple="True" text="Позначте зайве:">
+    <answer flag="0" text="Мартін Лютер"/>
+    <answer flag="0" text="Ульріх Цвінглі"/>
+    <answer flag="1" text="Ігнатій Лойола"/>
+    <answer flag="0" text="Жан Кальвін"/>
+  </question>
+  <question level="1" simple="True" text="Лютеранство визнавало владу папи Римського?">
+    <answer flag="0" text="Так"/>
+    <answer flag="1" text="Ні"/>
+  </question>
+  <question level="1" simple="True" text="В якому році Лютер виступив із тезами свого віровчення?">
+    <answer flag="0" text="1516 р."/>
+    <answer flag="1" text="1517 р."/>
+    <answer flag="0" text="1518 р."/>
+  </question>
+  <question level="1" simple="True" text="Як називалася протестантська церква Англії?">
+    <answer flag="1" text="англіканська"/>
+    <answer flag="0" text="лютеранська"/>
+    <answer flag="0" text="євангелистська"/>
+  </question>
+  <question level="1" simple="True" text="Хто із зазначених осіб намагався встановити &quot;Царство Боже на Землі&quot; зі зброєю в руках?">
+    <answer flag="1" text="Томас Мюнцер"/>
+    <answer flag="0" text="Жан Кальвін"/>
+    <answer flag="0" text="Мартін Лютер"/>
+    <answer flag="0" text="Еразм Роттердамський"/>
+  </question>
+  <question level="1" simple="True" text="Хто з цих діячів Реформації діяв у Швейцарії?">
+    <answer flag="0" text="Мартін Лютер"/>
+    <answer flag="0" text="Томас Мюнцер"/>
+    <answer flag="1" text="Жан Кальвін"/>
+  </question>
+  <question level="1" simple="True" text="Орден єзуїтів або &quot;Товариство Ісуса&quot; було засновано:">
+    <answer flag="0" text="папою Павлом ІІІ"/>
+    <answer flag="1" text="Ігнатієм Лойолою "/>
+    <answer flag="0" text="Генріхом VIII"/>
+  </question>
+  <question level="1" simple="True" text="Які з означених країн залишились осторонь церковного реформаційного руху?">
+    <answer flag="0" text="Данія"/>
+    <answer flag="1" text="Московське царство"/>
+    <answer flag="0" text="Шотландія"/>
+  </question>
+  <question level="1" simple="True" text="В якій з означених країн ідеї Реформації не знайшли підтримки:">
+    <answer flag="0" text="Нідерланди"/>
+    <answer flag="0" text="Швеція"/>
+    <answer flag="1" text="Португалія"/>
+  </question>
+</testing>

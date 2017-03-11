@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Russian Empire in late XIX - early XX century.">
+  <question level="1" simple="True" text="What event became a pretext for the first Russian revolution?">
+    <answer flag="0" text="uprising on the battleship Potemkin''''"/>
+    <answer flag="1" text="bloody Sunday"/>
+    <answer flag="0" text="Manifesto of the King October 17"/>
+  </question>
+  <question level="1" simple="True" text="The second largest nation of the Russian empire were">
+    <answer flag="0" text="Tatars"/>
+    <answer flag="1" text="Ukrainian"/>
+    <answer flag="0" text="Georgians"/>
+  </question>
+  <question level="1" simple="True" text="Who was the Russian tsar in the early twentieth century.?">
+    <answer flag="0" text="Nicholas"/>
+    <answer flag="0" text="Alexander III"/>
+    <answer flag="1" text="Nicholas II"/>
+  </question>
+  <question level="1" simple="True" text="In the war which Russia was defeated in the early twentieth century.?">
+    <answer flag="0" text="with Germany"/>
+    <answer flag="0" text="Turkey"/>
+    <answer flag="1" text="with Japan"/>
+    <answer flag="0" text="with Austria"/>
+  </question>
+  <question level="1" simple="True" text="The author of the agrarian reform after the revolution of 1905-1907 was">
+    <answer flag="0" text="S. Witte"/>
+    <answer flag="1" text="P. Stolypin"/>
+    <answer flag="0" text="Lenin"/>
+  </question>
+  <question level="1" simple="True" text="The culmination of the revolution of 1905-1907 was">
+    <answer flag="0" text="''Bloody Sunday''"/>
+    <answer flag="1" text="armed uprising in Moscow"/>
+    <answer flag="0" text="Manifesto of the King October 17"/>
+  </question>
+  <question level="1" simple="True" text="First State Duma in Russia was convened in">
+    <answer flag="0" text="1905"/>
+    <answer flag="1" text="1906"/>
+    <answer flag="0" text="1907"/>
+  </question>
+  <question level="1" simple="True" text="Are there Russian monopoly in the early twentieth century.?">
+    <answer flag="1" text="so"/>
+    <answer flag="0" text="No"/>
+  </question>
+  <question level="1" simple="True" text="What the Russian Empire used the right of self-government?">
+    <answer flag="0" text="Transcaucasia"/>
+    <answer flag="0" text="Siberia"/>
+    <answer flag="1" text="Finland"/>
+    <answer flag="0" text="Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="Is Russia has made any territorial acquisitions in the early twentieth century.?">
+    <answer flag="1" text="so"/>
+    <answer flag="0" text="No"/>
+  </question>
+  <question level="1" simple="True" text="Will Russia suffered territorial losses in the early twentieth century.?">
+    <answer flag="1" text="so"/>
+    <answer flag="0" text="No"/>
+  </question>
+  <question level="1" simple="True" text="The largest oil reserves in the Russian Empire were">
+    <answer flag="0" text="in Ukraine"/>
+    <answer flag="0" text="in Siberia"/>
+    <answer flag="1" text="Caucasus"/>
+    <answer flag="0" text="Baltic"/>
+  </question>
+</testing>

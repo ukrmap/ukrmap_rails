@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украіна ў гады кіраваньня гетмана Івана Выговского">
+  <question level="1" simple="True" text="Якое з падзеяў адбылося раней?">
+    <answer flag="1" text="Заключэнне Гадячского дагавора"/>
+    <answer flag="0" text="Конотопская бітва"/>
+  </question>
+  <question level="1" simple="True" text="Аб якой гістарычнай постаці ідзе гаворка? Пераемнік Багдана Хмяльніцкага на Гетманскім ўрадзе. Склаў Гадячский дамову з палякамі. Перамог маскавітаў у Конотопской бітве">
+    <answer flag="0" text="Дзмітрый Вішнявецкі"/>
+    <answer flag="1" text="Іван Выгоўскі"/>
+  </question>
+  <question level="1" simple="True" text="Якую пасаду займаў Выгоўскі да абрання яго гетманам?">
+    <answer flag="1" text="Генеральнага пісара"/>
+    <answer flag="0" text="Генеpального суддзі"/>
+    <answer flag="0" text="Генеpального есаула"/>
+  </question>
+  <question level="1" simple="True" text="Калі і дзе быў заключаны дагавор паміж Швецыі і Гетманщиной?">
+    <answer flag="1" text="У кастрычніку 1657 г. у Корсуні"/>
+    <answer flag="0" text="У верасні 1658 г. у Гадяче"/>
+  </question>
+  <question level="1" simple="True" text="Хто ўзначаліў антыдзяржаўны мяцеж ў 1658 p.?">
+    <answer flag="0" text="І. Богуна, Ю. Хмяльніцкі"/>
+    <answer flag="1" text="М. Пушкаp, Я. Баpабаш"/>
+  </question>
+  <question level="1" simple="True" text="Якія тры дзяржавы па Гадяцким договоpа павінны былі ўвайсці ў саюз?">
+    <answer flag="0" text="Польшча, Маскоўскае царства, Вялікае княства Рускае (Украіна)"/>
+    <answer flag="1" text="Польшча, Вялікае княства Літоўскае, Вялікае княства Рускае (Украіна)"/>
+  </question>
+  <question level="1" simple="True" text="Ці было увасобленым ў жыццё Гадячский договip?">
+    <answer flag="0" text="Так"/>
+    <answer flag="1" text="Ні"/>
+  </question>
+  <question level="1" simple="True" text="Войскі якіх дзяржаў сышліся пад Канатопе ў часы праўлення Выговского?">
+    <answer flag="1" text="Украінскае войска, узмоцненае атрадамі крымскага хана, і маскоўскае войска"/>
+    <answer flag="0" text="Польская армія, узмоцненая турэцкімі атрадамі, і маскоўскае войска"/>
+  </question>
+  <question level="1" simple="True" text="Якой была асноўная прычына ўкраінскіх-расейскай вайны 1658 - 1659 гг.?">
+    <answer flag="1" text="Несумяшчальнасць падыходаў Гетманскім і царскага ўрадаў да далейшаму развіццю двухбаковых адносін"/>
+    <answer flag="0" text="Казацкая Украіна, імкнучыся стаць магутнай сілай на ўсходзе Еўропы і ў праваслаўным свеце ў цэлым, хацела захапіць Расею"/>
+  </question>
+  <question level="1" simple="True" text="Як скончылася Конотопская бітва?">
+    <answer flag="0" text="Паразай ўкраінскі"/>
+    <answer flag="1" text="Паразай маскавітаў"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў абраны на пасаду гетмана замест Выговского?">
+    <answer flag="0" text="I. Бpюховецького"/>
+    <answer flag="0" text="П. Тетеpю"/>
+    <answer flag="1" text="Ю. Хмяльніцкага"/>
+  </question>
+  <question level="1" simple="True" text="Колькі гадоў доўжылася гетманства I. Выговского?">
+    <answer flag="1" text="2 гады"/>
+    <answer flag="0" text="5 гадоў"/>
+    <answer flag="0" text="1910"/>
+  </question>
+</testing>

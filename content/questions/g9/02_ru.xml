@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="НАСЕЛЕНИЕ">
+  <question level="1" simple="True" text="В каком году была проведена последняя перепись населения Украины?">
+    <answer flag="0" text="В 1991 г."/>
+    <answer flag="1" text="В 2001 г."/>
+    <answer flag="0" text="В 1996 г."/>
+  </question>
+  <question level="1" simple="True" text="По количеству населения в Европе Украине:">
+    <answer flag="1" text="занимает шестое место"/>
+    <answer flag="0" text="уступает только Франции"/>
+    <answer flag="0" text="уступает только России"/>
+  </question>
+  <question level="1" simple="True" text="Наиболее урбанизированным регионом государства являются:">
+    <answer flag="0" text="Киевщина"/>
+    <answer flag="1" text="Донбасс"/>
+    <answer flag="0" text="Галичина"/>
+  </question>
+  <question level="1" simple="True" text="В какой области самая общая плотность населения?">
+    <answer flag="0" text="Львовской"/>
+    <answer flag="0" text="Днепропетровской"/>
+    <answer flag="1" text="Донецкой"/>
+  </question>
+  <question level="1" simple="True" text="Какой из ответов является неправильной?">
+    <answer flag="0" text="В одном из городов-миллионеров является морской порт"/>
+    <answer flag="1" text="Все областные центры нашей страны - города-миллионеры"/>
+    <answer flag="0" text="Все города-миллионеры Украины являются областными центрами"/>
+  </question>
+  <question level="1" simple="True" text="Какие из ответов неправильными?">
+    <answer flag="0" text="Подавляющее большинство россиян Украине проживает в городах"/>
+    <answer flag="1" text="За годы независимости в Украине не проводилось ни одного переписи населения"/>
+    <answer flag="1" text="В Крыму низкий естественный прирост населения среди регионов Украины"/>
+  </question>
+  <question level="1" simple="True" text="Выберите правильные ответы">
+    <answer flag="1" text="Крым - единственный регион Украины, где в структуре населения преобладают русские"/>
+    <answer flag="1" text="Область государства с высоким уровнем урбанизации имеет наивысшую общую плотность населения"/>
+    <answer flag="0" text="С момента обретения Украиной независимости Крым имеет статус автономии"/>
+    <answer flag="1" text="В большинстве областей Украины показатели естественного прироста населения имеют отрицательное значение"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является правильным?">
+    <answer flag="0" text="Из религиозных конфессий ислам наиболее распространенный на Одесщине"/>
+    <answer flag="1" text="В Украине четыре города-миллионеры"/>
+    <answer flag="0" text="В Днепропетровской области сельское население преобладает над городским"/>
+  </question>
+  <question level="1" simple="True" text="В какой период в Украине была наибольшая численность населения?">
+    <answer flag="0" text="Перед началом Второй мировой войны"/>
+    <answer flag="1" text="В начале 90-х годов прошлого века"/>
+    <answer flag="0" text="В 2001 году"/>
+  </question>
+  <question level="1" simple="True" text="Где проживает подавляющее большинство мусульман Украины?">
+    <answer flag="1" text="В Крыму"/>
+    <answer flag="0" text="В Донецкой области"/>
+    <answer flag="0" text="В Одесской области"/>
+  </question>
+  <question level="1" simple="True" text="Укажите страны, где в составе населения свыше 1 млн человек украинского происхождения">
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="Бразилия"/>
+    <answer flag="1" text="Россия"/>
+    <answer flag="0" text="Польша"/>
+    <answer flag="1" text="США"/>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие">
+    <answer text="Буковина -"/>
+    <answer text="Волынь -"/>
+    <answer text="Галичина -"/>
+    <variant>
+      <item flag="2" text="историко-этнографический регион на северо-западе Украины"/>
+      <item flag="1" text="историко-этнографический регион в пределах преимущественно Черновицкой области"/>
+      <item flag="3" text="историко-этнографический регион в пределах преимущественно Львовской и Тернопольской областей"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие">
+    <answer text="Черновицкая -"/>
+    <answer text="Донетчина -"/>
+    <answer text="Черниговская -"/>
+    <answer text="Крым -"/>
+    <variant>
+      <item flag="2" text="регион Украина с наибольшим населения"/>
+      <item flag="1" text="область, где население менее 1 млн жителей"/>
+      <item flag="4" text="регион, где в структуре населения преобладают русские"/>
+      <item flag="3" text="область, с наименьшей плотностью населения"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие">
+    <answer text="Россия -"/>
+    <answer text="США -"/>
+    <answer text="Бразилия -"/>
+    <variant>
+      <item flag="2" text="страна, в которую был направлен первый поток эмигрантов из Украины в конце XIX в."/>
+      <item flag="1" text="страна с крупнейшей украинской диаспорой"/>
+      <item flag="3" text="страна, центр культурной жизни украинским которой находится в м.Прудентополис"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие">
+    <answer text="Одесса -"/>
+    <answer text="Севастополь -"/>
+    <answer text="Ужгород -"/>
+    <variant>
+      <item flag="2" text="город, имеющий специальный статус"/>
+      <item flag="1" text="город-миллионер"/>
+      <item flag="3" text="административный центр западной области государства"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Регион - административный центр&quot;">
+    <answer text="Волынская область"/>
+    <answer text="АР Крым -"/>
+    <answer text="Закарпатская область -"/>
+    <variant>
+      <item flag="0" text="Владимир-Волынский"/>
+      <item flag="1" text="Луцк"/>
+      <item flag="2" text="Симферополь"/>
+      <item flag="0" text="Севастополь"/>
+      <item flag="3" text="Ужгород"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие в парах &quot;Национальное меньшинство - регион компактного проживания&quot;">
+    <answer text="Греки -"/>
+    <answer text="Венгры -"/>
+    <answer text="Гагаузы -"/>
+    <answer text="Румыны -"/>
+    <variant>
+      <item flag="3" text="Одесщина"/>
+      <item flag="1" text="Донетчина"/>
+      <item flag="4" text="Буковина"/>
+      <item flag="2" text="Закарпатье"/>
+    </variant>
+  </question>
+</testing>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Геаграфічныя Познані ЗЯМЛІ">
+  <question level="1" simple="True" text="Ва ўяўленні якіх народаў Зямля была паўшар'ем, якую трымалі чатыры слана?">
+    <answer flag="0" text="Старажытных егіпцян"/>
+    <answer flag="0" text="Старажытных кітайцаў"/>
+    <answer flag="1" text="Старажытных індзейцаў"/>
+  </question>
+  <question level="1" simple="True" text="Хто першым падлічыў памеры нашай планеты і ўвёў понятие &quot;параллели&quot; и &quot;меридианы&quot;?">
+    <answer flag="1" text="Эратосфен"/>
+    <answer flag="0" text="Пталамей"/>
+    <answer flag="0" text="Бегайм"/>
+  </question>
+  <question level="1" simple="True" text="Хто першым выказаў здагадку, што Зямля мае форму шара?">
+    <answer flag="0" text="Бегайм"/>
+    <answer flag="1" text="Піфагор"/>
+    <answer flag="0" text="Эратосфен"/>
+  </question>
+  <question level="1" simple="True" text="Глобус як макет зямнога шара ўпершыню стварыў">
+    <answer flag="0" text="Эратосфен Кірэнск"/>
+    <answer flag="1" text="Марцін Бегайм"/>
+    <answer flag="0" text="Герард Меркатор"/>
+  </question>
+  <question level="1" simple="True" text="Каго лічаць першаадкрывальнікамі Ісландыі і Грэнландыі?">
+    <answer flag="1" text="Нарманаў"/>
+    <answer flag="0" text="Фінікійцаў"/>
+    <answer flag="0" text="Егіпцян"/>
+  </question>
+  <question level="1" simple="True" text="Хто першым выкарыстаў компас у мараходства?">
+    <answer flag="1" text="Кітайцы"/>
+    <answer flag="0" text="Арабы"/>
+    <answer flag="0" text="Нарманы"/>
+  </question>
+  <question level="1" simple="True" text="Работы каго з еўрапейскіх падарожнікаў сталі ў свой час першым сістэматызаваны крыніцай ведаў пра Кітай?">
+    <answer flag="1" text="Марка Пола"/>
+    <answer flag="0" text="Апанаса Нікіціна"/>
+    <answer flag="0" text="Хрыстафора Калумба"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе быў адкрыты Амерыку?">
+    <answer flag="1" text="У 1492 г."/>
+    <answer flag="0" text="У 1498 г."/>
+    <answer flag="0" text="У 1504 г."/>
+  </question>
+  <question level="1" simple="True" text="Хто з мараплаўцаў адкрыў Амерыку?">
+    <answer flag="0" text="Америго Веспуччи"/>
+    <answer flag="1" text="Хрыстафор Калумб"/>
+    <answer flag="0" text="Фернан Магелан"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву меў галаўны карабель Калумба?">
+    <answer flag="0" text="&quot;Санцьяга&quot;"/>
+    <answer flag="1" text="&quot;Санта-Марыя&quot;"/>
+    <answer flag="0" text="&quot;Трынідад&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Хто першым выказаў здагадку, што новыя зямлі, адкрытыя Калумбам, у рэчаіснасці з'яўляецца невядомым мацерыком?">
+    <answer flag="1" text="Америго Веспуччи"/>
+    <answer flag="0" text="Фернан Магелан"/>
+    <answer flag="0" text="Марцін Вальдземюллер"/>
+  </question>
+  <question level="1" simple="True" text="Фернан Магелан ўвайшоў у гісторыю як марак,">
+    <answer flag="0" text="што адкрыў Амерыку"/>
+    <answer flag="1" text="які ўзначальваў першае кругасветнае падарожжа"/>
+    <answer flag="0" text="які адкрыў марскі шлях з Еўропы ў Індыю"/>
+    <answer flag="1" text="які даў назву самага вялікага акіяну планеты"/>
+  </question>
+  <question level="1" simple="True" text="Якія каравэлы з экспедыцыі Магеллана не дасягнулі Севільі падчас першага кругасветнага вандравання?">
+    <answer flag="1" text="&quot;Трынідад&quot;"/>
+    <answer flag="1" text="&quot;Сан-Антоніо&quot;"/>
+    <answer flag="0" text="&quot;Вікторыя&quot;"/>
+    <answer flag="1" text="&quot;Санцьяга&quot;"/>
+    <answer flag="1" text="&quot;Консепсион&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Хто з падарожнікаў першым дасягнуў Паўночнага полюса?">
+    <answer flag="1" text="Роберт Пири"/>
+    <answer flag="0" text="Фритьоф Нансен"/>
+    <answer flag="0" text="Руаль Амундсен"/>
+  </question>
+  <question level="1" simple="True" text="Хто даў назву самому акіяна планеты?">
+    <answer flag="0" text="Хрыстафор Калумб"/>
+    <answer flag="1" text="Фернан Магелан"/>
+    <answer flag="0" text="Барталамеў Диаш"/>
+  </question>
+  <question level="1" simple="True" text="Як называлі Аўстралію з 1606 па 1814 гады?">
+    <answer flag="0" text="Новая Брытанія"/>
+    <answer flag="0" text="Новая Іспанія"/>
+    <answer flag="1" text="Новая Галандыя"/>
+  </question>
+  <question level="1" simple="True" text="Дзе ў 1779 годзе ў сутычцы з тубыльцамі загінуў Джэймс Кук?">
+    <answer flag="0" text="На Філіпінскіх выспах"/>
+    <answer flag="0" text="На разбойніцкіх (Марыянскіх) астравах"/>
+    <answer flag="1" text="На Гавайскіх выспах"/>
+  </question>
+  <question level="1" simple="True" text="Філіпінскія выспы сталі месцам гібелі">
+    <answer flag="0" text="Хрыстафора Калумба"/>
+    <answer flag="0" text="Джэймса Кука"/>
+    <answer flag="1" text="Фернан Магеллана"/>
+  </question>
+  <question level="1" simple="True" text="Якое грамадзянства меў падарожнік, першым дасягнуў Паўднёвага полюса?">
+    <answer flag="0" text="Французскае"/>
+    <answer flag="0" text="Ангельскае"/>
+    <answer flag="1" text="Нарвежскае"/>
+  </question>
+  <question level="1" simple="True" text="Якія сродкі перамяшчэння не выкарыстоўваліся экспедыцыяй Амундсена пры пакарэнні Паўднёвага полюса?">
+    <answer flag="0" text="Сабакі"/>
+    <answer flag="1" text="Коні"/>
+    <answer flag="1" text="Трактары"/>
+  </question>
+  <question level="1" simple="True" text="Што было галоўнай прычынай няўдачы экспедыцыі Роберта Скота да Паўднёвага полюса?">
+    <answer flag="1" text="Няўдала выбраныя сродкі перамяшчэння"/>
+    <answer flag="0" text="Недакладная рух"/>
+    <answer flag="0" text="Недастатковае фінансаванне экспедыцыі"/>
+  </question>
+  <question level="1" simple="True" text="Хто з пералічаных падарожнікаў меў ўкраінскія карані?">
+    <answer flag="1" text="Лисянский"/>
+    <answer flag="0" text="Крузенштерн"/>
+    <answer flag="0" text="Беллинсгаузен"/>
+  </question>
+  <question level="1" simple="True" text="З якога года ў Антарктыдзе функцыянал ўкраінскіх палярная станцыя &quot;Акадэмік Вярнадскі&quot;?">
+    <answer flag="1" text="З 1996 г."/>
+    <answer flag="0" text="З 1991 г."/>
+    <answer flag="0" text="З 2001 г."/>
+  </question>
+  <question level="1" simple="True" text="Як называецца адзінка хуткасці ў мараплаўстве?">
+    <answer flag="0" text="Марская міля"/>
+    <answer flag="1" text="Вузел"/>
+    <answer flag="0" text="Марскі вузел"/>
+    <answer flag="0" text="Гордзіеў вузел"/>
+  </question>
+</testing>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="ЗЕМЛЯ НА ПЛАНЕ И КАРТЕ">
+  <Item Caption="Глобус, предназначенный для учащихся школ" FileName="1_1"/>
+  <Item Caption="Старинный глобус " FileName="1"/>
+  <Item Caption="Глобус" FileName="2"/>
+  <Item Caption="Земля из космоса" FileName="3"/>
+  <Item Caption="Старинный компас" FileName="4"/>
+  <Item Caption="Старинный навигационный прибор" FileName="5"/>
+  <Item Caption="Старинный навигационный прибор" FileName="6"/>
+  <Item Caption="Тахеометр-современный прибор, обеспечивающий высокую точность геодезических работ" FileName="7"/>
+  <Item Caption="Гималаи-высочайшая горная система на планете" FileName="8"/>
+  <Item Caption="Ориентирование по Полярной звездой" FileName="9"/>
+  <Item Caption="Ориентирование по муравейником, мхом и лишайником" FileName="10"/>
+  <Item Caption="Ориентирование по корой березы и пенькой" FileName="11"/>
+</List>

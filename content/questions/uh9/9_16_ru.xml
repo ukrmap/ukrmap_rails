@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Расселение и эмиграция Украинский во второй половине XIX - начале ХХ в.">
+  <question level="1" simple="True" text="Чем была обусловлена массовая трудовая эмиграция украинский конце XIX века?">
+    <answer flag="1" text="Аграрным перенаселением украинских земель"/>
+    <answer flag="0" text="Стремлением русского и австрийского правительств избавиться украинского населения"/>
+    <answer flag="0" text="Неразвитостью городской жизни на украинских землях"/>
+    <answer flag="0" text="Извечным стремлением к новым приключениям и открытиям"/>
+  </question>
+  <question level="1" simple="True" text="Какое название получили земли, освоенные украинский на Дальнем Востоке?">
+    <answer flag="1" text="Зеленый клин"/>
+    <answer flag="0" text="Серый клин"/>
+    <answer flag="0" text="Саскачеван"/>
+    <answer flag="0" text="Кубань"/>
+  </question>
+  <question level="1" simple="True" text="К какой из названных стран украинские поселенцы прибыли первыми?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Бразилия"/>
+    <answer flag="0" text="Аргентина"/>
+  </question>
+  <question level="1" simple="True" text="В какой из названных стран украинское общество к началу ХХ в. была самой многочисленной?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Бразилия"/>
+    <answer flag="0" text="Аргентина"/>
+  </question>
+  <question level="1" simple="True" text="Из каких регионов Украины преобладала трудовая эмиграция на Запад?">
+    <answer flag="1" text="Галичина, Закарпатье, Буковина, Волынь"/>
+    <answer flag="0" text="Подолье, Киевщина"/>
+    <answer flag="0" text="Степные районы"/>
+    <answer flag="0" text="Донбасс, Слобожанщина, Приднепровье"/>
+  </question>
+  <question level="1" simple="True" text="Какой год считается началом украинский трудовой эмиграция?">
+    <answer flag="0" text="1850"/>
+    <answer flag="0" text="1860"/>
+    <answer flag="1" text="1870"/>
+    <answer flag="0" text="1880"/>
+  </question>
+</testing>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries of the Middle East">
+  <question level="1" simple="True" text="In what year and with the participation of the Arab armies which started first Arab-Israeli war?">
+    <answer flag="0" text="1947"/>
+    <answer flag="1" text="1948"/>
+    <answer flag="0" text="1967"/>
+    <answer flag="1" text="Yehypytu"/>
+    <answer flag="1" text="Jordan"/>
+    <answer flag="1" text="Syria"/>
+    <answer flag="1" text="Lebanon"/>
+    <answer flag="1" text="Iraq"/>
+  </question>
+  <question level="1" simple="True" text="Which countries of 1952-1958 he joined the Baghdad Pact?">
+    <answer flag="1" text="Pakistan"/>
+    <answer flag="0" text="Avhanistan"/>
+    <answer flag="1" text="Iraq"/>
+    <answer flag="1" text="Iran"/>
+    <answer flag="1" text="Turkey"/>
+    <answer flag="0" text="Syria"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in the summer of 1953?">
+    <answer flag="0" text="Iran"/>
+    <answer flag="0" text="Iraq"/>
+    <answer flag="0" text="Qatar"/>
+    <answer flag="1" text="Egypt"/>
+  </question>
+  <question level="1" simple="True" text="In which country and which was started in &quot;white&quot; revolution?">
+    <answer flag="0" text="Syria"/>
+    <answer flag="0" text="Lebanon"/>
+    <answer flag="1" text="Iran"/>
+    <answer flag="0" text="1953"/>
+    <answer flag="1" text="1962"/>
+    <answer flag="0" text="1963"/>
+  </question>
+  <question level="1" simple="True" text="In what year and with the participation of NATO armed conflict took place in Fr. Cyprus?">
+    <answer flag="0" text="1972"/>
+    <answer flag="1" text="1974"/>
+    <answer flag="0" text="1976"/>
+    <answer flag="1" text="Greece"/>
+    <answer flag="0" text="Macedonia"/>
+    <answer flag="1" text="Turkey"/>
+  </question>
+  <question level="1" simple="True" text="In which years was the Iran-Iraq war?">
+    <answer flag="0" text="1979-1985"/>
+    <answer flag="0" text="1981-1984"/>
+    <answer flag="1" text="1980-1988"/>
+  </question>
+</testing>

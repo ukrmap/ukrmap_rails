@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Письменность, образование, научные знания, литература и музыка Киевской Руси и Галицко-Волынского государства">
+  <question level="1" simple="True" text="Когда был создан Остромирово Евангелие?">
+    <answer flag="1" text="В 1056 - 1057 рр."/>
+    <answer flag="0" text="В 1185 - 1187 рр."/>
+  </question>
+  <question level="1" simple="True" text="Что произошло раньше?">
+    <answer flag="1" text="Создания «Слова о полку Игоревом»"/>
+    <answer flag="0" text="Заключение Галицко-Волынской летописи"/>
+  </question>
+  <question level="1" simple="True" text="Кто такой Алипий Печерский?">
+    <answer flag="0" text="Один из первых печерских монахов, известный врач XI в."/>
+    <answer flag="1" text="Киевский иконописец, монах Киево-Печерского монастыря"/>
+  </question>
+  <question level="1" simple="True" text="Кого считают автором и составителем «Повести временных лет»?">
+    <answer flag="1" text="Нестора"/>
+    <answer flag="0" text="Феодосия Печерского"/>
+  </question>
+  <question level="1" simple="True" text="О чем рассказывается в &quot;Повести временных лет&quot;?">
+    <answer flag="1" text="Изложены события на землях Руси от 860 до 1111"/>
+    <answer flag="0" text="Пересказывается история Киево-Печерского монастыря, жизнеописание его первых подвижников"/>
+  </question>
+  <question level="1" simple="True" text="Какой из летописей является непосредственным продолжением &quot;Повести временных лет&quot;?">
+    <answer flag="1" text="Киевская летопись"/>
+    <answer flag="0" text="Галицко-Волынский"/>
+  </question>
+  <question level="1" simple="True" text="Автором которого известного произведения является митрополит Илларион?">
+    <answer flag="0" text="&quot;Поучение детям&quot;"/>
+    <answer flag="1" text="&quot;Слово о законе и благодати&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Языке во времена Киевской Руси писали богослужебные книги?">
+    <answer flag="1" text="Церковнославянском"/>
+    <answer flag="0" text="Украинский"/>
+  </question>
+  <question level="1" simple="True" text="Как называется первая датированная рукопись Руси?">
+    <answer flag="1" text="Остромирово Евангелие"/>
+    <answer flag="0" text="&quot;Слово о полку Игореве&quot;"/>
+  </question>
+  <question level="1" simple="True" text="При дворе которого волынского князя существовала большая мастерские?">
+    <answer flag="1" text="Владимира Васильевича"/>
+    <answer flag="0" text="Романа Мстиславича"/>
+  </question>
+  <question level="1" simple="True" text="За которого князя появились первые школы для обучения детей из ближайшего окружения князя">
+    <answer flag="1" text="В княжение Владимира Святославича"/>
+    <answer flag="0" text="В княжение Ярослава Мудрого"/>
+  </question>
+  <question level="1" simple="True" text="На каких музыкальных инструментах играли тогдашние музыки?">
+    <answer flag="1" text="Гусли, гудки, рогах, свистки, свирилях, бубнах"/>
+    <answer flag="0" text="Кобза, бандура, лирах, тулумбас"/>
+  </question>
+</testing>

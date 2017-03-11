@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Другая сусветная вайна (падзеі 1 верасня 1939 года - 21 чэрвеня 1941)">
+  <question level="1" simple="True" text="Коды быў падпісаны тайны дадатковы пратакол да Пакту Молатава-Рыбентропа?">
+    <answer flag="1" text="23 Жніўня 1939"/>
+    <answer flag="0" text="1 верасня 1939 года"/>
+    <answer flag="0" text="21 ЧЭРВЕНЯ 1939"/>
+  </question>
+  <question level="1" simple="True" text="Калі і ў якім горадзе была здзейсненая правакацыя, якая стала падставай да пачатку вайны?">
+    <answer flag="1" text="31 Жнівень 1939"/>
+    <answer flag="0" text="28 верасня 1939 года"/>
+    <answer flag="0" text="10 кастрычніка 1939 г"/>
+    <answer flag="1" text="Глейвиц"/>
+    <answer flag="0" text="Берлін"/>
+    <answer flag="0" text="Бреслау"/>
+  </question>
+  <question level="1" simple="True" text="Як называлася сістэма пагранічных умацаванняў Фінляндыі?">
+    <answer flag="0" text="Лінія &quot;Мажыно&quot;"/>
+    <answer flag="0" text="Лінія &quot;Зикфрида&quot;"/>
+    <answer flag="1" text="Лінія &quot;Манэргейма&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбыліся асяроддзя групы французскіх, англійскіх і бельгійскіх войскаў пад Дзюнкеркам і іх эвакуацыя?">
+    <answer flag="0" text="17-28 верасня 1939 г"/>
+    <answer flag="1" text="26 траўня - 4 чэрвеня 1940"/>
+    <answer flag="0" text="22 чэрвеня -2 ліпеня 1940 г."/>
+  </question>
+  <question level="1" simple="True" text="Калі і паміж якімі краінамі спачатку быў заключаны Траісты пакт?">
+    <answer flag="0" text="28 Чэрвеня 1940"/>
+    <answer flag="0" text="30 Аўгуста 1940 г."/>
+    <answer flag="0" text="7 верасня 1940 г."/>
+    <answer flag="1" text="27 верасня 1940 г."/>
+    <answer flag="1" text="Германіяй"/>
+    <answer flag="0" text="Румыніяй"/>
+    <answer flag="1" text="Італіяй"/>
+    <answer flag="1" text="Японіяй"/>
+  </question>
+  <question level="1" simple="True" text="Супраць якіх краін быў здзейснены напад (аперацыя &quot;Марыт&quot;) нямецкімі войскамі і іх саюзнікаў у красавіку-траўні 1941 г.?">
+    <answer flag="0" text="Францыі"/>
+    <answer flag="1" text="Югаславіі"/>
+    <answer flag="0" text="Англіі"/>
+    <answer flag="1" text="Грэцыі"/>
+    <answer flag="0" text="Егіпет"/>
+  </question>
+</testing>

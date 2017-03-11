@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Южной и Юго-Восточной Азии">
+  <question level="1" simple="True" text="Какие события произошли в августе 1947 г.?">
+    <answer flag="0" text="Провозглашение Республики Индия"/>
+    <answer flag="0" text="Провозглашение Исламской Республики Пакистан"/>
+    <answer flag="1" text="Разделение Индии на два государства: Индийский Союз и Пакистан"/>
+    <answer flag="1" text="Великобритания предоставила независимость Индии"/>
+  </question>
+  <question level="1" simple="True" text="В каких годах происходили индо-пакистанской войне?">
+    <answer flag="0" text="1946"/>
+    <answer flag="0" text="1946-1947 гг"/>
+    <answer flag="1" text="1947-1949 гг"/>
+    <answer flag="1" text="1965"/>
+    <answer flag="1" text="1971"/>
+  </question>
+  <question level="1" simple="True" text="Когда была провозглашена независимость Восточного Пакистана - Народной Республики Бангладеш?">
+    <answer flag="0" text="15 августа 1947"/>
+    <answer flag="0" text="23 марта 1956"/>
+    <answer flag="1" text="26 марта 1971"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошло вторжение советских войск в Авганистан под прикрытием лозунга &quot;предоставление интернациональной помощи братскому народу&quot;?">
+    <answer flag="0" text="27 апреля 1978"/>
+    <answer flag="1" text="27 декабря 1979"/>
+    <answer flag="0" text="15 февраля 1989"/>
+  </question>
+  <question level="1" simple="True" text="В каких странах в 1975 г. к власти пришли коммунисты?">
+    <answer flag="0" text="Мьянме"/>
+    <answer flag="0" text="Таиланде"/>
+    <answer flag="1" text="Лаосе"/>
+    <answer flag="0" text="Непале"/>
+    <answer flag="1" text="Камбодже"/>
+    <answer flag="1" text="Вьетнаме"/>
+  </question>
+  <question level="1" simple="True" text="В какой стране произошло свержение монархии в 2008 г.?">
+    <answer flag="0" text="Таиланде"/>
+    <answer flag="0" text="Камбодже"/>
+    <answer flag="0" text="Лаосе"/>
+    <answer flag="0" text="Бутане"/>
+    <answer flag="1" text="Непале"/>
+  </question>
+  <question level="1" simple="True" text="Когда в Камбодже было свергнуто режим &quot;красных кхмеров&quot;?">
+    <answer flag="1" text="Декабрь 1978"/>
+    <answer flag="0" text="Апрель 1975"/>
+    <answer flag="0" text="Январь 1977"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялось провозглашение объединенной Социалистической Республики Вьетнам?">
+    <answer flag="0" text="2 марта 1945"/>
+    <answer flag="0" text="26 октября 1955"/>
+    <answer flag="1" text="2 июля 1976"/>
+  </question>
+  <question level="1" simple="True" text="Когда и где США было заключено соглашение о прекращении войны и восстановлении мира во Вьетнаме?">
+    <answer flag="0" text="13 мая 1968"/>
+    <answer flag="0" text="30 марта 1972"/>
+    <answer flag="1" text="27 января 1973"/>
+    <answer flag="1" text="Париж"/>
+    <answer flag="0" text="Вашингтон"/>
+    <answer flag="0" text="Сайгон"/>
+  </question>
+</testing>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Насельніцтва. Гісторыя і сучаснасць">
+  <question level="1" simple="True" text="У Голосеевском раёне ёсць мясцовасць, назва якой азначае:">
+    <answer flag="0" text="групу гаспадарчых пабудоў"/>
+    <answer flag="0" text="пераправу для буйной рагатай жывёлы"/>
+    <answer flag="1" text="прылада для барацьбы з хатнімі шкоднікамі"/>
+  </question>
+  <question level="1" simple="True" text="Якая з пералічаных мясцовасцяў ў XVIII ст. была заселенай?">
+    <answer flag="1" text="Приорка"/>
+    <answer flag="0" text="Пушча-вадзіца"/>
+    <answer flag="0" text="Абалонь"/>
+    <answer flag="0" text="Цялушачка"/>
+  </question>
+  <question level="1" simple="True" text="Да якога раёне за сучасным адміністрацыйным дзяленнем належыць мясцовасць Кудрявец?">
+    <answer flag="0" text="Пячэрскага"/>
+    <answer flag="0" text="Падольскага"/>
+    <answer flag="1" text="Шаўчэнкаўскі"/>
+    <answer flag="0" text="Саломенскага"/>
+  </question>
+  <question level="1" simple="True" text="Якая з пералічаных мясцовасцяў афіцыйна не належала горада Кіева ў пачатку XX ст. (Па стане на 1914 г.)?">
+    <answer flag="0" text="Абалонь"/>
+    <answer flag="1" text="Саўкі"/>
+    <answer flag="0" text="Звярынец"/>
+    <answer flag="0" text="Труханоў востраў"/>
+  </question>
+  <question level="1" simple="True" text="У сучасным Пячэрскім раёне ёсць мясцовасць, назва якой адбываецца:">
+    <answer flag="0" text="ад імя славянскага бога"/>
+    <answer flag="0" text="ад старажытных курганоў"/>
+    <answer flag="1" text="ад ліпавага гаі"/>
+    <answer flag="0" text="ад імя палавецкай хана"/>
+  </question>
+  <question level="1" simple="True" text="У сучасным Абалонскі раёне з'яўляецца жылы масіў, названы ў гонар:">
+    <answer flag="1" text="сталіцы Беларусі"/>
+    <answer flag="0" text="Акадэміі навук"/>
+    <answer flag="0" text="героя Вялікай Айчыннай вайны"/>
+    <answer flag="0" text="Украінскі савецкага паэта"/>
+  </question>
+  <question level="1" simple="True" text="Да тэрыторыі сучаснага Дарницкого раёна ўваходзіць былое сяло, назва якога звязана з:">
+    <answer flag="0" text="чумакамi,"/>
+    <answer flag="0" text="рыбакамі"/>
+    <answer flag="1" text="пчалярамі"/>
+    <answer flag="0" text="казакамі"/>
+  </question>
+  <question level="1" simple="True" text="У гонар мітрапаліта Рафаіла Забароўскі названыя:">
+    <answer flag="1" text="вароты, вядучую да Сафійскага манастыра"/>
+    <answer flag="0" text="вуліцу на Пячэрск"/>
+    <answer flag="0" text="аўдыторыю Кіева-Магілянскай акадэміі"/>
+    <answer flag="0" text="крыніца ў Лаўры"/>
+  </question>
+  <question level="1" simple="True" text="Першапачатковае прызначэнне будынка Філармоніі:">
+    <answer flag="1" text="Купецкае сход"/>
+    <answer flag="0" text="Палац генерал-губернатара"/>
+    <answer flag="0" text="Педагагічны музей"/>
+    <answer flag="0" text="Тэатр &quot;Салаўцоў"/>
+  </question>
+  <question level="1" simple="True" text="Іпадром, Экспоцентр, Бібліятэка ім. В. Вярнадскага размешчаны:">
+    <answer flag="0" text="у Шаўчэнкаўскі раёне"/>
+    <answer flag="1" text="у Голосеевском раёне"/>
+    <answer flag="0" text="ў Дняпроўскім раёне"/>
+    <answer flag="0" text="у Пячорскім раёне"/>
+  </question>
+  <question level="1" simple="True" text="Які з пералічаных асоб у Кіеве пакуль няма помніка?">
+    <answer flag="0" text="Мікалаю Лысенка"/>
+    <answer flag="0" text="Яраславе Мудрым"/>
+    <answer flag="0" text="Уладзіміру Вярнадскага"/>
+    <answer flag="1" text="Пятру Магілы"/>
+  </question>
+  <question level="1" simple="True" text="Скульптурныя выявы Міхаіла Глінкі, Лесі Украінская, Марыі Занькавецкай можна ўбачыць:">
+    <answer flag="0" text="у Марыінскім парку"/>
+    <answer flag="1" text="ў Гарадскім садзе"/>
+    <answer flag="0" text="у Крещатом парку"/>
+    <answer flag="0" text="ў Пячэрскім ландшафтным парку"/>
+  </question>
+</testing>

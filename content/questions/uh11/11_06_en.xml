@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in conditions of de-Stalinization (1953-1964 biennium)">
+  <question level="1" simple="True" text="When the southern part of the Kiev region highlighted in the Cherkassy region?">
+    <answer flag="1" text="January 7, 1954"/>
+    <answer flag="0" text="February 15, 1954"/>
+    <answer flag="0" text="February 19, 1954"/>
+    <answer flag="0" text="May 21, 1958"/>
+  </question>
+  <question level="1" simple="True" text="What area annexed to the USSR to commemorate the tercentenary Pereiaslav Council?">
+    <answer flag="0" text="Izmail"/>
+    <answer flag="0" text="Cherkasy"/>
+    <answer flag="0" text="Drohobych"/>
+    <answer flag="1" text="Crimean"/>
+  </question>
+  <question level="1" simple="True" text="Association which areas in May 1958 completed the administrative and territorial transformation of the Ukrainian SSR?">
+    <answer flag="0" text="Kiev"/>
+    <answer flag="0" text="Cherkasy"/>
+    <answer flag="0" text="Izmail"/>
+    <answer flag="0" text="Odessa"/>
+    <answer flag="1" text="Drohobych"/>
+    <answer flag="1" text="Lviv"/>
+  </question>
+  <question level="1" simple="True" text="How much economic districts created the Council of Ministers of the USSR of September 26, 1957">
+    <answer flag="0" text="7"/>
+    <answer flag="1" text="11"/>
+    <answer flag="0" text="3"/>
+  </question>
+  <question level="1" simple="True" text="What are the current radnarhospy vyokremylysya in 1960">
+    <answer flag="0" text="Kyiv"/>
+    <answer flag="0" text="Vinnitsa"/>
+    <answer flag="1" text="Poltava"/>
+    <answer flag="1" text="Cherkasy"/>
+    <answer flag="1" text="Crimean"/>
+  </question>
+  <question level="1" simple="True" text="In what year SHEBELYNSKYI the exploitation of natural gas in Kharkov?">
+    <answer flag="0" text="1954"/>
+    <answer flag="1" text="1956"/>
+    <answer flag="0" text="1957"/>
+  </question>
+  <question level="1" simple="True" text="Which of these measures were taken to Soviet leadership in agriculture in 1953-1964 years?">
+    <answer flag="0" text="Creating MTS"/>
+    <answer flag="1" text="transformation of collective farms to state farms"/>
+    <answer flag="1" text="developing virgin and fallow lands"/>
+    <answer flag="1" text="spread over corn crops"/>
+    <answer flag="0" text="elimination of &quot;wasted&quot; villages"/>
+    <answer flag="0" text="complete elimination of private households kolkhoz"/>
+    <answer flag="1" text="implementation of programs to create facilities that would provide for increased production of milk and meat under the slogan &quot;catch up and overtake the U.S.&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Who are the leaders of the Soviet Union put forward the slogan of building communism in the next 20 years and called &quot;catch up and overtake America&quot;?">
+    <answer flag="0" text="Stalin"/>
+    <answer flag="1" text="Nikita Khrushchev"/>
+    <answer flag="0" text="Leonid Brezhnev"/>
+    <answer flag="0" text="Gorbachev"/>
+  </question>
+  <question level="1" simple="True" text="What occupied the position of party and state leadership of the USSR at removal of Khrushchev from power?">
+    <answer flag="0" text="supported Khrushchev"/>
+    <answer flag="1" text="contributed to the resignation of Khrushchev"/>
+    <answer flag="0" text="took the position of expectant"/>
+    <answer flag="0" text="acted as the organizer of elimination"/>
+  </question>
+  <question level="1" simple="True" text="What events took place in Ukraine for the period 1953-1964 he was the de-Stalinization?">
+    <answer flag="1" text="plenum of the Central Committee of Communist Party fired as first secretary of the Central Committee of Ukraine Oleksandr Kirichenko and elected to this position M. Podgorny"/>
+    <answer flag="1" text="Commissioning of the first in the USSR welded bridge over the river on the project Paton"/>
+    <answer flag="0" text="in the journal &quot;Motherland&quot; were published novel Honchar &quot;Cathedral&quot;"/>
+    <answer flag="0" text="opened in Kyiv Culture Palace &quot;Ukraine&quot;"/>
+    <answer flag="1" text="from Siberian exile in Rome Metropolitan of the Ukrainian Greek Catholic Church Slipy"/>
+    <answer flag="1" text="Lviv was the trial of members of the Ukrainian Union of Workers and Peasants"/>
+    <answer flag="0" text="death UPA commander Shukhevych R. (T. Chuprynki)"/>
+  </question>
+  <question level="1" simple="True" text="What crop Nikita Khrushchev considered an important means of raising agricultural production, to carry the slogan 'Catch up and overtake America &quot;?">
+    <answer flag="0" text="wheat"/>
+    <answer flag="0" text="potatoes"/>
+    <answer flag="1" text="corn"/>
+    <answer flag="0" text="colza"/>
+  </question>
+  <question level="1" simple="True" text="Which is true?">
+    <answer flag="1" text="de-Stalinization of the opposition movement contributed to the Sixties"/>
+    <answer flag="0" text="Khrushchev's reforms in agriculture finally removed the problem of food supply USSR"/>
+    <answer flag="0" text="introduction of radnarhospiv USSR turned to the most developed republics of the USSR"/>
+    <answer flag="0" text="de-Stalinization led to the fall of the Communist Party authority in Ukraine"/>
+  </question>
+</testing>

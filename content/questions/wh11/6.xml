@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Європа після Другої світової війни. Територіальні зміни і політичний розвиток (1945-1956 рр.)">
+  <question level="1" simple="True" text="Коли відбулася Потсдамська конференція та хто приймав в ній участь?">
+    <answer flag="0" text="4-11 лютого 1945 р."/>
+    <answer flag="0" text="26 квітня - 26 червня 1945 р."/>
+    <answer flag="1" text="17 липня - 2 серпня 1945 р."/>
+    <answer flag="0" text="Рузвельт"/>
+    <answer flag="1" text="Трумен"/>
+    <answer flag="1" text="Черчілль"/>
+    <answer flag="1" text="Еттлі"/>
+    <answer flag="1" text="Сталін"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбувся обмін прикордонними територіями (ділянками по Зах. Бугу та Сяну) між СРСР та Польщею?">
+    <answer flag="0" text="17 липня 1945 р."/>
+    <answer flag="1" text="15 лютого 1951 р."/>
+    <answer flag="0" text="5 жовтня 1954 р."/>
+  </question>
+  <question level="1" simple="True" text="З якими країнами були  підписані мирні договори 10 лютого 1947 р. на конференції в Парижі?">
+    <answer flag="1" text="Італією"/>
+    <answer flag="0" text="Югославією"/>
+    <answer flag="1" text="Фінляндією"/>
+    <answer flag="1" text="Болгарією"/>
+    <answer flag="1" text="Угорщиною"/>
+    <answer flag="1" text="Румунією"/>
+    <answer flag="0" text="Грецією"/>
+  </question>
+  <question level="1" simple="True" text="Якими країнами, згідно угоди 9 квітня 1945 р., була окупована Юлійська Крайна?">
+    <answer flag="0" text="СРСР"/>
+    <answer flag="1" text="США та Великою Британією"/>
+    <answer flag="0" text="Францією"/>
+    <answer flag="1" text="Югославією"/>
+  </question>
+  <question level="1" simple="True" text="Які країни поділили Берлін на окупаційні зони (сектори) в повоєнні роки?">
+    <answer flag="1" text="США"/>
+    <answer flag="1" text="Велика Британія"/>
+    <answer flag="0" text="Польща"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="1" text="СРСР"/>
+  </question>
+  <question level="1" simple="True" text="В яких державах в повоєнні часи був встановлений комуністичні режими?">
+    <answer flag="1" text="Румунія"/>
+    <answer flag="1" text="Польща"/>
+    <answer flag="1" text="Албанія"/>
+    <answer flag="0" text="Італія"/>
+    <answer flag="0" text="Франція"/>
+  </question>
+  <question level="1" simple="True" text="В яких країнах у 1956 р. відбулися антикомуністичні повстання?">
+    <answer flag="0" text="Чехо-Словаччина"/>
+    <answer flag="1" text="Угорщина"/>
+    <answer flag="1" text="Польща"/>
+    <answer flag="0" text="Австрія"/>
+  </question>
+</testing>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украіна ў Крымскай вайне 1853-1856 гг Сялянская рух 1855-1860 гг">
+  <question level="1" simple="True" text="Войскі якіх краін прымалі ўдзел у Крымскай вайне?">
+    <answer flag="0" text="Расіі і Турцыі"/>
+    <answer flag="0" text="Расіі, Турцыі, Англіі"/>
+    <answer flag="0" text="Расіі, Турцыі, Англіі, Францыі"/>
+    <answer flag="1" text="Расіі, Турцыі, Англіі, Францыі і П'емонта"/>
+  </question>
+  <question level="1" simple="True" text="Якія падзеі мелі месца на ўкраінскіх землях падчас Крымскай вайны?">
+    <answer flag="0" text="Адмена прыгоннага"/>
+    <answer flag="0" text="Паўстанне ваенных пасяленцаў"/>
+    <answer flag="0" text="Ліквідацыя Задунайскі Сечы"/>
+    <answer flag="1" text="&quot;Кіеўская казацтва&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Дзе разгортваліся вырашальныя падзеі Крымскай вайны?">
+    <answer flag="0" text="У Валахіі і Малдовы"/>
+    <answer flag="1" text="Вакол Севастопаля"/>
+    <answer flag="0" text="На Каўказскім фронце"/>
+    <answer flag="0" text="На Чорным моры"/>
+  </question>
+  <question level="1" simple="True" text="Якія казачыя фарміравання прымалі ўдзел у абароне ўзбярэжжа ад Адэсы да Дуная падчас Крымскай вайны?">
+    <answer flag="1" text="Дунайскай казачае войска"/>
+    <answer flag="0" text="Азоўскае казацкае войска"/>
+    <answer flag="0" text="Чарнаморскае казачае войска"/>
+    <answer flag="0" text="Бугскім казачае войска"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце храналагічныя рамкі Крымскай вайны">
+    <answer flag="0" text="1853-1855 гг"/>
+    <answer flag="0" text="1855-1860 гг"/>
+    <answer flag="0" text="1854-1855 гг"/>
+    <answer flag="1" text="1853-1856 гг"/>
+  </question>
+  <question level="1" simple="True" text="Якіх тэрытарыяльныя страты панесла Расея ў выніку Крымскай вайны?">
+    <answer flag="1" text="Частка Паўднёвай Бесарабіі"/>
+    <answer flag="0" text="Крымскі паўвостраў"/>
+    <answer flag="0" text="Чарнаморскае ўзбярэжжа паміж Дунаем і Паўднёвым Бугам"/>
+    <answer flag="0" text="Крым і Паўднёвую Бесарабіі"/>
+  </question>
+</testing>

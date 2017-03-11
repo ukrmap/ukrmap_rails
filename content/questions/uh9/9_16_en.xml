@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Resettlement and Ukrainian emigration in the second half of XIX - early XX century.">
+  <question level="1" simple="True" text="What has caused massive labor emigration Ukrainian late nineteenth century.?">
+    <answer flag="1" text="Agrarian overpopulation Ukrainian lands"/>
+    <answer flag="0" text="Striving to Russian and Austrian governments to get rid of the Ukrainian population"/>
+    <answer flag="0" text="Undeveloped urban life in the Ukrainian lands"/>
+    <answer flag="0" text="Ageless desire for new adventures and discoveries"/>
+  </question>
+  <question level="1" simple="True" text="What were the name of the earth, mastered Ukrainian in the Far East?">
+    <answer flag="1" text="Green wedge"/>
+    <answer flag="0" text="Gray wedge"/>
+    <answer flag="0" text="Saskatchewan"/>
+    <answer flag="0" text="Kuban"/>
+  </question>
+  <question level="1" simple="True" text="To which of these countries Ukrainian settlers came first?">
+    <answer flag="0" text="Canada"/>
+    <answer flag="0" text="U.S."/>
+    <answer flag="1" text="Brazil"/>
+    <answer flag="0" text="Argentina"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries the Ukrainian community at the beginning of the twentieth century. was the largest?">
+    <answer flag="0" text="Canada"/>
+    <answer flag="1" text="U.S."/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="0" text="Argentina"/>
+  </question>
+  <question level="1" simple="True" text="From which regions of Ukraine prevailed in labor emigration to the West?">
+    <answer flag="1" text="Galicia, Transcarpathia, Bukovina, Volyn"/>
+    <answer flag="0" text="Podolia, Kiev region"/>
+    <answer flag="0" text="Steppe areas"/>
+    <answer flag="0" text="Basin, Sloboda, Dnieper"/>
+  </question>
+  <question level="1" simple="True" text="What year is the beginning of Ukrainian labor migration?">
+    <answer flag="0" text="1850"/>
+    <answer flag="0" text="1860"/>
+    <answer flag="1" text="1870"/>
+    <answer flag="0" text="1880"/>
+  </question>
+</testing>

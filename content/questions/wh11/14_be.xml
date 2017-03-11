@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Каўказа ў канцы XX ст.">
+  <question level="1" simple="True" text="У якім годзе адбыліся пагромы армян у Азербайджане?">
+    <answer flag="1" text="1988"/>
+    <answer flag="0" text="1990"/>
+    <answer flag="0" text="1999"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылася Грузіна-Асяцінскі вайна?">
+    <answer flag="1" text="1990-1992 гг"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="0" text="1992-1993 гг"/>
+  </question>
+  <question level="1" simple="True" text="Якія падзеі адбываліся ў 1992 г.?">
+    <answer flag="0" text="Ваххабитских паўстанне ў Дагестане"/>
+    <answer flag="1" text="Асяціна-інгушскі канфлікт"/>
+    <answer flag="0" text="Карабахскі канфлікт"/>
+    <answer flag="1" text="Узброеныя сутыкненні ў Тбілісі"/>
+  </question>
+  <question level="1" simple="True" text="Якія падзеі адбываліся ў 1992-1993 гг?">
+    <answer flag="0" text="Карабахскі канфлікт"/>
+    <answer flag="1" text="Грузіна-абхазская вайна"/>
+    <answer flag="1" text="Грамадзянская вайна ў Грузіі"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе адбыўся ваенны пераварот у Азербайджане?">
+    <answer flag="0" text="1990"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="1" text="1993"/>
+    <answer flag="0" text="1999"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбываліся чачэнскія (руска-ичкерийские) вайны?">
+    <answer flag="0" text="1992-1993 гг"/>
+    <answer flag="1" text="1994-1996 гг"/>
+    <answer flag="1" text="1999-2002 гг"/>
+  </question>
+</testing>

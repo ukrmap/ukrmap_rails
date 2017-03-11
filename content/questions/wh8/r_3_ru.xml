@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Освободительное движение в Нидерландах">
+  <question level="1" simple="True" text="Крупнейшим по численности населения городом Нидерландов в XVI в. был:">
+    <answer flag="1" text="Антверпен"/>
+    <answer flag="0" text="Амстердам"/>
+    <answer flag="0" text="Гаарлем"/>
+    <answer flag="0" text="Брюссель"/>
+  </question>
+  <question level="1" simple="True" text="В каком году в Нидерландах вспыхнуло восстание иконоборцев?">
+    <answer flag="0" text="1656"/>
+    <answer flag="1" text="1566"/>
+    <answer flag="0" text="1567"/>
+    <answer flag="0" text="1568"/>
+  </question>
+  <question level="1" simple="True" text="При правлении которого испанского короля начался освободительное движение в Нидерландах?">
+    <answer flag="0" text="Карла I"/>
+    <answer flag="0" text="Генриха III"/>
+    <answer flag="1" text="Филиппа II"/>
+    <answer flag="0" text="Сигизмунда III"/>
+  </question>
+  <question level="1" simple="True" text="Оппозицию испанским властям в годы освободительной борьбы в Нидерландах возглавлял:">
+    <answer flag="0" text="герцог Альба"/>
+    <answer flag="0" text="граф Лестер"/>
+    <answer flag="1" text="Вильгельм Оранский"/>
+    <answer flag="0" text="Мориц Оранский"/>
+  </question>
+  <question level="1" simple="True" text="Какое событие стало толчком к восстанию против испанцев на севере Нидерландов?">
+    <answer flag="0" text="восстание иконоборцев"/>
+    <answer flag="0" text="осада испанцами города Лейдена"/>
+    <answer flag="1" text="захват морскими гезамы города Бриль"/>
+    <answer flag="0" text="осада испанцами города Гаарлема"/>
+  </question>
+  <question level="1" simple="True" text="Чьей победой завершилась осада города Лейдена?">
+    <answer flag="0" text="испанцев"/>
+    <answer flag="1" text="голландцев"/>
+  </question>
+  <question level="1" simple="True" text="Кто ввел в Нидерландах 10-процентный налог с продаж всех товаров?">
+    <answer flag="0" text="Маргарита Пармская"/>
+    <answer flag="1" text="герцог Альба"/>
+    <answer flag="0" text="Вильгельм Оранский"/>
+    <answer flag="0" text="Мориц Оранский"/>
+  </question>
+  <question level="1" simple="True" text="Какое событие произошло раньше?">
+    <answer flag="1" text="заключения Аррасской унии"/>
+    <answer flag="0" text="заключения Утрехтской унии"/>
+  </question>
+  <question level="1" simple="True" text="Какая из названных провинций вошла в Аррасской унии?">
+    <answer flag="1" text="Артуа"/>
+    <answer flag="0" text="Зеландия"/>
+    <answer flag="0" text="Утрехт"/>
+    <answer flag="0" text="Фрисландия"/>
+  </question>
+  <question level="1" simple="True" text="Кого избрали штатгальтером Соединенных провинций Нидерландов после гибели Вильгельма Оранского?">
+    <answer flag="1" text="Морица Оранского"/>
+    <answer flag="0" text="Маргариту Пармскую"/>
+    <answer flag="0" text="Генриха Наваррского"/>
+    <answer flag="0" text="герцога Гиза"/>
+  </question>
+  <question level="1" simple="True" text="Когда Испания окончательно признала независимость Соединенных провинций Нидерландов?">
+    <answer flag="0" text="1579"/>
+    <answer flag="0" text="1584"/>
+    <answer flag="0" text="1609"/>
+    <answer flag="1" text="1648"/>
+  </question>
+  <question level="1" simple="True" text="Город Голландской республики стало новым центром мировой торговли в XVII века?">
+    <answer flag="0" text="Антверпен"/>
+    <answer flag="1" text="Амстердам"/>
+    <answer flag="0" text="Лейден"/>
+    <answer flag="0" text="Гаарлем"/>
+  </question>
+</testing>

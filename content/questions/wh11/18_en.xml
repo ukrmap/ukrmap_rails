@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Africa">
+  <question level="1" simple="True" text="Which country was the colonial name of French Sudan?">
+    <answer flag="0" text="Sudan"/>
+    <answer flag="1" text="Mali"/>
+    <answer flag="0" text="Tanzania"/>
+    <answer flag="0" text="Namibia"/>
+    <answer flag="0" text="Zambia"/>
+  </question>
+  <question level="1" simple="True" text="When it was formed Organization of African Unity (OAU)?">
+    <answer flag="1" text="May 1963?"/>
+    <answer flag="0" text="May 1964?"/>
+    <answer flag="0" text="May 1967?"/>
+    <answer flag="0" text="May 1969?"/>
+  </question>
+  <question level="1" simple="True" text="When countries and between which the military conflict was &quot;Sandy War?">
+    <answer flag="1" text="1963-1964 biennium"/>
+    <answer flag="0" text="From 1975-1976"/>
+    <answer flag="0" text="1977-1983 biennium"/>
+    <answer flag="0" text="Somalia and Ethiopia"/>
+    <answer flag="0" text="Libya and Chad"/>
+    <answer flag="1" text="Morocco and Algeria"/>
+  </question>
+  <question level="1" simple="True" text="In what year and country of the OAU Assembly adopted a resolution on the inviolability of the borders of African states?">
+    <answer flag="0" text="1963"/>
+    <answer flag="1" text="1964"/>
+    <answer flag="0" text="1965"/>
+    <answer flag="0" text="1967"/>
+    <answer flag="0" text="Ethiopia"/>
+    <answer flag="1" text="Egypt"/>
+    <answer flag="0" text="Algeria"/>
+  </question>
+  <question level="1" simple="True" text="In which country was the overthrow of the monarchy in 1974?">
+    <answer flag="0" text="Libya"/>
+    <answer flag="0" text="Sudan"/>
+    <answer flag="1" text="Ethiopia"/>
+    <answer flag="0" text="Egypt"/>
+  </question>
+  <question level="1" simple="True" text="In what year and where was established the African Union?">
+    <answer flag="0" text="1963"/>
+    <answer flag="0" text="1986"/>
+    <answer flag="1" text="2002"/>
+    <answer flag="1" text="Durban"/>
+    <answer flag="0" text="Cape Town"/>
+    <answer flag="0" text="Pretoria"/>
+  </question>
+</testing>

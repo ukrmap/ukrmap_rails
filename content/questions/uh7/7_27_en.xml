@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Cultural life in the second half of XIV - the first half of XVI century.">
+  <question level="1" simple="True" text="Formation which usnopoetychnyh genres happened in XIV-XV centuries.?">
+    <answer flag="0" text="Freckles, Christmas carols, songs long"/>
+    <answer flag="1" text="Historical songs, ballads and doom"/>
+  </question>
+  <question level="1" simple="True" text="What are the peculiarities of Ukrainian dumas?">
+    <answer flag="1" text="These works napivprospivuvalys-napivpromovlyalysya in suppovodi bandupy, Kobza lipy or traveling singers"/>
+    <answer flag="0" text="These works were performed in the choir accompanied by triple Music"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure referred to in the oldest surviving records of the Ukrainian historical songs, ballads - &quot;Danube, Danube smuten techesh why?&quot;?">
+    <answer flag="1" text="About Moldavian master Stephen III"/>
+    <answer flag="0" text="About Ukrainian prince Ostrozky"/>
+  </question>
+  <question level="1" simple="True" text="Why teach children in churches and monasteries in the XV - first half of XVI century.?">
+    <answer flag="1" text="Bible Church Slavonic, the beginning of arithmetic, prayers, singing"/>
+    <answer flag="0" text="Philosophy and Medicine"/>
+  </question>
+  <question level="1" simple="True" text="Where, when and by whom the book was first published in Church Slavonic language, which had been popular in Ukraine?">
+    <answer flag="1" text="In Krakow, 1491, Shvaypoltom Fiolem"/>
+    <answer flag="0" text="In Rome, in 1483, George Drogobich"/>
+  </question>
+  <question level="1" simple="True" text="Where in the Ukrainian territory was most masonry built castles and fortresses?">
+    <answer flag="0" text="In the Dnieper and the Left"/>
+    <answer flag="1" text="In Podolia and Volhynia"/>
+  </question>
+  <question level="1" simple="True" text="Which city had the most powerful Volyn locks?">
+    <answer flag="1" text="Luck, Ostrog"/>
+    <answer flag="0" text="Khotin, Mukachevo"/>
+  </question>
+  <question level="1" simple="True" text="What kind of defensive structures considered nayneprystupnishoyu skirts of the fortresses?">
+    <answer flag="1" text="Fortress in the heater on the river canyon"/>
+    <answer flag="0" text="Khotin fortress on the Dniester"/>
+  </question>
+  <question level="1" simple="True" text="Which genres of contemporary art actively developed during XV - the first half of XVI century.?">
+    <answer flag="1" text="Iconography"/>
+    <answer flag="0" text="Portrait, historic and battle-piece"/>
+  </question>
+  <question level="1" simple="True" text="What famous memorial created at the end of the XIV century., Decorated with 300 miniatures?">
+    <answer flag="1" text="Kyiv Psalter"/>
+    <answer flag="0" text="Ostromyrov Gospel"/>
+  </question>
+  <question level="1" simple="True" text="Who is Yuriy managed?">
+    <answer flag="1" text="Ukrainian scientist XV., The first among Ukrainian author whose work has been published"/>
+    <answer flag="0" text="Ukrainian pioneer"/>
+  </question>
+  <question level="1" simple="True" text="How-called wall of partition that separates the altar - the main place in the temple, the central parts - space, where there are believers?">
+    <answer flag="0" text="Chapel"/>
+    <answer flag="1" text="Iconostasis"/>
+    <answer flag="0" text="Belfry"/>
+  </question>
+</testing>

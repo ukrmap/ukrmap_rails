@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Цэнтральнай і Усходняй Еўропы">
+  <question text="Незалежнасць Польскай рэспублікі была абвешчаная ў">
+    <answer flag="0" text="1917"/>
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+  </question>
+  <question text="Тытулам &quot;правадыр дзяржавы&quot; карыстаўся">
+    <answer flag="1" text="Ю. Пілсудскі"/>
+    <answer flag="0" text="І. Мосцицький"/>
+    <answer flag="0" text="Э. Рыдз-Смиглы"/>
+  </question>
+  <question text="Пасляваенныя мяжы Польшчы былі канчаткова вызначаны ў">
+    <answer flag="0" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1923"/>
+  </question>
+  <question text="Польшча ў 20-30-я гады мела тэрытарыяльныя праблемы з">
+    <answer flag="1" text="усімі сваімі суседзямі"/>
+    <answer flag="0" text="Літвой і СССР"/>
+    <answer flag="0" text="Літвой і ЧСР"/>
+  </question>
+  <question text="Калі ў Польшчы быў усталяваны рэжым &quot;санацыі&quot;?">
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="1" text="1926"/>
+  </question>
+  <question text="Чэхаславакія была ўтворана ў">
+    <answer flag="1" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+  </question>
+  <question text="Першым прэзідэнтам ЧСР стаў">
+    <answer flag="0" text="К. Генляйн"/>
+    <answer flag="0" text="Э. Бенеша"/>
+    <answer flag="1" text="Т. Масарык"/>
+    <answer flag="0" text="Г. Гаха"/>
+  </question>
+  <question text="Чэхаславакія была раздзеленая суседнімі дзяржавамі і канчаткова спыніла сваё існаванне ў">
+    <answer flag="0" text="1938"/>
+    <answer flag="1" text="1939"/>
+    <answer flag="0" text="1941"/>
+  </question>
+  <question text="Калі ў Венгрыі існавала савецкая ўлада?">
+    <answer flag="0" text="У 1918 г."/>
+    <answer flag="1" text="У 1919 г."/>
+    <answer flag="0" text="У 1920 г."/>
+  </question>
+  <question text="Якая з прадстаўленых краін панесла найбольшыя тэрытарыяльныя страты па выніках Першай сусветнай вайны?">
+    <answer flag="1" text="Венгрыя"/>
+    <answer flag="0" text="Балгарыя"/>
+    <answer flag="0" text="Румынія"/>
+  </question>
+  <question text="Дыктатарскі рэжым генерала І. Антонеску дзейнічаў">
+    <answer flag="1" text="у Румыніі"/>
+    <answer flag="0" text="у Балгарыі"/>
+    <answer flag="0" text="у Венгрыі"/>
+  </question>
+  <question text="Владайське паўстання 1918 г. адбылося ў">
+    <answer flag="0" text="Румыніі"/>
+    <answer flag="1" text="Балгарыі"/>
+    <answer flag="0" text="Венгрыі"/>
+    <answer flag="0" text="Югаславіі"/>
+  </question>
+</testing>

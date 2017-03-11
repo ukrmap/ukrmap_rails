@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Великие географические открытия">
+  <question level="1" simple="True" text="Какие континенты были известны цивилизованным народам Старого света накануне Великих географических открытий?">
+    <answer flag="1" text="Азия"/>
+    <answer flag="1" text="Африка"/>
+    <answer flag="0" text="Северная Америка"/>
+    <answer flag="0" text="Южная Америка"/>
+    <answer flag="1" text="Европа"/>
+    <answer flag="0" text="Антарктида"/>
+    <answer flag="0" text="Австралия"/>
+  </question>
+  <question level="1" simple="True" text="Кто во второй половине XVII в. контролировал торговые пути через Египет и Красное море?">
+    <answer flag="0" text="Индийцы"/>
+    <answer flag="1" text="Турки-османы"/>
+    <answer flag="0" text="Испанцы"/>
+    <answer flag="0" text="Итальянцы"/>
+    <answer flag="0" text="Португальцы"/>
+    <answer flag="0" text="Арабы"/>
+  </question>
+  <question level="1" simple="True" text="Какой океан в конце XV в. португальские мореплаватели называли &quot;Морем мрака?">
+    <answer flag="0" text="Тихий"/>
+    <answer flag="1" text="Атлантический"/>
+    <answer flag="0" text="Индийский"/>
+    <answer flag="0" text="Северный Ледовитый"/>
+  </question>
+  <question level="1" simple="True" text="Какое название имел сухопутный торговый путь от Китая до Средиземного моря?">
+    <answer flag="0" text="&quot;Путь ароматов&quot;"/>
+    <answer flag="0" text="&quot;Путь из варяг в греки&quot;"/>
+    <answer flag="1" text="&quot;Великий шелковый путь&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Кто возглавлял экспедицию, которая зимой 1488 впервые обогнула западное побережье Африки, достигла ее южного края и вышла в Индийский океан?">
+    <answer flag="1" text="Бартоломео Диаш"/>
+    <answer flag="0" text="Васко да Гама"/>
+    <answer flag="0" text="Христофор Колумб"/>
+    <answer flag="0" text="Фернан Магеллан"/>
+  </question>
+  <question level="1" simple="True" text="Кем был открыт морской путь в Индию вдоль западного побережья Африки?">
+    <answer flag="0" text="Бартоломео Диашем"/>
+    <answer flag="1" text="Васко да Гама"/>
+    <answer flag="0" text="Христофором Колумбом"/>
+    <answer flag="0" text="Фернаном Магелланом"/>
+  </question>
+  <question level="1" simple="True" text="Укажите дату, которая считается днем открытия Америки Х. Колумбом:">
+    <answer flag="0" text="1 сентября"/>
+    <answer flag="1" text="12 октября"/>
+    <answer flag="0" text="14 декабря"/>
+    <answer flag="0" text="5 июля"/>
+    <answer flag="0" text="1485"/>
+    <answer flag="1" text="1492"/>
+    <answer flag="0" text="1494"/>
+    <answer flag="0" text="1498"/>
+  </question>
+  <question level="1" simple="True" text="Кто и когда возглавлял первое кругосветное путешествие?">
+    <answer flag="0" text="Васко да Гама"/>
+    <answer flag="0" text="Христофор Колумб"/>
+    <answer flag="1" text="Фернан Магеллан"/>
+    <answer flag="0" text="Фрэнсис Дрейк"/>
+    <answer flag="0" text="1488-1489 гг"/>
+    <answer flag="0" text="1491-1492 гг"/>
+    <answer flag="0" text="1497-1499 гг"/>
+    <answer flag="1" text="1519-1521 гг"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Пиратам Ее Королевского Величества&quot; называли:">
+    <answer flag="0" text="Христофора Колумба"/>
+    <answer flag="0" text="Фернана Магеллана"/>
+    <answer flag="1" text="Френсиса Дрейка"/>
+    <answer flag="0" text="Уолтера Рейли"/>
+  </question>
+  <question level="1" simple="True" text="Какое название имела первая английская колония в Северной Америке основана Уолтером Рейли?">
+    <answer flag="0" text="Луизиана"/>
+    <answer flag="1" text="Виргиния"/>
+    <answer flag="0" text="Новая Англия"/>
+    <answer flag="0" text="Канада"/>
+  </question>
+  <question level="1" simple="True" text="Когда был разгромлен &quot;Непобедимую армаду&quot;?">
+    <answer flag="0" text="1499"/>
+    <answer flag="0" text="1521"/>
+    <answer flag="0" text="1560"/>
+    <answer flag="1" text="1588"/>
+  </question>
+  <question level="1" simple="True" text="На карте какого континента вследствие Великих географических открытий появились названия &quot;Перечный Берег&quot;, &quot;Золотой Берег&quot;, &quot;Невольничий Берег&quot;?">
+    <answer flag="1" text="Африка"/>
+    <answer flag="0" text="Австралия"/>
+    <answer flag="0" text="Северная Америка"/>
+    <answer flag="0" text="Южная Америка"/>
+  </question>
+</testing>

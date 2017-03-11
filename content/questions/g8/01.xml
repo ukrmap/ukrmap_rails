@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗАГАЛЬНИЙ РОЗДІЛ">
+  <question level="1" simple="True" text="Які з відповідей є правильними?">
+    <answer flag="0" text="Україна знаходиться у ІІІ годинному поясі"/>
+    <answer flag="1" text="Відлік часу ведеться від 180-го меридіана"/>
+    <answer flag="1" text="Полудень в Україні настає на дві години раніше, ніж у нульовому (західноєвропейському) годинному поясі"/>
+  </question>
+  <question level="1" simple="True" text="Яка з відповідей є неправильною?">
+    <answer flag="0" text="За видом геометричної поверхні картографічні проекції поділяються на циліндричні, азимутальні, конічні"/>
+    <answer flag="0" text=" До тематичних карт належать фізико-географічні й економічні карти"/>
+    <answer flag="1" text="Використовуючи рівновеликі проекції, можна створювати карти без спотворень"/>
+  </question>
+  <question level="1" simple="True" text="Уперше назва &quot;Україна&quot; згадується:">
+    <answer flag="1" text="в Київському Літописі (1187 р.)"/>
+    <answer flag="0" text="в книзі Г. Боплана &quot;Опис України&quot; (1650 р.)"/>
+    <answer flag="0" text="в описах візантійських та арабських мандрівників X ст."/>
+  </question>
+  <question level="1" simple="True" text="Автором &quot;Опису України&quot; є:">
+    <answer flag="0" text="Гіппократ"/>
+    <answer flag="1" text="Г. Боплан"/>
+    <answer flag="0" text="Геродот"/>
+  </question>
+  <question level="1" simple="True" text="Загальновизнаний географічний центр України знаходиться:">
+    <answer flag="0" text=" у м. Світловодськ Кіровоградської області"/>
+    <answer flag="1" text="поблизу с. Мар'янівка Черкаської області"/>
+    <answer flag="0" text="біля м.Чигирин Черкаської області"/>
+  </question>
+  <question level="1" simple="True" text="Крайньою південною точкою України є:">
+    <answer flag="1" text="м. Сарич"/>
+    <answer flag="0" text="м. Тарханкут"/>
+    <answer flag="0" text="м. Меганом"/>
+  </question>
+  <question level="1" simple="True" text="Які з тверджень є правильними?">
+    <answer flag="1" text="Площа території України становить 603,7 тис. кв. км"/>
+    <answer flag="1" text="Україна межує з сімома країнами"/>
+    <answer flag="0" text="Територія України омивається водами трьох морів"/>
+  </question>
+  <question level="1" simple="True" text="З якими із перелічених країн не межує Україна?">
+    <answer flag="0" text="Зі Словаччиною"/>
+    <answer flag="1" text="З Болгарією"/>
+    <answer flag="1" text=" Зі Словенією"/>
+  </question>
+  <question level="1" simple="True" text="У якому році завершилось формування території України?">
+    <answer flag="0" text="У 1922"/>
+    <answer flag="1" text="У 1954"/>
+    <answer flag="0" text="У 1991"/>
+  </question>
+  <question level="1" simple="True" text=" Які території були включені до складу України в повоєнні часи?">
+    <answer flag="0" text="Північна Буковина"/>
+    <answer flag="0" text="Південна Бессарабія"/>
+    <answer flag="1" text="Закарпаття"/>
+    <answer flag="1" text="Кримська область"/>
+  </question>
+  <question level="1" simple="True" text="Членом яких із перелічених організацій є Україна?">
+    <answer flag="0" text="ОПЕК"/>
+    <answer flag="1" text="Співдружність незалежних держав"/>
+    <answer flag="1" text="Міжнародний валютний фонд"/>
+    <answer flag="1" text="Світова організація торгівлі"/>
+  </question>
+  <question level="1" simple="True" text="Яка з відповідей є правильною?">
+    <answer flag="0" text=" Вибори до Верховної Ради України проводяться раз у п'ять років"/>
+    <answer flag="0" text="Вибори Президента України відбуваються раз у чотири роки"/>
+    <answer flag="1" text="Парламент України складається з 450 депутатів"/>
+  </question>
+  <question level="1" simple="False" text="Встановість відповідність між географічними об‘єктами та їх характеристиками">
+    <answer text="с.Мар‘янівка – "/>
+    <answer text="Мис Сарич –"/>
+    <answer text="с.Грем‘яч"/>
+    <answer text="с.Червона Зірка"/>
+    <variant>
+      <item flag="2" text="крайня південна точка України"/>
+      <item flag="1" text="географічний центр України"/>
+      <item flag="3" text="крайня північна точка України"/>
+      <item flag="0" text="крайня західна точка України"/>
+      <item flag="4" text="крайня східна точка України"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між роками та подіями в історії України">
+    <answer text="1919 р. –"/>
+    <answer text="1991 р. –"/>
+    <answer text="1954 р. –"/>
+    <answer text="1187 р. –"/>
+    <variant>
+      <item flag="2" text="проголошення незалежності "/>
+      <item flag="3" text="завершення формування території "/>
+      <item flag="1" text="проголошення Акта злуки"/>
+      <item flag="0" text="прийняття декларації про державний суверенітет"/>
+      <item flag="4" text="вперше вжито назву &quot;Україна&quot;"/>
+    </variant>
+  </question>
+</testing>

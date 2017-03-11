@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Сярэднявечнае грамадства">
+  <question text="Жыллё феадалаў.">
+    <answer flag="1" text="замак"/>
+    <answer flag="0" text="хата"/>
+    <answer flag="0" text="палац"/>
+  </question>
+  <question text="Кароткае выслоўе, тлумачыць змест герба рыцара?">
+    <answer flag="0" text="прапановы"/>
+    <answer flag="1" text="дэвіз"/>
+    <answer flag="0" text="афарызм"/>
+  </question>
+  <question text="Выплата грашыма або прадуктамі селяніна феадалу называецца">
+    <answer flag="0" text="паншчыну"/>
+    <answer flag="1" text="чынш"/>
+    <answer flag="0" text="баналитетов"/>
+    <answer flag="0" text="падаць"/>
+  </question>
+  <question text="Тып гаспадаркі, пры якім прадукты працы вырабляюцца толькі для задавальнення запатрабаванняў гаспадара, а не для продажу">
+    <answer flag="1" text="натуральная гаспадарка"/>
+    <answer flag="0" text="рынкавае гаспадарку."/>
+  </question>
+  <question text="Як называецца галоўная вежа замка?">
+    <answer flag="1" text="донжон"/>
+    <answer flag="0" text="ратуша"/>
+    <answer flag="0" text="званіца"/>
+  </question>
+  <question text="Якая галоўная прычына сялянскіх паўстаньняў у сярэднія стагоддзі?">
+    <answer flag="0" text="Эксплуатацыя сялян феадаламі"/>
+    <answer flag="1" text="парушэнне феадалаў устояных традыцый"/>
+    <answer flag="0" text="імкненне сялян пазбавіцца ад любой залежнасці"/>
+    <answer flag="0" text="нявырашанасць зямельных пытанняў паміж селянінам і феадалаў"/>
+    <answer flag="0" text="зайздрасць сялян на жыццё феадалаў"/>
+  </question>
+  <question text="Які пласт сярэднявечнага грамадства быў самым шматлікім?">
+    <answer flag="0" text="свабодныя сяляне"/>
+    <answer flag="1" text="залежныя сяляне"/>
+  </question>
+  <question text="Якія стану сярэднявечнага грамадства плацілі царкоўную дзесяціну?">
+    <answer flag="0" text="феадалы"/>
+    <answer flag="0" text="сьвятары"/>
+    <answer flag="1" text="сяляне"/>
+  </question>
+  <question text="У Сярэднія стагоддзі рыцарам называлі">
+    <answer flag="0" text="ўзброенага селяніна"/>
+    <answer flag="1" text="коннага воіна"/>
+    <answer flag="0" text="магутнага феадала"/>
+  </question>
+  <question text="Што павінен вырабіць чаляднік для таго каб стаць майстрам-рамеснікам?">
+    <answer flag="1" text="шэдэўр"/>
+    <answer flag="0" text="герб свайго цэха"/>
+    <answer flag="0" text="падарункі ўсім майстрам цэха"/>
+  </question>
+  <question text="Аб'яднання памочнікаў называлася">
+    <answer flag="0" text="цэх"/>
+    <answer flag="0" text="гільдыя"/>
+    <answer flag="1" text="брацтва."/>
+  </question>
+  <question text="Як называецца права гарадоў на самакіраванне?">
+    <answer flag="1" text="Магдэбургскае права"/>
+    <answer flag="0" text="рымскае права"/>
+    <answer flag="0" text="незалежнасць"/>
+  </question>
+</testing>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Выбары ва Ўкраіне 1991-2007 гг">
+  <question level="1" simple="True" text="У якім годзе праводзіўся Усеўкраінскі рэфэрэндум аб адносінах да Акту абвяшчэння незалежнасці Украіны?">
+    <answer flag="1" text="1991"/>
+    <answer flag="0" text="1996"/>
+    <answer flag="0" text="2001"/>
+    <answer flag="0" text="2004"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбыліся выбары Прэзідэнта Украіны, у якіх перамогу атрымаў Леанід Краўчук?">
+    <answer flag="1" text="1 сьнежня 1991 г"/>
+    <answer flag="0" text="26 чэрвеня 1994 г."/>
+    <answer flag="0" text="31 кастрычнік 1999"/>
+    <answer flag="0" text="14 лістапада 1999"/>
+  </question>
+  <question level="1" simple="True" text="Хто перамог у выбарах Прэзідэнта, якія праводзіліся адначасова з рэфэрэндумам па Акту абвяшчэння незалежнасці Украіны?">
+    <answer flag="0" text="Вячаслаў Чарнавіл"/>
+    <answer flag="1" text="Леанід Краўчук"/>
+    <answer flag="0" text="Леанід Кучма"/>
+    <answer flag="0" text="Віктар Юшчанка"/>
+  </question>
+  <question level="1" simple="True" text="Якія дзве падзеі 1991 года супалі?">
+    <answer flag="0" text="Выбары ў Вярхоўную Раду"/>
+    <answer flag="1" text="Выбары Прэзідэнта Украіны"/>
+    <answer flag="1" text="Ўсеўкраінскі рэферэндум"/>
+    <answer flag="0" text="Пазачарговыя выбары ў Вярхоўную Раду"/>
+  </question>
+  <question level="1" simple="True" text="Якія палітычныя сілы на выбарах у Вярхоўную Раду ў 2002 г. ўступілі практычна аднолькавы працэнт галасоў выбаршчыкаў?">
+    <answer flag="0" text="&quot;Наша Украіна&quot;"/>
+    <answer flag="0" text="КПУ"/>
+    <answer flag="1" text="&quot;Блок Юліі Цімашэнкі&quot;"/>
+    <answer flag="0" text="&quot;За адзіную Ўкраіну&quot;"/>
+    <answer flag="1" text="СПУ"/>
+  </question>
+  <question level="1" simple="True" text="У падтрымку якога кандыдата ў Прэзідэнты ў 2004 годзе адбылася шматтысячная акцыя, якая ўвайшла ў гісторыю як Аранжавая рэвалюцыя?">
+    <answer flag="0" text="Вячаслава Чорновола"/>
+    <answer flag="0" text="Леаніда Краўчука"/>
+    <answer flag="0" text="Леаніда Кучмы"/>
+    <answer flag="1" text="Віктара Юшчанка"/>
+    <answer flag="0" text="Віктара Януковіча"/>
+  </question>
+  <question level="1" simple="True" text="У якой вобласці на пазачарговых выбарах у Вярхоўную Раду ў 2007 г. блок &quot;Наша Украіна - Народная самаабарона&quot; заняла першае месца па колькасці галасоў?">
+    <answer flag="0" text="Кіеўскай"/>
+    <answer flag="0" text="Сумскай"/>
+    <answer flag="1" text="Закарпацкай"/>
+    <answer flag="0" text="Львоўскай"/>
+    <answer flag="0" text="Данецкай"/>
+  </question>
+</testing>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Гаспадарка ўкраінскіх зямель у першай палове XIX ст.">
+  <question level="1" simple="True" text="Які рэгіён Украіны ў канцы ХVIII - першай палове XIX ст. інтэнсіўна асвойваўся украінскі і перасяленцамі іншых нацыянальнасцяў?">
+    <answer flag="0" text="Карпаты і Прыкарпацьці"/>
+    <answer flag="0" text="Правабярэжжа"/>
+    <answer flag="0" text="Левабярэжжа"/>
+    <answer flag="1" text="Поўдзень"/>
+  </question>
+  <question level="1" simple="True" text="Якая форма гандлёвых перавозак дамінавала ў Украіну ў пачатку XIX стагоддзя?">
+    <answer flag="1" text="Чумачество"/>
+    <answer flag="0" text="Рачны транспарт"/>
+    <answer flag="0" text="Марскі транспарт"/>
+    <answer flag="0" text="Чыгуначны транспарт"/>
+  </question>
+  <question level="1" simple="True" text="Горад на ўкраінскіх землях мела статус порта-франка?">
+    <answer flag="0" text="Херсон"/>
+    <answer flag="0" text="Нікалаеў"/>
+    <answer flag="1" text="Адэса"/>
+    <answer flag="0" text="Севастопаль"/>
+  </question>
+  <question level="1" simple="True" text="Якое вызначэнне раскрывае зьмест панятку &quot;прамысловы пераварот (рэвалюцыя)&quot;?">
+    <answer flag="0" text="Адносіны, якія складваюцца паміж таваравытворцамі і пакупнікамі з нагоды куплі-продажу, арганічная сувязь паміж вытворчасцю і спажываннем"/>
+    <answer flag="0" text="Працэс пераходу ад рамеснай да мануфактурнай вытворчасці"/>
+    <answer flag="0" text="Форма вытворчасці, пры якой прадукцыя вырабляецца для продажу"/>
+    <answer flag="1" text="Працэс па развіццю прадукцыйных сіл грамадства, пры якім адбываецца пераход ад мануфактурнай да машыны вытворчасці"/>
+  </question>
+  <question level="1" simple="True" text="Калі ў Прыдняпроўскай Украіне пачалася прамысловая рэвалюцыя?">
+    <answer flag="0" text="у 20-я гг XIX ст."/>
+    <answer flag="1" text="ў 30-я гг XIX ст."/>
+    <answer flag="0" text="ў 40-я гг XIX ст."/>
+    <answer flag="0" text="ў 50-я гг XIX ст."/>
+  </question>
+  <question level="1" simple="True" text="Што было асновай гаспадарчага развіцця ўкраінскіх зямель у першай палове XIX стагоддзя?">
+    <answer flag="1" text="Земляробства"/>
+    <answer flag="0" text="Гандаль"/>
+    <answer flag="0" text="Рамяство"/>
+    <answer flag="0" text="Прамысловасць"/>
+  </question>
+</testing>

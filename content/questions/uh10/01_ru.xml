@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украинские земли в годы Первой мировой войны">
+  <question text="Когда началась Первая мировая война?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="В каком году война коснулась украинских земель?">
+    <answer flag="0" text="1913"/>
+    <answer flag="1" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="0" text="1916"/>
+  </question>
+  <question text="&quot;Брусиловский прорыв&quot; был осуществлен российскими войсками в">
+    <answer flag="0" text="1913"/>
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1915"/>
+    <answer flag="1" text="1916"/>
+  </question>
+  <question text="К какой армии было мобилизовано более украинский?">
+    <answer flag="1" text="к российской"/>
+    <answer flag="0" text="в австро-венгерскую"/>
+    <answer flag="0" text="к немецкой"/>
+    <answer flag="0" text="к украинским"/>
+  </question>
+  <question text="В составе какой армии был создан легион Украинских сечевых стрельцов?">
+    <answer flag="0" text="российской"/>
+    <answer flag="1" text="австро-венгерской"/>
+    <answer flag="0" text="немецкой"/>
+    <answer flag="0" text="французской"/>
+  </question>
+  <question text="Преимущественно каким было отношение украинского населения Галичины к поступлению на территорию края российских войск?">
+    <answer flag="1" text="положительным"/>
+    <answer flag="0" text="отрицательным"/>
+    <answer flag="0" text="нейтральным"/>
+  </question>
+  <question text="Как называлась административная единица создана русскими после захвата Западной Украине 1914?">
+    <answer flag="0" text="Галицкая губерния"/>
+    <answer flag="1" text="Галицко-Буковинский генерал-губернаторство"/>
+    <answer flag="0" text="&quot;Королевство Русское&quot;"/>
+    <answer flag="0" text="Коронный край"/>
+    <answer flag="0" text="Галицко-Волынское губернаторство"/>
+  </question>
+  <question text="Главная Украинская Рада (ГУР) призвала украинскую поддержать в войне:">
+    <answer flag="0" text="Россию"/>
+    <answer flag="1" text="Австро-Венгрию"/>
+    <answer flag="0" text="Англию и Францию"/>
+    <answer flag="0" text="Германию"/>
+  </question>
+  <question text="Лидерами СВУ были:">
+    <answer flag="0" text="С. Петлюра, В. Винниченко"/>
+    <answer flag="1" text="Д. Донцов, В. Дорошенко, М. Меленевский"/>
+    <answer flag="0" text="М. Грушевский, Е. Чикаленко"/>
+    <answer flag="0" text="А. Шептицкий, В. Донцов"/>
+  </question>
+  <question text="Какие фронты российской армии проходили украинскими землями?">
+    <answer flag="0" text="Западный"/>
+    <answer flag="1" text="Юго-Западный"/>
+    <answer flag="0" text="Южный"/>
+    <answer flag="0" text="Северный"/>
+    <answer flag="1" text="Румынский"/>
+  </question>
+  <question text="Автором статьи &quot;Война и украинским&quot; был:">
+    <answer flag="0" text="М. Грушевский"/>
+    <answer flag="1" text="С. Петлюра"/>
+    <answer flag="0" text="В. Винниченко"/>
+    <answer flag="0" text="Н. Михновский"/>
+    <answer flag="0" text="А. Шептицкий"/>
+  </question>
+  <question text="Последний наступление русской армии в Галиции в годы Первой мировой войны произошел">
+    <answer flag="0" text="летом 1916 г."/>
+    <answer flag="1" text="летом 1917 г."/>
+    <answer flag="0" text="летом 1918 г."/>
+    <answer flag="0" text="осенью 1918 г."/>
+  </question>
+</testing>

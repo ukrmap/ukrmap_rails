@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Адмена прыгоннага права ў ўкраінскіх землях">
+  <question level="1" simple="True" text="Якая з рэформаў 1860-1870-х гг не распаўсюджвалася на губерні Правабярэжнай Украіне?">
+    <answer flag="0" text="судовая рэформа"/>
+    <answer flag="0" text="гарадская рэформа"/>
+    <answer flag="1" text="земская рэформа"/>
+    <answer flag="0" text="ваенная рэформа"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе на ўкраінскіх землях у межах Расійскай імперыі было адменена прыгоннае?">
+    <answer flag="1" text="1861"/>
+    <answer flag="0" text="1863"/>
+    <answer flag="0" text="1864"/>
+    <answer flag="0" text="1865"/>
+  </question>
+  <question level="1" simple="True" text="Колькі ваенных акругаў былі створаны на ўкраінскіх землях згодна з ваеннай рэформай?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="На якіх умовах сяляне, вызваленыя ад прыгоннага, атрымлівалі зямлю пасля ажыццяўлення аграрнай рэформы?">
+    <answer flag="1" text="выплачвалі выкупных плацяжы"/>
+    <answer flag="0" text="атрымлівалі ў доўгатэрміновую арэнду"/>
+    <answer flag="0" text="станавіліся дзяржаўнай уласнасцю"/>
+    <answer flag="0" text="адпрацоўвалі Памер выкупных плацяжоў"/>
+  </question>
+  <question level="1" simple="True" text="У якіх губернях, пасля правядзення рэформы, сяляне страцілі частка зямель, якімі яны раней карысталіся?">
+    <answer flag="1" text="Левабярэжнай Украіне"/>
+    <answer flag="0" text="Поўдня Украіны"/>
+    <answer flag="0" text="Правабярэжнай Украіне"/>
+    <answer flag="0" text="Слабадской Украіне"/>
+  </question>
+  <question level="1" simple="True" text="Якая з рэформаў 60-70-х гг была самай дэмакратычнай?">
+    <answer flag="1" text="Судовая"/>
+    <answer flag="0" text="Ваенная"/>
+    <answer flag="0" text="Аграрная"/>
+    <answer flag="0" text="Земская"/>
+  </question>
+  <question level="1" simple="True" text="Ці правільнае меркаванне? Пасля аграрных рэформ 1860-х гадоў: 1) большасць зямель ва Украіне належалі памешчыкам, 2) сялянства вымушана было выплачваць выкупных плацяжы.">
+    <answer flag="1" text="Абодва варыянты правільныя"/>
+    <answer flag="0" text="Толькі 1 варыянт правільны"/>
+    <answer flag="0" text="Толькі 2 варыянт правільны"/>
+    <answer flag="0" text="Абодва варыянту няправільныя"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея дало штуршок да адмены прыгоннага права на ўкраінскіх землях у межах Расійскай імперыі?">
+    <answer flag="0" text="&quot;Маніфест ...&quot; рускага цара"/>
+    <answer flag="0" text="Рэвалюцыйныя падзеі ў Аўстрыйскай імперыі"/>
+    <answer flag="1" text="Параза Расіі ў Крымскай вайне"/>
+    <answer flag="0" text="Ператварэння Аўстрыйскай імперыі ў Аўстра-Венгрыю"/>
+  </question>
+</testing>

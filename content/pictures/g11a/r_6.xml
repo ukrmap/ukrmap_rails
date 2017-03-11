@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="КРАЇНИ ЄВРОПИ ">
+  <Item Caption="Прапор Європейського Союзу" FileName="01"/>
+  <Item Caption="Центр Единбурґа. Шотландія, Велика Британія " FileName="02"/>
+  <Item Caption="Ферма з розведення лосося. Ісландія" FileName="03"/>
+  <Item Caption="Нідерланди–країна тюльпанів" FileName="04"/>
+  <Item Caption="На святі виробників сиру. Нідерланди" FileName="05"/>
+  <Item Caption="На тваринницькій фермі. Ірландія" FileName="06"/>
+  <Item Caption="Продукцією французького виноробства (започаткованого ще за часів римського панування) є відомі на весь світ вина" FileName="07"/>
+  <Item Caption="Португальські рибалки" FileName="08"/>
+  <Item Caption="Париж – туристична Мекка світу" FileName="09"/>
+  <Item Caption="В центрі Венеції. Італія " FileName="10"/>
+  <Item Caption="Пізанська вежа. Італія" FileName="11"/>
+  <Item Caption="На Мальті" FileName="12"/>
+  <Item Caption="Стоунхендж – найвідоміша доісторична (вік, приблизно, п’ять тисячоліть) пам’ятка Великої Британії" FileName="13"/>
+  <Item Caption="В європейських містах все більшої ваги набувають екологічно чисті види транспорту" FileName="14"/>
+  <Item Caption="Головне приміщення компанії BMW. Мюнхен, Німеччина" FileName="15"/>
+  <Item Caption="Автомобіль PORSCHE" FileName="16"/>
+  <Item Caption="Швидкісний потяг. Німеччина" FileName="17"/>
+  <Item Caption="На одній із площ Кракова – старовинної столиці Польщі" FileName="18"/>
+  <Item Caption="Кінний патруль поліції на вулицях Лондона" FileName="19"/>
+  <Item Caption="В центрі Вільнюса" FileName="20"/>
+  <Item Caption="Вестмінстерський міст у Лондоні " FileName="21"/>
+  <Item Caption="Підприємство з виробництва літаків «Ил». Росія" FileName="22"/>
+  <Item Caption="Канали Санкт – Петербурґа" FileName="23"/>
+  <Item Caption="Морський порт. Росія" FileName="24"/>
+  <Item Caption="Корабель-музей. Росія" FileName="25"/>
+  <Item Caption="Словаччина" FileName="26"/>
+</List>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hydrosphere">
+  <question level="1" simple="True" text="What part of the earth's surface is occupied by the oceans?">
+    <answer flag="0" text="17%"/>
+    <answer flag="0" text="40%"/>
+    <answer flag="0" text="60%"/>
+    <answer flag="1" text="71%"/>
+  </question>
+  <question level="1" simple="True" text="Which flow called warm?">
+    <answer flag="0" text="One in which water is warmer than 0 ° C"/>
+    <answer flag="0" text="One in which water is warmer than 20 ° C"/>
+    <answer flag="1" text="One in which water is warmer in the surrounding ocean water"/>
+    <answer flag="0" text="One in which water never freezes"/>
+  </question>
+  <question level="1" simple="True" text="Which units measure the salinity of ocean water?">
+    <answer flag="0" text="In grams per cubic liter"/>
+    <answer flag="0" text="Percentage"/>
+    <answer flag="1" text="In ppm"/>
+    <answer flag="0" text="In kilograms per meter cubic"/>
+  </question>
+  <question level="1" simple="True" text="What is the name of the river valley, constantly occupied by water flow?">
+    <answer flag="0" text="Flood bed"/>
+    <answer flag="1" text="Channel"/>
+    <answer flag="0" text="Terrace"/>
+    <answer flag="0" text="Estuary"/>
+  </question>
+  <question level="1" simple="True" text="Factors depend on which tidal height?">
+    <answer flag="1" text="Soundings"/>
+    <answer flag="1" text="From the relative positions of Earth, Moon and Sun"/>
+    <answer flag="0" text="From the time of year"/>
+    <answer flag="1" text="From coast line"/>
+  </question>
+  <question level="1" simple="True" text="What is the maximum height of tides in the ocean?">
+    <answer flag="1" text="Over 18 m"/>
+    <answer flag="0" text="About 10 m"/>
+    <answer flag="0" text="Not more than 0,5 m"/>
+  </question>
+  <question level="1" simple="True" text="How does the temperature of the ocean to a depth of 700 meters?">
+    <answer flag="0" text="Virtually unchanged"/>
+    <answer flag="1" text="Constantly decreasing"/>
+    <answer flag="0" text="Continuing increases"/>
+    <answer flag="0" text="Reduction and increase in temperature alternating"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="1" text="Near the bottom of the ocean water is colder, because there does not penetrate the sun's rays"/>
+    <answer flag="0" text="At great depths all the water has the same temperature, close to 0 ° C"/>
+    <answer flag="0" text="Near the bottom of the water getting warmer, because the substance is heated with warm mantle that overlies relatively shallow"/>
+  </question>
+  <question level="1" simple="True" text="What are the aggregate states characteristic of water?">
+    <answer flag="1" text="Gaseous"/>
+    <answer flag="1" text="Liquid"/>
+    <answer flag="0" text="Viscous"/>
+    <answer flag="1" text="Solid"/>
+  </question>
+  <question level="1" simple="True" text="As the process called when water evaporating over the ocean, and transferred on dry land after the loss of surface flows into the ocean on the surface or underground prosochuyuchys?">
+    <answer flag="0" text="Flow"/>
+    <answer flag="0" text="Seepage"/>
+    <answer flag="0" text="A small circuit"/>
+    <answer flag="1" text="Great circulation"/>
+  </question>
+  <question level="1" simple="True" text="As called solid performances over the rocks down the river in separate blocks of stone?">
+    <answer flag="0" text="Waterfall"/>
+    <answer flag="0" text="Fall"/>
+    <answer flag="0" text="Dam"/>
+    <answer flag="1" text="Thresholds"/>
+  </question>
+  <question level="1" simple="True" text="How are called lakes, caused by soluble rocks?">
+    <answer flag="0" text="Lake-old women"/>
+    <answer flag="0" text="Ice"/>
+    <answer flag="1" text="Karst"/>
+    <answer flag="0" text="Lymanne"/>
+  </question>
+</testing>

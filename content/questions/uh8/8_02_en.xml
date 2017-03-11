@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The emergence of the Ukrainian Cossacks and Zaporizhzhya Sich">
+  <question level="1" simple="True" text="When and where was first founded Sich?">
+    <answer flag="0" text="At the end of XV century. by Fr. Bazavluk"/>
+    <answer flag="1" text="In the middle of the XVI century. by Fr. Khortytsya Low"/>
+  </question>
+  <question level="1" simple="True" text="What happened before?">
+    <answer flag="0" text="The first record of the Ukrainian Cossacks in written sources"/>
+    <answer flag="1" text="Adoption of the Crimean Khanate vassal dependence on the Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="What does the word &quot;Cossack&quot; in translation from Oriental languages?">
+    <answer flag="1" text="Free-armed man"/>
+    <answer flag="0" text="A man armed with scythe"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure referred to? Ukrainian hetman-Prince, which is built on the Dnieper castle-fortress, which it called the first known Sich">
+    <answer flag="0" text="About Basil-Ostrozky"/>
+    <answer flag="1" text="About Dmitry Vishnevetskogo"/>
+  </question>
+  <question level="1" simple="True" text="What castles protected the border on the verge of XV-XVI centuries. Ukrainian frontier north of the Fields?">
+    <answer flag="1" text="Kahn, Cherkassy, Zvenyhorodka, Vinnitsa, Bratslav, Chmelnik Bar"/>
+    <answer flag="0" text="Kahn, Cherkassy, Zvenyhorodka, Vinnitsa, Perekop, Ochakov Bakhchisaraj"/>
+  </question>
+  <question level="1" simple="True" text="Where there were Sich fortress - the capital of Cossacks?">
+    <answer flag="1" text="In the lower reaches of the Dnieper by the Dnieper Rapids"/>
+    <answer flag="0" text="Before the Dnieper rapids, in the provinces of Kiev and Bratslav"/>
+  </question>
+  <question level="1" simple="True" text="How to call headquarters Zaporizhzhya Sich, which were run by the administration, finance, court?">
+    <answer flag="0" text="Bold troops Zaporizhzhya"/>
+    <answer flag="1" text="Cage"/>
+  </question>
+  <question level="1" simple="True" text="What characters, attributes belonging to a Cossack jewelry?">
+    <answer flag="1" text="Banners, mace, horsetail, pirnach, stamp"/>
+    <answer flag="0" text="Banners, mace, royal crown"/>
+  </question>
+  <question level="1" simple="True" text="Who belonged to the highest authority in the Cossack republic?">
+    <answer flag="0" text="Ataman"/>
+    <answer flag="1" text="Cossack council"/>
+  </question>
+  <question level="1" simple="True" text="What is &quot;Cossacks zymivny?">
+    <answer flag="1" text="Cossack village where Kozak worked freely on their own land"/>
+    <answer flag="0" text="Diversified economy that relied on forced labor Cossack"/>
+  </question>
+  <question level="1" simple="True" text="What is defined as the main cause in the development of Ukrainian Cossacks?">
+    <answer flag="1" text="Need for protection of Ukrainian lands from the Turkish conquests Nogai Tatar-host"/>
+    <answer flag="0" text="Ukrainian aspirations to own trade routes from Asia to Europe"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences of economic activities of Ukrainian Cossacks?">
+    <answer flag="1" text="Population and development fields, thus expanding the living space of Ukrainian peacefully"/>
+    <answer flag="0" text="Spread across Ukrainian land-filvarkovo panschynnoyi management system"/>
+  </question>
+</testing>

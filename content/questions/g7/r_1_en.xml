@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="GENERAL LAWS OF NATURE EARTH">
+  <question level="1" simple="True" text="What continent lies at the same time in all four hemispheres?">
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="Antarctica"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="In which direction the Earth rotates on its axis?">
+    <answer flag="1" text="From west to east"/>
+    <answer flag="0" text="From east to west"/>
+    <answer flag="0" text="From north to south"/>
+  </question>
+  <question level="1" simple="True" text="Orbit at which the Earth moves around the Sun, has the form:">
+    <answer flag="0" text="range"/>
+    <answer flag="1" text="ellipse"/>
+  </question>
+  <question level="1" simple="True" text="The main effects of Earth's rotation around its axis is:">
+    <answer flag="0" text="changing seasons and the seasonal rhythm of natural phenomena"/>
+    <answer flag="1" text="Day &amp; night and the daily rhythm of natural phenomena"/>
+    <answer flag="0" text="change in the midday sun altitude"/>
+  </question>
+  <question level="1" simple="True" text="Local time is called the Greenwich meridian:">
+    <answer flag="1" text="World"/>
+    <answer flag="0" text="sunny"/>
+    <answer flag="0" text="waist"/>
+  </question>
+  <question level="1" simple="True" text="The duration of the polar day and night with the approach to the poles:">
+    <answer flag="1" text="increases"/>
+    <answer flag="0" text="decreases"/>
+    <answer flag="0" text="does not change"/>
+  </question>
+  <question level="1" simple="True" text="In places where the earth's crust has the greatest weight?">
+    <answer flag="1" text="In the mountains"/>
+    <answer flag="0" text="In the plains"/>
+    <answer flag="0" text="Under the ocean"/>
+  </question>
+  <question level="1" simple="True" text="Change of seasons and the seasonal rhythm of natural processes are the main consequences:">
+    <answer flag="1" text="of the Earth around the Sun"/>
+    <answer flag="0" text="Earth's rotation around its axis"/>
+  </question>
+  <question level="1" simple="True" text="What are the layers of Earth's crust is under mainlands?">
+    <answer flag="0" text="Oceanic and continental"/>
+    <answer flag="1" text="Sedimentary, granite, basalt"/>
+    <answer flag="0" text="Granite, basalt"/>
+  </question>
+  <question level="1" simple="True" text="To planetary forms of relief include:">
+    <answer flag="1" text="continents and ocean trenches"/>
+    <answer flag="0" text="shelf platforms, lithospheric plates"/>
+  </question>
+  <question level="1" simple="True" text="Zonal distribution of solar radiation on Earth depends on:">
+    <answer flag="0" text="kulyastosti Earth"/>
+    <answer flag="1" text="angle of incidence of sunlight"/>
+    <answer flag="0" text="underlying surface"/>
+  </question>
+  <question level="1" simple="True" text="The top layer of loose rocks, transformed by common action components and non-living wildlife, call:">
+    <answer flag="0" text="Earth's crust"/>
+    <answer flag="0" text="humus"/>
+    <answer flag="1" text="soil"/>
+  </question>
+</testing>

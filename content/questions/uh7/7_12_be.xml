@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Кіеўскае дзяржава пры кіраванні Яраслава Мудрага">
+  <question level="1" simple="True" text="На якія гады прыпадае княжання Яраслава Мудрага ў Кіеве?">
+    <answer flag="0" text="На 978-1015 гг"/>
+    <answer flag="1" text="На 1019-1054 гг"/>
+  </question>
+  <question level="1" simple="True" text="Чым скончылася бітва на рацэ Альт ў 1018 г.?">
+    <answer flag="0" text="Перамогай Святаполка і ягоны цесця польскага караля і вяртаннем Яраслава у Ноўгарад"/>
+    <answer flag="1" text="Перамогай Яраслава і зацвярджэння яго на кіеўскім стале"/>
+  </question>
+  <question level="1" simple="True" text="Які храм - велічную пабудову Кіева - быў пабудаваны за Яраслава?">
+    <answer flag="0" text="Дзесяціну царква"/>
+    <answer flag="1" text="Сафійскі сабор"/>
+  </question>
+  <question level="1" simple="True" text="З падзей згадваецца ў летапісе раней?">
+    <answer flag="1" text="Будаўніцтва Софиевского сабора"/>
+    <answer flag="0" text="Падстава Пячэрскага манастыра"/>
+  </question>
+  <question level="1" simple="True" text="Каго з дзеячаў Кіеўскай Русі першых кананізавала руская царква?">
+    <answer flag="0" text="Першых князёў-хрысціян Аскольда і Вольгу"/>
+    <answer flag="1" text="Загінулых братоў Яраслава - князёў Барыса і Глеба"/>
+  </question>
+  <question level="1" simple="True" text="Паходаў якога з качавых народаў быў пакладзены канец ў часы князя Яраслава?">
+    <answer flag="1" text="Печанегаў"/>
+    <answer flag="0" text="Хазары"/>
+  </question>
+  <question level="1" simple="True" text="Хто такі Іларыён?">
+    <answer flag="0" text="Летапісец, аўтар &quot;Аповесці мінулых гадоў&quot;"/>
+    <answer flag="1" text="Першы з русічаў мітрапаліт Кіеўскай Русі"/>
+  </question>
+  <question level="1" simple="True" text="У колькі разоў, па сведчанні археалагічных раскопак, павялічылася плошча &quot;горада Яраслава&quot; у параўнанні з &quot;горадам Уладзіміра&quot;?">
+    <answer flag="0" text="У 3 разы"/>
+    <answer flag="1" text="У 7 раз"/>
+  </question>
+  <question level="1" simple="True" text="Што такое &quot;Праўда Яраслава&quot;?">
+    <answer flag="1" text="Першы пісаны зборнік рускіх законаў"/>
+    <answer flag="0" text="Кніга, прывезеная Ганнай Яраслаўна ў Францыю, на якой пасля прысягалі французскія каралі"/>
+  </question>
+  <question level="1" simple="True" text="Чаму Яраслава Мудрага называюць цесцем Еўропы?">
+    <answer flag="0" text="Бо князь ажыццяўляў культурна-адукацыйныя мерапрыемствы па еўрапейскім узоры"/>
+    <answer flag="1" text="Таму ў знешняй палітыцы князя прыкметнае месца займалі междинастических шлюбы"/>
+  </question>
+  <question level="1" simple="True" text="З якімі дзяржавамі Кіеўская Русь часоў Яраслава Мудрага падтрымлівала цесныя адносіны?">
+    <answer flag="1" text="З Візантыяй, Германіяй і Польшчай"/>
+    <answer flag="0" text="З Італіяй, Грузіяй, Літвой"/>
+  </question>
+  <question level="1" simple="True" text="Як завуць комплекс збудаванняў, прызначаных для пражывання манахаў, адпраўлення імі рэлігійных абрадаў, навучання і г.д.?">
+    <answer flag="0" text="Сабор"/>
+    <answer flag="1" text="Манастыр"/>
+    <answer flag="0" text="Царква"/>
+  </question>
+</testing>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Образование национальных государств в Италии и Германии. Центральная Европа в 1860-1870-е годы">
+  <question level="1" simple="True" text="Входила Австрия в состав Германского союза, образованного по решению Венского конгресса?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ни"/>
+  </question>
+  <question level="1" simple="True" text="В результате войны Пруссии и Австрии против Дании в 1864 г. Дания потеряла">
+    <answer flag="1" text="Шлезвиг и Гольштейн"/>
+    <answer flag="0" text="Мекленбург и Ольденбург"/>
+  </question>
+  <question level="1" simple="True" text="Во время прусско-австрийской войны 1866 г. прусская армия нанесла австрийцам сокрушительное поражение в решающей битве при">
+    <answer flag="0" text="Праги"/>
+    <answer flag="0" text="Брно"/>
+    <answer flag="1" text="Садовой"/>
+    <answer flag="0" text="Пильзен"/>
+  </question>
+  <question level="1" simple="True" text="Когда был создан Северогерманский союз?">
+    <answer flag="1" text="1866"/>
+    <answer flag="0" text="1867"/>
+    <answer flag="0" text="1868"/>
+    <answer flag="0" text="1869"/>
+  </question>
+  <question level="1" simple="True" text="Франко-прусская война 1870-1871 гг началась тем, что">
+    <answer flag="1" text="Франция объявила войну Пруссии"/>
+    <answer flag="0" text="Пруссия объявила войну Франции"/>
+  </question>
+  <question level="1" simple="True" text="Где было провозглашено создание Германской империи в 1871 г.?">
+    <answer flag="0" text="Берлин"/>
+    <answer flag="0" text="Франкфурт"/>
+    <answer flag="0" text="Париж"/>
+    <answer flag="1" text="Версаль"/>
+  </question>
+  <question level="1" simple="True" text="В процессе объединения Италии главной объединительной силой стала сильнейшая в политическом и экономическом отношении северо-западная итальянская государство">
+    <answer flag="0" text="Королевство Обеих Сицилий"/>
+    <answer flag="0" text="Ломбардо-Венецианское королевство"/>
+    <answer flag="1" text="Сардинское королевство"/>
+    <answer flag="0" text="Папское государство"/>
+  </question>
+  <question level="1" simple="True" text="В 1859 г. в Сардинского королевства был присоединен">
+    <answer flag="1" text="Ломбардию"/>
+    <answer flag="0" text="Венецию"/>
+    <answer flag="0" text="Парму"/>
+    <answer flag="0" text="Модену"/>
+  </question>
+  <question level="1" simple="True" text="В 1860 г. Франции было передано">
+    <answer flag="0" text="Саввой"/>
+    <answer flag="0" text="Ниццу"/>
+    <answer flag="1" text="Пьемонт"/>
+    <answer flag="0" text="Модену"/>
+  </question>
+  <question level="1" simple="True" text="Поход красной тысячу Дж. Гарибальди был направлен на помощь повстанцам на острове">
+    <answer flag="0" text="Капрера"/>
+    <answer flag="0" text="Корсика"/>
+    <answer flag="1" text="Сицилия"/>
+    <answer flag="0" text="Сардиния"/>
+  </question>
+  <question level="1" simple="True" text="Когда было образовано Итальянское королевство?">
+    <answer flag="1" text="1861"/>
+    <answer flag="0" text="1867"/>
+    <answer flag="0" text="1870"/>
+    <answer flag="0" text="1871"/>
+  </question>
+  <question level="1" simple="True" text="Столицей итальянского королевства в 1865-1870 гг был город">
+    <answer flag="0" text="Турин"/>
+    <answer flag="1" text="Флоренция"/>
+    <answer flag="0" text="Рим"/>
+    <answer flag="0" text="Неаполь"/>
+  </question>
+</testing>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The development of Ukrainian culture in the second half of XIX - early XX century.">
+  <question level="1" simple="True" text="How many universities were active in the Ukrainian lands in the early twentieth century.?">
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+  </question>
+  <question level="1" simple="True" text="Who is the founder of Ukrainian classical music?">
+    <answer flag="0" text="S. Gulak-Artemovsky"/>
+    <answer flag="1" text="Lysenko"/>
+    <answer flag="0" text="M. Verbitsky"/>
+    <answer flag="0" text="Arkas M."/>
+  </question>
+  <question level="1" simple="True" text="When the Western states was introduced compulsory primary education?">
+    <answer flag="0" text="1861"/>
+    <answer flag="1" text="1869"/>
+    <answer flag="0" text="1875"/>
+    <answer flag="0" text="1888"/>
+  </question>
+  <question level="1" simple="True" text="Which of these universities in the Ukrainian lands was in the second half of the nineteenth century.?">
+    <answer flag="0" text="Kharkov"/>
+    <answer flag="0" text="Kyiv"/>
+    <answer flag="0" text="Lviv"/>
+    <answer flag="1" text="Chernivtsi"/>
+  </question>
+  <question level="1" simple="True" text="In what year was established Scientific Society. Shevchenko (Shevchenko Scientific Society), which played the role of the Academy of Sciences of Ukraine?">
+    <answer flag="0" text="1873"/>
+    <answer flag="0" text="1882"/>
+    <answer flag="1" text="1892"/>
+    <answer flag="0" text="1895"/>
+  </question>
+  <question level="1" simple="True" text="In that period was flourishing Ukrainian theater?">
+    <answer flag="0" text="1870-ies"/>
+    <answer flag="1" text="1880-"/>
+    <answer flag="0" text="1890"/>
+    <answer flag="0" text="early twentieth century."/>
+  </question>
+  <question level="1" simple="True" text="Who wrote the opera Natalka Poltavka, &quot;Taras Bulba&quot; Aeneid &quot;,&quot; Koza-?">
+    <answer flag="0" text="I.Hulak-Artemovsky"/>
+    <answer flag="1" text="Lysenko"/>
+    <answer flag="0" text="M. Leontovich"/>
+    <answer flag="0" text="M. Verbitsky"/>
+  </question>
+</testing>

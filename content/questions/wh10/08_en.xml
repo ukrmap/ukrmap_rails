@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="International Relations">
+  <question text="The main foreign policy objective of the USSR in 1933-1938 he was">
+    <answer flag="0" text="forcing the world revolution"/>
+    <answer flag="0" text="expansion of Soviet influence in the Far East"/>
+    <answer flag="1" text="a system of collective security"/>
+  </question>
+  <question text="Which of these events took place earlier">
+    <answer flag="0" text="adoption of the U.S. law on neutrality"/>
+    <answer flag="0" text="Soviet entry into the League of Nations"/>
+    <answer flag="1" text="establishment in China puppet state Manchukuo-Go"/>
+    <answer flag="0" text="withdrawal of Germany from the League of Nations"/>
+  </question>
+  <question text="Anti-Comintern Pact was concluded in">
+    <answer flag="0" text="1935"/>
+    <answer flag="0" text="1936"/>
+    <answer flag="1" text="1937"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="Which of the following events are the result of the policy of appeasement?">
+    <answer flag="1" text="Anshlyus Austria"/>
+    <answer flag="0" text="The formation of the axis of the Berlin-Rome-Tokyo"/>
+    <answer flag="0" text="The beginning of the war against Japan, China"/>
+    <answer flag="0" text="Sino-Soviet military conflict near Lake Hassan"/>
+  </question>
+  <question text="The policy states that accelerated beginning of the Second World War?">
+    <answer flag="0" text="England, France"/>
+    <answer flag="1" text="Germany, Italy, Japan"/>
+    <answer flag="0" text="China, U.S."/>
+  </question>
+  <question text="Before the Second World War the U.S. pursued a policy">
+    <answer flag="1" text="Neutrality"/>
+    <answer flag="0" text="active foreign expansion"/>
+    <answer flag="0" text="support of the aggressors"/>
+  </question>
+  <question text="Where were the Anglo-Franco-Soviet negotiations military missions in the summer of 1939?">
+    <answer flag="1" text="Moscow"/>
+    <answer flag="0" text="London"/>
+    <answer flag="0" text="Paris"/>
+    <answer flag="0" text="Leningrad"/>
+  </question>
+  <question text="When was the Soviet-Japanese conflict in the river Halhin-Chief?">
+    <answer flag="0" text="1929"/>
+    <answer flag="0" text="1938"/>
+    <answer flag="1" text="1939"/>
+  </question>
+  <question text="Which countries were the Balkan Entente?">
+    <answer flag="1" text="Yugoslavia, Romania, Turkey, Greece"/>
+    <answer flag="0" text="Yugoslavia, Hungary, Bulgaria, Romania, Greece"/>
+    <answer flag="0" text="Yugoslavia, Romania, Greece"/>
+  </question>
+  <question text="What year Italy carried out aggression against Ethiopia?">
+    <answer flag="1" text="1935"/>
+    <answer flag="0" text="1936"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="As called alliance between Germany and Italy?">
+    <answer flag="1" text="&quot;Steel Pact"/>
+    <answer flag="0" text="Molotov-Ribbentrop Pact"/>
+    <answer flag="0" text="Non-Aggression Pact"/>
+  </question>
+  <question text="What year German troops entered the demilitarized Rhine zone?">
+    <answer flag="0" text="1935"/>
+    <answer flag="1" text="1936"/>
+    <answer flag="0" text="1939"/>
+  </question>
+</testing>

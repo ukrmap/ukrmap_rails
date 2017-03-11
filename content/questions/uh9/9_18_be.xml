@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Развіццё ўкраінскай культуры ў другой палове XIX - пачатку ХХ ст.">
+  <question level="1" simple="True" text="Колькі універсітэтаў дзейнічала на ўкраінскіх землях у пачатку ХХ стагоддзя?">
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+  </question>
+  <question level="1" simple="True" text="Хто з'яўляецца заснавальнікам ўкраінскай класічнай музыкі?">
+    <answer flag="0" text="С. Гулак-Арцёмаўскі"/>
+    <answer flag="1" text="М. Лысенка"/>
+    <answer flag="0" text="М. Вярбіцкі"/>
+    <answer flag="0" text="Н. Аркас"/>
+  </question>
+  <question level="1" simple="True" text="Калі на заходнеўкраінскіх землях было ўведзена абавязковае пачатковае адукацыя?">
+    <answer flag="0" text="1861"/>
+    <answer flag="1" text="1869"/>
+    <answer flag="0" text="1875"/>
+    <answer flag="0" text="1888"/>
+  </question>
+  <question level="1" simple="True" text="Які з названых універсітэтаў на ўкраінскіх землях быў заснаваны ў другой палове XIX стагоддзя?">
+    <answer flag="0" text="Харкаўскі"/>
+    <answer flag="0" text="Кіеўскі"/>
+    <answer flag="0" text="Львоўскі"/>
+    <answer flag="1" text="Чарнавіцкай"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе было створана Навуковае таварыства ім. Т. Шаўчэнка (ношак), гуляе ролю Акадэміі Навук Украіны?">
+    <answer flag="0" text="1873"/>
+    <answer flag="0" text="1882"/>
+    <answer flag="1" text="1892"/>
+    <answer flag="0" text="1895"/>
+  </question>
+  <question level="1" simple="True" text="У якой перыяд адбыўся росквіт ўкраінскага тэатральнага мастацтва?">
+    <answer flag="0" text="1870-я гг"/>
+    <answer flag="1" text="1880-я гг"/>
+    <answer flag="0" text="1890-я гг"/>
+    <answer flag="0" text="пачатку ХХ ст."/>
+  </question>
+  <question level="1" simple="True" text="Хто напісаў оперы &quot;Наталка-Полтавка&quot;, &quot;Тарас Бульба&quot;, &quot;Энеіда&quot;, &quot;Каза-дереза&quot;?">
+    <answer flag="0" text="И.Гулак-Арцёмаўскі"/>
+    <answer flag="1" text="М. Лысенка"/>
+    <answer flag="0" text="М. Леантовіч"/>
+    <answer flag="0" text="М. Вярбіцкі"/>
+  </question>
+</testing>

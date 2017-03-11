@@ -1,0 +1,17 @@
+<% if @entry %>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    <img src="/blank.png" class="flag flag-<%= I18n.locale %>"/> <%= LANGUAGES[I18n.locale] %> <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu">
+    <% LANGUAGES.except(I18n.locale).each do |(locale, language)| %>
+    <li>
+      <a href="<%= entry_path(@entry, locale: locale) %>">
+        <img src="/blank.png" class="flag flag-<%= locale %>"/>
+        <%= language %>
+      </a>
+    </li>
+    <% end %>
+  </ul>
+</li>
+<% end %>

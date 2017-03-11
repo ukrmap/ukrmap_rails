@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украінскія землі ў складзе Аўстрыйскай і Расійскай імперый ў пачатку XIX ст. Адміністрацыйна-тэрытарыяльнае дзяленне ў 50-х гадах XIX ст.">
+  <question level="1" simple="True" text="Які рэгіён Украіны да пачатку XIX ст. быў найбольш населеным?">
+    <answer flag="1" text="Галічына"/>
+    <answer flag="0" text="Правабярэжжа"/>
+    <answer flag="0" text="Левабярэжжа"/>
+    <answer flag="0" text="Слобожанщина"/>
+  </question>
+  <question level="1" simple="True" text="Цэнтрам якой губерні ў пачатку XIX ст. быў Жытомір?">
+    <answer flag="0" text="Падольскай"/>
+    <answer flag="1" text="Валынскай"/>
+    <answer flag="0" text="Кіеўскай"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву атрымаў гісторыка-геаграфічны раён, які быў заселены Чарнаморскім казацкія войскам?">
+    <answer flag="0" text="Запорожье"/>
+    <answer flag="0" text="Новороссіі"/>
+    <answer flag="1" text="Кубань"/>
+    <answer flag="0" text="Таўрыя"/>
+  </question>
+  <question level="1" simple="True" text="Колькі губерняў існавала на ўкраінскіх землях у складзе Расійскай імперыі на сярэдзіну XIX стагоддзя?">
+    <answer flag="0" text="5"/>
+    <answer flag="0" text="6"/>
+    <answer flag="0" text="7"/>
+    <answer flag="1" text="9"/>
+  </question>
+  <question level="1" simple="True" text="Якія ўкраінскія землі ўваходзілі ў &quot;Каралеўства Галіцыі і Лодомерии&quot; ў складзе Аўстрыйскай імперыі да пачатку XIX стагоддзя?">
+    <answer flag="0" text="Усходняя Галіцыя"/>
+    <answer flag="1" text="Усходняя Галіцыя, Паўночная Букавіна"/>
+    <answer flag="0" text="Усходняя Галіцыя, Паўночная Букавіна, Закарпацце"/>
+    <answer flag="0" text="Усходняя Галіцыя, Паўночная Букавіна, Закарпацце, Валынь"/>
+  </question>
+  <question level="1" simple="True" text="Якія губерні былі ўтвораны на тэрыторыі былой Гетманщины ў 1802 г.?">
+    <answer flag="1" text="Чарнігаўская і Палтаўская;"/>
+    <answer flag="0" text="Маларасійскай і Кіеўская"/>
+    <answer flag="0" text="Слабадской-Украінскія і Маларасійскай"/>
+    <answer flag="0" text="Наварасійска і Маларасійскай"/>
+  </question>
+  <question level="1" simple="True" text="Які сацыяльны стан быў дамінуючым на ўкраінскіх землях у сярэдзіне XIX стагоддзя?">
+    <answer flag="0" text="духавенства"/>
+    <answer flag="0" text="памешчыкі, прамыслоўцы і прадпрымальнікі"/>
+    <answer flag="0" text="рабочыя"/>
+    <answer flag="1" text="сялянства"/>
+  </question>
+</testing>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПРЫРОДНЫЯ УМОВЫ І ПРЫРОДНЫЯ РЭСУРСЫ">
+  <question level="1" simple="True" text="Найстаражытнымі архейскими і протерозойскими пародамі складзеныя:">
+    <answer flag="0" text="Прычерноморскіх западзіну"/>
+    <answer flag="0" text="Варонежскі крышталічны шчыт"/>
+    <answer flag="1" text="Украінскі шчыт"/>
+    <answer flag="0" text="Валына-Падольскую Пліту"/>
+  </question>
+  <question level="1" simple="True" text="У якой з геалагічных перыядаў апошнія мора пакінулі тэрыторыю Ўкраіны?">
+    <answer flag="1" text="У неогене"/>
+    <answer flag="0" text="У юрэ"/>
+    <answer flag="0" text="У палеогене"/>
+  </question>
+  <question level="1" simple="True" text="Найвысокай вяршыняй Крыму з'яўляецца">
+    <answer flag="1" text="г. Раман-Кош"/>
+    <answer flag="0" text="г. Демерджи"/>
+    <answer flag="0" text="г. Ай-Петры"/>
+  </question>
+  <question level="1" simple="True" text="Якая вышыня Гаверла?">
+    <answer flag="0" text="1545 м"/>
+    <answer flag="1" text="2061 м"/>
+    <answer flag="0" text="1527 м"/>
+  </question>
+  <question level="1" simple="True" text="Які з адказаў з'яўляецца правільнай?">
+    <answer flag="0" text="Уся тэрыторыя Украіны размешчана ва ўмераным кліматычным поясе"/>
+    <answer flag="0" text="Кантынентальнага клімату Украіне расце з поўначы на поўдзень"/>
+    <answer flag="1" text="Найбуйнейшыя гадавыя сумы ападкаў у Украіне прыпадаюць на Карпаты"/>
+  </question>
+  <question level="1" simple="True" text="Колькі горных вяршыняў Украіне маюць вышыню больш за 2 000 метраў?">
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Асноўная маса ападкаў у Украіну выпадае ў цёплы перыяд года"/>
+    <answer flag="1" text="Украіна добра забяспечана воднымі рэсурсамі"/>
+    <answer flag="0" text="Паўднёвы бераг Крыму знаходзіцца ў межах субтрапічнага кліматычнага пояса"/>
+  </question>
+  <question level="1" simple="True" text="Якая з рэк Украіна не адносіцца да Азова-Чарнаморскага басейна?">
+    <answer flag="1" text="Заходні Буг"/>
+    <answer flag="0" text="Днестр"/>
+    <answer flag="0" text="Сойм"/>
+  </question>
+  <question level="1" simple="True" text="Якія з адказаў з'яўляюцца правільнымі?">
+    <answer flag="0" text="Найменшая салёнасць вады Чорнага мора назіраецца ў яго паўднёвай часткі"/>
+    <answer flag="0" text="Большасць жывых арганізмаў Чорнага мора жыве ў яго глыбінных пластах"/>
+    <answer flag="1" text="Максімальная глыбіня Азоўскага мора складае 15 м"/>
+    <answer flag="1" text="Большасць жывых арганізмаў Чорнага мора насяляюць на глыбінях да 200 м"/>
+  </question>
+  <question level="1" simple="True" text="Якія глебы распаўсюджаныя ў лесастэпавай і стэпавай зонах Украіны?">
+    <answer flag="1" text="Чарназёмы"/>
+    <answer flag="0" text="Дзярнова-падзолістыя"/>
+    <answer flag="0" text="Шэрыя лясныя"/>
+  </question>
+  <question level="1" simple="True" text="Да якой з пералічаных тэктанічных структур прымеркаваны радовішчы нафты і газу, паклады каменнага вугалю ва Ўкраіну?">
+    <answer flag="1" text="Дняпроўска-Данецкая западзіна"/>
+    <answer flag="0" text="Варонежскі крышталічны масіў"/>
+    <answer flag="0" text="Украінскі крышталічны шчыт"/>
+  </question>
+  <question level="1" simple="True" text="Вугальнымі басейнамі Украіне з'яўляюцца:">
+    <answer flag="0" text="Прычерноморскіх"/>
+    <answer flag="1" text="Данецкі"/>
+    <answer flag="1" text="Львоўска-Валынскі"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца адрыў і перамяшчэнне мас горных парод па схіле пад дзеяннем сілы цяжару?">
+    <answer flag="0" text="Плоскасцевай смыв"/>
+    <answer flag="0" text="Карстообразования"/>
+    <answer flag="1" text="Зрушэнне"/>
+  </question>
+  <question level="1" simple="True" text="У якой прыроднай зоне Украіне найвышэйшая сельскагаспадарчая засвоенасць земляў?">
+    <answer flag="1" text="У стэпавай"/>
+    <answer flag="0" text="У лясной"/>
+    <answer flag="0" text="У лесастэпавай"/>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж формай рэльефу і яе назвай">
+    <answer text="Словечанско-Оўруцкі -"/>
+    <answer text="Хоцінскай -"/>
+    <answer text="Кіеўскае -"/>
+    <answer text="Прычерноморскіх -"/>
+    <variant>
+      <item flag="2" text="ўзвышша"/>
+      <item flag="1" text="краж"/>
+      <item flag="4" text="нізіна"/>
+      <item flag="3" text="плато"/>
+      <item flag="0" text="раўніна"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж тэктанічнай структурай і яе назвай">
+    <answer text="Ўкраінскі -"/>
+    <answer text="Валына-Падольская -"/>
+    <answer text="Дняпроўска-Данецкая -"/>
+    <answer text="Варонежскі -"/>
+    <variant>
+      <item flag="4" text="крышталічны масіў"/>
+      <item flag="3" text="западзіна"/>
+      <item flag="2" text="пліта"/>
+      <item flag="1" text="шчыт"/>
+      <item flag="0" text="складчатой вобласцю"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж Гістарычнага асобамі і іх укладам у даследаванне Украіне">
+    <answer text="Клаўдзій Пталамей -"/>
+    <answer text="Г.Л. дэ Боплан -"/>
+    <answer text="В. Вярнадскі -"/>
+    <answer text="П. Чубинский"/>
+    <variant>
+      <item flag="0" text="аўтар &quot;Апісанні Украіны&quot;"/>
+      <item flag="2" text="аўтар &quot;Геаграфіі&quot;"/>
+      <item flag="4" text="этнограф, аўтар тэксту нацыянальнага гімна"/>
+      <item flag="3" text="заснавальнік і першы прэзідэнт АН Украіны"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж уласнымі назвамі і тлумачэннямі">
+    <answer text="Львоўска-Валынскі -"/>
+    <answer text="Дняпроўскі -"/>
+    <answer text="Керчанскі -"/>
+    <answer text="Никопольский -"/>
+    <variant>
+      <item flag="3" text="жалезарудныя басейн"/>
+      <item flag="1" text="каменнавугальны басе"/>
+      <item flag="2" text="вугальны басейн"/>
+      <item flag="4" text="марганцевой басейн"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж прыроднымі зонамі і пераважнымі тыпамі глебаў">
+    <answer text="Зона змешаных лясоў -"/>
+    <answer text="Стэпавая зона -"/>
+    <answer text="Лесастэпавая зона -"/>
+    <answer text="Украінскія Карпаты -"/>
+    <variant>
+      <item flag="3" text="чарназёмы тыповыя"/>
+      <item flag="1" text="дзярнова-падзолістыя"/>
+      <item flag="2" text="чарназёмы звычайныя"/>
+      <item flag="4" text="бурыя горна-лясныя"/>
+      <item flag="0" text="карычневыя горныя"/>
+    </variant>
+  </question>
+</testing>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in the Crimean War of 1853-1856, the peasants' movement 1855-1860 biennium">
+  <question level="1" simple="True" text="Host countries which participated in the Crimean War?">
+    <answer flag="0" text="Russia and Turkey"/>
+    <answer flag="0" text="Russia, Turkey, England"/>
+    <answer flag="0" text="Russia, Turkey, England, France"/>
+    <answer flag="1" text="Russia, Turkey, Britain, France and Piedmont"/>
+  </question>
+  <question level="1" simple="True" text="What events took place in the Ukrainian lands during the Crimean War?">
+    <answer flag="0" text="Abolition of serfdom"/>
+    <answer flag="0" text="Rise of military settlers"/>
+    <answer flag="0" text="Liquidation Danusian Host"/>
+    <answer flag="1" text="Kiev Cossacks &quot;"/>
+  </question>
+  <question level="1" simple="True" text="Where decisive events unfolded the Crimean War?">
+    <answer flag="0" text="In Wallachia and Moldavia"/>
+    <answer flag="1" text="Around Sevastopol"/>
+    <answer flag="0" text="On the Caucasian front"/>
+    <answer flag="0" text="In the Black Sea"/>
+  </question>
+  <question level="1" simple="True" text="What Cossack formation involved in the defense of the coast from Odessa to the Danube during the Crimean War?">
+    <answer flag="1" text="Danube Cossack Host"/>
+    <answer flag="0" text="Azov Cossack Host"/>
+    <answer flag="0" text="Black Sea Cossack Host"/>
+    <answer flag="0" text="Bug Cossack Host"/>
+  </question>
+  <question level="1" simple="True" text="Specify the chronological framework of the Crimean War">
+    <answer flag="0" text="1853-1855 biennium"/>
+    <answer flag="0" text="1855-1860 biennium"/>
+    <answer flag="0" text="1854-1855,"/>
+    <answer flag="1" text="1853-1856 biennium"/>
+  </question>
+  <question level="1" simple="True" text="What territorial losses suffered by Russia Crimean War?">
+    <answer flag="1" text="Part of South Bessarabia"/>
+    <answer flag="0" text="Crimean peninsula"/>
+    <answer flag="0" text="Black Sea coast between the Danube and the South Bug"/>
+    <answer flag="0" text="Crimea and Southern Bessarabia"/>
+  </question>
+</testing>

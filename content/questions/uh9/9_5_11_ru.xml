@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украинские земли в составе Австрийской и Российской империй в начале XIX в. Административно-территориальное деление в 50-х годах XIX в.">
+  <question level="1" simple="True" text="Какой регион Украины до начала XIX в. был наиболее населенным?">
+    <answer flag="1" text="Галичина"/>
+    <answer flag="0" text="Правобережья"/>
+    <answer flag="0" text="Левобережья"/>
+    <answer flag="0" text="Слобожанщина"/>
+  </question>
+  <question level="1" simple="True" text="Центром которой губернии в начале XIX в. был Житомир?">
+    <answer flag="0" text="Подольской"/>
+    <answer flag="1" text="Волынской"/>
+    <answer flag="0" text="Киевской"/>
+  </question>
+  <question level="1" simple="True" text="Какое название получил историко-географический район, который был заселен Черноморским казацким войском?">
+    <answer flag="0" text="Запорожье"/>
+    <answer flag="0" text="Новороссия"/>
+    <answer flag="1" text="Кубань"/>
+    <answer flag="0" text="Таврия"/>
+  </question>
+  <question level="1" simple="True" text="Сколько губерний существовало на украинских землях в составе Российской империи на середину XIX века?">
+    <answer flag="0" text="5"/>
+    <answer flag="0" text="6"/>
+    <answer flag="0" text="7"/>
+    <answer flag="1" text="9"/>
+  </question>
+  <question level="1" simple="True" text="Какие украинские земли входили в &quot;Королевства Галиции и Лодомерии&quot; в составе Австрийской империи до начала XIX века?">
+    <answer flag="0" text="Восточная Галиция"/>
+    <answer flag="1" text="Восточная Галиция, Северная Буковина"/>
+    <answer flag="0" text="Восточная Галиция, Северная Буковина, Закарпатье"/>
+    <answer flag="0" text="Восточная Галиция, Северная Буковина, Закарпатье, Волынь"/>
+  </question>
+  <question level="1" simple="True" text="Какие губернии были образованы на территории бывшей Гетманщины в 1802 г.?">
+    <answer flag="1" text="Черниговская и Полтавская;"/>
+    <answer flag="0" text="Малороссийская и Киевская"/>
+    <answer flag="0" text="Слободско-Украинская и Малороссийская"/>
+    <answer flag="0" text="Новороссийска и Малороссийская"/>
+  </question>
+  <question level="1" simple="True" text="Какой социальный состояние было доминирующим на украинских землях в середине XIX века?">
+    <answer flag="0" text="духовенство"/>
+    <answer flag="0" text="помещики, промышленники и предприниматели"/>
+    <answer flag="0" text="рабочие"/>
+    <answer flag="1" text="крестьянство"/>
+  </question>
+</testing>

@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Народження середньовічної Європи">
+  <question text="Велике переселення народів розпочалося вторгненням зі сходу у Північне Причорномор'я тюркських племен">
+    <answer flag="0" text="аланів"/>
+    <answer flag="0" text="ґотів"/>
+    <answer flag="1" text="гунів"/>
+    <answer flag="0" text="вандалів"/>
+  </question>
+  <question text="Роком падіння Західної Римської імперії вважається">
+    <answer flag="0" text="395 р."/>
+    <answer flag="0" text="410 р."/>
+    <answer flag="0" text="455 р."/>
+    <answer flag="1" text="476 р."/>
+  </question>
+  <question text="У 493 р. проголосив себе &quot;королем ґотів та італіків&quot; і заснував Остґотьське королівство">
+    <answer flag="0" text="Одоакр"/>
+    <answer flag="1" text="Теодоріх"/>
+    <answer flag="0" text="Гейзеріх"/>
+    <answer flag="0" text="Ромул Августул"/>
+  </question>
+  <question text="Франкське королівство утворилося внаслідок завоювання франками">
+    <answer flag="1" text="Північної Галлії"/>
+    <answer flag="0" text="Північної Африки"/>
+    <answer flag="0" text="Піренейського півострова"/>
+    <answer flag="0" text="Апеннінського півострова"/>
+  </question>
+  <question text="Родючі землі у південно-західній частині Аравійського півострова називалися">
+    <answer flag="0" text="Неджд"/>
+    <answer flag="0" text="Бахрейн"/>
+    <answer flag="1" text="Ємен"/>
+    <answer flag="0" text="Хіджаз"/>
+  </question>
+  <question text="У 732 р. подальше просування арабів - завойовників Європою було зупинено франками у битві при">
+    <answer flag="0" text="Толедо"/>
+    <answer flag="1" text="Пуатьє"/>
+    <answer flag="0" text="Сараґосі"/>
+    <answer flag="0" text="Парижі"/>
+  </question>
+  <question text="Візантійський імператор Юстиніан правив у">
+    <answer flag="0" text="V ст."/>
+    <answer flag="1" text="VI ст."/>
+    <answer flag="0" text="VII ст."/>
+    <answer flag="0" text="VIII ст."/>
+  </question>
+  <question text="Брати Кирило і Мефодій проповідували християнську віру в">
+    <answer flag="0" text="Київській Русі"/>
+    <answer flag="0" text="Хозарському каганаті"/>
+    <answer flag="1" text="Великоморавській державі"/>
+  </question>
+  <question text="Найтривалішою була війна Карла Великого за підкорення германських племен">
+    <answer flag="0" text="ланґобардів"/>
+    <answer flag="1" text="саксів"/>
+    <answer flag="0" text="баварців"/>
+    <answer flag="0" text="франків"/>
+  </question>
+  <question text="Карла Великого було увінчано імператорським вінцем і проголошено римським імператором у">
+    <answer flag="0" text="788 р."/>
+    <answer flag="1" text="800 р."/>
+    <answer flag="0" text="803 р."/>
+    <answer flag="0" text="814 р."/>
+  </question>
+  <question text="Перший напад норманів на британське узбережжя відбувся">
+    <answer flag="0" text="750 р."/>
+    <answer flag="1" text="793 р."/>
+    <answer flag="0" text="937 р."/>
+    <answer flag="0" text="1078 р."/>
+  </question>
+  <question text="Вирішальна битва між арміями нормандського герцога Вільгельма і англійського короля Гаральда відбулася 14 червня 1066 р. під">
+    <answer flag="0" text="Лондоном"/>
+    <answer flag="0" text="Дувром"/>
+    <answer flag="1" text="Гастінґсом"/>
+    <answer flag="0" text="Оксфордом"/>
+  </question>
+</testing>

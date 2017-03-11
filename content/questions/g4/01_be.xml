@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Пытанні">
+  <question level="1" text="Герб якога з сучасных абласцей Украіны атрымаў у спадчыну малюнак старажытнага герба Кіеўшчыны - Архангела Міхаіла?">
+    <answer flag="0" text="Кіеўскай"/>
+    <answer flag="1" text="Жытомірскай"/>
+    <answer flag="0" text="Данецкай"/>
+    <answer flag="0" text="Валынскай"/>
+  </question>
+  <question level="1" text="У якой з абласцей Украіны захавалася больш старажытных замкаў?">
+    <answer flag="0" text="Палтаўскай"/>
+    <answer flag="0" text="Херсонскай"/>
+    <answer flag="1" text="Львоўскай"/>
+    <answer flag="0" text="Жытомірскай"/>
+  </question>
+  <question level="1" text="У Старажытнай Грэцыі кожную планету увасабляў бог грэцкай міфалогіі. Планету Марс атаясамлялі">
+    <answer flag="0" text="з богам гандлю"/>
+    <answer flag="0" text="з богам любові"/>
+    <answer flag="1" text="з богам вайны"/>
+    <answer flag="0" text="з богам земляробства"/>
+  </question>
+  <question level="1" text="Якая з названых рэк бярэ пачатак і сканчаецца на тэрыторыі Украіны?">
+    <answer flag="0" text="Днепр"/>
+    <answer flag="1" text="Днестр"/>
+    <answer flag="0" text="Заходні Буг"/>
+    <answer flag="0" text="Северскі Данец"/>
+  </question>
+  <question level="1" text="Якая з названых прыродных зон не ахоплівае тэрыторыі Украіны?">
+    <answer flag="1" text="Тундра"/>
+    <answer flag="0" text="Змешаныя лясы"/>
+    <answer flag="0" text="Лесастэп"/>
+    <answer flag="0" text="Стэп"/>
+  </question>
+</testing>

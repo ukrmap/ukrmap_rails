@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Географическое положение">
+  <Item Caption="Памятник основателям Киева" FileName="1"/>
+  <Item Caption="Днепр в районе Московского моста" FileName="2"/>
+  <Item Caption="Министерство иностранных дел Украины" FileName="3"/>
+  <Item Caption="Знак в центре Киева, от которого ведется отсчет расстояний до городов Украины и мира" FileName="4"/>
+  <Item Caption="Национальный университет им.Т.Шевченко" FileName="5"/>
+  <Item Caption="Аэропорт «Борисполь» - воздушные ворота Украины" FileName="6"/>
+  <Item Caption="Софийская площадь" FileName="7"/>
+  <Item Caption="Музей Великой Отечественной войны" FileName="8"/>
+  <Item Caption="Верхний город с высоты птичьего полета" FileName="9"/>
+  <Item Caption="Церковь Всех Святых в Киево-Печерской лавре" FileName="10"/>
+  <Item Caption="Печерск" FileName="11"/>
+  <Item Caption="Мост Метро" FileName="12"/>
+  <Item Caption="Вечерний Киев" FileName="13"/>
+  <Item Caption="Зимний Киев" FileName="14"/>
+</List>

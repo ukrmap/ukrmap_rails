@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Англія в XVI ст.">
+  <question level="1" simple="True" text="Яка династія правила Англією у XVI ст.?">
+    <answer flag="0" text="Стюартів"/>
+    <answer flag="1" text="Тюдорів"/>
+    <answer flag="0" text="Бурбонів "/>
+    <answer flag="0" text="Валуа"/>
+  </question>
+  <question level="1" simple="True" text="Столицею Шотландського королівства у XVI ст. було місто:">
+    <answer flag="0" text="Лондон"/>
+    <answer flag="0" text="Ґлазґо"/>
+    <answer flag="0" text="Белфаст"/>
+    <answer flag="1" text="Единбурґ"/>
+  </question>
+  <question level="1" simple="True" text="За правління якого монарха в Англії розпочалася Реформація?">
+    <answer flag="1" text="Генріха VIII "/>
+    <answer flag="0" text="Едуарда VI"/>
+    <answer flag="0" text="Марії І"/>
+    <answer flag="0" text="Єлизавети І"/>
+  </question>
+  <question level="1" simple="True" text="Коли англійський парламент проголосив &quot;Акт про супрематію&quot;?">
+    <answer flag="0" text="1509 р."/>
+    <answer flag="1" text="1534 р."/>
+    <answer flag="0" text="1547 р."/>
+    <answer flag="0" text="1571 р. "/>
+  </question>
+  <question level="1" simple="True" text="Закони, що увійшли в історію Англії як &quot;криваве законодавство&quot;, були спрямовані проти:">
+    <answer flag="0" text="протестантів"/>
+    <answer flag="1" text="волоцюг і жебраків"/>
+    <answer flag="0" text="католиків"/>
+    <answer flag="0" text="грабіжників і вбивць"/>
+  </question>
+  <question level="1" simple="True" text="За правління якого монарха було прийнято англійський &quot;Символ віри&quot; (&quot;39 статей&quot;)?">
+    <answer flag="0" text="Генріха VIII"/>
+    <answer flag="0" text="Едуарда VI"/>
+    <answer flag="0" text="Марії І"/>
+    <answer flag="1" text="Єлизавети І"/>
+  </question>
+  <question level="1" simple="True" text="Повстання під проводом Роберта Кета охопило:">
+    <answer flag="1" text="Норфолк"/>
+    <answer flag="0" text="Уельс"/>
+    <answer flag="0" text="Ольстер"/>
+    <answer flag="0" text="Коннот"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбувся похід &quot;Непереможної армади&quot; проти Англії?">
+    <answer flag="0" text="1534 р."/>
+    <answer flag="0" text="1559 р."/>
+    <answer flag="1" text="1588 р."/>
+    <answer flag="0" text="1603 р."/>
+  </question>
+  <question level="1" simple="True" text="Як на честь Єлизавети І, назвав першу англійську колонію у Північній Америці В. Релі?">
+    <answer flag="0" text="Бостон"/>
+    <answer flag="1" text="Вірґінія "/>
+    <answer flag="0" text="Джемстаун"/>
+    <answer flag="0" text="Чарлстон"/>
+  </question>
+  <question level="1" simple="True" text="Хто з представників династії Тюдорів за період 1509-1603 рр. перебував на англійському престолі найдовше?">
+    <answer flag="0" text="Генріх VIII"/>
+    <answer flag="0" text="Едуард VI"/>
+    <answer flag="0" text="Марія І"/>
+    <answer flag="1" text="Єлизавета І"/>
+  </question>
+  <question level="1" simple="True" text="Який англійський монарх вперше оголосив себе королем Ірландії?">
+    <answer flag="1" text="Генріх VIII"/>
+    <answer flag="0" text="Едуард VI"/>
+    <answer flag="0" text="Єлизавета І"/>
+    <answer flag="0" text="Яків І"/>
+  </question>
+  <question level="1" simple="True" text="Яка династія правила Англією від 1603 р.?">
+    <answer flag="1" text="Стюартів"/>
+    <answer flag="0" text="Тюдорів"/>
+    <answer flag="0" text="Бурбонів"/>
+    <answer flag="0" text="Валуа"/>
+  </question>
+</testing>

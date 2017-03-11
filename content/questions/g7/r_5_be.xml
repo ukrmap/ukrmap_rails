@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Паўднёвая Амэрыка">
+  <question level="1" simple="True" text="У Паўднёвай Амерыцы знаходзіцца:">
+    <answer flag="1" text="паўнаводная рака свету"/>
+    <answer flag="0" text="самая доўгая рака свету"/>
+    <answer flag="0" text="найбуйнейшая пустыня"/>
+  </question>
+  <question level="1" simple="True" text="Найвысокай вяршыняй Паўднёвай Амерыкі з'яўляюцца:">
+    <answer flag="1" text="Аканкагуа"/>
+    <answer flag="0" text="Мак-Кінлі"/>
+    <answer flag="0" text="Котопахи"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца няправільным?">
+    <answer flag="1" text="Калібры з'яўляецца эндэмікаў"/>
+    <answer flag="0" text="Паўднёвая Амэрыка - вільготны мацярык планеты"/>
+    <answer flag="0" text="У Паўднёвай Амерыцы знаходзіцца самая сухая пустыня"/>
+  </question>
+  <question level="1" simple="True" text="Хрыстафор Калумб адкрыў Амерыку ў:">
+    <answer flag="1" text="1492 г."/>
+    <answer flag="0" text="1498 г."/>
+    <answer flag="0" text="1502 г."/>
+  </question>
+  <question level="1" simple="True" text="Высокім на планеце ёсць вадаспад:">
+    <answer flag="0" text="Ігуасу"/>
+    <answer flag="1" text="Анхель"/>
+    <answer flag="0" text="Вікторыя"/>
+  </question>
+  <question level="1" simple="True" text="Большасць рэк Паўднёвай Амерыкі:">
+    <answer flag="1" text="належыць да басейна Атлантычнага акіяна"/>
+    <answer flag="0" text="належыць да басейна Ціхага акіяна"/>
+    <answer flag="0" text="знаходзіцца ў вобласці ўнутранага сцёку"/>
+  </question>
+  <question level="1" simple="True" text="Вільготныя экватарыяльныя лясы Паўднёвай Амерыкі завуцца:">
+    <answer flag="0" text="пампа"/>
+    <answer flag="0" text="джунглі"/>
+    <answer flag="1" text="сельва"/>
+  </question>
+  <question level="1" simple="True" text="Пампа гэта:">
+    <answer flag="1" text="травяністыя стэпе Паўднёвай Амерыкі"/>
+    <answer flag="0" text="вільготныя экватарыяльныя лясы Паўднёвай Амерыкі"/>
+    <answer flag="0" text="пустыні Паўднёвай Амерыкі"/>
+  </question>
+  <question level="1" simple="True" text="Карэнным насельніцтвам Паўднёвай Амерыкі з'яўляюцца:">
+    <answer flag="0" text="метысы"/>
+    <answer flag="1" text="індзейцы"/>
+    <answer flag="0" text="самба"/>
+  </question>
+  <question level="1" simple="True" text="Краіны Паўднёвай Амерыкі адносяцца:">
+    <answer flag="1" text="да групы краін, якія развіваюцца"/>
+    <answer flag="0" text="да групы найбяднейшых краін свету"/>
+    <answer flag="0" text="ў групу найбольш развітых краін"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Бразілія - самая вялікая па плошчы краіна Паўднёвай Амерыкі"/>
+    <answer flag="1" text="Бразілія - радзіма футбола"/>
+    <answer flag="0" text="Бразілія - самая вялікая па колькасці насельніцтва краіна Паўднёвай Амерыкі"/>
+  </question>
+  <question level="1" simple="True" text="Найбольш распаўсюджанымі мовамі сярод насельніцтва краін Паўднёвай Амерыкі з'яўляюцца:">
+    <answer flag="0" text="нямецкі і мова інкаў"/>
+    <answer flag="0" text="англійская і французская"/>
+    <answer flag="1" text="іспанскі і партугальская"/>
+  </question>
+</testing>

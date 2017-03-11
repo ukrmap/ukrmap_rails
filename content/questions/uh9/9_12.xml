@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Україна в Кримській війні 1853-1856 рр. Селянський рух 1855-1860 рр.">
+  <question level="1" simple="True" text="Війська яких країн брали участь у Кримській війні?">
+    <answer flag="0" text="Росії та Туреччини"/>
+    <answer flag="0" text="Росії, Туреччини, Англії"/>
+    <answer flag="0" text="Росії, Туреччини, Англії, Франції"/>
+    <answer flag="1" text="Росії, Туреччини, Англії, Франції та П’ємонту"/>
+  </question>
+  <question level="1" simple="True" text="Які події мали місце на українських землях під час Кримської війни?">
+    <answer flag="0" text="Скасування кріпацтва"/>
+    <answer flag="0" text="Повстання воєнних поселенців"/>
+    <answer flag="0" text="Ліквідація Задунайської Січі"/>
+    <answer flag="1" text="„Київська козаччина”"/>
+  </question>
+  <question level="1" simple="True" text="Де розгорталися вирішальні події Кримської війни?">
+    <answer flag="0" text="У Валахії та Молдавії"/>
+    <answer flag="1" text="Навколо Севастополя"/>
+    <answer flag="0" text="На Кавказькому фронті"/>
+    <answer flag="0" text="На Чорному морі"/>
+  </question>
+  <question level="1" simple="True" text="Які козачі формування брали участь в обороні побережжя від Одеси до Дунаю під час Кримської війни?">
+    <answer flag="1" text="Дунайське козацьке військо"/>
+    <answer flag="0" text="Азовське козацьке військо"/>
+    <answer flag="0" text="Чорноморське козацьке військо"/>
+    <answer flag="0" text="Бузьке козацьке військо"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть хронологічні рамки Кримської війни">
+    <answer flag="0" text="1853-1855 рр."/>
+    <answer flag="0" text="1855-1860 рр."/>
+    <answer flag="0" text="1854-1855 рр."/>
+    <answer flag="1" text="1853-1856 рр."/>
+  </question>
+  <question level="1" simple="True" text="Яких територіальних втрат зазнала Росія в результаті Кримської війни?">
+    <answer flag="1" text="Частина Південної Бессарабії"/>
+    <answer flag="0" text="Кримський півострів"/>
+    <answer flag="0" text="Чорноморське узбережжя між Дунаєм і Південним Бугом"/>
+    <answer flag="0" text="Крим і Південну Бессарабію"/>
+  </question>
+</testing>

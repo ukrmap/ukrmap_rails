@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Культура Украіны ў другой палове XVI - першай палове XVII ст. Развіццё адукацыі і навукі">
+  <question level="1" simple="True" text="Калі была заснаваная Кіева-Магілянскай акадэмію?">
+    <answer flag="0" text="1576"/>
+    <answer flag="1" text="1632"/>
+  </question>
+  <question level="1" simple="True" text="Якое з падзеяў адбылося раней?">
+    <answer flag="0" text="Выданне Астрожскай Бібліі"/>
+    <answer flag="1" text="Стварэння Пересопницкого Евангелля"/>
+  </question>
+  <question level="1" simple="True" text="Дзе і калі ў Украіне з'явілася першая брацкая школа?">
+    <answer flag="1" text="У Львове 1586"/>
+    <answer flag="0" text="У Кіеве 1615"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея дала магчымасць стварыць брацкую школу ў Кіеве?">
+    <answer flag="0" text="Прадастаўленне Кіеўскага Богаяўленскага брацтва правы ставропигии"/>
+    <answer flag="1" text="Кіеўская шляхцянка Галшка Гулевичивна падарыла Кіеўскаму братэрства &quot;двор з пляц&quot; на Падоле"/>
+  </question>
+  <question level="1" simple="True" text="Якую школу лічаць першай вышэйшай школай ва Ўкраіне?">
+    <answer flag="1" text="Астрожскую школу"/>
+    <answer flag="0" text="Львоўскую брацкую школу"/>
+  </question>
+  <question level="1" simple="True" text="Як паўстала Кіева-Магілянская акадэмія?">
+    <answer flag="1" text="У выніку зліцця кіеўскіх Брацкай і Лаврской школ"/>
+    <answer flag="0" text="Пасля рэарганізацыі Астрожскай акадэміі"/>
+  </question>
+  <question level="1" simple="True" text="Якую кнігу лічаць першай вядомай кнігай Святога Пісання тагачаснай кніжным украінскім мовай?">
+    <answer flag="1" text="Пересопницкое Евангелле"/>
+    <answer flag="0" text="Астрожская Біблія"/>
+  </question>
+  <question level="1" simple="True" text="Якая кніга была першым поўным друкаваным выданнем Бібліі на царкоўнаславянскай мове?">
+    <answer flag="0" text="Трэбнік Пятра Магілы"/>
+    <answer flag="1" text="Астрожская Біблія"/>
+  </question>
+  <question level="1" simple="True" text="Хто быў аўтарам першага ўкраінскага друкаванага слоўніка &quot;Лексис&quot;?">
+    <answer flag="1" text="Лаўрэнцій Зізаній"/>
+    <answer flag="0" text="Мялецій Сматрыцкі"/>
+  </question>
+  <question level="1" simple="True" text="Хто такі Іван Фёдараў?">
+    <answer flag="0" text="Украінскі князь, заснавальнік Астрожскай акадэміі, ініцыятар выдання Астрожскай Бібліі"/>
+    <answer flag="1" text="Маскоўскі першадрукар, заснавальнік пастаяннага кнігадрукавання на ўкраінскіх землях"/>
+  </question>
+  <question level="1" simple="True" text="Якія кнігі былі надрукаваныя ў Львове Іванам Фёдаравым?">
+    <answer flag="1" text="Апостал, «Буквар»"/>
+    <answer flag="0" text="«Адельфотес», «Лексікон славенороський»"/>
+  </question>
+  <question level="1" simple="True" text="Якая друкарня на Украіну была самай магутнай у першай палове XVII стагоддзя?">
+    <answer flag="1" text="Друкарня Кіева-Пячэрскай лаўры"/>
+    <answer flag="0" text="Друкарня Івана Фёдаравіча"/>
+  </question>
+</testing>

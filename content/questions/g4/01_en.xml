@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Questions">
+  <question level="1" text="Coat of which the modern regions of Ukraine inherited the image of the ancient coat of arms of Kyiv - the Archangel Michael?">
+    <answer flag="0" text="Kiev"/>
+    <answer flag="1" text="Zhytomyr"/>
+    <answer flag="0" text="Donetsk"/>
+    <answer flag="0" text="Volyn"/>
+  </question>
+  <question level="1" text="In what areas of Ukraine most preserved ancient castles?">
+    <answer flag="0" text="Poltava"/>
+    <answer flag="0" text="Kherson"/>
+    <answer flag="1" text="Lviv"/>
+    <answer flag="0" text="Zhytomyr"/>
+  </question>
+  <question level="1" text="In ancient Greece, each planet personified god of Greek mythology. Planet Mars identified">
+    <answer flag="0" text="god of commerce"/>
+    <answer flag="0" text="god of love"/>
+    <answer flag="1" text="god of war"/>
+    <answer flag="0" text="god of agriculture"/>
+  </question>
+  <question level="1" text="Which of the mentioned river originates and ends in Ukraine?">
+    <answer flag="0" text="Dnipro"/>
+    <answer flag="1" text="Dniester"/>
+    <answer flag="0" text="Western Bug"/>
+    <answer flag="0" text="Seversky Donets"/>
+  </question>
+  <question level="1" text="Which of these natural areas not covered in Ukraine?">
+    <answer flag="1" text="Tundra"/>
+    <answer flag="0" text="Mixed forests"/>
+    <answer flag="0" text="Forest steppe"/>
+    <answer flag="0" text="Steppe"/>
+  </question>
+</testing>

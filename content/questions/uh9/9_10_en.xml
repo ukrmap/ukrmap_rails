@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian culture first half of the nineteenth century.">
+  <question level="1" simple="True" text="How many universities exist in the Ukrainian lands in the first half of the nineteenth century.?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Who was the author of collections of &quot;Little Russian songs, Ukrainian folk songs, enjoyed by contemporary Russian and Ukrainian intelligentsia?">
+    <answer flag="0" text="I. Kotliarevsky"/>
+    <answer flag="1" text="M. Maksimovich"/>
+    <answer flag="0" text="M. Certelev"/>
+    <answer flag="0" text="Shevchenko"/>
+  </question>
+  <question level="1" simple="True" text="What year came the first edition of &quot;Poet&quot; Shevchenko?">
+    <answer flag="0" text="1836"/>
+    <answer flag="1" text="1840"/>
+    <answer flag="0" text="1847"/>
+    <answer flag="0" text="1861"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first to live a literary work written in Ukrainian folk?">
+    <answer flag="1" text="I. Kotliarevsky"/>
+    <answer flag="0" text="P.Hulak-Artemovsky"/>
+    <answer flag="0" text="H.Kvitka-Osnovianenko"/>
+    <answer flag="0" text="Shevchenko"/>
+  </question>
+  <question level="1" simple="True" text="What style of architecture prevalent in Ukraine the first half of the nineteenth century.?">
+    <answer flag="0" text="Baroque"/>
+    <answer flag="0" text="Rococo"/>
+    <answer flag="1" text="Classicism"/>
+    <answer flag="0" text="Modern"/>
+  </question>
+  <question level="1" simple="True" text="Who of Ukrainian mathematicians began Petersburg mathematical school?">
+    <answer flag="1" text="M. Ostrogradsky"/>
+    <answer flag="0" text="T. Osypovskyi"/>
+    <answer flag="0" text="M. Kostomarov"/>
+    <answer flag="0" text="M. Maksimovich"/>
+  </question>
+</testing>

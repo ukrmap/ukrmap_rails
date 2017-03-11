@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="The struggle of peoples of Europe and Asia against his foreign invaders">
+  <question text="When Kurultay Temuchzhynu gave the title Genghis Khan?">
+    <answer flag="0" text="1199"/>
+    <answer flag="1" text="1206"/>
+    <answer flag="0" text="1223"/>
+  </question>
+  <question text="Where Prince Alexander Nevsky defeated the German Teutonic knights-April 5, 1242?">
+    <answer flag="0" text="next, the Neva"/>
+    <answer flag="0" text="under the walls of Pskov"/>
+    <answer flag="1" text="on ice lake Peipus"/>
+  </question>
+  <question text="As Europeans called the Arabs who lived in the Iberian peninsula?">
+    <answer flag="0" text="Turks"/>
+    <answer flag="1" text="moors"/>
+    <answer flag="0" text="Bedouins"/>
+  </question>
+  <question text="Earth Novgorod land sought to capture">
+    <answer flag="0" text="Order of the Knights Templar"/>
+    <answer flag="1" text="Order mechonostsiv"/>
+    <answer flag="0" text="Teutonic Knights"/>
+    <answer flag="0" text="Order of Malta"/>
+  </question>
+  <question text="Reconquista lasted">
+    <answer flag="1" text="Eight centuries"/>
+    <answer flag="0" text="10 centuries"/>
+    <answer flag="0" text="12 centuries."/>
+  </question>
+  <question text="Defeat in the battle which forced Byzantium finally give up the eastern territories?">
+    <answer flag="1" text="at Miriokefali"/>
+    <answer flag="0" text="at Acre"/>
+    <answer flag="0" text="in Ankara"/>
+  </question>
+  <question text="Which of the three empires does not fit a logical series?">
+    <answer flag="0" text="Trapezundska"/>
+    <answer flag="0" text="Nicaea"/>
+    <answer flag="1" text="Latin"/>
+  </question>
+  <question text="Rumskyy founded the sultanate in Asia Minor">
+    <answer flag="0" text="Ottoman Turks"/>
+    <answer flag="1" text="Turkish Seljuks"/>
+    <answer flag="0" text="Arabs."/>
+  </question>
+  <question text="What is the greatest country the Mongols conquered?">
+    <answer flag="1" text="China"/>
+    <answer flag="0" text="Persia"/>
+    <answer flag="0" text="Rus"/>
+  </question>
+  <question text="Batu established the state">
+    <answer flag="1" text="Golden Horde"/>
+    <answer flag="0" text="Khorezm"/>
+    <answer flag="0" text="Crimean Khanate."/>
+  </question>
+  <question text="When the Crusaders captured Constantinople?">
+    <answer flag="0" text="1096"/>
+    <answer flag="0" text="1192"/>
+    <answer flag="1" text="1204"/>
+  </question>
+  <question text="The founder of the last Byzantine dynasty was vasylevsiv">
+    <answer flag="0" text="Manuel I Komnenos"/>
+    <answer flag="1" text="Michael VIII Paleologue"/>
+    <answer flag="0" text="Laskaris John III."/>
+  </question>
+</testing>

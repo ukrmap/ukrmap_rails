@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Україна у Великій Вітчизняній війні (листопад 1942 р. - січень 1945 р.)">
+  <question level="1" simple="True" text="Який період вважають переломним у ході війни?">
+    <answer flag="0" text="Зима 1941-1942 рр."/>
+    <answer flag="1" text="Зима 1942-1943 рр."/>
+    <answer flag="0" text="Зима 1943-1944 рр."/>
+    <answer flag="0" text="Зима 1944-1945 рр."/>
+  </question>
+  <question level="1" simple="True" text="Коли радянськими військами було звільнене перше на території України село Півнівка?">
+    <answer flag="0" text="19 листопада 1942 р."/>
+    <answer flag="0" text="23 листопада 1942 р."/>
+    <answer flag="1" text="18 грудня 1942 р."/>
+    <answer flag="0" text="16 лютого 1943 р."/>
+  </question>
+  <question level="1" simple="True" text="Яка подія в ході війни відбулася 2 лютого 1943 р.?">
+    <answer flag="1" text="Завершилися бої під Сталінградом"/>
+    <answer flag="0" text="Почалася Курська битва"/>
+    <answer flag="0" text="Почалася битва за Дніпро"/>
+    <answer flag="0" text="Розпочалися бої за визволення Києва"/>
+  </question>
+  <question level="1" simple="True" text="Який фронт був переформований та перейменований в 1-й Український?">
+    <answer flag="0" text="Степовий"/>
+    <answer flag="0" text="Південно-Західний"/>
+    <answer flag="1" text="Воронезький"/>
+    <answer flag="0" text="Південний"/>
+  </question>
+  <question level="1" simple="True" text="З якою подією пов'язана операція &quot;Цитадель&quot;?">
+    <answer flag="1" text="Курська битва"/>
+    <answer flag="0" text="Битва за Дніпро"/>
+    <answer flag="0" text="Битва під Сталінградом"/>
+    <answer flag="0" text="Корсунь-Шевченківська битва"/>
+  </question>
+  <question level="1" simple="True" text="Коли було визволено Київ?">
+    <answer flag="0" text="2 лютого 1943 р."/>
+    <answer flag="1" text="6 листопада 1943 р."/>
+    <answer flag="0" text="24 січня 1944 р."/>
+    <answer flag="0" text="8 жовтня 1944 р."/>
+  </question>
+  <question level="1" simple="True" text="Коли було звільнено останній в довоєнних межах населений пункт УРСР?">
+    <answer flag="0" text="8 квітня 1944 р."/>
+    <answer flag="1" text="8 жовтня 1944 р."/>
+    <answer flag="0" text="8 травня 1945 р."/>
+  </question>
+  <question level="1" simple="True" text="Які держави - переможиці окреслили кордони повоєнної Європи на конференціях в Тегерані та Ялті?">
+    <answer flag="1" text="СРСР"/>
+    <answer flag="0" text="Франція"/>
+    <answer flag="1" text="Велика Британія"/>
+    <answer flag="0" text="Румунія"/>
+    <answer flag="1" text="США"/>
+  </question>
+  <question level="1" simple="True" text="До складу якої держави входило Закарпаття напередодні Другої світової війни?">
+    <answer flag="0" text="Чехо-Словаччини"/>
+    <answer flag="1" text="Угорщини"/>
+    <answer flag="0" text="Польщі"/>
+  </question>
+  <question level="1" simple="True" text="Адміністративним центром окупованої німцями України стало місто">
+    <answer flag="0" text="Київ"/>
+    <answer flag="0" text="Вінниця"/>
+    <answer flag="1" text="Рівне"/>
+  </question>
+  <question level="1" simple="True" text="Основний район дій партизанів у окупованій Україні знаходився">
+    <answer flag="1" text="на Волині"/>
+    <answer flag="0" text="у Харківщині"/>
+    <answer flag="0" text="в Криму"/>
+  </question>
+  <question level="1" simple="True" text="Яке місто доводилося двічі здобувати радянським військам у ході визволення України?">
+    <answer flag="0" text="Київ"/>
+    <answer flag="1" text="Харків"/>
+    <answer flag="0" text="Одесу"/>
+  </question>
+  <question level="1" simple="True" text="У визволенні Криму головну роль відігравали війська">
+    <answer flag="0" text="1-го Українського фронту"/>
+    <answer flag="1" text="4-го Українського фронту"/>
+    <answer flag="0" text="Північнокавказького фронту"/>
+  </question>
+  <question level="1" simple="True" text="Територія України остаточно була визволена від гітлерівців">
+    <answer flag="0" text="у серпні 1944 р."/>
+    <answer flag="1" text="у жовтні 1944 р."/>
+    <answer flag="0" text="у січні 1945 р."/>
+  </question>
+  <question level="1" simple="True" text="За часів румунської окупації Трансністрією називалася територія">
+    <answer flag="1" text="Одеської області"/>
+    <answer flag="0" text="Чернівецької області"/>
+    <answer flag="0" text="Закарпаття"/>
+  </question>
+  <question level="1" simple="True" text="Яка автономна республіка входила до складу УРСР до 1940 р.">
+    <answer flag="0" text="Кримська "/>
+    <answer flag="1" text="Молдавська"/>
+    <answer flag="0" text="Донецька"/>
+  </question>
+  <question level="1" simple="True" text="Як називався план нападу Німеччини на СРСР?">
+    <answer flag="0" text="„Ост”"/>
+    <answer flag="1" text="„Барбаросса”"/>
+    <answer flag="0" text="„Цитадель”"/>
+  </question>
+  <question level="1" simple="True" text="Скільки Українських фронтів було утворено в 1943 р.">
+    <answer flag="0" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="1" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Визволення України розпочалося з території">
+    <answer flag="0" text="Харківської області"/>
+    <answer flag="1" text="Ворошиловградської області"/>
+    <answer flag="0" text="Сумської області"/>
+  </question>
+  <question level="1" simple="True" text="Останніми були визволені населені пункти">
+    <answer flag="0" text="Волинської області"/>
+    <answer flag="0" text="Львівської області"/>
+    <answer flag="1" text="Дрогобицької області"/>
+  </question>
+</testing>

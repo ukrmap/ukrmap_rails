@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Геаграфічнае становішча">
+  <question level="1" simple="True" text="Па памерах тэрыторыі Украіны ў Еўропе:">
+    <answer flag="0" text="з'яўляецца найбуйнейшай"/>
+    <answer flag="1" text="саступае толькі Расіі"/>
+    <answer flag="0" text="саступае Францыі і Расіі"/>
+  </question>
+  <question level="1" simple="True" text="З якой з пералічаных краін Украіна не мае агульных межаў?">
+    <answer flag="1" text="З Балгарыяй"/>
+    <answer flag="0" text="З Румыніяй"/>
+    <answer flag="0" text="Са Славакіяй"/>
+  </question>
+  <question level="1" simple="True" text="Які з аэрапортаў знаходзіцца ў межах Кіева?">
+    <answer flag="0" text="Барыспаль"/>
+    <answer flag="1" text="Кіеў (Жуляны)"/>
+    <answer flag="0" text="Гостомельский"/>
+  </question>
+  <question level="1" simple="True" text="Якое з гарадоў-спадарожнікаў Кіева больш за ўсё?">
+    <answer flag="1" text="Бровары"/>
+    <answer flag="0" text="Барыспаль"/>
+    <answer flag="0" text="Вышгарад"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца правільным?">
+    <answer flag="0" text="Да поўдня ад Кіева знаходзіцца Кіеўскае вадасховішча"/>
+    <answer flag="1" text="Кіеў знаходзіцца ў паўночнай частцы дзяржавы"/>
+    <answer flag="0" text="Аэрапорт Барыспаль размешчаны заходней Кіева"/>
+  </question>
+  <question level="1" simple="True" text="Па якой рацэ ажыццяўляецца суднаходныя паведамленне Украіны з шэрагам краін Цэнтральнай і Заходняй Еўропы?">
+    <answer flag="0" text="Па Дняпры"/>
+    <answer flag="1" text="Па Дунаі"/>
+    <answer flag="0" text="Па Заходнім Бугу"/>
+  </question>
+  <question level="1" simple="True" text="У якой частцы святла знаходзіцца Ўкраіна?">
+    <answer flag="1" text="У Еўропе"/>
+    <answer flag="0" text="У Азіі"/>
+    <answer flag="0" text="У Еўразіі"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Кіеў-найбуйнейшы горад дзяржавы"/>
+    <answer flag="1" text="Кіеў-найбуйнейшы горад ўсходняй Еўропы"/>
+    <answer flag="0" text="Праз Кіеў праходзіць мяжа лясной і лесастэпавай зоны"/>
+  </question>
+  <question level="1" simple="True" text="Калі выехаць з Кіева ў заходнім кірунку, то першым абласным цэнтрам на шляху будзе:">
+    <answer flag="0" text="Чарнігаў"/>
+    <answer flag="1" text="Жытомір"/>
+    <answer flag="0" text="Роўна"/>
+  </question>
+  <question level="1" simple="True" text="Паўночная частка мяжы Кіеўскай вобласці з'яўляецца адначасова дзяржаўнай мяжой Украіны з:">
+    <answer flag="1" text="Беларуссю"/>
+    <answer flag="0" text="Расеяй"/>
+    <answer flag="0" text="Польшчай"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца няправільным?">
+    <answer flag="0" text="Украіна мяжуе з сямю дзяржавамі"/>
+    <answer flag="0" text="Тэрыторыя Украіны абмываецца водамі двух мораў"/>
+    <answer flag="1" text="З сталіц замежных дзяржаў у Кіеў бліжэй размешчана Масква"/>
+  </question>
+</testing>

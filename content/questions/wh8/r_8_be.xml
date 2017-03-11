@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Польшча ў XVI - XVIII стст.">
+  <question level="1" simple="True" text="Горад быў сталіцай Польскага каралеўства да 1596 г.?">
+    <answer flag="1" text="Кракаў"/>
+    <answer flag="0" text="Варшава"/>
+    <answer flag="0" text="Гнезна"/>
+    <answer flag="0" text="Люблін"/>
+  </question>
+  <question level="1" simple="True" text="Дзе і калі было заключана унію аб стварэнні Рэчы Паспалітай?">
+    <answer flag="0" text="Кракаў"/>
+    <answer flag="0" text="Варшава"/>
+    <answer flag="0" text="Брэст"/>
+    <answer flag="1" text="Люблін"/>
+    <answer flag="1" text="1569"/>
+    <answer flag="0" text="1583"/>
+    <answer flag="0" text="1596"/>
+    <answer flag="0" text="1618"/>
+  </question>
+  <question level="1" simple="True" text="Ўкраінскія землі Рэчы Паспалітай уваходзілі ў склад:">
+    <answer flag="1" text="Польскага каралеўства"/>
+    <answer flag="0" text="Вялікага княства Літоўскага"/>
+  </question>
+  <question level="1" simple="True" text="Са смерцю якога караля ў Польшчы спыніла існаванне каралеўская дынастыя Ягелонаў?">
+    <answer flag="0" text="Жыгімонта I"/>
+    <answer flag="1" text="Жыгімонта II"/>
+    <answer flag="0" text="Стэфана Баторыя"/>
+    <answer flag="0" text="Жыгімонта III"/>
+  </question>
+  <question level="1" simple="True" text="Пры праўленні якога польскага караля завяршылася Лівонская вайна?">
+    <answer flag="0" text="Жыгімонта I"/>
+    <answer flag="0" text="Жыгімонта II"/>
+    <answer flag="1" text="Стэфана Баторыя"/>
+    <answer flag="0" text="Жыгімонта III"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце першага польскага караля абранага галасаваннем палат сейма:">
+    <answer flag="0" text="Жыгімонт I"/>
+    <answer flag="0" text="Генрых Валуа"/>
+    <answer flag="1" text="Стэфан Баторый"/>
+    <answer flag="0" text="Жыгімонт III"/>
+  </question>
+  <question level="1" simple="True" text="Тэрыторыя Лівонскага ордэна адышла да Рэчы Паспалітай па:">
+    <answer flag="1" text="Ям-Запольскі пагадненнем"/>
+    <answer flag="0" text="Деулинською пагадненнем"/>
+    <answer flag="0" text="Митавская светам"/>
+    <answer flag="0" text="Палянаўскі светам"/>
+  </question>
+  <question level="1" simple="True" text="Па якой пагадненнем ад Маскоўскага дзяржавы да Рэчы Паспалітай адышла Чарнігава-Севершчынай?">
+    <answer flag="0" text="Ям-Запольскі"/>
+    <answer flag="1" text="Деулинською"/>
+    <answer flag="0" text="Андрусоўскага"/>
+    <answer flag="0" text="&quot;Вечным мірам&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбывалася польска-шведская вайна другой паловы XVII стагоддзя?">
+    <answer flag="0" text="1648-1657 гг"/>
+    <answer flag="0" text="1654-1655 гг"/>
+    <answer flag="1" text="1655-1660 гг"/>
+    <answer flag="0" text="1680-1686 гг"/>
+  </question>
+  <question level="1" simple="True" text="Якія ўкраінскія землі былі акупаваныя Асманскай імперыяй у апошняй чвэрці XVII стагоддзя?">
+    <answer flag="0" text="Галічына"/>
+    <answer flag="0" text="Запорожье"/>
+    <answer flag="0" text="Валынь"/>
+    <answer flag="1" text="Падоле"/>
+  </question>
+  <question level="1" simple="True" text="У складзе якой дзяржавы апынуліся ў выніку &quot;Вечнага міру&quot; Левабярэжная Украіна і Запорожье?">
+    <answer flag="1" text="Маскоўскае дзяржава"/>
+    <answer flag="0" text="Рэч Паспалітая"/>
+    <answer flag="0" text="Асманская імперыя"/>
+    <answer flag="0" text="Крымскае ханства"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылася бітва пад Хоціне у якой прымалі ўдзел ўкраінскія казакі, узначаленыя П. Конашевича-Сагайдакавага?">
+    <answer flag="0" text="1616"/>
+    <answer flag="1" text="1621"/>
+    <answer flag="0" text="1648"/>
+    <answer flag="0" text="1651"/>
+  </question>
+</testing>

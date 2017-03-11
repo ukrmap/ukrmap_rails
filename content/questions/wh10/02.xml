@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Облаштування повоєнного світу">
+  <question text="Який з означених договорів було укладено першим?">
+    <answer flag="0" text="Тріанонський"/>
+    <answer flag="0" text="Рапалльський"/>
+    <answer flag="0" text="Севрський"/>
+    <answer flag="0" text="Нейїський"/>
+    <answer flag="1" text="Сен-Жерменський"/>
+  </question>
+  <question text="Коли розпочала свою роботу Паризька мирна конференція?">
+    <answer flag="0" text="11 листопада 1918 р."/>
+    <answer flag="1" text="18 січня 1919 р."/>
+    <answer flag="0" text="28 червня 1919 р."/>
+  </question>
+  <question text="Яка країна під час Першої світової війни входила до Антанти, але не була запрошена на Паризьку мирну конференцію?">
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Італія"/>
+    <answer flag="0" text="Угорщина"/>
+    <answer flag="0" text="Сербія"/>
+    <answer flag="1" text="Росія"/>
+  </question>
+  <question text="Яку з названих територій втрачала Німеччина згідно з Версальським договором?">
+    <answer flag="0" text="Гольштейн"/>
+    <answer flag="0" text="Люксембурґ"/>
+    <answer flag="0" text="Бурґенланд"/>
+    <answer flag="0" text="Судети"/>
+    <answer flag="1" text="Ельзас і Лотаринґію"/>
+    <answer flag="0" text="Ліхтенштейн"/>
+    <answer flag="0" text="о. Гельґоланд"/>
+    <answer flag="0" text="Баварію"/>
+    <answer flag="0" text="Саксонію"/>
+  </question>
+  <question text="Яку назву мав мирний договір із Угорщиною?">
+    <answer flag="0" text="Сен-Жерменський"/>
+    <answer flag="1" text="Тріанонський"/>
+    <answer flag="0" text="Версальський"/>
+    <answer flag="0" text="Севрський"/>
+    <answer flag="0" text="Нейїський"/>
+  </question>
+  <question text="Який із перерахованих договорів, підписаних в 1919-1921 рр., вирішував долю українських земель?">
+    <answer flag="1" text="Сен-Жерменський"/>
+    <answer flag="0" text="&quot;Договір 4-х&quot; держав"/>
+    <answer flag="0" text="Версальський"/>
+    <answer flag="0" text="Тріанонський"/>
+    <answer flag="0" text="Севрський"/>
+    <answer flag="0" text="Лозаннський"/>
+    <answer flag="0" text="Нейїський"/>
+  </question>
+  <question text="Вашинґтонська конференція засвідчила переважаючий вплив у Азійсько-Тихоокеанському регіоні">
+    <answer flag="0" text="США"/>
+    <answer flag="0" text="Радянської Росії"/>
+    <answer flag="1" text="Японії"/>
+    <answer flag="0" text="Китаю"/>
+    <answer flag="0" text="Великої Британії"/>
+  </question>
+  <question text="Однією з причин неефективності Версальсько-Вашинґтонської системи було">
+    <answer flag="0" text="важке економічне становище країн після війни"/>
+    <answer flag="1" text="національно-визвольна боротьба поневолених народів"/>
+    <answer flag="0" text="диспропорція в озброєнні європейських держав"/>
+  </question>
+  <question text="Німеччина вступила до Ліги Націй">
+    <answer flag="0" text="у 1919 р."/>
+    <answer flag="0" text="у 1922 р."/>
+    <answer flag="1" text="у 1926 р."/>
+    <answer flag="0" text="у 1933 р."/>
+  </question>
+  <question text="Які території отримала Данія за Версальським договором?">
+    <answer flag="0" text="Ейпен і Мельмеді"/>
+    <answer flag="1" text="Північний Шлезвіґ"/>
+    <answer flag="0" text="Познань і Померанію"/>
+  </question>
+  <question text="З якою метою було скликано Вашинґтонську конференцію?">
+    <answer flag="0" text="Для укладення договорів із союзниками Німеччини"/>
+    <answer flag="1" text="Для врегулювання відносин між провідними державами в Азійсько-Тихоокеанському регіоні"/>
+    <answer flag="0" text="Для вироблення спільної стратегії провідних держав щодо СРСР"/>
+  </question>
+  <question text="В окупації Рура у 1923-1925 рр. брали участь війська">
+    <answer flag="0" text="Франції та Англії"/>
+    <answer flag="1" text="Франції та Бельгії"/>
+    <answer flag="0" text="Франції та США"/>
+  </question>
+</testing>

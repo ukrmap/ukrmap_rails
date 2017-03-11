@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Літасфера">
+  <question level="1" simple="True" text="На якой глыбіні ад паверхні размешчана ядро Зямлі?">
+    <answer flag="0" text="5-10 км"/>
+    <answer flag="0" text="80 км"/>
+    <answer flag="1" text="2900 км"/>
+    <answer flag="0" text="7000 км"/>
+  </question>
+  <question level="1" simple="True" text="З якіх слаёў складаецца зямная кара пад акіянамі?">
+    <answer flag="1" text="Ападкавага"/>
+    <answer flag="0" text="Гранітнага"/>
+    <answer flag="1" text="Базальтавага"/>
+  </question>
+  <question level="1" simple="True" text="Якая тэмпература ў цэнтральнай частцы зямнога ядра?">
+    <answer flag="0" text="100 ° З"/>
+    <answer flag="0" text="1000 ° З"/>
+    <answer flag="1" text="5000 ° С"/>
+    <answer flag="0" text="10000 ° З"/>
+  </question>
+  <question level="1" simple="True" text="Што адбываецца ў тых месцах планеты, дзе літасфэрныя пліты расходзяцца?">
+    <answer flag="0" text="Ўтворацца горы"/>
+    <answer flag="1" text="Ўтворацца сярэдзіна-акіянічныя хрыбты"/>
+    <answer flag="0" text="Ўтворацца глыбакаводныя жолабы"/>
+  </question>
+  <question level="1" simple="True" text="Што Альфрэд Лотар Вегенер лічыў асноўнымі доказамі сваёй гіпотэзы дрэйфу мацерыкоў?">
+    <answer flag="0" text="Значнае падабенства флоры і фауны мацерыкоў, якія ляжаць па абодва бакі Атлантычнага акіяна"/>
+    <answer flag="1" text="Значнае падабенства абрысаў мацерыкоў, якія ляжаць па абодва бакі Атлантычнага акіяна"/>
+    <answer flag="0" text="Сталыя сейсмічныя працэсы на Зямлі"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца працэс, пры якім магма, не дасягнуўшы паверхні, застывае ў расколінах і паражнінах зямной кары?">
+    <answer flag="1" text="Унутраны магматизм"/>
+    <answer flag="0" text="Вулканізму"/>
+    <answer flag="0" text="Метаморфизм"/>
+    <answer flag="0" text="Знешні магматизм"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца глейкі ўнутраны слой Зямлі, размешчаны на глыбіні 150-200 км ад паверхні?">
+    <answer flag="0" text="Вонкавае ядро"/>
+    <answer flag="0" text="Унутранае ядро"/>
+    <answer flag="1" text="Астэнасфэра"/>
+  </question>
+  <question level="1" simple="True" text="Як змяняецца тэмпература з пранікненнем углыб Зямлі?">
+    <answer flag="0" text="Павышаецца на 1 ° С на кожныя 100 м"/>
+    <answer flag="0" text="Зніжаецца на 1 ° С на кожныя 33 м"/>
+    <answer flag="1" text="Павышаецца на 1 ° С на кожныя 33 м"/>
+    <answer flag="0" text="Практычна не змяняецца"/>
+  </question>
+  <question level="1" simple="True" text="Што адбываецца пры сутыкненні мацерыковай і акіянічнай літасферных пліт?">
+    <answer flag="0" text="Мацерыковая пліта апускаецца пад акіянічную, падымаючы яе"/>
+    <answer flag="0" text="Мацерыковая пліта адсоўвае акіянічную і плошчу мацерыка павялічваецца"/>
+    <answer flag="0" text="Акіянічная пліта адсоўвае мацерыковую і плошчу акіяна павялічваецца"/>
+    <answer flag="1" text="Акіянічная пліта апускаецца пад мацерыковую, падымаючы яе"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца месца ў зямной кары, дзе падчас землятрусу адбылося зрушэнне мас горных парод?">
+    <answer flag="1" text="Гипоцентр"/>
+    <answer flag="0" text="Эпіцэнтр"/>
+    <answer flag="0" text="Разлом"/>
+    <answer flag="0" text="Зрушэнне"/>
+  </question>
+  <question level="1" simple="True" text="Месца на паверхні над агменем землятрусу называюць">
+    <answer flag="1" text="Эпіцэнтрам"/>
+    <answer flag="0" text="Гипоцентром"/>
+  </question>
+  <question level="1" simple="True" text="Якія эры развіцця Зямлі ахоплівае найстаражытны перыяд дакембрыі?">
+    <answer flag="1" text="Архейскую"/>
+    <answer flag="1" text="Протерозойские"/>
+    <answer flag="0" text="Палеазойскай"/>
+    <answer flag="0" text="Мезозойской"/>
+    <answer flag="0" text="Кайнозойскую"/>
+  </question>
+</testing>

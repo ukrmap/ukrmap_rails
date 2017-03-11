@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Lithosphere">
+  <question level="1" simple="True" text="At what depth from the surface lies the core of the Earth?">
+    <answer flag="0" text="5-10 km"/>
+    <answer flag="0" text="80 km"/>
+    <answer flag="1" text="2900 km"/>
+    <answer flag="0" text="7000 km"/>
+  </question>
+  <question level="1" simple="True" text="Of which consists of layers of crust under the oceans?">
+    <answer flag="1" text="Sedimentary"/>
+    <answer flag="0" text="Granite"/>
+    <answer flag="1" text="Basalt"/>
+  </question>
+  <question level="1" simple="True" text="What is the temperature in the central parts of the kernel?">
+    <answer flag="0" text="100°C"/>
+    <answer flag="0" text="1000°C"/>
+    <answer flag="1" text="5000° C"/>
+    <answer flag="0" text="10 000°C"/>
+  </question>
+  <question level="1" simple="True" text="What happens in those places the planet where lithospheric plates diverge?">
+    <answer flag="0" text="Mountains are formed"/>
+    <answer flag="1" text="Appear Mid-ocean ridges"/>
+    <answer flag="0" text="Are formed deep troughs"/>
+  </question>
+  <question level="1" simple="True" text="Alfred Lothar Wegener What is considered the main evidence of the hypothesis of continents drift?">
+    <answer flag="0" text="A significant similarity of flora and fauna of continents that lie on both sides of the Atlantic"/>
+    <answer flag="1" text="Considerable similarity contours of continents that lie on both sides of the Atlantic"/>
+    <answer flag="0" text="Permanent seismic processes on Earth"/>
+  </question>
+  <question level="1" simple="True" text="What is the name the process by which magma before reaching the surface freezes in cracks and cavities of the earth's crust?">
+    <answer flag="1" text="Internal magmatism"/>
+    <answer flag="0" text="Volcanism"/>
+    <answer flag="0" text="Fiction"/>
+    <answer flag="0" text="External magmatism"/>
+  </question>
+  <question level="1" simple="True" text="How tough is called the inner layer of the Earth, located at a depth of 150-200 km from the surface?">
+    <answer flag="0" text="Outer core"/>
+    <answer flag="0" text="The inner core"/>
+    <answer flag="1" text="Asthenosphere"/>
+  </question>
+  <question level="1" simple="True" text="How does the temperature of the infiltration of the Earth?">
+    <answer flag="0" text="Increases by 1°C per 100 m"/>
+    <answer flag="0" text="Reduced by 1°C per 33 m"/>
+    <answer flag="1" text="Increases by 1°C per 33 m"/>
+    <answer flag="0" text="Virtually unchanged"/>
+  </question>
+  <question level="1" simple="True" text="What happens when continental collision and oceanic lithospheric plates?">
+    <answer flag="0" text="Continental oceanic plate dives under, raising its"/>
+    <answer flag="0" text="Continental plate pushes the oceanic area and the mainland increased"/>
+    <answer flag="0" text="Oceanic plate pushes the mainland and the area of the ocean increases"/>
+    <answer flag="1" text="Oceanic plate dives under the mainland, raising its"/>
+  </question>
+  <question level="1" simple="True" text="As a place called in the crust where the earthquake was the mass displacement of rocks?">
+    <answer flag="1" text="Hypocenter"/>
+    <answer flag="0" text="Epicenter"/>
+    <answer flag="0" text="Faulting"/>
+    <answer flag="0" text="Landslide"/>
+  </question>
+  <question level="1" simple="True" text="Place on the surface of the cell called the earthquake">
+    <answer flag="1" text="Epicenter"/>
+    <answer flag="0" text="Hypocenter"/>
+  </question>
+  <question level="1" simple="True" text="What era of Earth's oldest covered Precambrian period?">
+    <answer flag="1" text="Archean"/>
+    <answer flag="1" text="Proterozoic"/>
+    <answer flag="0" text="Paleozoic"/>
+    <answer flag="0" text="Mesozoic"/>
+    <answer flag="0" text="Cainozoic"/>
+  </question>
+</testing>

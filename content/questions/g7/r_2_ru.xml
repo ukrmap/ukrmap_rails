@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ОКЕАНЫ">
+  <question level="1" simple="True" text="Какой океан является самым большим на планете?">
+    <answer flag="0" text="Атлантический"/>
+    <answer flag="1" text="Тихий"/>
+    <answer flag="0" text="Индийский"/>
+    <answer flag="0" text="Северный Ледовитый"/>
+  </question>
+  <question level="1" simple="True" text="Под влиянием каких факторов возникают морские течения?">
+    <answer flag="1" text="Постоянных ветров"/>
+    <answer flag="0" text="Очертаний берегов"/>
+    <answer flag="0" text="Движения дна океанов"/>
+  </question>
+  <question level="1" simple="True" text="Какую глубину имеет желоб Пуэрто-Рико?">
+    <answer flag="0" text="11022 м"/>
+    <answer flag="1" text="8742 м"/>
+    <answer flag="0" text="9783 м"/>
+  </question>
+  <question level="1" simple="True" text="Какой океан является самым теплым?">
+    <answer flag="1" text="Индийский"/>
+    <answer flag="0" text="Атлантический"/>
+    <answer flag="0" text="Тихий"/>
+  </question>
+  <question level="1" simple="True" text="Свое название Тихий океан получил от:">
+    <answer flag="0" text="Марко Поло"/>
+    <answer flag="1" text="Фернана Магеллана"/>
+    <answer flag="0" text="Христофора Колумба"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer flag="0" text="Северный Ледовитый океан - наименьший среди океанов"/>
+    <answer flag="0" text="По сравнению с Тихим Атлантический океан значительно больше ощущает влияние суши"/>
+    <answer flag="1" text="Органический мир океанов богатый в глубинах океанов"/>
+  </question>
+  <question level="1" simple="True" text="В какой части Атлантического океана наблюдается наибольшая соленость?">
+    <answer flag="0" text="В местах, где в океан впадают мощные реки"/>
+    <answer flag="1" text="В тропических широтах"/>
+    <answer flag="0" text="В полярных широтах"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer flag="1" text="В Индийском океане нет срединно-океанических хребтов"/>
+    <answer flag="0" text="Индийский океан - соленый на планете"/>
+    <answer flag="0" text="Индийский океан - самый теплый на планете"/>
+  </question>
+  <question level="1" simple="True" text="Главную роль в формировании морских течений Северного Ледовитого океана играет:">
+    <answer flag="0" text="атмосферная циркуляция"/>
+    <answer flag="1" text="мощный поток вод Атлантического океана"/>
+    <answer flag="0" text="рельеф дна океана"/>
+  </question>
+  <question level="1" simple="True" text="Наибольшая соленость Северного Ледовитого океана наблюдается:">
+    <answer flag="0" text="в местах, где в океан впадают реки"/>
+    <answer flag="1" text="там, где в океан впадают воды Атлантического и Тихого океанов"/>
+    <answer flag="0" text="в центральной части океана"/>
+  </question>
+  <question level="1" simple="True" text="Какую глубину имеет Марианский желоб?">
+    <answer flag="0" text="8 848 м"/>
+    <answer flag="0" text="8742 м"/>
+    <answer flag="1" text="11 022 м"/>
+  </question>
+  <question level="1" simple="True" text="Какое море является самым соленым?">
+    <answer flag="0" text="Средиземное"/>
+    <answer flag="0" text="Черное"/>
+    <answer flag="1" text="Красное"/>
+  </question>
+</testing>

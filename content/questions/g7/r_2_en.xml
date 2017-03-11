@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="OCEAN">
+  <question level="1" simple="True" text="Which ocean is the largest on the planet?">
+    <answer flag="0" text="Atlantic"/>
+    <answer flag="1" text="Quiet"/>
+    <answer flag="0" text="Indian"/>
+    <answer flag="0" text="Arctic"/>
+  </question>
+  <question level="1" simple="True" text="Under the influence of factors which have sea currents?">
+    <answer flag="1" text="Permanent winds"/>
+    <answer flag="0" text="Contour banks"/>
+    <answer flag="0" text="Movement of Ocean Floor"/>
+  </question>
+  <question level="1" simple="True" text="What is the depth of groove Puerto Rico?">
+    <answer flag="0" text="11 022 m"/>
+    <answer flag="1" text="8742 m"/>
+    <answer flag="0" text="9783 m"/>
+  </question>
+  <question level="1" simple="True" text="Which ocean is the warmest?">
+    <answer flag="1" text="Indian"/>
+    <answer flag="0" text="Atlantic"/>
+    <answer flag="0" text="Quiet"/>
+  </question>
+  <question level="1" simple="True" text="The name received from the Pacific Ocean:">
+    <answer flag="0" text="Marco Polo"/>
+    <answer flag="1" text="Ferdinand Magellan"/>
+    <answer flag="0" text="Christopher Columbus"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Arctic Ocean - the smallest among the oceans"/>
+    <answer flag="0" text="Compared to the Pacific Ocean is much more exposed land"/>
+    <answer flag="1" text="The organic world richest ocean in the depths of the oceans"/>
+  </question>
+  <question level="1" simple="True" text="In which part of the Atlantic there is the greatest salinity?">
+    <answer flag="0" text="In places where the ocean flow into the powerful river"/>
+    <answer flag="1" text="In tropical latitudes"/>
+    <answer flag="0" text="In polar latitudes"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="1" text="In the Indian Ocean is not the Mid-ocean ridges"/>
+    <answer flag="0" text="Indian Ocean - naysolonishyy on the planet"/>
+    <answer flag="0" text="Indian Ocean - the hottest on the planet"/>
+  </question>
+  <question level="1" simple="True" text="The main role in the formation of sea currents of the Arctic Ocean plays:">
+    <answer flag="0" text="atmospheric circulation"/>
+    <answer flag="1" text="powerful stream of water of Atlantic Ocean"/>
+    <answer flag="0" text="ocean floor relief"/>
+  </question>
+  <question level="1" simple="True" text="The highest salinity of the Arctic Ocean have:">
+    <answer flag="0" text="where rivers flow into the ocean"/>
+    <answer flag="1" text="where the water flowing into the ocean of the Atlantic and Pacific Oceans"/>
+    <answer flag="0" text="in the central part of the ocean"/>
+  </question>
+  <question level="1" simple="True" text="What has the Marianas Trench depth?">
+    <answer flag="0" text="8848 m"/>
+    <answer flag="0" text="8742 m"/>
+    <answer flag="1" text="11 022 m"/>
+  </question>
+  <question level="1" simple="True" text="What sea is naysolonishym?">
+    <answer flag="0" text="Mediterranean"/>
+    <answer flag="0" text="Black"/>
+    <answer flag="1" text="Red"/>
+  </question>
+</testing>

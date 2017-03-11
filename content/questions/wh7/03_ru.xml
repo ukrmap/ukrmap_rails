@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Борьба народов Европы и Азии против чужеземных захватчиков">
+  <question text="Когда курултай предоставил Темучжина титул Чингисхан?">
+    <answer flag="0" text="1199"/>
+    <answer flag="1" text="1206"/>
+    <answer flag="0" text="1223"/>
+  </question>
+  <question text="Где князь Александр Невский разбил немецких рыцарей-крестоносцев 5 апреля 1242?">
+    <answer flag="0" text="около г. Нева"/>
+    <answer flag="0" text="под стенами Пскова"/>
+    <answer flag="1" text="на кризисе Чудского озера"/>
+  </question>
+  <question text="Как европейцы называли арабов, проживавших на Пиренейском полуострове?">
+    <answer flag="0" text="турки"/>
+    <answer flag="1" text="мавры"/>
+    <answer flag="0" text="бедуины"/>
+  </question>
+  <question text="Земли Новгородской земли пытались захватить">
+    <answer flag="0" text="Орден тамплиеров"/>
+    <answer flag="1" text="Орден меченосцев"/>
+    <answer flag="0" text="Тевтонский орден"/>
+    <answer flag="0" text="Мальтийский орден"/>
+  </question>
+  <question text="Реконкиста продолжалась">
+    <answer flag="1" text="8 веков"/>
+    <answer flag="0" text="10 веков"/>
+    <answer flag="0" text="12 веков."/>
+  </question>
+  <question text="Поражение в какой битве заставила Византию окончательно отказаться от восточных территорий?">
+    <answer flag="1" text="при Мириокефали"/>
+    <answer flag="0" text="при Акре"/>
+    <answer flag="0" text="при Анкаре"/>
+  </question>
+  <question text="Какая из трех империй не вписывается логический ряд?">
+    <answer flag="0" text="Трапезундская"/>
+    <answer flag="0" text="Болдуин"/>
+    <answer flag="1" text="Латинская"/>
+  </question>
+  <question text="Румский султанат основали в Малой Азии">
+    <answer flag="0" text="турки-османы"/>
+    <answer flag="1" text="турки-сельджуки"/>
+    <answer flag="0" text="арабы."/>
+  </question>
+  <question text="Какую наибольшей страну покорили монголы?">
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Персия"/>
+    <answer flag="0" text="Русь"/>
+  </question>
+  <question text="Батый основал государство">
+    <answer flag="1" text="Золотая Орда"/>
+    <answer flag="0" text="Хорезм"/>
+    <answer flag="0" text="Крымское ханство."/>
+  </question>
+  <question text="Когда крестоносцы захватили Константинополь?">
+    <answer flag="0" text="1096"/>
+    <answer flag="0" text="1192"/>
+    <answer flag="1" text="1204"/>
+  </question>
+  <question text="Основателем последней династии византийских василевсов был">
+    <answer flag="0" text="Мануил I Комнин"/>
+    <answer flag="1" text="Михаил VIII Палеолог"/>
+    <answer flag="0" text="Иоанн III Ласкарис."/>
+  </question>
+</testing>

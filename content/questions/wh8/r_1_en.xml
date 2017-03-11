@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Age of Discovery">
+  <question level="1" simple="True" text="What continents have been known to civilized nations of the Old World before the Age of Discovery?">
+    <answer flag="1" text="Asia"/>
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="North America"/>
+    <answer flag="0" text="South America"/>
+    <answer flag="1" text="Europe"/>
+    <answer flag="0" text="Antarctica"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="Who in the second half XVII. controlled the trade routes through Egypt and the Red Sea?">
+    <answer flag="0" text="Indians"/>
+    <answer flag="1" text="Ottoman Turks"/>
+    <answer flag="0" text="Spanish"/>
+    <answer flag="0" text="Italians"/>
+    <answer flag="0" text="Portuguese"/>
+    <answer flag="0" text="Arabs"/>
+  </question>
+  <question level="1" simple="True" text="What is the ocean at the end of XV century. Portuguese sailors called the &quot;Sea of darkness?">
+    <answer flag="0" text="Quiet"/>
+    <answer flag="1" text="Atlantic"/>
+    <answer flag="0" text="Indian"/>
+    <answer flag="0" text="Arctic"/>
+  </question>
+  <question level="1" simple="True" text="What was the name of terrestrial trade route from China to the Mediterranean?">
+    <answer flag="0" text="Path fragrances &quot;"/>
+    <answer flag="0" text="&quot;The path of Varangians the Greeks"/>
+    <answer flag="1" text="&quot;Silk Road&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Who led the expedition that first winter in 1488 obihnula west coast of Africa, reached its southern edge and reached the Indian Ocean?">
+    <answer flag="1" text="Bartolomeo Dias"/>
+    <answer flag="0" text="Vasco da Gama"/>
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="0" text="Ferdinand Magellan"/>
+  </question>
+  <question level="1" simple="True" text="What was discovered sea route to India along the western coast of Africa?">
+    <answer flag="0" text="Bartolomeo Dias"/>
+    <answer flag="1" text="Vasco da Gama"/>
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="0" text="Ferdinand Magellan"/>
+  </question>
+  <question level="1" simple="True" text="Specify a date that is the day the discovery of America by Columbus H.:">
+    <answer flag="0" text="September 1"/>
+    <answer flag="1" text="October 12"/>
+    <answer flag="0" text="December 14"/>
+    <answer flag="0" text="July 5"/>
+    <answer flag="0" text="1485"/>
+    <answer flag="1" text="1492"/>
+    <answer flag="0" text="1494"/>
+    <answer flag="0" text="1498"/>
+  </question>
+  <question level="1" simple="True" text="Who and when the first round the world headed?">
+    <answer flag="0" text="Vasco da Gama"/>
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="1" text="Ferdinand Magellan"/>
+    <answer flag="0" text="Francis Drake"/>
+    <answer flag="0" text="1488-1489 biennium"/>
+    <answer flag="0" text="1491-1492 biennium"/>
+    <answer flag="0" text="1497-1499 biennium"/>
+    <answer flag="1" text="1519-1521 biennium"/>
+  </question>
+  <question level="1" simple="True" text="Pirates of Her Royal Majesty &quot;were:">
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="0" text="Ferdinand Magellan"/>
+    <answer flag="1" text="Francis Drake"/>
+    <answer flag="0" text="Walter Raleigh"/>
+  </question>
+  <question level="1" simple="True" text="What was the name of the first English colony in North America founded by Walter Raleigh?">
+    <answer flag="0" text="Louisiana"/>
+    <answer flag="1" text="Virginia"/>
+    <answer flag="0" text="New England"/>
+    <answer flag="0" text="Canada"/>
+  </question>
+  <question level="1" simple="True" text="When was destroyed &quot;invincible armada&quot;?">
+    <answer flag="0" text="1499"/>
+    <answer flag="0" text="1521"/>
+    <answer flag="0" text="1560"/>
+    <answer flag="1" text="1588"/>
+  </question>
+  <question level="1" simple="True" text="On a map of the continent because of the great geographical discoveries were named &quot;Pepper Coast, Gold Coast, Nevilnytskyy Coast?">
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="Australia"/>
+    <answer flag="0" text="North America"/>
+    <answer flag="0" text="South America"/>
+  </question>
+</testing>

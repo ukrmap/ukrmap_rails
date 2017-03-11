@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries of the Caucasus at the end of XX century.">
+  <question level="1" simple="True" text="In what year were pogroms against Armenians in Azerbaijan?">
+    <answer flag="1" text="1988"/>
+    <answer flag="0" text="1990"/>
+    <answer flag="0" text="1999"/>
+  </question>
+  <question level="1" simple="True" text="When held Georgian-Ossetian war?">
+    <answer flag="1" text="1990-1992 biennium"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="0" text="In 1992-1993"/>
+  </question>
+  <question level="1" simple="True" text="What events happened in 1992?">
+    <answer flag="0" text="Vahabitske uprising in Dagestan"/>
+    <answer flag="1" text="Ossetians, Ingush conflict"/>
+    <answer flag="0" text="Karabakh conflict"/>
+    <answer flag="1" text="Armed clashes in Tbilisi"/>
+  </question>
+  <question level="1" simple="True" text="What events happened in 1992-1993?">
+    <answer flag="0" text="Karabakh conflict"/>
+    <answer flag="1" text="Georgian-Abkhazian war"/>
+    <answer flag="1" text="Civil War in Georgia"/>
+  </question>
+  <question level="1" simple="True" text="In which year there was a military coup in Azerbaijan?">
+    <answer flag="0" text="1990"/>
+    <answer flag="0" text="1992"/>
+    <answer flag="1" text="1993"/>
+    <answer flag="0" text="1999"/>
+  </question>
+  <question level="1" simple="True" text="When there were Chechen (Russian-ichkeriyski) War?">
+    <answer flag="0" text="In 1992-1993"/>
+    <answer flag="1" text="1994-1996 he"/>
+    <answer flag="1" text="1999-2002 he"/>
+  </question>
+</testing>

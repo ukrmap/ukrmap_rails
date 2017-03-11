@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="German states in the XVIII century.">
+  <question level="1" simple="True" text="What peace treaty mid XVII. strengthened the political fragmentation of Germany?">
+    <answer flag="1" text="Westphalia"/>
+    <answer flag="0" text="Augsburg"/>
+    <answer flag="0" text="Viennese"/>
+  </question>
+  <question level="1" simple="True" text="Which dynasty emperors were elected Holy Roman Empire of the German nation?">
+    <answer flag="0" text="Hohenzollern"/>
+    <answer flag="0" text="Bourbon"/>
+    <answer flag="1" text="Habsburg"/>
+    <answer flag="0" text="Luxembourg"/>
+  </question>
+  <question level="1" simple="True" text="The only woman on the imperial throne of the Habsburg dynasty was:">
+    <answer flag="0" text="Marie Antoinette"/>
+    <answer flag="0" text="Mary Stuart"/>
+    <answer flag="1" text="Maria Theresa"/>
+  </question>
+  <question level="1" simple="True" text="When Prussia became independent of Poland?">
+    <answer flag="0" text="1648"/>
+    <answer flag="1" text="1657"/>
+    <answer flag="0" text="1701"/>
+    <answer flag="0" text="1762"/>
+  </question>
+  <question level="1" simple="True" text="Which of Brandenburg-Prussian rulers first acquired the royal title?">
+    <answer flag="0" text="Friedrich-Wilhelm"/>
+    <answer flag="1" text="Friedrich and"/>
+    <answer flag="0" text="Friedrich II"/>
+    <answer flag="0" text="Frederick William I"/>
+  </question>
+  <question level="1" simple="True" text="What are the emperors of Austria pursued a policy in the spirit of &quot;enlightened absolutism&quot;?">
+    <answer flag="0" text="Charles VI"/>
+    <answer flag="1" text="Maria Theresa and Joseph II"/>
+    <answer flag="0" text="Joseph II"/>
+  </question>
+  <question level="1" simple="True" text="What is the name got a war that lasted for 1756-1763 years?">
+    <answer flag="0" text="North"/>
+    <answer flag="0" text="Thirty"/>
+    <answer flag="1" text="Of seven"/>
+    <answer flag="0" text="for &quot;Austrian Succession&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Which of these wars has not changed the political map of Europe?">
+    <answer flag="0" text="by the &quot;Spanish heritage&quot;"/>
+    <answer flag="0" text="for &quot;Austrian Succession&quot;"/>
+    <answer flag="1" text="Of seven"/>
+  </question>
+  <question level="1" simple="True" text="Is Prussia was part of the Holy Roman Empire?">
+    <answer flag="0" text="So"/>
+    <answer flag="0" text="No"/>
+    <answer flag="1" text="Private ownership"/>
+  </question>
+  <question level="1" simple="True" text="On which continent event took place seven years war?">
+    <answer flag="1" text="Asia"/>
+    <answer flag="1" text="Europe"/>
+    <answer flag="0" text="Africa"/>
+    <answer flag="0" text="South America"/>
+    <answer flag="1" text="North America"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="What dynasty rule in Prussia?">
+    <answer flag="0" text="Habsburg"/>
+    <answer flag="1" text="Hohenzollern"/>
+    <answer flag="0" text="Bourbon"/>
+  </question>
+  <question level="1" simple="True" text="Extend logical row: Catherine II, Frederick II ...">
+    <answer flag="0" text="Peter"/>
+    <answer flag="0" text="Louis XVII"/>
+    <answer flag="1" text="Maria Theresa, Joseph II"/>
+  </question>
+</testing>

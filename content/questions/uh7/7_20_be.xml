@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Пісьменнасць, адукацыя, навуковыя веды, літаратура і музыка Кіеўскай Русі і Галіцка-Валынскай дзяржавы">
+  <question level="1" simple="True" text="Калі быў створаны Астрамірава Евангелле?">
+    <answer flag="1" text="У 1056 - 1057 рр."/>
+    <answer flag="0" text="У 1185 - 1187 рр."/>
+  </question>
+  <question level="1" simple="True" text="Што адбылося раней?">
+    <answer flag="1" text="Стварэння «Слова пра паход Ігаравы»"/>
+    <answer flag="0" text="Заключэнне Галіцка-Валынскай летапісе"/>
+  </question>
+  <question level="1" simple="True" text="Хто такі Алипий Пячэрскі?">
+    <answer flag="0" text="Адзін з першых Пячэрскіх манахаў, вядомы лекар XI ст."/>
+    <answer flag="1" text="Кіеўскі іканапісец, манах Кіева-Пячэрскага манастыра"/>
+  </question>
+  <question level="1" simple="True" text="Каго лічаць аўтарам і складальнікам «Аповесці часовых гадоў»?">
+    <answer flag="1" text="Нестара"/>
+    <answer flag="0" text="Хвядоса Пячэрскага"/>
+  </question>
+  <question level="1" simple="True" text="Пра што распавядаецца ў &quot;Аповесці мінулых гадоў&quot;?">
+    <answer flag="1" text="Выкладзены падзеі на землях Русі ад 860 да 1111"/>
+    <answer flag="0" text="Пераказваецца гісторыя Кіева-Пячэрскага манастыра, жыццяпіс яго першых падзвіжнікаў"/>
+  </question>
+  <question level="1" simple="True" text="Які з летапісаў з'яўляецца непасрэдным працягам &quot;Аповесці мінулых гадоў&quot;?">
+    <answer flag="1" text="Кіеўскі летапіс"/>
+    <answer flag="0" text="Галіцка-Валынскі"/>
+  </question>
+  <question level="1" simple="True" text="Аўтарам якога вядомага твора з'яўляецца мітрапаліт Іларыён?">
+    <answer flag="0" text="&quot;Павучанні дзецям&quot;"/>
+    <answer flag="1" text="&quot;Слова пра закон і ласцы&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Мове ў часы Кіеўскай Русі пісалі богаслужбовыя кнігі?">
+    <answer flag="1" text="Царкоўнаславянскай"/>
+    <answer flag="0" text="Украінскі"/>
+  </question>
+  <question level="1" simple="True" text="Як называецца першая датаваная рукапіс Русі?">
+    <answer flag="1" text="Астрамірава Евангелле"/>
+    <answer flag="0" text="&quot;Слова пра паход Ігаравы&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Пры двары якога валынскага князя існавала вялікая майстэрні?">
+    <answer flag="1" text="Уладзіміра Васільевіча"/>
+    <answer flag="0" text="Рамана Мсціславіча"/>
+  </question>
+  <question level="1" simple="True" text="За якога князя з'явіліся першыя школы для навучання дзяцей з бліжэйшага атачэньня князя">
+    <answer flag="1" text="У княжанне Уладзіміра Святаславіча"/>
+    <answer flag="0" text="У княжанне Яраслава Мудрага"/>
+  </question>
+  <question level="1" simple="True" text="На якіх музычных інструментах гулялі тагачасныя музыкі?">
+    <answer flag="1" text="Гуслі, гудкі, рагах, свісткі, свирилях, бубнах"/>
+    <answer flag="0" text="Кобза, Бандура, лірах, тулумбас"/>
+  </question>
+</testing>

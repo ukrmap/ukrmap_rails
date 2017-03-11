@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Міжнародныя адносіны ў канцы XIX - пачатку XX ст.">
+  <question level="1" simple="True" text="Які рэгіён Еўропы атрымаў назву &quot;парахавы склеп&quot;?">
+    <answer flag="0" text="Заходняя Еўропа"/>
+    <answer flag="1" text="Балканы"/>
+    <answer flag="0" text="Расія"/>
+  </question>
+  <question level="1" simple="True" text="Якая каланіяльная імперыя была найбуйнейшай у пачатку XX стагоддзя?">
+    <answer flag="0" text="Францыі"/>
+    <answer flag="0" text="Германіі"/>
+    <answer flag="1" text="Англіі"/>
+  </question>
+  <question level="1" simple="True" text="Калі было завершана фарміраванне Антанты?">
+    <answer flag="0" text="1893"/>
+    <answer flag="1" text="1904"/>
+    <answer flag="0" text="1907"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны ўтварылі Траісты саюз?">
+    <answer flag="1" text="Германія"/>
+    <answer flag="0" text="Турцыя"/>
+    <answer flag="0" text="Расія"/>
+    <answer flag="1" text="Аўстра-Венгрыя"/>
+    <answer flag="1" text="Італія"/>
+    <answer flag="0" text="Іспанія"/>
+  </question>
+  <question level="1" simple="True" text="Якая вайна стала першай у барацьбе за перадзел свету?">
+    <answer flag="0" text="англа-бурская"/>
+    <answer flag="1" text="іспана-амерыканская"/>
+    <answer flag="0" text="руска-японская"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў створаны II Інтэрнацыянал?">
+    <answer flag="0" text="1864"/>
+    <answer flag="1" text="1889"/>
+    <answer flag="0" text="1919"/>
+  </question>
+  <question level="1" simple="True" text="Канфлікт паміж любымі дзяржавамі быў ключавым у пачатку XX стагоддзя?">
+    <answer flag="0" text="ЗША і Англіяй"/>
+    <answer flag="0" text="Расеяй і Японіяй"/>
+    <answer flag="1" text="Англіяй і Германіяй"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў створаны Саюз трох імператараў?">
+    <answer flag="0" text="1864"/>
+    <answer flag="1" text="1873"/>
+    <answer flag="0" text="1882"/>
+  </question>
+  <question level="1" simple="True" text="Колькі было Мараканскі крызісаў?">
+    <answer flag="1" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Сучаснае назву Сіяма">
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Тайланд"/>
+    <answer flag="0" text="Бангладэш"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых афрыканскіх краін заставалася незалежнай у 1914 г.?">
+    <answer flag="0" text="Самалі"/>
+    <answer flag="0" text="Мазамбік"/>
+    <answer flag="1" text="Ліберыя"/>
+    <answer flag="0" text="Сенегал"/>
+  </question>
+  <question level="1" simple="True" text="Якая краіна ў пачатку XX стагоддзя адмовілася ад палітыкі &quot;бліскучай ізаляцыі&quot;?">
+    <answer flag="0" text="Францыя"/>
+    <answer flag="0" text="Расія"/>
+    <answer flag="1" text="Англія"/>
+    <answer flag="0" text="Германія"/>
+  </question>
+</testing>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Вялікія геаграфічныя адкрыцці">
+  <question level="1" simple="True" text="Якія кантыненты былі вядомыя цывілізаваным народам Старога свету напярэдадні Вялікіх геаграфічных адкрыццяў?">
+    <answer flag="1" text="Азія"/>
+    <answer flag="1" text="Афрыка"/>
+    <answer flag="0" text="Паўночная Амерыка"/>
+    <answer flag="0" text="Паўднёвая Амерыка"/>
+    <answer flag="1" text="Еўропа"/>
+    <answer flag="0" text="Антарктыда"/>
+    <answer flag="0" text="Аўстралія"/>
+  </question>
+  <question level="1" simple="True" text="Хто ў другой палове XVII ст. кантраляваў гандлёвыя шляхі праз Егіпет і Чырвонае мора?">
+    <answer flag="0" text="Індыйцы"/>
+    <answer flag="1" text="Туркі-асманы"/>
+    <answer flag="0" text="Іспанцы"/>
+    <answer flag="0" text="Італьянцы"/>
+    <answer flag="0" text="Партугальцы"/>
+    <answer flag="0" text="Арабы"/>
+  </question>
+  <question level="1" simple="True" text="Які акіян у канцы XV ст. партугальскія мараплаўцы называлі &quot;Морам змроку?">
+    <answer flag="0" text="Ціхі"/>
+    <answer flag="1" text="Атлантычны"/>
+    <answer flag="0" text="Індыйскі"/>
+    <answer flag="0" text="Паўночны Ледавіты"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву меў сухапутны гандлёвы шлях ад Кітая да Міжземнага мора?">
+    <answer flag="0" text="&quot;Шлях водараў&quot;"/>
+    <answer flag="0" text="&quot;Шлях з вараг у грэкі&quot;"/>
+    <answer flag="1" text="&quot;Вялікі шаўковы шлях&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Хто ўзначальваў экспедыцыю, якая зімой 1488 ўпершыню абмінуў заходняе ўзбярэжжа Афрыкі, дасягнула яе паўднёвага боку і выйшла ў Індыйскі акіян?">
+    <answer flag="1" text="Бартоломео Диаш"/>
+    <answer flag="0" text="Васка да Гама"/>
+    <answer flag="0" text="Хрыстафор Калумб"/>
+    <answer flag="0" text="Фернан Магелан"/>
+  </question>
+  <question level="1" simple="True" text="Кім быў адкрыты марскі шлях у Індыю ўздоўж заходняга ўзбярэжжа Афрыкі?">
+    <answer flag="0" text="Барталамеа Диашем"/>
+    <answer flag="1" text="Васка да Гама"/>
+    <answer flag="0" text="Хрыстафорам Калумбам"/>
+    <answer flag="0" text="Фернанам Магеланаў"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце дату, якая лічыцца днём адкрыцця Амерыкі Х. Калумбам:">
+    <answer flag="0" text="1 верасня"/>
+    <answer flag="1" text="Кастрычнік 12"/>
+    <answer flag="0" text="14 сьнежня"/>
+    <answer flag="0" text="5 Ліпеня"/>
+    <answer flag="0" text="1485"/>
+    <answer flag="1" text="1492"/>
+    <answer flag="0" text="1494"/>
+    <answer flag="0" text="1498"/>
+  </question>
+  <question level="1" simple="True" text="Хто і калі ўзначальваў першае кругасветнае падарожжа?">
+    <answer flag="0" text="Васка да Гама"/>
+    <answer flag="0" text="Хрыстафор Калумб"/>
+    <answer flag="1" text="Фернан Магелан"/>
+    <answer flag="0" text="Фрэнсіс Дрэйк"/>
+    <answer flag="0" text="1488-1489 гг"/>
+    <answer flag="0" text="1491-1492 гг"/>
+    <answer flag="0" text="1497-1499 гг"/>
+    <answer flag="1" text="1519-1521 гг"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Піратаў Яе Каралеўскага Вялікасці&quot; называлі:">
+    <answer flag="0" text="Хрыстафора Калумба"/>
+    <answer flag="0" text="Фернан Магеллана"/>
+    <answer flag="1" text="Фрэнсіса Дрэйка"/>
+    <answer flag="0" text="Уолтера Рэйл"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву мела першая ангельская калонія ў Паўночнай Амерыцы заснаваная Уолтарам Рэйл?">
+    <answer flag="0" text="Луізіяна"/>
+    <answer flag="1" text="Віргінія"/>
+    <answer flag="0" text="Новая Англія"/>
+    <answer flag="0" text="Канада"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў разгромлены &quot;Непераможны армаду&quot;?">
+    <answer flag="0" text="1499"/>
+    <answer flag="0" text="1521"/>
+    <answer flag="0" text="1560"/>
+    <answer flag="1" text="1588"/>
+  </question>
+  <question level="1" simple="True" text="На карце якога кантынента з прычыны Вялікіх геаграфічных адкрыццяў з'явіліся назвы &quot;перачны Бераг&quot;, &quot;Залаты Бераг&quot;, &quot;нявольніцкіх Бераг&quot;?">
+    <answer flag="1" text="Афрыка"/>
+    <answer flag="0" text="Аўстралія"/>
+    <answer flag="0" text="Паўночная Амерыка"/>
+    <answer flag="0" text="Паўднёвая Амерыка"/>
+  </question>
+</testing>

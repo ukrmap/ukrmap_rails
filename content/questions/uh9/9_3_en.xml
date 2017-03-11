@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands late eighteenth century.">
+  <question level="1" simple="True" text="Zaporozhskie land after the dissolution of New Sich became involved with the ...">
+    <answer flag="1" text="Azov Novorossiysk and provinces"/>
+    <answer flag="0" text="Novorossiysk province"/>
+    <answer flag="0" text="Astrakhan province"/>
+    <answer flag="0" text="Ekaterinoslavskogo province"/>
+  </question>
+  <question level="1" simple="True" text="In what year was founded Odessa?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1774"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1795"/>
+  </question>
+  <question level="1" simple="True" text="In what year was the first division of the Commonwealth?">
+    <answer flag="0" text="1770"/>
+    <answer flag="1" text="1772"/>
+    <answer flag="0" text="1776"/>
+    <answer flag="0" text="1778"/>
+  </question>
+  <question level="1" simple="True" text="What is the division of the Commonwealth, which occurred in the eighteenth century., Russian Empire gained Volhynia, Western Belarus, Lithuania?">
+    <answer flag="0" text="The first"/>
+    <answer flag="0" text="The second"/>
+    <answer flag="1" text="Third"/>
+    <answer flag="0" text="Fourth"/>
+  </question>
+  <question level="1" simple="True" text="Which country took part in the division of the Commonwealth last quarter of XVIII century.?">
+    <answer flag="1" text="Prussia"/>
+    <answer flag="1" text="Russian Empire"/>
+    <answer flag="0" text="Sweden"/>
+    <answer flag="1" text="Austrian Habsburg Monarchy"/>
+    <answer flag="0" text="Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="When was the Polish liberation uprising, led by Todeushem Kosciuszko?">
+    <answer flag="0" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1794"/>
+  </question>
+  <question level="1" simple="True" text="The right to own a certain region of the Ukrainian lands vested in the Constantinople Convention of Austria in 1775?">
+    <answer flag="0" text="Kholm"/>
+    <answer flag="0" text="Transcarpathia"/>
+    <answer flag="1" text="Bukovina"/>
+    <answer flag="0" text="Galicia"/>
+  </question>
+  <question level="1" simple="True" text="What year in Left Bank Ukraine Cossack regiments were eliminated and converted into regular units of the Russian army?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1775"/>
+    <answer flag="0" text="1781"/>
+    <answer flag="1" text="1783"/>
+  </question>
+  <question level="1" simple="True" text="What kind of reasoning is correct? As a result, Partitions of Poland the majority of Ukrainian lands: 1) appeared in the Russian Empire, and 2) received the Provinces of administrative divisions.">
+    <answer flag="1" text="Both are valid"/>
+    <answer flag="0" text="Only 1 correct option"/>
+    <answer flag="0" text="Only 2 are valid"/>
+    <answer flag="0" text="Both incorrect"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the events of the Russian Empire entered the Black Sea-land between the Dniester and Southern Bug?">
+    <answer flag="0" text="Second Partition of Poland"/>
+    <answer flag="0" text="Third Partition of Poland"/>
+    <answer flag="0" text="Russo-Turkish war of 1768-1774"/>
+    <answer flag="1" text="Russo-Turkish War of 1787-1791 biennium"/>
+  </question>
+  <question level="1" simple="True" text="Host countries which took part in suppressing the Polish uprising led by T. Kosciuszko?">
+    <answer flag="1" text="Russian Empire"/>
+    <answer flag="0" text="Ottoman Empire"/>
+    <answer flag="0" text="Austrian Habsburg Monarchy"/>
+    <answer flag="1" text="Prussia"/>
+  </question>
+  <question level="1" simple="True" text="In what year was eliminated Crimean Khanate?">
+    <answer flag="0" text="1775"/>
+    <answer flag="1" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1795"/>
+  </question>
+</testing>

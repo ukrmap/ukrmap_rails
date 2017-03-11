@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The Russian state at the end of XVII - XVIII century.">
+  <question level="1" simple="True" text="Who mentioned Russia's rulers reigned first?">
+    <answer flag="0" text="Catherine II"/>
+    <answer flag="0" text="Elizabeth I"/>
+    <answer flag="1" text="Peter"/>
+  </question>
+  <question level="1" simple="True" text="To which the state had to struggle for the withdrawal of Peter I of Russia to the Baltic Sea?">
+    <answer flag="0" text="Poland"/>
+    <answer flag="1" text="Sweden"/>
+    <answer flag="0" text="Ottoman Empire"/>
+  </question>
+  <question level="1" simple="True" text="Russia Empire was proclaimed in:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1721"/>
+    <answer flag="0" text="1725"/>
+  </question>
+  <question level="1" simple="True" text="Catherine II of Russia struggled for access to the coast:">
+    <answer flag="0" text="Baltic Sea"/>
+    <answer flag="1" text="Black Sea"/>
+    <answer flag="0" text="Pacific"/>
+  </question>
+  <question level="1" simple="True" text="Which continents spread of Russian Empire at the end of XVIII century.?">
+    <answer flag="1" text="Europe"/>
+    <answer flag="1" text="Asia"/>
+    <answer flag="0" text="Africa"/>
+    <answer flag="1" text="North America"/>
+    <answer flag="0" text="South America"/>
+  </question>
+  <question level="1" simple="True" text="Epoch &quot;the Palace coup&quot; in Russia has started:">
+    <answer flag="1" text="after the death of Peter"/>
+    <answer flag="0" text="after the death of Elizabeth I"/>
+    <answer flag="0" text="reign of Catherine II"/>
+  </question>
+  <question level="1" simple="True" text="In a European war Russia took part during the reign of Elizabeth I?">
+    <answer flag="0" text="Thirty"/>
+    <answer flag="0" text="North"/>
+    <answer flag="1" text="Of seven"/>
+  </question>
+  <question level="1" simple="True" text="How many Partitions of Poland took place in the XVIII century.?">
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Peasant war by O. Joe took over:">
+    <answer flag="0" text="1756-1763 biennium"/>
+    <answer flag="0" text="1768-1774 biennium"/>
+    <answer flag="1" text="1773-1775 biennium"/>
+  </question>
+  <question level="1" simple="True" text="When was eliminated Sich?">
+    <answer flag="0" text="1710"/>
+    <answer flag="0" text="1734"/>
+    <answer flag="1" text="1775"/>
+  </question>
+  <question level="1" simple="True" text="Imperial Russian capital Saint Petersburg was founded in:">
+    <answer flag="0" text="1700"/>
+    <answer flag="1" text="1703"/>
+    <answer flag="0" text="1721"/>
+  </question>
+  <question level="1" simple="True" text="What was the name during the reign of Catherine II?">
+    <answer flag="1" text="Golden Age"/>
+    <answer flag="0" text="&quot;Silver Age&quot;"/>
+    <answer flag="0" text="Epoch &quot;the Palace coup&quot;"/>
+  </question>
+</testing>

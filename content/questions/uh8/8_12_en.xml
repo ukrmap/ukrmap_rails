@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Formation of Ukrainian Cossack state - Hetman">
+  <question level="1" simple="True" text="When the freed Ukrainian lands was established Ukrainian central and local government, judicial institutions, introduced a new principle of administrative-territorial division?">
+    <answer flag="0" text="During the winter-spring 1648"/>
+    <answer flag="1" text="During the summer-autumn 1648"/>
+  </question>
+  <question level="1" simple="True" text="What was the highest legislative body in the Ukrainian Cossack state?">
+    <answer flag="1" text="General Council"/>
+    <answer flag="0" text="Hetman government"/>
+  </question>
+  <question level="1" simple="True" text="He served on the council officer?">
+    <answer flag="0" text="Getman, colonels, captains"/>
+    <answer flag="1" text="Getman, General Staff, Colonel"/>
+  </question>
+  <question level="1" simple="True" text="He served on the General Staff?">
+    <answer flag="1" text="General Secretary, ARCHITECTURE, two captain, two judges"/>
+    <answer flag="0" text="General Secretary, ARCHITECTURE, two captain, two judges and colonels"/>
+  </question>
+  <question level="1" simple="True" text="What administrative and territorial units divided Hetman?">
+    <answer flag="0" text="In the province, counties, land"/>
+    <answer flag="1" text="On the shelves and hundreds"/>
+  </question>
+  <question level="1" simple="True" text="Which city by B. Khmelnitsky Hetman was the capital?">
+    <answer flag="1" text="Chyhypyn"/>
+    <answer flag="0" text="Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="How many bands divided territory of the Ukrainian Hetman State?">
+    <answer flag="0" text="On 10 regiments"/>
+    <answer flag="1" text="At 16 polkiv"/>
+  </question>
+  <question level="1" simple="True" text="Who carried out the authorities in the regiment?">
+    <answer flag="1" text="Colonel"/>
+    <answer flag="0" text="General Staff"/>
+  </question>
+  <question level="1" simple="True" text="What was the highest judicial institution in Get'manschyna?">
+    <answer flag="0" text="Regimental court"/>
+    <answer flag="1" text="General Court"/>
+  </question>
+  <question level="1" simple="True" text="Which of these figures was associate Khmelnytsky?">
+    <answer flag="1" text="Maxim Sergeant, Daniel Nechai, Zolotarenko Basil, Gregory Gulyanitskii, Mikhail Krichevsky, Ivan Bohun"/>
+    <answer flag="0" text="Krzysztof Kosinski, John Sulima, Dmitry Hun, Taras Tryasylo, Peter Konashevych-Sahaidachny, Dmitry Vishnevetsky"/>
+  </question>
+  <question level="1" simple="True" text="Which European countries were treated favorably or neutrally to the National Liberation War in Ukraine?">
+    <answer flag="0" text="France, Vatican, Austria, Spain"/>
+    <answer flag="1" text="Wallachia, Moldavia, Muscovy, Sweden, England"/>
+  </question>
+</testing>

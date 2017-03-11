@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Europe">
+  <question level="1" simple="True" text="What is characteristic of the demographic situation of most European countries?">
+    <answer flag="0" text="The second type of population reproduction"/>
+    <answer flag="1" text="The first type of population reproduction"/>
+    <answer flag="0" text="Population explosion"/>
+  </question>
+  <question level="1" simple="True" text="Which areas of engineering are traditional European Group of Seven?">
+    <answer flag="1" text="Automotive"/>
+    <answer flag="0" text="Tractor construction"/>
+    <answer flag="0" text="Heavy Machinery"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries has a monarchical form of government?">
+    <answer flag="0" text="France"/>
+    <answer flag="1" text="Norway"/>
+    <answer flag="0" text="Austria"/>
+    <answer flag="0" text="Ireland"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries has the highest level of urbanization?">
+    <answer flag="0" text="Germany"/>
+    <answer flag="0" text="Italy"/>
+    <answer flag="1" text="Iceland"/>
+    <answer flag="0" text="Great Britain"/>
+  </question>
+  <question level="1" simple="True" text="Combines the steel industry Ruri (Germany) focused on">
+    <answer flag="0" text="Deposits of iron ore"/>
+    <answer flag="1" text="coking coal"/>
+    <answer flag="0" text="full range of raw materials"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following ports of Western Europe belongs to the world?">
+    <answer flag="0" text="Oslo"/>
+    <answer flag="0" text="Glasgow"/>
+    <answer flag="1" text="Marseille"/>
+    <answer flag="0" text="Amsterdam"/>
+  </question>
+  <question level="1" simple="True" text="GNP leader and the largest in Europe is">
+    <answer flag="1" text="Germany"/>
+    <answer flag="0" text="Great Britain"/>
+    <answer flag="0" text="France"/>
+    <answer flag="0" text="Russia"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries are members of the euro zone (the area where the circulation of euro)">
+    <answer flag="1" text="Germany"/>
+    <answer flag="1" text="Portugal"/>
+    <answer flag="0" text="Sweden"/>
+    <answer flag="1" text="Ireland"/>
+  </question>
+  <question level="1" simple="True" text="What type of Transport of Russia took first place for loads?">
+    <answer flag="0" text="Automobile"/>
+    <answer flag="1" text="Railway"/>
+    <answer flag="0" text="Inland water"/>
+    <answer flag="0" text="Pipeline"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries is not a NATO member">
+    <answer flag="0" text="Lithuania"/>
+    <answer flag="1" text="Belarus"/>
+    <answer flag="0" text="Slovakia"/>
+    <answer flag="0" text="Hungary"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries are EU member?">
+    <answer flag="0" text="Norway"/>
+    <answer flag="0" text="Switzerland"/>
+    <answer flag="1" text="Spain"/>
+  </question>
+  <question level="1" simple="True" text="Please enter the river, which built the most powerful hydroelectric power stations in Russia?">
+    <answer flag="0" text="On"/>
+    <answer flag="1" text="Yenisei"/>
+    <answer flag="0" text="Volga"/>
+    <answer flag="0" text="Angara"/>
+  </question>
+</testing>

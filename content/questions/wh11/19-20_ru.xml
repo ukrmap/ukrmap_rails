@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Мир в 1950 г. и в 2008 г.">
+  <question level="1" simple="True" text="Какие владения были колониями Великобритании?">
+    <answer flag="1" text="Золотой Берег"/>
+    <answer flag="1" text="Бечуаналенд"/>
+    <answer flag="0" text="Макао"/>
+    <answer flag="0" text="Ифни"/>
+  </question>
+  <question level="1" simple="True" text="Как можно охарактеризовать отношения между СССР и США в конце 40-ых годов XX века">
+    <answer flag="1" text="&quot;Холодная война&quot;"/>
+    <answer flag="0" text="&quot;Горячая война&quot;"/>
+    <answer flag="0" text="&quot;Интифада&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Которые колониальные владения получили независимость до 1950 г.?">
+    <answer flag="1" text="Вьетнам"/>
+    <answer flag="1" text="Индонезия"/>
+    <answer flag="0" text="Камбоджа"/>
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Филиппины"/>
+  </question>
+  <question level="1" simple="True" text="Каково состояние деколонизации переживал мир в 1950 г.?">
+    <answer flag="1" text="Первый"/>
+    <answer flag="0" text="Второй"/>
+    <answer flag="0" text="Третий"/>
+    <answer flag="0" text="Четвертый"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны &quot;Большой восьмерки&quot; являются постоянными членами Совета безопасности ООН?">
+    <answer flag="1" text="Россия"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Япония"/>
+    <answer flag="1" text="Франция"/>
+    <answer flag="1" text="Великобритания"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны обрели независимость после 1989 г.?">
+    <answer flag="0" text="Ливия"/>
+    <answer flag="1" text="Латвия"/>
+    <answer flag="1" text="Литва"/>
+    <answer flag="0" text="Лесото"/>
+  </question>
+  <question level="1" simple="True" text="Какие политические вопросы стали причинами недоразумений между Россией и США в конце XX века?">
+    <answer flag="1" text="Расширение НАТО на Восток"/>
+    <answer flag="1" text="Урегулирование ближневосточного конфликта"/>
+    <answer flag="1" text="Урегулированию югославского конфликта"/>
+    <answer flag="0" text="Урегулирование кровавых конфликтов в Тропической и Южной Африке"/>
+  </question>
+  <question level="1" simple="True" text="Какая две глобальные проблемы считаются наиболее важными в начале XXI века?">
+    <answer flag="0" text="Информационная безопасность"/>
+    <answer flag="1" text="Международный терроризм"/>
+    <answer flag="0" text="Освоение космоса и Мирового океана"/>
+    <answer flag="1" text="Климатические изменения"/>
+  </question>
+</testing>

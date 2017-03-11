@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Cultural development">
+  <question text="The dominant artistic trends in the USSR was">
+    <answer flag="0" text="realism"/>
+    <answer flag="0" text="critical realism"/>
+    <answer flag="1" text="socialist realism"/>
+  </question>
+  <question text="Which group of countries in the cultural sphere 20-30's were under the complete control of the state?">
+    <answer flag="1" text="Germany, Italy, USSR"/>
+    <answer flag="0" text="England, France, USA"/>
+    <answer flag="0" text="Poland, Hungary, Romania"/>
+  </question>
+  <question text="Established V. Hroppiusom Bauhaus school in Germany identified the new trends">
+    <answer flag="0" text="References"/>
+    <answer flag="0" text="Painting"/>
+    <answer flag="1" text="Architecture"/>
+  </question>
+  <question text="C. Next was the founder">
+    <answer flag="0" text="Realism"/>
+    <answer flag="1" text="Surrealism"/>
+    <answer flag="0" text="socialist realism"/>
+    <answer flag="0" text="critical realism"/>
+  </question>
+  <question text="Film production center in the U.S. in 30 years was">
+    <answer flag="0" text="Chicago"/>
+    <answer flag="0" text="New York"/>
+    <answer flag="1" text="Hollywood"/>
+  </question>
+  <question text="The most politicized Olympics in the 20-30's became the Olympics">
+    <answer flag="0" text="Paris"/>
+    <answer flag="1" text="Berlin"/>
+    <answer flag="0" text="Los Angeles"/>
+  </question>
+  <question text="Kitsch - a">
+    <answer flag="1" text="mass production, designed for external effect"/>
+    <answer flag="0" text="kind of mass culture"/>
+    <answer flag="0" text="new kind of pop genre"/>
+  </question>
+  <question text="What new means of mass communication has become widely used in the 20-30's?">
+    <answer flag="0" text="Newspapers"/>
+    <answer flag="0" text="Journals"/>
+    <answer flag="1" text="Radio"/>
+    <answer flag="0" text="Film"/>
+  </question>
+  <question text="For the mass culture of countries with totalitarian regimes characteristic">
+    <answer flag="1" text="propahandyzm"/>
+    <answer flag="0" text="accountability"/>
+    <answer flag="0" text="democracy, relaxation"/>
+  </question>
+  <question text="What basic role played by mass culture in totalitarian states?">
+    <answer flag="0" text="Entertainment"/>
+    <answer flag="1" text="Ideological"/>
+    <answer flag="0" text="Educational"/>
+  </question>
+  <question text="Art, which was reduced to a ratio of lines and shapes, was named">
+    <answer flag="1" text="abstract"/>
+    <answer flag="0" text="dekadenstvo"/>
+    <answer flag="0" text="surrealism"/>
+  </question>
+  <question text="In which country in the 20-30's was &quot;cultural revolution&quot;?">
+    <answer flag="0" text="Germany"/>
+    <answer flag="0" text="Italy"/>
+    <answer flag="1" text="USSR"/>
+  </question>
+</testing>

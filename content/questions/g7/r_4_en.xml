@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="AUSTRALIA">
+  <question level="1" simple="True" text="Area of Australia">
+    <answer flag="0" text="14.1 million square meters. km"/>
+    <answer flag="1" text="7,7 million square meters. km"/>
+    <answer flag="0" text="17.8 million square meters. km"/>
+  </question>
+  <question level="1" simple="True" text="Extreme north point of Australia is">
+    <answer flag="1" text="York City"/>
+    <answer flag="0" text="Byron town"/>
+    <answer flag="0" text="Stipe c. Point"/>
+  </question>
+  <question level="1" simple="True" text="Australia is the highest peak">
+    <answer flag="1" text="g. Kosciuszko"/>
+    <answer flag="0" text="g. Cotopaxi"/>
+    <answer flag="0" text="g Kilimanjaro"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is wrong?">
+    <answer flag="0" text="Australia - driest continent"/>
+    <answer flag="1" text="Australia - the largest island"/>
+    <answer flag="0" text="Australia - the smallest continent"/>
+  </question>
+  <question level="1" simple="True" text="As a temporary streams called in Australia?">
+    <answer flag="1" text="Creek"/>
+    <answer flag="0" text="Wadi"/>
+    <answer flag="0" text="Oases"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is wrong?">
+    <answer flag="0" text="Most lakes in Australia are salted and endorheic"/>
+    <answer flag="0" text="Australia has significant reserves of underground water"/>
+    <answer flag="1" text="Australia is well provided with water"/>
+  </question>
+  <question level="1" simple="True" text="Great Dividing Range - is:">
+    <answer flag="0" text="Coral peculiar formation on the sea"/>
+    <answer flag="1" text="mountain range in eastern Australia"/>
+    <answer flag="0" text="Go hard crystalline rocks on the margin"/>
+  </question>
+  <question level="1" simple="True" text="Of the listed endemic animals of Australia are:">
+    <answer flag="1" text="Koala and ostrich emu"/>
+    <answer flag="0" text="Penguin and Crocodile"/>
+    <answer flag="0" text="Lama and sloth"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is wrong?">
+    <answer flag="0" text="Among the many endemic animals of Australia"/>
+    <answer flag="1" text="Air masses moving from the Pacific Ocean, bringing significant precipitation in central Australia"/>
+    <answer flag="0" text="On the continent is one country - Australia"/>
+  </question>
+  <question level="1" simple="True" text="Most of the population of Australia:">
+    <answer flag="1" text="descendants of immigrants from Europe"/>
+    <answer flag="0" text="Australian Aborigines"/>
+    <answer flag="0" text="descendants of immigrants from South and Southeast Asia"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer flag="0" text="Australia - a country with a population density"/>
+    <answer flag="1" text="In Avstrali high level of urbanization"/>
+    <answer flag="0" text="The largest city in Australia is Canberra"/>
+  </question>
+  <question level="1" simple="True" text="The group of countries which Australia belongs to the level of development?">
+    <answer flag="0" text="In developing countries"/>
+    <answer flag="0" text="The countries with economies in transition"/>
+    <answer flag="1" text="In highly developed countries"/>
+  </question>
+</testing>

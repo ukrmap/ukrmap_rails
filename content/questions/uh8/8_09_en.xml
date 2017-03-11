@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The development of literature, music, architecture, fine arts in Ukraine in the second half of XVI - first half XVII.">
+  <question level="1" simple="True" text="What caused the formation of Ukrainian polemic literature?">
+    <answer flag="0" text="Controversy around the principles of artistic reflection of life"/>
+    <answer flag="1" text="The controversy around the idea of association of churches"/>
+  </question>
+  <question level="1" simple="True" text="Who were famous as a prominent writer and polemicist?">
+    <answer flag="0" text="Paul Roman, Theodore Senkovych, M. Petrahnovych"/>
+    <answer flag="1" text="John Vyshenskyi, Meletii Smotrytsky Peter Complaint"/>
+  </question>
+  <question level="1" simple="True" text="As called errant Ukrainian puppet theater?">
+    <answer flag="0" text="Interlude"/>
+    <answer flag="0" text="Thinking"/>
+    <answer flag="1" text="Nativity"/>
+  </question>
+  <question level="1" simple="True" text="Which genres of contemporary literature linking the origin Ukrainian drama?">
+    <answer flag="0" text="From folk poetry"/>
+    <answer flag="1" text="With school drama"/>
+  </question>
+  <question level="1" simple="True" text="To call record created in the first quarter of the XVII century. A story which brought to 1598 and at the end contains three &quot;novel&quot;: &quot;On the Origin of the Cossacks, on the introduction of the new calendar,&quot; &quot;On Top of the union&quot; ;?">
+    <answer flag="0" text="Volyn chronicle, which is called Short Kiev"/>
+    <answer flag="1" text="Gustynsky Chronicle"/>
+  </question>
+  <question level="1" simple="True" text="In that period features of the architecture were spread bastion of defense construction and activation of brick church building?">
+    <answer flag="0" text="In the XVI century."/>
+    <answer flag="1" text="In the first half XVII."/>
+  </question>
+  <question level="1" simple="True" text="Which castles bastion of existing items?">
+    <answer flag="1" text="In castles in Brody, Zolochiv, Podgortsah in Lviv, Zbarazh in the region, Dubno, Rivne oblast, where fortress Kodak AG Boplana"/>
+    <answer flag="0" text="Castle in Lutsk, jail, Starokonstantinov, Olytsi"/>
+  </question>
+  <question level="1" simple="True" text="What city was founded as a fortress - Residences magnates?">
+    <answer flag="0" text="Kyiv, Lviv, lived in Kamianets jail"/>
+    <answer flag="1" text="Zhovkva, Brody, S. (today Ivano-Frankivsk), Bershad, Ternopil"/>
+  </question>
+  <question level="1" simple="True" text="What fortress Volhynia and Podolia were the largest in the XVII century.?">
+    <answer flag="1" text="Lutsky and Ostrog locks, Kamjanetsky fortress"/>
+    <answer flag="0" text="Kodatska fortress, Zaporizhzhya Sich fortress, castle in Pidhirtsi"/>
+  </question>
+  <question level="1" simple="True" text="Which church is the most famous designs brick church building of the first half of XVII century.?">
+    <answer flag="0" text="Cathedral Church of Archangel Michael in Wola near Zhovkva Wysocki"/>
+    <answer flag="1" text="World Assumption Church"/>
+  </question>
+  <question level="1" simple="True" text="What facilities were part of the band Renaissance city of Lviv Market Square building, which were associated with the Lviv Brotherhood?">
+    <answer flag="1" text="Assumption Church, the Three Saints Chapel, Tower Kornyakta"/>
+    <answer flag="0" text="Hagia Sophia, the Assumption Church of Kiev-Pechersk Lavra, Golden Gate"/>
+  </question>
+  <question level="1" simple="True" text="The most common and popular type of painting in the second half of the first half of XVI-XVII. was">
+    <answer flag="0" text="Portrait"/>
+    <answer flag="1" text="Iconography"/>
+    <answer flag="0" text="Landscape"/>
+  </question>
+</testing>

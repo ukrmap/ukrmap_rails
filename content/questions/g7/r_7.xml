@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АНТАРКТИДА">
+  <question level="1" simple="True" text="Першими підкорили Південний полюс :">
+    <answer flag="1" text="Роберт Скот і Руаль Амундсен"/>
+    <answer flag="0" text="Фадей Беллінсгаузен та Михайло Лазарєв"/>
+    <answer flag="0" text="Вільям Сміт"/>
+  </question>
+  <question level="1" simple="True" text="Область земної кулі, що об'єднує материк Антарктиду разом з прибережними океанічними водами та прилеглими островами, називають :">
+    <answer flag="0" text="Полюс холоду"/>
+    <answer flag="1" text="Антарктика"/>
+    <answer flag="0" text="Арктика"/>
+  </question>
+  <question level="1" simple="True" text="Діючим вулканом Антарктиди є :">
+    <answer flag="1" text="Еребус"/>
+    <answer flag="0" text="Ельбрус"/>
+    <answer flag="0" text="Етна"/>
+  </question>
+  <question level="1" simple="True" text="Найвища точка Антарктиди знаходиться :">
+    <answer flag="1" text="в горах Елсуерт "/>
+    <answer flag="0" text="в Трансантарктичних горах"/>
+    <answer flag="0" text="на вулкані Еребус"/>
+  </question>
+  <question level="1" simple="True" text="Айсбергами називають :">
+    <answer flag="1" text="материковий лід, що сповзає у воду і утворює плавучі крижини"/>
+    <answer flag="0" text="великі крижини, що піднімаються із дна океану"/>
+    <answer flag="0" text="лід, що утворюється внаслідок замерзання поверхневих вод "/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer flag="0" text="Антарктида - єдиний материк, що повністю знаходиться у полярних широтах"/>
+    <answer flag="0" text="З-поміж усіх континентів Антарктида була відкрита останньою"/>
+    <answer flag="1" text="Антарктида - найменший материк"/>
+  </question>
+  <question level="1" simple="True" text="Найнижча температура на планеті - 89,2° С зафіксована на антарктичній станції: ">
+    <answer flag="0" text="Академік Вернадський (Україна) "/>
+    <answer flag="1" text="Восток (Росія)"/>
+    <answer flag="0" text="Амундсен - Скотт (США)"/>
+  </question>
+  <question level="1" simple="True" text="Холодне повітря, що стікає з центральних областей до країв материка Антарктиди, формує :">
+    <answer flag="1" text="стокові вітри"/>
+    <answer flag="0" text="пасати"/>
+    <answer flag="0" text="бризи"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer flag="0" text="Антарктида - найвищий материк Землі"/>
+    <answer flag="1" text="Антарктида - це архіпелаг"/>
+    <answer flag="0" text="Частина Антарктиди знаходиться за межами Південного полярного кола"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є правильним ?">
+    <answer flag="1" text="В Антарктиді знаходиться найбільший шельфовий льодовик у світі"/>
+    <answer flag="0" text="В Антарктиді ведеться інтенсивний видобуток корисних копалин"/>
+    <answer flag="0" text="Життя більшості тварин Антарктиди пов'язане з центральною частиною материка "/>
+  </question>
+  <question level="1" simple="True" text="Площа Антарктиди становить :">
+    <answer flag="0" text="7,6 млн кв. км"/>
+    <answer flag="1" text="14,1 млн кв. км"/>
+    <answer flag="0" text="30 млн кв. км"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer flag="0" text="В Антарктиді зосереджено 4/5 прісної води світу, законсервованої в льодовиках."/>
+    <answer flag="0" text="Вологість повітря в багатьох місцях Антарктиди нижча, ніж у найжаркіших пустелях планети"/>
+    <answer flag="1" text="Антарктида повністю лежить за Південним полярним колом "/>
+  </question>
+</testing>

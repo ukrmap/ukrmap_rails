@@ -1,0 +1,69 @@
+.navbar-brand a {
+  color: white;
+}
+
+.navbar-brand a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+div.contents {
+  border-radius: 5px;
+  background: #eee;
+  padding: 10px 20px;
+}
+
+ul.contents {
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+ul.contents > li {
+  display: block;
+  margin-left: -22px;
+  margin-top: 5px;
+}
+
+ul.contents > li:before {
+  content: "\e032";
+  font-family: 'Glyphicons Halflings';
+  font-size: 9px;
+  float: left;
+  margin-top: 4px;
+  margin-left: -17px;
+  color: #CCCCCC;
+}
+
+ul.contents > li > a {
+  color: #737373;
+}
+
+.shadowtext {
+  text-shadow: 1px 1px #fff;
+}
+
+.question {
+  clear: both;
+}
+
+.correct-answer {
+  float: right;
+  text-decoration: line-through;
+  margin-bottom: 15px;
+}
+
+.sidebar {
+  text-align: center;
+}
+
+.map_preview {
+  margin-bottom: 15px;
+}
+
+.picture_preview {
+  margin-bottom: 15px;
+}
+
+.rvps_right {
+  padding-left: 55%;
+}

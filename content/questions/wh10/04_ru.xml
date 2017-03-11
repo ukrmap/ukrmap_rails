@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Тоталитарные и диктаторские режимы">
+  <question text="Монархию в России было свергнуто в результате">
+    <answer flag="1" text="февральской революции"/>
+    <answer flag="0" text="октябрьского переворота"/>
+    <answer flag="0" text="мятежа генерала Корнилова"/>
+  </question>
+  <question text="Первый большевистское правительство России возглавлял">
+    <answer flag="0" text="Л. Троцкий"/>
+    <answer flag="1" text="Ленин"/>
+    <answer flag="0" text="И. Сталин"/>
+  </question>
+  <question text="Брестский мир подписали">
+    <answer flag="0" text="18 декабря 1917"/>
+    <answer flag="0" text="23 февраля 1918"/>
+    <answer flag="1" text="3 марта 1918"/>
+  </question>
+  <question text="Вооруженное выступление спартаковцев (коммунистов) в Берлине состоялся в">
+    <answer flag="0" text="ноябре 1918 г."/>
+    <answer flag="1" text="январе 1919 г."/>
+    <answer flag="0" text="апреле 1919 г."/>
+  </question>
+  <question text="Нацистский &quot;пивной путч&quot; состоялся в">
+    <answer flag="0" text="Берлине"/>
+    <answer flag="1" text="Мюнхене"/>
+    <answer flag="0" text="Нюрнберге"/>
+    <answer flag="0" text="Кили"/>
+  </question>
+  <question text="Приход нацистов к власти в Германии состоялся в">
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1923"/>
+    <answer flag="1" text="1933"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="Мятеж националистов против правительства Народного фронта в Испании вспыхнул">
+    <answer flag="0" text="28 января 1930"/>
+    <answer flag="0" text="14 апреля 1931"/>
+    <answer flag="1" text="17 июля 1936"/>
+  </question>
+  <question text="Антисемитизм наиболее активно проявился в политике">
+    <answer flag="1" text="немецких нацистов"/>
+    <answer flag="0" text="итальянских фашистов"/>
+    <answer flag="0" text="испанских фалангистов"/>
+  </question>
+  <question text="Какое название получила политика большевиков, введенная в 1921 г.?">
+    <answer flag="0" text="«Военный коммунизм»"/>
+    <answer flag="1" text="Нэп"/>
+    <answer flag="0" text="Коллективизация"/>
+  </question>
+  <question text="3 приведенный групп стран назовите те, где в течение 20-30-х гг установились тоталитарные режимы.">
+    <answer flag="0" text="Болгария, Китай, Польша, Румыния"/>
+    <answer flag="0" text="Югославия, Чехословакия, Япония, СССР, Германия"/>
+    <answer flag="1" text="СССР, Германия, Италия"/>
+  </question>
+  <question text="В каком году был создан СССР?">
+    <answer flag="1" text="1922"/>
+    <answer flag="0" text="1923"/>
+    <answer flag="0" text="1924"/>
+  </question>
+  <question text="В какой стране были &quot;Два красные годы&quot;?">
+    <answer flag="0" text="Испания"/>
+    <answer flag="1" text="Италия"/>
+    <answer flag="0" text="СССР"/>
+    <answer flag="0" text="Германия"/>
+  </question>
+</testing>

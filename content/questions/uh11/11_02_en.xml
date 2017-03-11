@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Occupation regime in Ukraine">
+  <question level="1" simple="True" text="As called Reichscommissariat implementing the Nazi command in the occupied lands of the Soviet Union?">
+    <answer flag="1" text="&quot;Ukraine&quot;"/>
+    <answer flag="0" text="&quot;Transnistria&quot;"/>
+    <answer flag="1" text="&quot;Ostland&quot;"/>
+  </question>
+  <question level="1" simple="True" text="In which city was occupied by Nazi administration in Ukraine?">
+    <answer flag="0" text="Warsaw"/>
+    <answer flag="0" text="Odessa"/>
+    <answer flag="1" text="Exactly"/>
+  </question>
+  <question level="1" simple="True" text="Which region was included in the General governorship (Poland)?">
+    <answer flag="0" text="Volin"/>
+    <answer flag="0" text="Right Bank"/>
+    <answer flag="0" text="Poltava"/>
+    <answer flag="1" text="Eastern Galicia"/>
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="Bessarabia"/>
+  </question>
+  <question level="1" simple="True" text="When was concluded the German-Romanian agreement on transfer mizhyrichchya Dniester and Southern Bug River with the city of Odessa?">
+    <answer flag="1" text="July 19, 1941"/>
+    <answer flag="0" text="September 19, 1941"/>
+    <answer flag="0" text="August 19, 1941"/>
+  </question>
+  <question level="1" simple="True" text="In which cities were the most massive executions populous Jewish communities?">
+    <answer flag="0" text="Tulchin"/>
+    <answer flag="0" text="Berdichev"/>
+    <answer flag="1" text="Yaniv"/>
+    <answer flag="1" text="Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="Near the city which housed Hitler (Synagogue) in Ukraine?">
+    <answer flag="0" text="Kyiv"/>
+    <answer flag="1" text="Vinnitsa"/>
+    <answer flag="0" text="Exactly"/>
+    <answer flag="0" text="Limekiln"/>
+  </question>
+</testing>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Етнічний склад населення">
+  <question level="1" simple="True" text="В якому регіоні України представники титульної нації не є переважаючим етносом?">
+    <answer flag="0" text="Одещина"/>
+    <answer flag="0" text="Донбас"/>
+    <answer flag="0" text="Київщина"/>
+    <answer flag="1" text="Крим"/>
+  </question>
+  <question level="1" simple="True" text="Яка етнографічна група українців мешкає на Чернігівщині?">
+    <answer flag="0" text="Поліщуки"/>
+    <answer flag="0" text="Бойки"/>
+    <answer flag="0" text="Гуцули"/>
+    <answer flag="1" text="Литвини"/>
+  </question>
+  <question level="1" simple="True" text="В яких областях проживають Бойки?">
+    <answer flag="0" text="Хмельницькій"/>
+    <answer flag="1" text="Івано-Франківській"/>
+    <answer flag="1" text="Львівській"/>
+    <answer flag="0" text="Рівненській"/>
+  </question>
+  <question level="1" simple="True" text="Представники яких трьох національних меншин є найчисельнішими у Києві?">
+    <answer flag="1" text="Білоруси"/>
+    <answer flag="0" text="Молдовани"/>
+    <answer flag="0" text="Поляки"/>
+    <answer flag="1" text="Євреї"/>
+    <answer flag="1" text="Росіяни"/>
+  </question>
+  <question level="1" simple="True" text="Скільки представників інших національностей (згідно даних перепису населення 2001 р.) проживає в нашій державі?">
+    <answer flag="0" text="Понад 7,5 млн"/>
+    <answer flag="1" text="Понад 10,5 млн"/>
+    <answer flag="0" text="Понад 12,5 млн"/>
+  </question>
+  <question level="1" simple="True" text="В яких містах одним з основних етносів є поляки?">
+    <answer flag="0" text="Рівне"/>
+    <answer flag="1" text="Житомир"/>
+    <answer flag="0" text="Вінниця"/>
+    <answer flag="1" text="Хмельницький"/>
+    <answer flag="0" text="Луцьк"/>
+    <answer flag="1" text="Львів"/>
+  </question>
+</testing>

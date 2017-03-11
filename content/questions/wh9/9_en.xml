@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="International relations in late XIX - early XX century.">
+  <question level="1" simple="True" text="What region of Europe was called &quot;powder magazine?">
+    <answer flag="0" text="Western Europe"/>
+    <answer flag="1" text="Balkans"/>
+    <answer flag="0" text="Russia"/>
+  </question>
+  <question level="1" simple="True" text="What was the largest colonial empire in the early XX century.?">
+    <answer flag="0" text="France"/>
+    <answer flag="0" text="Germany"/>
+    <answer flag="1" text="England"/>
+  </question>
+  <question level="1" simple="True" text="When completed the formation of the Entente?">
+    <answer flag="0" text="1893"/>
+    <answer flag="1" text="1904"/>
+    <answer flag="0" text="1907"/>
+  </question>
+  <question level="1" simple="True" text="What countries formed the Triple Alliance?">
+    <answer flag="1" text="Germany"/>
+    <answer flag="0" text="Turkey"/>
+    <answer flag="0" text="Russia"/>
+    <answer flag="1" text="Austria-Hungary"/>
+    <answer flag="1" text="Italy"/>
+    <answer flag="0" text="Spain"/>
+  </question>
+  <question level="1" simple="True" text="What was the first war in the struggle for redistribution of the world?">
+    <answer flag="0" text="Boer"/>
+    <answer flag="1" text="Spanish-American"/>
+    <answer flag="0" text="Russo-Japanese"/>
+  </question>
+  <question level="1" simple="True" text="When was the Second International?">
+    <answer flag="0" text="1864"/>
+    <answer flag="1" text="1889"/>
+    <answer flag="0" text="1919"/>
+  </question>
+  <question level="1" simple="True" text="The conflict between the States was a key early XX century.?">
+    <answer flag="0" text="USA and England"/>
+    <answer flag="0" text="Russia and Japan"/>
+    <answer flag="1" text="England and Germany"/>
+  </question>
+  <question level="1" simple="True" text="When creating an alliance of three emperors?">
+    <answer flag="0" text="1864"/>
+    <answer flag="1" text="1873"/>
+    <answer flag="0" text="1882"/>
+  </question>
+  <question level="1" simple="True" text="How many Moroccan crises?">
+    <answer flag="1" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="The modern name of Siam">
+    <answer flag="0" text="Laos"/>
+    <answer flag="1" text="Thailand"/>
+    <answer flag="0" text="Bangladesh"/>
+  </question>
+  <question level="1" simple="True" text="Which of these African countries remained independent in 1914?">
+    <answer flag="0" text="Somalia"/>
+    <answer flag="0" text="Mozambique"/>
+    <answer flag="1" text="Liberia"/>
+    <answer flag="0" text="Senegal"/>
+  </question>
+  <question level="1" simple="True" text="Which country in the early XX century. Abandoned its policy of &quot;shiny insulation?">
+    <answer flag="0" text="France"/>
+    <answer flag="0" text="Russia"/>
+    <answer flag="1" text="England"/>
+    <answer flag="0" text="Germany"/>
+  </question>
+</testing>

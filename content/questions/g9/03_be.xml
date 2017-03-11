@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Гаспадарка">
+  <question level="1" simple="True" text="Якія адказы правільныя?">
+    <answer flag="1" text="Нікалаеў - найбуйнейшы цэнтр суднабудавання дзяржавы"/>
+    <answer flag="0" text="Львоў - адзіны цэнтр аўтобусабудавання Украіне"/>
+    <answer flag="1" text="Запорожье - цэнтр каляровай металургіі Украіны"/>
+  </question>
+  <question level="1" simple="True" text="Якія адказы правільныя?">
+    <answer flag="1" text="У трох гарадах Украіны функцыянуе метрапалітэн"/>
+    <answer flag="0" text="Ва Украіне пяць дзеючых АЭС"/>
+    <answer flag="1" text="У Адэсе знаходзіцца найбуйнейшы грузавы порт Украіне"/>
+  </question>
+  <question level="1" simple="True" text="Большая частка запасаў каменнага вугля Украіна сканцэнтравана ў:">
+    <answer flag="0" text="Дняпроўскім басейне"/>
+    <answer flag="0" text="Львоўска-Валынскім басейне"/>
+    <answer flag="1" text="Данецкам басейне"/>
+  </question>
+  <question level="1" simple="True" text="Якія з адказаў няправільныя?">
+    <answer flag="0" text="Вялікая доля вугалю ў Украіне здабываецца шахтавым (закрытым) спосабам"/>
+    <answer flag="1" text="Для шахтаў Данбаса характэрна невялікая глыбіня залягання пластоў вугалю"/>
+    <answer flag="0" text="Ва Украіне ёсць паклады уранавых руд"/>
+    <answer flag="1" text="Буры вугаль мае вялікую цеплатворнай здольнасць чым каменны"/>
+  </question>
+  <question level="1" simple="True" text="Найбольшая доля валавога нацыянальнага прадукту Украіны прыпадае на:">
+    <answer flag="0" text="сельская гаспадарка"/>
+    <answer flag="1" text="прамысловасць"/>
+    <answer flag="0" text="будаўніцтва і сувязь"/>
+  </question>
+  <question level="1" simple="True" text="Якія з варыянтаў 'Назва АЭС - горад-спадарожнік' правільныя?">
+    <answer flag="1" text="Ровенская - Кузнецовск"/>
+    <answer flag="0" text="Запароская - Южнаўкраінск"/>
+    <answer flag="1" text="Хмяльніцкая - Нетешин"/>
+    <answer flag="0" text="Паўднёва - Энергодар"/>
+  </question>
+  <question level="1" simple="True" text="Выберыце правільныя сцвярджэнні.">
+    <answer flag="1" text="Да цэнтральнага эканамічнага раёна ўваходзяць Чаркаская і Кіраваградская вобласці"/>
+    <answer flag="1" text="Асноўную долю жалезнай руды ў Украіне дае Крыварожскае басейн"/>
+    <answer flag="0" text="Большая частка ўкраінскай электраэнергіі вырабляецца на ГЭС"/>
+    <answer flag="1" text="У Мікалаеве знаходзіцца вялікі глиноземный завод"/>
+  </question>
+  <question level="1" simple="True" text="З пералічаных гарадоў значным курортным ценром з'яўляюцца:">
+    <answer flag="0" text="Новая Кахоўка"/>
+    <answer flag="1" text="Міргарад"/>
+    <answer flag="0" text="Жытомір"/>
+    <answer flag="1" text="Бердянск"/>
+  </question>
+  <question level="1" simple="True" text="Увоз тавараў з-за мяжы завецца:">
+    <answer flag="1" text="імпарт"/>
+    <answer flag="0" text="экспарт"/>
+    <answer flag="0" text="бартэр"/>
+  </question>
+  <question level="1" simple="True" text="Паўднёва-Украінская АЭС знаходзіцца:">
+    <answer flag="0" text="ў Адэскай вобласці"/>
+    <answer flag="0" text="ў Запарожскай вобласці"/>
+    <answer flag="1" text="ў Мікалаеўскай вобласці"/>
+  </question>
+  <question level="1" simple="True" text="Цэнтрам каляровай металургіі Украіны з'яўляецца:">
+    <answer flag="0" text="Краматорск"/>
+    <answer flag="1" text="Запорожье"/>
+    <answer flag="0" text="Харкаў"/>
+  </question>
+  <question level="1" simple="True" text="Правільнымі з'яўляюцца сцвярджэнні">
+    <answer flag="0" text="Энергодар з'яўляецца горадам-спадарожнікам АЭС, якая знаходзіцца на захадзе Украіны"/>
+    <answer flag="1" text="Запорожье з'яўляецца найбуйнейшым цэнтрам аўтамабілебудавання Украіне"/>
+    <answer flag="1" text="Паклады уранавай руды ў Украіне сканцэнтраваны ў Кіраваградскай і Днепрапятроўскай абласцях"/>
+    <answer flag="0" text="Украіна цалкам задавальняе патрэбнасці ў нафтапрадуктах за кошт перапрацоўкі нафты на ўласных НПЗ"/>
+  </question>
+  <question level="1" simple="True" text="Якія словазлучэнні з'яўляюцца правільнымі?">
+    <answer flag="1" text="Краматорск ЦЭЦ"/>
+    <answer flag="0" text="Ровенская ГЭС"/>
+    <answer flag="1" text="Хмяльніцкая АЭС"/>
+    <answer flag="0" text="Ташлыкская ТЭС"/>
+  </question>
+  <question level="1" simple="True" text="Асноўнымі цэнтрамі здабычы бурага вугалю з'яўляюцца:">
+    <answer flag="0" text="Данецк"/>
+    <answer flag="1" text="Ватутино"/>
+    <answer flag="0" text="Макееўка"/>
+    <answer flag="1" text="Александрыя"/>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;АЭС - горад спадарожнік&quot;">
+    <answer text="Ровенская -"/>
+    <answer text="Запароская -"/>
+    <answer text="Хмяльніцкая -"/>
+    <answer text="Паўднёва -"/>
+    <variant>
+      <item flag="0" text="Прыпяць"/>
+      <item flag="1" text="Кузнецовск"/>
+      <item flag="3" text="Нетешин"/>
+      <item flag="2" text="Энергодар"/>
+      <item flag="4" text="Южнаўкраінск"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Вобласці - эканамічны раён&quot;">
+    <answer text="Валынская, Ровенская -"/>
+    <answer text="Чаркаская, Кіраваградская -"/>
+    <answer text="Днепрапятроўская, Запароская -"/>
+    <answer text="Данецкая, Луганская -"/>
+    <variant>
+      <item flag="2" text="Цэнтральны"/>
+      <item flag="1" text="Паўночна-заходні"/>
+      <item flag="4" text="Данецкі"/>
+      <item flag="0" text="Сталічны"/>
+      <item flag="3" text="Прыдняпроўскі"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Горад - спецыялізацыя машынабудавання&quot;">
+    <answer text="Нікалаеў -"/>
+    <answer text="Запорожье -"/>
+    <answer text="Белая Царква -"/>
+    <answer text="Харкаў -"/>
+    <variant>
+      <item flag="2" text="Аўтамабілебудаванне"/>
+      <item flag="3" text="Сельгасмашынабудавання"/>
+      <item flag="0" text="Аўтобусабудавання"/>
+      <item flag="1" text="Суднабудаванне"/>
+      <item flag="4" text="Авіябудаванне"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Горад - спецыялізацыя вытворчасці&quot;">
+    <answer text="Днепрадзяржынск, Запорожье -"/>
+    <answer text="Ваўкавыск, Константиновка -"/>
+    <answer text="Калуш, Стебник -"/>
+    <variant>
+      <item flag="3" text="калійныя ўгнаенні"/>
+      <item flag="1" text="азотныя ўгнаенні"/>
+      <item flag="2" text="фасфатныя ўгнаенні"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць паміж гандлёвай маркай і эканамічным раёнам">
+    <answer text="NORD -"/>
+    <answer text="Чумак -"/>
+    <answer text="АВИАНТ -"/>
+    <answer text="Светач -"/>
+    <variant>
+      <item flag="2" text="Прычерноморскіх"/>
+      <item flag="1" text="Данецкі"/>
+      <item flag="4" text="Карпацкай"/>
+      <item flag="3" text="Сталічны"/>
+      <item flag="0" text="Цэнтральны"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Горад - спецыялізацыя лёгкай прамысловасці&quot;">
+    <answer text="Тисменица -"/>
+    <answer text="Чарнігаў -"/>
+    <answer text="Херсон -"/>
+    <variant>
+      <item flag="1" text="ваўняная"/>
+      <item flag="2" text="футравая"/>
+      <item flag="3" text="баваўняная"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Горад - спецыялізацыя прамысловасці&quot;">
+    <answer text="Надворны -"/>
+    <answer text="Енакіева -"/>
+    <answer text="Шебелинка -"/>
+    <variant>
+      <item flag="1" text="нафтаперапрацоўка"/>
+      <item flag="2" text="вугальная"/>
+      <item flag="3" text="газавая"/>
+    </variant>
+  </question>
+</testing>

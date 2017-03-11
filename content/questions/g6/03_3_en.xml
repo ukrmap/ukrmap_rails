@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ATMOSPHERE">
+  <question level="1" simple="True" text="What is the composition of air?">
+    <answer flag="0" text="21% nitrogen, 78% oxygen, 1% other gases"/>
+    <answer flag="1" text="78% nitrogen, 21% oxygen, 1% other gases"/>
+    <answer flag="0" text="78% nitrogen, 1% oxygen, 21% other gases"/>
+    <answer flag="0" text="1% nitrogen, 78% oxygen, 21% other gases"/>
+  </question>
+  <question level="1" simple="True" text="In what layer of atmosphere is the ozone layer?">
+    <answer flag="0" text="Troposphere"/>
+    <answer flag="1" text="Stratosphere"/>
+    <answer flag="0" text="Mesosphere"/>
+    <answer flag="0" text="Thermosphere"/>
+  </question>
+  <question level="1" simple="True" text="How does air temperature within the troposphere?">
+    <answer flag="0" text="Virtually unchanged"/>
+    <answer flag="0" text="Increases by 0,6 ° for every 100 m rise up"/>
+    <answer flag="0" text="Increases by 1 degree for every 100 m rise up"/>
+    <answer flag="1" text="Reduced to 0,6 ° for every 100 m rise up"/>
+  </question>
+  <question level="1" simple="True" text="When overnight temperature is the lowest?">
+    <answer flag="0" text="Immediately after sunset"/>
+    <answer flag="0" text="At midnight"/>
+    <answer flag="1" text="Before sunrise"/>
+  </question>
+  <question level="1" simple="True" text="What is the typical wind direction breeze?">
+    <answer flag="0" text="Clock from the sea to dry land"/>
+    <answer flag="0" text="Clock from land to sea"/>
+    <answer flag="1" text="During the day - from the sea on land at night - on the contrary"/>
+    <answer flag="0" text="Day - from the sea on dry ground in the afternoon - on the contrary"/>
+  </question>
+  <question level="1" simple="True" text="What is called the saturated air?">
+    <answer flag="0" text="In a couple starts to condense on cold objects"/>
+    <answer flag="1" text="Containing the maximum possible for the given temperature of water vapor"/>
+    <answer flag="0" text="In a rare start to be formed Air"/>
+    <answer flag="0" text="In a solid start to be formed Air"/>
+  </question>
+  <question level="1" simple="True" text="Why on the shores of Scandinavia grow mixed forests, while in Greenland at the same latitude - bahatokilometrova ice thickness?">
+    <answer flag="0" text="Cold Labradorska flow cools the climate of Greenland"/>
+    <answer flag="1" text="Warm North Atlantic current air warms the coast of Scandinavia"/>
+    <answer flag="0" text="Greenland is closer to the North Magnetic Pole"/>
+    <answer flag="0" text="Greenland is larger than the area of Scandinavia"/>
+  </question>
+  <question level="1" simple="True" text="As called climate with cold winters, hot summers and relatively little rain?">
+    <answer flag="0" text="Sea"/>
+    <answer flag="0" text="Moderate"/>
+    <answer flag="1" text="Continental"/>
+    <answer flag="0" text="Tropical"/>
+  </question>
+  <question level="1" simple="True" text="What type of climate is typical for most of the territory of Ukraine?">
+    <answer flag="0" text="Sharp continental"/>
+    <answer flag="1" text="Moderately continental"/>
+    <answer flag="0" text="Continental"/>
+    <answer flag="0" text="Sea"/>
+  </question>
+  <question level="1" simple="True" text="What metrics are the basic characteristics of weather?">
+    <answer flag="1" text="Temperature, atmospheric pressure"/>
+    <answer flag="0" text="Transparency and clean air"/>
+    <answer flag="1" text="Speed, strength and direction of wind"/>
+    <answer flag="1" text="Humidity, cloudiness and precipitation"/>
+  </question>
+  <question level="1" simple="True" text="Which of the factors is decisive in shaping the climate of a certain area?">
+    <answer flag="0" text="Geographic areas"/>
+    <answer flag="1" text="Geographic areas"/>
+    <answer flag="1" text="Moving air masses"/>
+    <answer flag="1" text="Character pidstelyayuchoyi surface"/>
+  </question>
+  <question level="1" simple="True" text="What is the impact on the climate of coastal cold currents?">
+    <answer flag="1" text="Contribute to the formation of deserts"/>
+    <answer flag="0" text="Help the excessive moisture of the coastal areas"/>
+    <answer flag="0" text="Practically have no influence"/>
+    <answer flag="0" text="Causes moderate precipitation during the year"/>
+  </question>
+</testing>

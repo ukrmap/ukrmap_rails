@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Geography of Population">
+  <question text="Most multi-ethnic and multilingual country is considered">
+    <answer flag="0" text="Russia"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Indonesia"/>
+  </question>
+  <question text="What is the relocation of the wealthy population in the suburban area of permanent residence?">
+    <answer flag="0" text="Urbanization"/>
+    <answer flag="0" text="Psevdourbanizatsiya"/>
+    <answer flag="1" text="Suburbanization"/>
+    <answer flag="0" text="Agglomeration"/>
+  </question>
+  <question text="Which of the following language groups belong to the Indo-European language family?">
+    <answer flag="1" text="Armenian"/>
+    <answer flag="1" text="Romance"/>
+    <answer flag="0" text="Finno-Ugric"/>
+    <answer flag="1" text="Nuristanskaya"/>
+  </question>
+  <question text="Which of these countries has the lowest level of urbanization?">
+    <answer flag="0" text="Kuwait"/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="1" text="Afghanistan"/>
+    <answer flag="0" text="New Zealand"/>
+  </question>
+  <question text="Which of the following religions is ethnically one nation?">
+    <answer flag="0" text="Buddhism"/>
+    <answer flag="0" text="Catholicism"/>
+    <answer flag="1" text="Judaism"/>
+    <answer flag="0" text="Islam"/>
+  </question>
+  <question text="Which of the languages most prevalent in North Africa?">
+    <answer flag="0" text="German"/>
+    <answer flag="0" text="Spanish"/>
+    <answer flag="1" text="French"/>
+  </question>
+  <question text="Which part of the economically active population is typical for developed countries?">
+    <answer flag="0" text="45%"/>
+    <answer flag="0" text="55%"/>
+    <answer flag="1" text="70%"/>
+  </question>
+  <question text="The category of migration are based on migration">
+    <answer flag="0" text="external"/>
+    <answer flag="1" text="economic"/>
+    <answer flag="0" text="forced"/>
+    <answer flag="0" text="Seasonal"/>
+  </question>
+  <question text="The largest mega-cities of the world in terms of population is">
+    <answer flag="0" text="Lakeside"/>
+    <answer flag="0" text="English"/>
+    <answer flag="1" text="Tokaido"/>
+    <answer flag="0" text="Priatlantichesky"/>
+  </question>
+  <question text="Among world religions, the youngest is">
+    <answer flag="0" text="Buddhism"/>
+    <answer flag="1" text="Islam"/>
+    <answer flag="0" text="Christianity"/>
+  </question>
+  <question text="What type of population reproduction is typical for Japan?">
+    <answer flag="0" text="Advanced"/>
+    <answer flag="1" text="Narrowed"/>
+  </question>
+  <question text="What are the names of concentration of urban settlements, among which there are strong ties?">
+    <answer flag="1" text="Agglomeration"/>
+    <answer flag="0" text="Megalopolis"/>
+    <answer flag="0" text="City-millionaires"/>
+  </question>
+</testing>

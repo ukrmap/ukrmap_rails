@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="U.S. in the first half of XIX century. Civil War (1861-1865 biennium)">
+  <question level="1" simple="True" text="Name which of the following American states associated with the name of Indian tribe?">
+    <answer flag="0" text="New Mexico"/>
+    <answer flag="1" text="Dakota"/>
+    <answer flag="0" text="Georgia"/>
+    <answer flag="0" text="Louisiana"/>
+  </question>
+  <question level="1" simple="True" text="As participants in the movement called for the immediate abolition of slavery, which originated in the U.S. in the 1830's?">
+    <answer flag="1" text="abolitionist"/>
+    <answer flag="0" text="kukluksklanivtsi"/>
+    <answer flag="0" text="Confederates"/>
+    <answer flag="0" text="insurhenty"/>
+  </question>
+  <question level="1" simple="True" text="In the XIX century. The first political party that emerged in the United States was">
+    <answer flag="1" text="Democratic Party"/>
+    <answer flag="0" text="Republican Party"/>
+  </question>
+  <question level="1" simple="True" text="1803 United States bought the territory in France">
+    <answer flag="0" text="Florida"/>
+    <answer flag="0" text="Texas"/>
+    <answer flag="1" text="Louisiana"/>
+    <answer flag="0" text="Oregon"/>
+  </question>
+  <question level="1" simple="True" text="When the U.S. came in possession of the territory of Texas?">
+    <answer flag="0" text="1813"/>
+    <answer flag="0" text="1818"/>
+    <answer flag="0" text="1842"/>
+    <answer flag="1" text="1845"/>
+  </question>
+  <question level="1" simple="True" text="In a country the United States bought the territory of Alaska in 1876?">
+    <answer flag="0" text="Spain"/>
+    <answer flag="0" text="Britain"/>
+    <answer flag="1" text="Russia"/>
+    <answer flag="0" text="France"/>
+  </question>
+  <question level="1" simple="True" text="State of New York, Ohio, Pennsylvania, Michigan, were">
+    <answer flag="0" text="slavery"/>
+    <answer flag="1" text="free from slavery"/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of the Confederation?">
+    <answer flag="1" text="Richmond"/>
+    <answer flag="0" text="Washington"/>
+    <answer flag="0" text="Philadelphia"/>
+    <answer flag="0" text="Colombia"/>
+  </question>
+  <question level="1" simple="True" text="American Civil War began when Confederate attack on">
+    <answer flag="0" text="Fort Henry"/>
+    <answer flag="1" text="Fort Sumter"/>
+    <answer flag="0" text="St. Louis"/>
+    <answer flag="0" text="Saint Ohastin"/>
+  </question>
+  <question level="1" simple="True" text="Battle of Gettysburg in July 1863 ended with the defeat of the troops">
+    <answer flag="1" text="Confederation"/>
+    <answer flag="0" text="Union"/>
+  </question>
+  <question level="1" simple="True" text="Chief of Union forces was General">
+    <answer flag="0" text="Sherman"/>
+    <answer flag="0" text="Lee"/>
+    <answer flag="0" text="Butler"/>
+    <answer flag="1" text="Grant"/>
+  </question>
+  <question level="1" simple="True" text="Where was the major surrender of the Confederacy?">
+    <answer flag="1" text="Appomattoks"/>
+    <answer flag="0" text="Gettysburg"/>
+    <answer flag="0" text="Roles"/>
+    <answer flag="0" text="Cincinnati"/>
+  </question>
+</testing>

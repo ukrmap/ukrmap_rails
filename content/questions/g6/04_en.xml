@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="EARTH - THE PLANET PEOPLE">
+  <question level="1" simple="True" text="What is the name science that studies the processes of formation and composition of the population, and especially its location?">
+    <answer flag="1" text="Demography"/>
+    <answer flag="0" text="Demolohiya"/>
+    <answer flag="0" text="Democracy"/>
+    <answer flag="0" text="Demagogy"/>
+  </question>
+  <question level="1" simple="True" text="When, according to scientists, the first human ancestors?">
+    <answer flag="0" text="About 2 thousand years ago"/>
+    <answer flag="1" text="About 2 million years ago"/>
+    <answer flag="0" text="About 20 thousand years ago"/>
+    <answer flag="0" text="About 20 million years ago"/>
+  </question>
+  <question level="1" simple="True" text="What region of the Earth consider the place of the first people?">
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="Europe"/>
+    <answer flag="0" text="America"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="When, according to scientists, there was a man of modern type?">
+    <answer flag="0" text="400 years ago"/>
+    <answer flag="0" text="400 thousand years ago"/>
+    <answer flag="1" text="40 thousand years ago"/>
+    <answer flag="0" text="4 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="How many there are basic (large) races?">
+    <answer flag="0" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="1" text="4"/>
+  </question>
+  <question level="1" simple="True" text="To what race belong to Ukrainian and other Slavic?">
+    <answer flag="0" text="Mongoloid"/>
+    <answer flag="1" text="European"/>
+    <answer flag="0" text="Negroid"/>
+    <answer flag="0" text="Avstraloyidnoyi"/>
+  </question>
+  <question level="1" simple="True" text="What would prove and proved M.Mykluho-Maklai, who lived in the years 1870-1883 among the Papuans of New Guinea?">
+    <answer flag="0" text="A significant difference cultural development of European standards natives units"/>
+    <answer flag="0" text="The inability to mentally Papuans"/>
+    <answer flag="1" text="Equal ability of people of different races in mental development, learning and art"/>
+  </question>
+  <question level="1" simple="True" text="How many people there on the planet?">
+    <answer flag="0" text="20 thousand"/>
+    <answer flag="1" text="Over 2000"/>
+    <answer flag="0" text="Over 200"/>
+    <answer flag="0" text="Over 20"/>
+  </question>
+  <question level="1" simple="True" text="What is the greatest nation on the planet?">
+    <answer flag="0" text="Americans"/>
+    <answer flag="0" text="Russians"/>
+    <answer flag="1" text="Chinese"/>
+    <answer flag="0" text="Japanese"/>
+  </question>
+  <question level="1" simple="True" text="How many people inhabit the Earth today?">
+    <answer flag="0" text="2 billion"/>
+    <answer flag="0" text="4 billion"/>
+    <answer flag="1" text="Over 6.5 billion"/>
+    <answer flag="0" text="More than 10 billion"/>
+  </question>
+  <question level="1" simple="True" text="During that period the Earth's population has doubled in recent years?">
+    <answer flag="0" text="Over the last 1 000 years"/>
+    <answer flag="0" text="Over the past 400 years"/>
+    <answer flag="1" text="Over the last 40 years"/>
+    <answer flag="0" text="Over the past 100 years"/>
+  </question>
+  <question level="1" simple="True" text="Whose number of people listed more than 50 million people?">
+    <answer flag="1" text="Mexicans"/>
+    <answer flag="1" text="Vietnameses"/>
+    <answer flag="1" text="Pendzhabtsi"/>
+    <answer flag="0" text="Greeks"/>
+    <answer flag="1" text="Tamila"/>
+  </question>
+  <question level="1" simple="True" text="Specify the three largest state by population planet?">
+    <answer flag="1" text="China"/>
+    <answer flag="0" text="Indonesia"/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="1" text="India"/>
+    <answer flag="1" text="U.S."/>
+  </question>
+  <question level="1" simple="True" text="Specify the three largest state by area planet?">
+    <answer flag="0" text="U.S."/>
+    <answer flag="1" text="China"/>
+    <answer flag="1" text="Russia"/>
+    <answer flag="1" text="Canada"/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="0" text="Australia"/>
+  </question>
+  <question level="1" simple="True" text="Which city is the capital of the state, formed in 2006?">
+    <answer flag="0" text="Pristina"/>
+    <answer flag="1" text="Podgorica"/>
+    <answer flag="0" text="Skopje"/>
+  </question>
+  <question level="1" simple="True" text="What state by area and population ranks fifth among the world?">
+    <answer flag="0" text="Indonesia"/>
+    <answer flag="0" text="Pakistan"/>
+    <answer flag="1" text="Brazil"/>
+  </question>
+  <question level="1" simple="True" text="Smallest area of the state of the world is">
+    <answer flag="0" text="Monaco"/>
+    <answer flag="1" text="Vatican"/>
+    <answer flag="0" text="Liechtenstein"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Administratively, Ukraine consists of the Autonomous Republic of Crimea, 24 oblasts and two cities with special status"/>
+    <answer flag="1" text="Ukraine is a federal state"/>
+    <answer flag="0" text="Ukraine borders with seven countries"/>
+  </question>
+  <question level="1" simple="True" text="In which regions of Ukraine are more than 3 million people?">
+    <answer flag="0" text="Kharkiv"/>
+    <answer flag="1" text="Donetsk"/>
+    <answer flag="0" text="Lugansk"/>
+    <answer flag="0" text="Lviv"/>
+    <answer flag="1" text="Dnipropetrovsk"/>
+    <answer flag="0" text="Odessa"/>
+  </question>
+  <question level="1" simple="True" text="What region of Ukraine is the largest in area?">
+    <answer flag="0" text="Donetsk"/>
+    <answer flag="0" text="Dnepropetrovsk"/>
+    <answer flag="1" text="Odessa"/>
+    <answer flag="0" text="Chernihiv"/>
+  </question>
+  <question level="1" simple="True" text="What region of Ukraine is the largest by population?">
+    <answer flag="0" text="Odessa"/>
+    <answer flag="1" text="Donetsk"/>
+    <answer flag="0" text="Dnepropetrovsk"/>
+    <answer flag="0" text="Kharkiv"/>
+  </question>
+  <question level="1" simple="True" text="In which of the listed cities of Ukraine are more than 1 million people?">
+    <answer flag="1" text="Kharkiv"/>
+    <answer flag="1" text="Odessa"/>
+    <answer flag="0" text="Lviv"/>
+    <answer flag="1" text="Dnepropetrovsk"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is wrong?">
+    <answer flag="0" text="Smallest area among the regions of Ukraine is Chernivtsi region"/>
+    <answer flag="1" text="Ukraine fully satisfies domestic demand for natural gas and oil by domestic production"/>
+    <answer flag="0" text="Ukraine's natural conditions are favorable for agricultural development"/>
+    <answer flag="1" text="The last ten years the population of our country's steadily growing"/>
+  </question>
+  <question level="1" simple="True" text="Member of these institutions, which is Ukraine?">
+    <answer flag="1" text="UN"/>
+    <answer flag="0" text="NATO"/>
+    <answer flag="1" text="CIS"/>
+    <answer flag="1" text="GUAM"/>
+  </question>
+</testing>

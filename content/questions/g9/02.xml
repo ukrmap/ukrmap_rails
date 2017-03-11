@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="НАСЕЛЕННЯ">
+  <question level="1" simple="True" text="В якому році було проведено останній перепис населення України?">
+    <answer flag="0" text="У 1991 р."/>
+    <answer flag="1" text="У 2001 р."/>
+    <answer flag="0" text="У 1996 р."/>
+  </question>
+  <question level="1" simple="True" text="За кількістю населення у Європі Україна:">
+    <answer flag="1" text="посідає шосте місце"/>
+    <answer flag="0" text="поступається тільки Франції"/>
+    <answer flag="0" text="поступається тільки Росії"/>
+  </question>
+  <question level="1" simple="True" text="Найбільш урбанізованим регіоном держави є:">
+    <answer flag="0" text="Київщина"/>
+    <answer flag="1" text="Донбас"/>
+    <answer flag="0" text="Галичина"/>
+  </question>
+  <question level="1" simple="True" text="В якій області  найбільша загальна густота населення?">
+    <answer flag="0" text=" Львівській"/>
+    <answer flag="0" text="Дніпропетровській"/>
+    <answer flag="1" text="Донецькій"/>
+  </question>
+  <question level="1" simple="True" text="Яка з відповідей є неправильною?">
+    <answer flag="0" text="В одному з міст-мільйонерів є морський порт"/>
+    <answer flag="1" text="Усі обласні центри нашої держави –  міста-мільйонери"/>
+    <answer flag="0" text="Усі міста-мільйонери України є обласними центрами"/>
+  </question>
+  <question level="1" simple="True" text="Які  з відповідей є неправильними?">
+    <answer flag="0" text="Переважна більшість росіян України проживає в містах"/>
+    <answer flag="1" text="За роки незалежності в Україні не проводилося жодного перепису населення"/>
+    <answer flag="1" text="У Криму найнижчий природний приріст населення серед регіонів України"/>
+  </question>
+  <question level="1" simple="True" text="Оберіть правильні відповіді">
+    <answer flag="1" text="Крим – єдиний регіон України, де у структурі населення переважають росіяни"/>
+    <answer flag="1" text="Область держави з найвищим рівнем урбанізації має найвищу загальну густоту населення"/>
+    <answer flag="0" text="З моменту здобуття Україною незалежності Крим має статус автономії"/>
+    <answer flag="1" text="У більшості областей України показники природного приросту населення мають від‘ємне  значення"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є правильним?">
+    <answer flag="0" text="З-поміж релігійних конфесій іслам найбільш поширений на Одещині"/>
+    <answer flag="1" text="В Україні чотири міста-мільйонери"/>
+    <answer flag="0" text="У Дніпропетровській області сільське населення переважає над міським"/>
+  </question>
+  <question level="1" simple="True" text="В який період в Україні була найбільша чисельність населення?">
+    <answer flag="0" text="Перед початком Другої світової війни"/>
+    <answer flag="1" text="На початку 90-х років минулого століття"/>
+    <answer flag="0" text="У 2001 році"/>
+  </question>
+  <question level="1" simple="True" text="Де проживає переважна більшість мусульман України?">
+    <answer flag="1" text="У Криму"/>
+    <answer flag="0" text="У Донецькій області"/>
+    <answer flag="0" text="В Одеській області"/>
+  </question>
+  <question level="1" simple="True" text="Вкажіть країни, де у складі населення понад 1 млн чоловік українського походження">
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="Бразилія"/>
+    <answer flag="1" text="Росія"/>
+    <answer flag="0" text="Польща"/>
+    <answer flag="1" text="США"/>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність">
+    <answer text="Буковина  –"/>
+    <answer text="Волинь –"/>
+    <answer text="Галичина –"/>
+    <variant>
+      <item flag="2" text="історико-етнографічний регіон на північному заході України"/>
+      <item flag="1" text="історико-етнографічний регіон в межах переважно Чернівецької області"/>
+      <item flag="3" text="історико-етнографічний регіон в межах переважно Львівської і Тернопільської областей"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність">
+    <answer text="Чернівецька –"/>
+    <answer text="Донеччина –"/>
+    <answer text="Чернігівська –"/>
+    <answer text="Крим –"/>
+    <variant>
+      <item flag="2" text="регіон України з найбільшим населення"/>
+      <item flag="1" text="область, де населення менше 1 млн жителів"/>
+      <item flag="4" text="регіон, де в структурі населення переважають росіяни"/>
+      <item flag="3" text="область, з найменшою густотою населення"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність">
+    <answer text="Росія –"/>
+    <answer text="США –"/>
+    <answer text="Бразилія – "/>
+    <variant>
+      <item flag="2" text="країна, до якої був спрямований перший потік емігрантів з України наприкінці XIX ст."/>
+      <item flag="1" text="країна з найбільшою українською діаспорою"/>
+      <item flag="3" text="країна, центр культурного життя українців  якої знаходиться в м.Прудентополіс"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність">
+    <answer text="Одеса –"/>
+    <answer text="Севастополь –"/>
+    <answer text="Ужгород –"/>
+    <variant>
+      <item flag="2" text="місто, що має спеціальний статус"/>
+      <item flag="1" text="місто-мільйонер"/>
+      <item flag="3" text="адміністративний центр найзахіднішої області держави"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність в парах &quot;Регіон – адміністративний центр&quot;">
+    <answer text="Волинська область –"/>
+    <answer text="АР Крим –"/>
+    <answer text="Закарпатська область –"/>
+    <variant>
+      <item flag="0" text="Володимир-Волинський"/>
+      <item flag="1" text="Луцьк"/>
+      <item flag="2" text="Сімферополь"/>
+      <item flag="0" text="Севастополь"/>
+      <item flag="3" text="Ужгород"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність в парах &quot;Національна меншина – регіон компактного проживання&quot;">
+    <answer text="Греки –"/>
+    <answer text="Угорці –"/>
+    <answer text="Гагаузи –"/>
+    <answer text="Румуни –"/>
+    <variant>
+      <item flag="3" text="Одещина"/>
+      <item flag="1" text="Донеччина"/>
+      <item flag="4" text="Буковина"/>
+      <item flag="2" text="Закарпаття"/>
+    </variant>
+  </question>
+</testing>

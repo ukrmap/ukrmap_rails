@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Агульныя заканамернасці прыроды Зямлі">
+  <question level="1" simple="True" text="Які мацярык ляжыць адначасова ва ўсіх чатырох паўшар'ях?">
+    <answer flag="1" text="Афрыка"/>
+    <answer flag="0" text="Антарктыда"/>
+    <answer flag="0" text="Аўстралія"/>
+  </question>
+  <question level="1" simple="True" text="У якім кірунку Зямля круціцца вакол сваёй восі?">
+    <answer flag="1" text="З захаду на ўсход"/>
+    <answer flag="0" text="З усходу на захад"/>
+    <answer flag="0" text="З поўначы на поўдзень"/>
+  </question>
+  <question level="1" simple="True" text="Арбіта, па якой Зямля рухаецца вакол Сонца, мае форму:">
+    <answer flag="0" text="круга"/>
+    <answer flag="1" text="эліпса"/>
+  </question>
+  <question level="1" simple="True" text="Аднымі з галоўных наступстваў кручэння Зямлі вакол сваёй восі з'яўляюцца:">
+    <answer flag="0" text="змена часоў года і сезонная рытмічнасць прыродных з'яў"/>
+    <answer flag="1" text="змена дня і ночы і сутачная рытмічнасць прыродных з'яў"/>
+    <answer flag="0" text="змяненне паўдзённай вышыні Сонца"/>
+  </question>
+  <question level="1" simple="True" text="Мясцовы час грынвіцкага мерыдыяна завецца:">
+    <answer flag="1" text="усясьветным"/>
+    <answer flag="0" text="сонечным"/>
+    <answer flag="0" text="пасавым"/>
+  </question>
+  <question level="1" simple="True" text="Працягласць палярнага дня або ночы з набліжэннем да канцавоссяў:">
+    <answer flag="1" text="павялічваецца"/>
+    <answer flag="0" text="памяншаецца"/>
+    <answer flag="0" text="не мяняецца"/>
+  </question>
+  <question level="1" simple="True" text="У якіх месцах зямная кара мае найбольшую таўшчыню?">
+    <answer flag="1" text="Пад гарамі"/>
+    <answer flag="0" text="У раўнінамі"/>
+    <answer flag="0" text="Пад акіянамі"/>
+  </question>
+  <question level="1" simple="True" text="Змена часоў года і сезонная рытмічнасць прыродных працэсаў з'яўляюцца галоўнымі наступствамі:">
+    <answer flag="1" text="руху Зямлі вакол Сонца"/>
+    <answer flag="0" text="кручэння Зямлі вакол сваёй восі"/>
+  </question>
+  <question level="1" simple="True" text="З якіх слаёў складаецца зямная кара пад мацерыкамі?">
+    <answer flag="0" text="Акіянічнага і мацерыковага"/>
+    <answer flag="1" text="Ападкавага, гранітнага, базальтавага"/>
+    <answer flag="0" text="Гранітнага, базальтавага"/>
+  </question>
+  <question level="1" simple="True" text="Да планетарных формаў рэльефу адносяцца:">
+    <answer flag="1" text="мацерыкі і акіянічныя западзіны"/>
+    <answer flag="0" text="шэльф, платформы, літасфэрныя пліты"/>
+  </question>
+  <question level="1" simple="True" text="Занальнае размеркаванне сонечнай радыяцыі на Зямлі залежыць ад:">
+    <answer flag="0" text="шарападобнасці Зямлі"/>
+    <answer flag="1" text="вугла падзеньня сонечных прамянёў"/>
+    <answer flag="0" text="падсцілаючай паверхні"/>
+  </question>
+  <question level="1" simple="True" text="Верхні друзлы пласт горных парод, перароблены сумеснымі дзеяннямі кампанентаў нежывой і жывой прыроды, завуць:">
+    <answer flag="0" text="зямной карой"/>
+    <answer flag="0" text="гумус"/>
+    <answer flag="1" text="грунтам"/>
+  </question>
+</testing>

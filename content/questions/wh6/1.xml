@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Життя прадавніх людей">
+  <question level="1" simple="True" text="Коли з'явилася перша людина на Землі?">
+    <answer flag="1" text="Близько 2 млн років тому"/>
+    <answer flag="0" text="Близько 5 млн років тому"/>
+    <answer flag="0" text="Близько 1 млн років тому"/>
+    <answer flag="0" text="Близько 4 млн років тому"/>
+  </question>
+  <question level="1" simple="True" text="Який континент, на думку більшості сучасних учених, вважається прабатьківщиною перших людей на Землі?">
+    <answer flag="0" text="Північна Америка"/>
+    <answer flag="0" text="Південна Америка"/>
+    <answer flag="0" text="Антарктида"/>
+    <answer flag="0" text="Євразія"/>
+    <answer flag="1" text="Африка"/>
+  </question>
+  <question level="1" simple="True" text="Коли проживали на Землі австралопітеки та &quot;людина уміла&quot;?">
+    <answer flag="1" text="5,5-1,5 млн років тому"/>
+    <answer flag="0" text="1,5-300 тис. років тому"/>
+    <answer flag="0" text="300-35 тис. років тому"/>
+  </question>
+  <question level="1" simple="True" text="Які люди заселяли Землю 1,5 млн - 300 тис. років тому?">
+    <answer flag="1" text="Пітекантропи"/>
+    <answer flag="1" text="Атлантропи"/>
+    <answer flag="0" text="Неандертальці"/>
+    <answer flag="0" text="Кроманьйонці"/>
+    <answer flag="1" text="Синантропи"/>
+  </question>
+  <question level="1" simple="True" text="Як називалася людина - молодший сучасник неандертальця?">
+    <answer flag="0" text="Пітекантроп"/>
+    <answer flag="0" text="Австралопітек"/>
+    <answer flag="1" text="Кроманьйонець"/>
+  </question>
+  <question level="1" simple="True" text="В які групування об'єднувалися прадавні люди?">
+    <answer flag="1" text="Стадо"/>
+    <answer flag="1" text="Родова община"/>
+    <answer flag="1" text="Плем'я"/>
+    <answer flag="0" text="Держава"/>
+  </question>
+  <question level="1" simple="True" text="Хто керував життям племені?">
+    <answer flag="0" text="Цар"/>
+    <answer flag="0" text="Жерець"/>
+    <answer flag="1" text="Рада старшин"/>
+    <answer flag="1" text="Вождь"/>
+    <answer flag="0" text="Фараон"/>
+  </question>
+  <question level="1" simple="True" text="Коли ймовірно людина перейшла від збиральництва до землеробства?">
+    <answer flag="1" text="12-10 тис. років тому"/>
+    <answer flag="0" text="7 тис. років тому"/>
+    <answer flag="0" text="5 тис. років тому"/>
+    <answer flag="0" text="4 тис. років тому"/>
+  </question>
+  <question level="1" simple="True" text="Яка тварина була приручена людьми першою?">
+    <answer flag="0" text="Кінь"/>
+    <answer flag="0" text="Корова"/>
+    <answer flag="0" text="Свиня"/>
+    <answer flag="0" text="Кішка"/>
+    <answer flag="1" text="Собака"/>
+  </question>
+  <question level="1" simple="True" text="Коли людина навчилася виготовляти знаряддя праці з металу?">
+    <answer flag="0" text="15-10 тис. років тому"/>
+    <answer flag="1" text="7-6 тис. років тому"/>
+    <answer flag="0" text="5 тис. років тому"/>
+    <answer flag="0" text="4 тис. років тому"/>
+  </question>
+  <question level="1" simple="True" text="Які міста, відомі археологам, належать до найдавніших?">
+    <answer flag="0" text="Чжоукоудянь"/>
+    <answer flag="0" text="Трипілля"/>
+    <answer flag="1" text="Чатал-Гуюк"/>
+    <answer flag="1" text="Єрихон"/>
+    <answer flag="0" text="Терніфін"/>
+  </question>
+  <question level="1" simple="True" text="Що вважається початком відліку &quot;нашої ери&quot;?">
+    <answer flag="0" text="Заснування Риму"/>
+    <answer flag="1" text="Різдво Христове"/>
+    <answer flag="0" text="Виникнення Землі"/>
+    <answer flag="0" text="Поява першої людини"/>
+  </question>
+</testing>

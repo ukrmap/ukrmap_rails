@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Еўрапейскія краіны ў X-XIII стст.">
+  <question level="1" text="Калі адбылася бітва Атона I з мадзьяры на рацэ Лех?">
+    <answer flag="0" text="911 г."/>
+    <answer flag="0" text="919 г."/>
+    <answer flag="1" text="955 г."/>
+    <answer flag="0" text="966 г."/>
+  </question>
+  <question level="1" text="У 1077 г. адбылася сустрэча ў Каноссе таты Рымскага Рыгора VII з германскім імператарам">
+    <answer flag="0" text="Атонам I"/>
+    <answer flag="0" text="Атонам II"/>
+    <answer flag="1" text="Генрыхам IV"/>
+    <answer flag="0" text="Фрыдрыхам І Барбаросай"/>
+  </question>
+  <question level="1" text="У якой частцы Балканскага паўвострава ў канцы VII ст. паўстала першае Балгарскае царства?">
+    <answer flag="0" text="цэнтральнай"/>
+    <answer flag="1" text="паўночна-ўсходняй"/>
+    <answer flag="0" text="паўднёва-заходняй"/>
+    <answer flag="0" text="паўночна-заходняй"/>
+  </question>
+  <question level="1" text="Якое каралеўства паўстала ў Еўропе ў 1025">
+    <answer flag="1" text="Польскае"/>
+    <answer flag="0" text="Чэшскае"/>
+    <answer flag="0" text="Вугорскае"/>
+    <answer flag="0" text="Харвацкае"/>
+  </question>
+  <question level="1" text="Царкоўны сабор 1095 г., дзе тата Рымскі Урбан II выступіў з заклікам да Першага крыжовага паходу, адбыўся ў горадзе">
+    <answer flag="0" text="Рым"/>
+    <answer flag="0" text="Парыж"/>
+    <answer flag="0" text="Тулуза"/>
+    <answer flag="1" text="Клермон"/>
+  </question>
+  <question level="1" text="Захоп якога горада было мэтай удзельнікаў Другога крыжовага паходу?">
+    <answer flag="0" text="Ерусалім"/>
+    <answer flag="0" text="Канстанцінопаль"/>
+    <answer flag="1" text="Дамаска"/>
+    <answer flag="0" text="Акра"/>
+  </question>
+  <question level="1" text="Калі паўстала Лацінская імперыя?">
+    <answer flag="0" text="1202"/>
+    <answer flag="1" text="1204"/>
+    <answer flag="0" text="1217"/>
+    <answer flag="0" text="1221"/>
+  </question>
+  <question level="1" text="Эпоха Крыжовых паходаў завяршылася здабыццём егіпцянамі ў 1291 г. крэпасць">
+    <answer flag="0" text="Тортоза"/>
+    <answer flag="0" text="Трыпалі"/>
+    <answer flag="0" text="Сідон"/>
+    <answer flag="1" text="Акра"/>
+  </question>
+  <question level="1" text="Які з англійскіх каралёў істотна павялічыў свае французскія ўладанні ў выніку жаніцьбы на Алиенора Аквитанской?">
+    <answer flag="0" text="Вільгельм Заваёўнік"/>
+    <answer flag="1" text="Генрых II Плантагенетов"/>
+    <answer flag="0" text="Рычард І Ільвінае Сэрца"/>
+    <answer flag="0" text="Ян Беззямельны"/>
+  </question>
+  <question level="1" text="Калі паўстаў англійская парламент?">
+    <answer flag="0" text="1199"/>
+    <answer flag="0" text="1216"/>
+    <answer flag="0" text="1263"/>
+    <answer flag="1" text="1265"/>
+  </question>
+  <question level="1" text="Пры праўленні якога французскага караля ангельскія манархі страцілі большасць сваіх уладанняў?">
+    <answer flag="1" text="Піліпа II Аўгуста"/>
+    <answer flag="0" text="Людовіка VIII"/>
+    <answer flag="0" text="Людовіка IX Святога"/>
+    <answer flag="0" text="Піліпа IV Прыгожага"/>
+  </question>
+  <question level="1" text="Калі ў Францыі ўпершыню скліканы Генеральныя штаты?">
+    <answer flag="0" text="1263"/>
+    <answer flag="0" text="1284"/>
+    <answer flag="1" text="1302"/>
+    <answer flag="0" text="1314"/>
+  </question>
+</testing>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Свет у 1950 г. і ў 2008 г.">
+  <question level="1" simple="True" text="Якія валодання былі калоніямі Вялікабрытаніі?">
+    <answer flag="1" text="Залаты Бераг"/>
+    <answer flag="1" text="Бечуаналенд"/>
+    <answer flag="0" text="Макао"/>
+    <answer flag="0" text="Ифни"/>
+  </question>
+  <question level="1" simple="True" text="Як можна ахарактарызаваць адносіны паміж СССР і ЗША ў канцы 40-ых гадоў XX стагоддзя">
+    <answer flag="1" text="&quot;Халодная вайна&quot;"/>
+    <answer flag="0" text="&quot;Гарачая вайна&quot;"/>
+    <answer flag="0" text="&quot;Інтыфады&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Якія каляніяльныя валодання атрымалі незалежнасьць да 1950 г.?">
+    <answer flag="1" text="В'етнам"/>
+    <answer flag="1" text="Інданезія"/>
+    <answer flag="0" text="Камбоджа"/>
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Філіпіны"/>
+  </question>
+  <question level="1" simple="True" text="Якое стан дэкаланізацыі перажываў свет у 1950 г.?">
+    <answer flag="1" text="Першы"/>
+    <answer flag="0" text="Другі"/>
+    <answer flag="0" text="Трэці"/>
+    <answer flag="0" text="Чацвёрты"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны &quot;Вялікай васьмёркі&quot; з'яўляюцца пастаяннымі сябрамі Рады бяспекі ААН?">
+    <answer flag="1" text="Расія"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="ЗША"/>
+    <answer flag="0" text="Кітай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="Францыя"/>
+    <answer flag="1" text="Вялікабрытанія"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны набылі незалежнасць пасля 1989 г.?">
+    <answer flag="0" text="Лівія"/>
+    <answer flag="1" text="Латвія"/>
+    <answer flag="1" text="Літва"/>
+    <answer flag="0" text="Лесота"/>
+  </question>
+  <question level="1" simple="True" text="Якія палітычныя пытанні сталі прычынамі непаразуменняў паміж Расеяй і ЗША ў канцы XX стагоддзя?">
+    <answer flag="1" text="Пашырэнне НАТА на Усход"/>
+    <answer flag="1" text="Ўрэгуляванне блізкаўсходняга канфлікту"/>
+    <answer flag="1" text="Ўрэгуляванні югаслаўскага канфлікту"/>
+    <answer flag="0" text="Ўрэгуляванне крывавых канфліктаў у Трапічнай і Паўднёвай Афрыцы"/>
+  </question>
+  <question level="1" simple="True" text="Якая дзве глабальныя праблемы лічацца найбольш важнымі ў пачатку XXI стагоддзя?">
+    <answer flag="0" text="Інфармацыйная бяспека"/>
+    <answer flag="1" text="Міжнародны тэрарызм"/>
+    <answer flag="0" text="Асваенне космасу і Сусветнага акіяна"/>
+    <answer flag="1" text="Кліматычныя змены"/>
+  </question>
+</testing>

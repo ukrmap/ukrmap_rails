@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Советский Союз в конце 1980-х годов">
+  <question level="1" simple="True" text="Сколько союзных республик входило в состав СССР?">
+    <answer flag="0" text="6"/>
+    <answer flag="0" text="8"/>
+    <answer flag="0" text="10"/>
+    <answer flag="1" text="15"/>
+  </question>
+  <question level="1" simple="True" text="Какие из перечисленных административных единиц СССР не имели статуса союзных республик?">
+    <answer flag="1" text="Тувинская"/>
+    <answer flag="1" text="Якутск"/>
+    <answer flag="0" text="Таджикская"/>
+    <answer flag="0" text="Кыргызская"/>
+  </question>
+  <question level="1" simple="True" text="Которых административно-территориальных единиц не существовало в иерархии разделения СССР?">
+    <answer flag="0" text="Республика"/>
+    <answer flag="0" text="Область"/>
+    <answer flag="1" text="Воеводство"/>
+    <answer flag="0" text="Округ"/>
+    <answer flag="0" text="Край"/>
+    <answer flag="1" text="Губерн"/>
+  </question>
+  <question level="1" simple="True" text="Какие из перечисленных городов были столицами союзных республик?">
+    <answer flag="1" text="Ташкент"/>
+    <answer flag="0" text="Якутск"/>
+    <answer flag="1" text="Фрунзе"/>
+    <answer flag="1" text="Баку"/>
+  </question>
+  <question level="1" simple="True" text="В каком году была принята Конституция, которая определяла руководящую роль КПСС в советском обществе?">
+    <answer flag="1" text="1977"/>
+    <answer flag="0" text="1987"/>
+    <answer flag="0" text="1989"/>
+  </question>
+  <question level="1" simple="True" text="Какие государства мира по численности населения преобладали Советский Союз?">
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Индонезия"/>
+    <answer flag="1" text="Индия"/>
+    <answer flag="0" text="Соединенные Штаты Америки"/>
+  </question>
+  <question level="1" simple="True" text="Какое место в мире по площади занимал СССР?">
+    <answer flag="0" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+    <answer flag="1" text="1"/>
+  </question>
+  <question level="1" simple="True" text="Какое место среди республик СССР занимала Украине по площади?">
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+</testing>

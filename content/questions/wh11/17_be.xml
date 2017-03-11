@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Паўднёвай і Паўднёва-Усходняй Азіі">
+  <question level="1" simple="True" text="Якія падзеі адбыліся ў жніўні 1947 г.?">
+    <answer flag="0" text="Абвяшчэнне Рэспублікі Індыя"/>
+    <answer flag="0" text="Абвяшчэнне Ісламскай Рэспублікі Пакістан"/>
+    <answer flag="1" text="Падзел Індыі на дзве дзяржавы: Індыйскі Саюз і Пакістан"/>
+    <answer flag="1" text="Вялікабрытанія падала незалежнасць Індыі"/>
+  </question>
+  <question level="1" simple="True" text="У якіх гадах адбываліся інда-пакістанскай вайны?">
+    <answer flag="0" text="1946"/>
+    <answer flag="0" text="1946-1947 гг"/>
+    <answer flag="1" text="1947-1949 гг"/>
+    <answer flag="1" text="1965"/>
+    <answer flag="1" text="1971"/>
+  </question>
+  <question level="1" simple="True" text="Калі была абвешчаная незалежнасць Усходняга Пакістана - Народнай Рэспублікі Бангладэш?">
+    <answer flag="0" text="15 Жнівень 1947"/>
+    <answer flag="0" text="23 сакавіка 1956 года"/>
+    <answer flag="1" text="26 сакавіка 1971 г."/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылося ўварванне савецкіх войскаў у Авганистан пад прыкрыццём лозунга &quot;прадастаўленне інтэрнацыянальнай дапамогі брацкаму народу&quot;?">
+    <answer flag="0" text="27 красавіка 1978 г"/>
+    <answer flag="1" text="27 Снежань 1979 г."/>
+    <answer flag="0" text="15 Люты 1989 года"/>
+  </question>
+  <question level="1" simple="True" text="У якіх краінах у 1975 г. да ўлады прыйшлі камуністы?">
+    <answer flag="0" text="М'янме"/>
+    <answer flag="0" text="Тайландзе"/>
+    <answer flag="1" text="Лаосе"/>
+    <answer flag="0" text="Непале"/>
+    <answer flag="1" text="Камбоджы"/>
+    <answer flag="1" text="В'етнаме"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіне адбылося звяржэнне манархіі у 2008 г.?">
+    <answer flag="0" text="Тайландзе"/>
+    <answer flag="0" text="Камбоджы"/>
+    <answer flag="0" text="Лаосе"/>
+    <answer flag="0" text="Бутане"/>
+    <answer flag="1" text="Непале"/>
+  </question>
+  <question level="1" simple="True" text="Калі ў Камбоджы быў звергнуты рэжым &quot;чырвоных кхмераў&quot;?">
+    <answer flag="1" text="Снежні 1978 г."/>
+    <answer flag="0" text="Красавік 1975 года"/>
+    <answer flag="0" text="Студзень 1977 года"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылося абвяшчэнне аб'яднанай Сацыялістычнай Рэспублікі В'етнам?">
+    <answer flag="0" text="2 сакавіка 1945 года"/>
+    <answer flag="0" text="26 кастрычніка 1955 г"/>
+    <answer flag="1" text="2 ліпеня 1976"/>
+  </question>
+  <question level="1" simple="True" text="Калі і дзе ЗША было заключана пагадненне аб спыненні вайны і аднаўленні міру ва В'етнаме?">
+    <answer flag="0" text="13 мая 1968"/>
+    <answer flag="0" text="30 сакавіка 1972 года"/>
+    <answer flag="1" text="27 студзеня 1973 г."/>
+    <answer flag="1" text="Парыж"/>
+    <answer flag="0" text="Вашынгтон"/>
+    <answer flag="0" text="Сайгон"/>
+  </question>
+</testing>

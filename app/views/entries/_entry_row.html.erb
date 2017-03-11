@@ -1,0 +1,10 @@
+<tr>
+  <td>
+    <a href="<%= entry_path(entry) %>">
+      <%= entry.title %>
+      <% if entry.tutorial? %>
+      <i style="color: grey;"><%= "(#{I18n.t(entry.tutorial)})" %></i>
+      <% end %>
+    </a>
+  </td>
+</tr>

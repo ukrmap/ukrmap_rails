@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Еўропа ў XIV-XV стст. Духоўны свет чалавека сярэднявечча">
+  <question text="Аснову ангельскай арміі ў гады Стогадовай вайны складалі">
+    <answer flag="1" text="свабодныя сяляне"/>
+    <answer flag="0" text="рыцары"/>
+    <answer flag="0" text="замежныя найміты"/>
+  </question>
+  <question text="Паўстанне сялян ў Францыі ў час Стогадовай вайны называлася">
+    <answer flag="0" text="паўстанне Вота Тайлера"/>
+    <answer flag="1" text="Жакерия"/>
+    <answer flag="0" text="Сялянская вайна"/>
+  </question>
+  <question text="Выкарыстоўвалася агнястрэльную зброю ў гады Стогадовай вайны?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ні"/>
+  </question>
+  <question text="Апошняга візантыйскага імператара клікалі">
+    <answer flag="1" text="Канстанцін XI"/>
+    <answer flag="0" text="Олксий І Комнін"/>
+    <answer flag="0" text="Юстыніян III"/>
+  </question>
+  <question text="Якое назву далі туркі Канстанцінопаля пасля яго захопу?">
+    <answer flag="0" text="Анкара"/>
+    <answer flag="1" text="Стамбул"/>
+    <answer flag="0" text="Порта"/>
+  </question>
+  <question text="Галоўнымі ўпрыгожваннямі гатычных храмаў былі">
+    <answer flag="1" text="вітражы"/>
+    <answer flag="0" text="скульптуры"/>
+    <answer flag="0" text="іконы"/>
+  </question>
+  <question text="У 1479 г. шлюб Ізабелы Кастыльскага і Фердынанда Арагонскага прывёў да">
+    <answer flag="0" text="адукацыі каралеўства Партугалія"/>
+    <answer flag="1" text="адукацыі каралеўства Іспанія."/>
+  </question>
+  <question text="Як называўся кіраўнік Венецыі?">
+    <answer flag="0" text="герцаг"/>
+    <answer flag="1" text="дож"/>
+    <answer flag="0" text="вялікі князь"/>
+    <answer flag="0" text="кароль"/>
+  </question>
+  <question text="Барацьбу гусітаў супраць рыцараў-крыжакоў ўзначаліў">
+    <answer flag="0" text="Ян Гус"/>
+    <answer flag="1" text="Ян Жыжка"/>
+    <answer flag="0" text="Жыгімонт Люксембургскі"/>
+  </question>
+  <question text="Навучанне ў сярэднявечных універсітэтах вялося на">
+    <answer flag="0" text="нацыянальных мовах"/>
+    <answer flag="1" text="лацінскай мове"/>
+    <answer flag="0" text="французскай мове"/>
+  </question>
+  <question text="У якой краіне зарадзіўся гатычны стыль ў архітэктуры?">
+    <answer flag="0" text="Англіі"/>
+    <answer flag="1" text="Францыі"/>
+    <answer flag="0" text="Італіі"/>
+    <answer flag="0" text="Германіі"/>
+  </question>
+  <question text="Хто быў вынаходнікам кнігадрукавання ў Еўропе?">
+    <answer flag="0" text="Іван Фёдараў"/>
+    <answer flag="1" text="Ёган Гутенберга"/>
+    <answer flag="0" text="Тамаш Аквінскі"/>
+  </question>
+</testing>

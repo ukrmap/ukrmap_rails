@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kiev State's reign at her and Sviatoslav">
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="1" text="Journey to Constantinople Olga"/>
+    <answer flag="0" text="Balkan campaigns of Prince Svyatoslav"/>
+  </question>
+  <question level="1" simple="True" text="When Princess Olga came to power in Kiev?">
+    <answer flag="0" text="Year 912"/>
+    <answer flag="1" text="Year 945"/>
+  </question>
+  <question level="1" simple="True" text="Who changed Olga princes table?">
+    <answer flag="1" text="Prince Igor"/>
+    <answer flag="0" text="Prince Svyatoslav"/>
+  </question>
+  <question level="1" simple="True" text="Which measures, according to the chronicles, failed Olga pryborkavshy Derevlyany?">
+    <answer flag="0" text="Introduced Christianity as state religion"/>
+    <answer flag="1" text="Streamline the collection of tribute"/>
+  </question>
+  <question level="1" simple="True" text="What was the essence of Olga measures that involved the elimination of local knyazhin?">
+    <answer flag="1" text="Board was abolished derevlyanskoho Little Prince, which helped land directly subordinate derevlyansku Kyiv"/>
+    <answer flag="0" text="Supreme power in the principality had to make the princes of the dynasty of Rurik dynasty"/>
+  </question>
+  <question level="1" simple="True" text="Reason for the Duchess Olga went to Constantinople?">
+    <answer flag="0" text="To establish the rule of the Byzantine Empire"/>
+    <answer flag="1" text="To renew the peace intergovernmental agreement between Rus and Byzantium"/>
+  </question>
+  <question level="1" simple="True" text="What ended campaign of Prince Svyatoslav against Khazar Khaganate?">
+    <answer flag="1" text="Khaganate Khazar defeat and the destruction of its capital"/>
+    <answer flag="0" text="Khazaria acknowledged superiority of Russia"/>
+  </question>
+  <question level="1" simple="True" text="When there were military operations in Bulgaria, whereby Prince Svyatoslav conquered almost the whole territory of this state?">
+    <answer flag="0" text="In 911-912 years"/>
+    <answer flag="1" text="Over 967 - 968 years"/>
+  </question>
+  <question level="1" simple="True" text="What Bulgarian city Svyatoslav held a few months siege occurred which was signed peace treaty with Byzantium?">
+    <answer flag="0" text="In Arkadiopoli in 970, the"/>
+    <answer flag="1" text="In Dorostoli in 971, the"/>
+  </question>
+  <question level="1" simple="True" text="As predicted a peace treaty with Prince Svyatoslav Byzantine Emperor?">
+    <answer flag="0" text="Byzantium had to pay each soldier Ruthenian to 12 USD and a considerable tribute to the Rus princes"/>
+    <answer flag="1" text="Prince refused Danube lands, Byzantine emperor committed Rus miss home"/>
+  </question>
+  <question level="1" simple="True" text="Which of the events held by Prince Svyatoslav?">
+    <answer flag="0" text="Prince made a campaign against Byzantium, a sign of victory nailed his shield on the Golden Gate Byzantine capital"/>
+    <answer flag="1" text="Seeking to continue the war in the Balkans, the prince of his sons appointed governor in the lands of Rus"/>
+  </question>
+  <question level="1" simple="True" text="What event occurred in the spring of 972, near Dnieper rapids?">
+    <answer flag="0" text="Statement of the Grand Prince against Derevlyany"/>
+    <answer flag="1" text="Death in battle with Sviatoslav Pechenegs"/>
+  </question>
+</testing>

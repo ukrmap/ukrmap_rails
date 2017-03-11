@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="LAND - OUR HOUSE">
+  <question level="1" simple="True" text="Embarking on a journey in 1492, Christopher Columbus hoped to open:">
+    <answer flag="0" text="America"/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="China"/>
+  </question>
+  <question level="1" simple="True" text="The most populous country in the world are:">
+    <answer flag="0" text="India"/>
+    <answer flag="1" text="China"/>
+    <answer flag="0" text="Russia"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries the largest population density?">
+    <answer flag="1" text="In India"/>
+    <answer flag="0" text="In China"/>
+    <answer flag="0" text="In Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="The biggest number of believers is a world religion:">
+    <answer flag="0" text="Islam"/>
+    <answer flag="1" text="Christianity"/>
+    <answer flag="0" text="Buddhism"/>
+  </question>
+  <question level="1" simple="True" text="The oldest among world religions is">
+    <answer flag="0" text="Islam"/>
+    <answer flag="1" text="Buddhism"/>
+    <answer flag="0" text="Christianity"/>
+  </question>
+  <question level="1" simple="True" text="As a process called reproduction affected lands?">
+    <answer flag="0" text="Reconstruction"/>
+    <answer flag="0" text="Restoration"/>
+    <answer flag="1" text="Reclamation"/>
+  </question>
+  <question level="1" simple="True" text="How is a system of standard measurements, evaluation and forecasting of natural environment and changes in it occur?">
+    <answer flag="0" text="Ob"/>
+    <answer flag="1" text="Monitoring"/>
+    <answer flag="0" text="Probing"/>
+  </question>
+  <question level="1" simple="True" text="How are called conservation areas, prohibited any economic activity carried out and only scientific research?">
+    <answer flag="1" text="Reserves"/>
+    <answer flag="0" text="Nature sanctuaries"/>
+    <answer flag="0" text="National Parks"/>
+  </question>
+  <question level="1" simple="True" text="The net effect of the greenhouse effect on Earth are:">
+    <answer flag="1" text="general warming"/>
+    <answer flag="0" text="general climate cooling"/>
+    <answer flag="0" text="increase the yield of greenhouse crops"/>
+  </question>
+  <question level="1" simple="True" text="Increased carbon dioxide in the atmosphere is a direct result of:">
+    <answer flag="0" text="increase in desert area"/>
+    <answer flag="1" text="reduction in forest cover"/>
+    <answer flag="0" text="ozone depletion"/>
+  </question>
+  <question level="1" simple="True" text="The major pollutants are:">
+    <answer flag="0" text="developing countries"/>
+    <answer flag="1" text="industrialized countries"/>
+    <answer flag="0" text="poorest countries"/>
+  </question>
+  <question level="1" simple="True" text="The main reason for energy and raw material problems in the second half of XX century. are:">
+    <answer flag="0" text="reduction of mineral resources on the planet"/>
+    <answer flag="1" text="rapid growth in demand for fuel and raw materials"/>
+    <answer flag="0" text="political instability in some regions, rich in minerals"/>
+  </question>
+</testing>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ПРИРОДНІ УМОВИ ТА ПРИРОДНІ РЕСУРСИ">
+  <question level="1" simple="True" text="Найдавнішими архейськими і протерозойськими породами складено:">
+    <answer flag="0" text="Причорноморську западину"/>
+    <answer flag="0" text="Воронезький кристалічний щит"/>
+    <answer flag="1" text="Український щит"/>
+    <answer flag="0" text="Волино-Подільську Плиту"/>
+  </question>
+  <question level="1" simple="True" text="В який із геологічних періодів останні моря залишили територію України?">
+    <answer flag="1" text="У неогені"/>
+    <answer flag="0" text="В юрі"/>
+    <answer flag="0" text="У палеогені"/>
+  </question>
+  <question level="1" simple="True" text="Найвищою вершиною Криму є">
+    <answer flag="1" text="г. Роман-Кош"/>
+    <answer flag="0" text="г. Демерджі"/>
+    <answer flag="0" text="г. Ай-Петрі"/>
+  </question>
+  <question level="1" simple="True" text="Яка висота Говерли?">
+    <answer flag="0" text="1545 м"/>
+    <answer flag="1" text="2061 м"/>
+    <answer flag="0" text="1527 м"/>
+  </question>
+  <question level="1" simple="True" text="Яка з відповідей є правильною?">
+    <answer flag="0" text="Вся територія України розташована в помірному кліматичному поясі"/>
+    <answer flag="0" text="Континентальність клімату України зростає з півночі на південь"/>
+    <answer flag="1" text="Найбільші річні суми опадів в Україні припадають на Карпати"/>
+  </question>
+  <question level="1" simple="True" text="Скільки гірських вершин України мають висоту понад 2 000 метрів?">
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним?">
+    <answer flag="0" text="Основна маса опадів в Україні випадає у теплий період року"/>
+    <answer flag="1" text="Україна добре забезпечена водними ресурсами"/>
+    <answer flag="0" text="Південний берег Криму знаходиться в межах субтропічного кліматичного поясу"/>
+  </question>
+  <question level="1" simple="True" text="Яка з річок України не належить до Азово-Чорноморського басейну?">
+    <answer flag="1" text="Західний Буг"/>
+    <answer flag="0" text="Дністер"/>
+    <answer flag="0" text="Сейм"/>
+  </question>
+  <question level="1" simple="True" text="Які з відповідей є правильними?">
+    <answer flag="0" text="Найменша солоність води Чорного моря спостерігається в його південній частині"/>
+    <answer flag="0" text="Більшість живих організмів Чорного моря мешкає в його глибинних шарах"/>
+    <answer flag="1" text="Максимальна глибина Азовського моря становить 15 м"/>
+    <answer flag="1" text="Більшість живих організмів Чорного моря мешкають на глибинах до 200 м"/>
+  </question>
+  <question level="1" simple="True" text="Які ґрунти найпоширеніші в лісостеповій та степовій зонах України?">
+    <answer flag="1" text="Чорноземи"/>
+    <answer flag="0" text="Дерново-підзолисті"/>
+    <answer flag="0" text="Сірі лісові"/>
+  </question>
+  <question level="1" simple="True" text="До якої із перелічених тектонічних структур приурочені родовища нафти та газу, поклади кам‘яного вугілля в Україні?">
+    <answer flag="1" text="Дніпровсько-Донецька западина"/>
+    <answer flag="0" text="Воронезький кристалічний масив"/>
+    <answer flag="0" text="Український кристалічний щит"/>
+  </question>
+  <question level="1" simple="True" text="Вугільними басейнами України є:">
+    <answer flag="0" text="Причорноморський"/>
+    <answer flag="1" text="Донецький"/>
+    <answer flag="1" text="Львівсько-Волинський"/>
+  </question>
+  <question level="1" simple="True" text="Як називається відрив і переміщення мас гірських порід по схилу під дією сили тяжіння?">
+    <answer flag="0" text="Площинний змив"/>
+    <answer flag="0" text="Карстоутворення"/>
+    <answer flag="1" text="Зсув"/>
+  </question>
+  <question level="1" simple="True" text="В якій природній зоні України найвища сільськогосподарська освоєність земель?">
+    <answer flag="1" text="У степовій"/>
+    <answer flag="0" text="У лісовій"/>
+    <answer flag="0" text="У лісостеповій"/>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між формою рельєфу та її назвою">
+    <answer text="Словечансько-Овруцький –"/>
+    <answer text="Хотинська –"/>
+    <answer text="Київське –"/>
+    <answer text="Причорноморська –"/>
+    <variant>
+      <item flag="2" text="височина"/>
+      <item flag="1" text="кряж"/>
+      <item flag="4" text="низовина"/>
+      <item flag="3" text="плато"/>
+      <item flag="0" text="рівнина"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між тектонічною структурою та її назвою">
+    <answer text="Український –"/>
+    <answer text="Волино-Подільська –"/>
+    <answer text="Дніпровсько-Донецька –"/>
+    <answer text="Воронезький –"/>
+    <variant>
+      <item flag="4" text="кристалічний масив"/>
+      <item flag="3" text="западина"/>
+      <item flag="2" text="плита"/>
+      <item flag="1" text="щит"/>
+      <item flag="0" text="складчата область"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між істричними особами і їх внеском у дослідження України">
+    <answer text="Клавдій Птолемей –"/>
+    <answer text="Г.Л. де Боплан –"/>
+    <answer text="В.Вернадский –"/>
+    <answer text="П.Чубинський"/>
+    <variant>
+      <item flag="0" text="автор &quot;Опису України&quot;"/>
+      <item flag="2" text="автор &quot;Географії&quot;"/>
+      <item flag="4" text="етнограф, автор тексту національного гімну"/>
+      <item flag="3" text="засновник і перший президент АН України"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між власними назвами і тлумаченнями">
+    <answer text="Львівсько-Волинський –"/>
+    <answer text="Дніпровський –"/>
+    <answer text="Керченський –"/>
+    <answer text="Нікопольський –"/>
+    <variant>
+      <item flag="3" text="залізорудний басейн"/>
+      <item flag="1" text="кам‘яновугільний басей"/>
+      <item flag="2" text="буровугільний басейн"/>
+      <item flag="4" text="марганцевий басейн"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Встановіть відповідність між природними зонами і переважаючими типами ґрунтів">
+    <answer text="Зона мішаних лісів –"/>
+    <answer text="Степова зона –"/>
+    <answer text="Лісостепова зона –"/>
+    <answer text="Українські Карпати –"/>
+    <variant>
+      <item flag="3" text="чорноземи типові"/>
+      <item flag="1" text="дерново-підзолисті"/>
+      <item flag="2" text="чорноземи звичайні"/>
+      <item flag="4" text="бурі гірсько-лісові"/>
+      <item flag="0" text="коричневі гірські"/>
+    </variant>
+  </question>
+</testing>

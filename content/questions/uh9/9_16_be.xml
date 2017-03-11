@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Рассяленне і эміграцыя Украінскі ў другой палове XIX - пачатку ХХ ст.">
+  <question level="1" simple="True" text="Чым была абумоўлена масавая працоўная эміграцыя ўкраінскі канцы XIX стагоддзя?">
+    <answer flag="1" text="Аграрных перанасяленне ўкраінскіх зямель"/>
+    <answer flag="0" text="Імкненнем рускага і аўстрыйскага урадаў пазбавіцца ўкраінскага насельніцтва"/>
+    <answer flag="0" text="Неразвітасцю гарадскога жыцця на ўкраінскіх землях"/>
+    <answer flag="0" text="Адвечным імкненнем да новых прыгод і адкрыццям"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву атрымалі зямлі, асвоеныя ўкраінскі на Далёкім Усходзе?">
+    <answer flag="1" text="Зялёны клін"/>
+    <answer flag="0" text="Шэры клін"/>
+    <answer flag="0" text="Саскачеван"/>
+    <answer flag="0" text="Кубань"/>
+  </question>
+  <question level="1" simple="True" text="Да якой з названых краін ўкраінскія пасяленцы прыбылі першымі?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="0" text="ЗША"/>
+    <answer flag="1" text="Бразілія"/>
+    <answer flag="0" text="Аргенціна"/>
+  </question>
+  <question level="1" simple="True" text="У якой з названых краін ўкраінскае грамадства да пачатку ХХ ст. была самай шматлікай?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="ЗША"/>
+    <answer flag="0" text="Бразілія"/>
+    <answer flag="0" text="Аргенціна"/>
+  </question>
+  <question level="1" simple="True" text="З якіх рэгіёнаў Украіны пераважала працоўная эміграцыя на Захад?">
+    <answer flag="1" text="Галічына, Закарпацце, Букавіна, Валынь"/>
+    <answer flag="0" text="Падоле, Кіеўшчыны"/>
+    <answer flag="0" text="Стэпавыя раёны"/>
+    <answer flag="0" text="Данбас, Слобожанщина, Прыдняпроўе"/>
+  </question>
+  <question level="1" simple="True" text="Які год лічыцца пачаткам ўкраінскі працоўнай эміграцыя?">
+    <answer flag="0" text="1850"/>
+    <answer flag="0" text="1860"/>
+    <answer flag="1" text="1870"/>
+    <answer flag="0" text="1880"/>
+  </question>
+</testing>

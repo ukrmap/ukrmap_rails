@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="POPULATION">
+  <question level="1" simple="True" text="In what year was held last census in Ukraine?">
+    <answer flag="0" text="In 1991,"/>
+    <answer flag="1" text="In 2001,"/>
+    <answer flag="0" text="In 1996"/>
+  </question>
+  <question level="1" simple="True" text="Of population in Europe, Ukraine:">
+    <answer flag="1" text="ranks sixth"/>
+    <answer flag="0" text="second only to France"/>
+    <answer flag="0" text="second only to Russia"/>
+  </question>
+  <question level="1" simple="True" text="The most urbanized regions of the state are:">
+    <answer flag="0" text="Kyiv region"/>
+    <answer flag="1" text="Donbass"/>
+    <answer flag="0" text="Galicia"/>
+  </question>
+  <question level="1" simple="True" text="In which region the largest total population density?">
+    <answer flag="0" text="Lviv"/>
+    <answer flag="0" text="Dnipropetrovsk"/>
+    <answer flag="1" text="Donetsk"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="In one of the major cities are port"/>
+    <answer flag="1" text="All regional centers of our country - major cities"/>
+    <answer flag="0" text="All major cities of Ukraine is the regional center"/>
+  </question>
+  <question level="1" simple="True" text="Which answers are wrong?">
+    <answer flag="0" text="The vast majority of Russians living in Ukraine cities"/>
+    <answer flag="1" text="Since independence in Ukraine was no census"/>
+    <answer flag="1" text="In Crimea, the lowest natural population growth among regions of Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="Choose the correct answers">
+    <answer flag="1" text="Crimea - the only region of Ukraine where the total population is dominated by Russians"/>
+    <answer flag="1" text="The region of the highest rates of urbanization has the highest overall population density"/>
+    <answer flag="0" text="Since Ukraine's independence has autonomous status of Crimea"/>
+    <answer flag="1" text="In most regions of Ukraine natural population growth rates are negative"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer flag="0" text="Among religions Islam is most prevalent in the Odessa region"/>
+    <answer flag="1" text="In Ukraine, four major cities"/>
+    <answer flag="0" text="Ukraine increased rural population prevails over the city"/>
+  </question>
+  <question level="1" simple="True" text="At that time in Ukraine was the largest population?">
+    <answer flag="0" text="Before World War II"/>
+    <answer flag="1" text="In the early 90-ies"/>
+    <answer flag="0" text="In 2001,"/>
+  </question>
+  <question level="1" simple="True" text="Where a vast majority of Muslims in Ukraine?">
+    <answer flag="1" text="In Crimea"/>
+    <answer flag="0" text="In the Donetsk region"/>
+    <answer flag="0" text="In the Odessa region"/>
+  </question>
+  <question level="1" simple="True" text="Specify the country where in the population over 1 million people of Ukrainian descent">
+    <answer flag="1" text="Canada"/>
+    <answer flag="0" text="Brazil"/>
+    <answer flag="1" text="Russia"/>
+    <answer flag="0" text="Poland"/>
+    <answer flag="1" text="U.S."/>
+  </question>
+  <question level="1" simple="False" text="Check compliance">
+    <answer text="Bucovina -"/>
+    <answer text="Volyn -"/>
+    <answer text="Galicia -"/>
+    <variant>
+      <item flag="2" text="historical and ethnographic region in northwestern Ukraine"/>
+      <item flag="1" text="historical and ethnographic region within the predominantly Chernivtsi region"/>
+      <item flag="3" text="historical and ethnographic region within the predominantly Lviv and Ternopil regions"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Check compliance">
+    <answer text="Chernivtsi -"/>
+    <answer text="Donets -"/>
+    <answer text="Chernigov -"/>
+    <answer text="Crimea -"/>
+    <variant>
+      <item flag="2" text="region with the largest population of Ukraine"/>
+      <item flag="1" text="region, where the population is less than 1 million people"/>
+      <item flag="4" text="region, where population structure is dominated by Russians"/>
+      <item flag="3" text="region, with the lowest population density"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Check compliance">
+    <answer text="Russia -"/>
+    <answer text="USA -"/>
+    <answer text="Brazil -"/>
+    <variant>
+      <item flag="2" text="country, which was directed first stream of immigrants from Ukraine in late XIX century."/>
+      <item flag="1" text="country with the largest Ukrainian diaspora"/>
+      <item flag="3" text="country, the center of Ukrainian cultural life which is in m.Prudentopolis"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Check compliance">
+    <answer text="Odessa -"/>
+    <answer text="Sevastopol -"/>
+    <answer text="Uzhgorod -"/>
+    <variant>
+      <item flag="2" text="A city that has a special status"/>
+      <item flag="1" text="major cities"/>
+      <item flag="3" text="administrative center of the westernmost region of the state"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Install in matching pair &quot;Region - Administrative Center">
+    <answer text="Volyn Oblast -"/>
+    <answer text="ARC -"/>
+    <answer text="Transcarpathian region -"/>
+    <variant>
+      <item flag="0" text="Vladimir-Volyn"/>
+      <item flag="1" text="Luck"/>
+      <item flag="2" text="Simferopol"/>
+      <item flag="0" text="Sevastopol"/>
+      <item flag="3" text="Uzhgorod"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Install in matching pair &quot;national minorities - a compact region of residence&quot;">
+    <answer text="The Greeks -"/>
+    <answer text="Hungarians -"/>
+    <answer text="Gagauzia -"/>
+    <answer text="Romania -"/>
+    <variant>
+      <item flag="3" text="Odessa regions"/>
+      <item flag="1" text="Donets"/>
+      <item flag="4" text="Bukovina"/>
+      <item flag="2" text="Transcarpathia"/>
+    </variant>
+  </question>
+</testing>

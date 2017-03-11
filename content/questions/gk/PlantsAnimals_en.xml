@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Vegetation and Wildlife">
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="Kyiv is situated on the edge of the forest and forest-steppe natural zones"/>
+    <answer flag="0" text="To Kiev forest dominated by conifers"/>
+    <answer flag="1" text="Pushcha Vodytskyy Forest is south of Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="What plant is a symbol of Kyiv?">
+    <answer flag="1" text="Chestnut"/>
+    <answer flag="0" text="Lilac"/>
+    <answer flag="0" text="Poplar"/>
+  </question>
+  <question level="1" simple="True" text="Which was created Kyiv zoo?">
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1991"/>
+    <answer flag="1" text="1908"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="Botanical Garden of A. Fomin located in Shevchenko district"/>
+    <answer flag="1" text="Central Botanical Garden of the NBS was created in 1839"/>
+    <answer flag="0" text="Initiated the establishment of the Kiev Zoo Society was nature lovers"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is correct?">
+    <answer flag="0" text="Kyiv zoo only to Ukraine"/>
+    <answer flag="0" text="The forests around Kyiv is intensive logging"/>
+    <answer flag="1" text="The forests around Kyiv meet moose"/>
+  </question>
+  <question level="1" simple="True" text="In which district of Kyiv is the Central Park of Culture and Leisure?">
+    <answer flag="1" text="Caves"/>
+    <answer flag="0" text="Holosiyivo"/>
+    <answer flag="0" text="Shevchenko"/>
+  </question>
+  <question level="1" simple="True" text="S independence in the territory:">
+    <answer flag="0" text="Central Park of Culture and Leisure"/>
+    <answer flag="0" text="Botanic Garden. A. Fomin"/>
+    <answer flag="0" text="Central Botanical Garden of them. NBS"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="In the Central Botanical Garden of them. NBS largest collection of lilacs in Ukraine"/>
+    <answer flag="0" text="Botanical Garden of A. Fomin located near the National University. Shevchenko"/>
+    <answer flag="1" text="In the name famous Ukrainian footballer and coach V. Lobanovsky named one of the squares of Kyiv"/>
+  </question>
+  <question level="1" simple="True" text="What was the first name of the Kiev zoo?">
+    <answer flag="1" text="Kyiv zoo"/>
+    <answer flag="0" text="Park"/>
+    <answer flag="0" text="Recreational Park"/>
+  </question>
+  <question level="1" simple="True" text="The main purpose of botanical gardens are:">
+    <answer flag="1" text="of research on protection, enrichment and sustainable use of plant resources"/>
+    <answer flag="0" text="fruit growing exotic plants for-sale"/>
+    <answer flag="0" text="of mass actions"/>
+  </question>
+  <question level="1" simple="True" text="Which Landmark located in the central amusement park?">
+    <answer flag="0" text="Building Cabinet"/>
+    <answer flag="1" text="Mariinsky Palace"/>
+    <answer flag="0" text="Museum of the Great Patriotic War"/>
+  </question>
+  <question level="1" simple="True" text="Rare and endangered species of plants and animals are brought to:">
+    <answer flag="1" text="Red Book"/>
+    <answer flag="0" text="Guinness Book of Records"/>
+  </question>
+</testing>

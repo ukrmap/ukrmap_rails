@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Западноукраинские земли под властью иностранных государств">
+  <question text="Подкарпатская Русь - это официальное название в 20-30-е годы">
+    <answer flag="0" text="Северной Буковины"/>
+    <answer flag="0" text="Восточной Галиции"/>
+    <answer flag="1" text="Закарпатье"/>
+  </question>
+  <question text="Украинское кооперативное движение наиболее разветвленный был на">
+    <answer flag="1" text="Восточной Галиции"/>
+    <answer flag="0" text="Закарпатье"/>
+    <answer flag="0" text="Северной Буковине"/>
+    <answer flag="0" text="Волыни"/>
+  </question>
+  <question text="Где был расположен концлагерь для украинских политзаключенных, созданный польскими властями?">
+    <answer flag="1" text="Береза-Картузская"/>
+    <answer flag="0" text="Собибор"/>
+    <answer flag="0" text="Яворов"/>
+  </question>
+  <question text="В каком году была образована ОУН?">
+    <answer flag="0" text="1925"/>
+    <answer flag="0" text="1927"/>
+    <answer flag="1" text="1929"/>
+  </question>
+  <question text="Кто был первым руководителем ОУН?">
+    <answer flag="1" text="А. Мельник"/>
+    <answer flag="0" text="С. Бандера"/>
+    <answer flag="0" text="Е. Коновалец"/>
+  </question>
+  <question text="На каких украинских землях украинское движение пользовался наибольшим влиянием?">
+    <answer flag="1" text="Восточная Галиция"/>
+    <answer flag="0" text="Закарпатье"/>
+    <answer flag="0" text="Северная Буковина"/>
+    <answer flag="0" text="Волынь"/>
+  </question>
+  <question text="Армия Карпатской Украине называлась">
+    <answer flag="0" text="Украинская повстанческая армия"/>
+    <answer flag="1" text="Карпатская Сечь"/>
+    <answer flag="0" text="Украинские сечевые стрельцы"/>
+  </question>
+  <question text="Какая из идейных течений, была распространена на Закарпатье в 20-30-е годы, пользовалась наибольшим влиянием?">
+    <answer flag="1" text="Русинская"/>
+    <answer flag="0" text="Украинофильская"/>
+    <answer flag="0" text="Русофильские"/>
+  </question>
+  <question text="Какие политические силы были организаторами Татарбунарского восстания?">
+    <answer flag="1" text="прокоммунистические"/>
+    <answer flag="0" text="либерально-демократические"/>
+    <answer flag="0" text="националистические"/>
+  </question>
+  <question text="Многочисленной украинской политической партией Галиции в 20-30-е годы была">
+    <answer flag="0" text="КПЗУ"/>
+    <answer flag="1" text="УНДО"/>
+    <answer flag="0" text="ОУН"/>
+    <answer flag="0" text="ВСРП"/>
+  </question>
+  <question text="Какие украинские земли должны были стать колыбелью польско-украинского взаимопонимания?">
+    <answer flag="0" text="Галичина"/>
+    <answer flag="1" text="Волынь"/>
+    <answer flag="0" text="Угол"/>
+  </question>
+  <question text="Какой международный договор закрепил вхождение Закарпатья в состав ЧСР?">
+    <answer flag="1" text="Сен-Жерменский"/>
+    <answer flag="0" text="Версальский"/>
+    <answer flag="0" text="Рижский"/>
+  </question>
+</testing>

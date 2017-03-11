@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Маскоўскае дзяржава ў XVI - XVII стст.">
+  <question level="1" simple="True" text="У кіраванне якога цара тэрыторыя Маскоўскага дзяржавы вырасла за ўсё?">
+    <answer flag="0" text="Васіля III"/>
+    <answer flag="1" text="Івана IV"/>
+    <answer flag="0" text="Фёдара І"/>
+    <answer flag="0" text="Барыс Гадуноў"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце гады пачатку і завяршэння Лівонскай вайны:">
+    <answer flag="0" text="1547-1564"/>
+    <answer flag="0" text="1552-1572"/>
+    <answer flag="1" text="1558-1583"/>
+    <answer flag="0" text="1572-1598"/>
+  </question>
+  <question level="1" simple="True" text="Якія з названых дзяржаў былі знішчаны Іванам IV?">
+    <answer flag="1" text="Сібірскае ханства"/>
+    <answer flag="1" text="Казанскае ханства"/>
+    <answer flag="0" text="Крымскае ханства"/>
+    <answer flag="1" text="Астраханскае ханства"/>
+    <answer flag="0" text="Хівінскае ханства"/>
+    <answer flag="1" text="Лівонскі ордэн"/>
+    <answer flag="0" text="герцагства Прусія"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея адбылося раней?">
+    <answer flag="1" text="пачатак Лівонскай вайны"/>
+    <answer flag="0" text="заключэння Люблінскай уніі"/>
+  </question>
+  <question level="1" simple="True" text="Якія з названых падзей у свеце адбыліся ў цараванне Івана IV?">
+    <answer flag="1" text="другое кругасветнае падарожжа Ф. Дрэйка"/>
+    <answer flag="1" text="&quot;Варфаламееўскай ноч&quot; у Парыжы"/>
+    <answer flag="0" text="завяршэння грамадзянскай вайны ў Францыі"/>
+    <answer flag="0" text="гібель &quot;Непераможнай армады&quot;"/>
+    <answer flag="0" text="паўстанне іканаборцаў ў Нідэрландах"/>
+  </question>
+  <question level="1" simple="True" text="Да якой дзяржавы адышла большасць уладанняў Лівонскага ордэна выніку Лівонскай вайны?">
+    <answer flag="0" text="Швецыя"/>
+    <answer flag="1" text="Рэч Паспалітая"/>
+    <answer flag="0" text="Маскоўскае дзяржава"/>
+    <answer flag="0" text="герцагства Прусія"/>
+  </question>
+  <question level="1" simple="True" text="У 1606 - 1607 гадоў у Маскоўскім дзяржаве адбылося паўстанне пад кіраўніцтвам:">
+    <answer flag="1" text="Івана Балотнікава"/>
+    <answer flag="0" text="Сцяпана Разіна"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе за Смуты было сфармавана Другое апалчэнне, якое ўзначальвае К. Мініным і Д. Пажарскім?">
+    <answer flag="0" text="Кастрама"/>
+    <answer flag="0" text="Яраслаўль"/>
+    <answer flag="1" text="Ніжні Ноўгарад"/>
+    <answer flag="0" text="Тула"/>
+  </question>
+  <question level="1" simple="True" text="З якой краінай Маскоўская дзяржава заключыла Деулинську пагадненне?">
+    <answer flag="0" text="Швецыя"/>
+    <answer flag="1" text="Рэч Паспалітая"/>
+    <answer flag="0" text="герцагства Прусія"/>
+    <answer flag="0" text="Крымскае ханства"/>
+  </question>
+  <question level="1" simple="True" text="Калі ў Маскоўскай дзяржаве пачалося праўленне дынастыі Раманавых?">
+    <answer flag="0" text="1612"/>
+    <answer flag="1" text="1613"/>
+    <answer flag="0" text="1614"/>
+    <answer flag="0" text="1615"/>
+  </question>
+  <question level="1" simple="True" text="Які маскоўскі цар першым пачаў выкарыстоўваць тытул &quot;Божай міласьці Вялікі Васпан Цар і Вялікі Князь ўсяе Вялікі і Малыя Русі Самадзержац&quot;?">
+    <answer flag="0" text="Васіль III"/>
+    <answer flag="0" text="Іван IV"/>
+    <answer flag="0" text="Міхаіл Раманаў"/>
+    <answer flag="1" text="Аляксей Міхайлавіч"/>
+  </question>
+  <question level="1" simple="True" text="Паход 1618 г. на Маскву ўкраінскіх казакоў пад кіраўніцтвам П. Конашевича-Сагайдакавага завяршыўся:">
+    <answer flag="0" text="атрыманнем Масквы"/>
+    <answer flag="1" text="адмовай П. Сагайдакавага ад штурму горада"/>
+    <answer flag="0" text="доўгай і безвыніковай аблогай Масквы"/>
+  </question>
+</testing>

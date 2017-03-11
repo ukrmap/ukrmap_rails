@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="General Discussion">
+  <question level="1" simple="True" text="Which answers are correct?">
+    <answer flag="0" text="Ukraine is in the third time zone"/>
+    <answer flag="1" text="The countdown is on 180 th meridian"/>
+    <answer flag="1" text="Midday in Ukraine comes two hours earlier than zero (Western European) time zone"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is wrong?">
+    <answer flag="0" text="In view of the geometric surface cartographic projection divided into cylindrical, azimuthal, conical"/>
+    <answer flag="0" text="In thematic maps are geographical and economic maps"/>
+    <answer flag="1" text="Using equal projection, you can create maps without distortion"/>
+  </question>
+  <question level="1" simple="True" text="First time the name &quot;Ukraine&quot; is mentioned:">
+    <answer flag="1" text="Chronicle in Kiev (1187)"/>
+    <answer flag="0" text="G. Boplana in the book &quot;Description of Ukraine&quot; (1650)"/>
+    <answer flag="0" text="in descriptions of Byzantine and Arab travelers X century."/>
+  </question>
+  <question level="1" simple="True" text="The author of &quot;Description of Ukraine are:">
+    <answer flag="0" text="Hippocrates"/>
+    <answer flag="1" text="G. Boplan"/>
+    <answer flag="0" text="Herodotus"/>
+  </question>
+  <question level="1" simple="True" text="Pre geographical center of Ukraine is:">
+    <answer flag="0" text="Svitlovodsk in Kirovograd region"/>
+    <answer flag="1" text="near the village. Marianivka Cherkasy region"/>
+    <answer flag="0" text="Cherkasy region near m.Chyhyryn"/>
+  </question>
+  <question level="1" simple="True" text="The southern point of Ukraine are:">
+    <answer flag="1" text="of Sarich"/>
+    <answer flag="0" text="City Tarkhankut"/>
+    <answer flag="0" text="City Meganom"/>
+  </question>
+  <question level="1" simple="True" text="Which statements are correct?">
+    <answer flag="1" text="Area of Ukraine is 603,7 thousand sq. km. km"/>
+    <answer flag="1" text="Ukraine borders with seven countries"/>
+    <answer flag="0" text="The territory of Ukraine is washed by three seas"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries not bordering Ukraine?">
+    <answer flag="0" text="Slovakia"/>
+    <answer flag="1" text="From Bulgaria"/>
+    <answer flag="1" text="From Slovenia"/>
+  </question>
+  <question level="1" simple="True" text="In what year was completed forming the territory of Ukraine?">
+    <answer flag="0" text="In 1922"/>
+    <answer flag="1" text="In 1954"/>
+    <answer flag="0" text="In 1991"/>
+  </question>
+  <question level="1" simple="True" text="What territories were included in the Ukraine in World War II?">
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="South Bessarabia"/>
+    <answer flag="1" text="Transcarpathia"/>
+    <answer flag="1" text="Crimean Region"/>
+  </question>
+  <question level="1" simple="True" text="Member of these institutions, which is Ukraine?">
+    <answer flag="0" text="OPEC"/>
+    <answer flag="1" text="Commonwealth of Independent States"/>
+    <answer flag="1" text="International Monetary Fund"/>
+    <answer flag="1" text="World Trade Organization"/>
+  </question>
+  <question level="1" simple="True" text="Which answer is correct?">
+    <answer flag="0" text="Elections to the Verkhovna Rada of Ukraine are held once every five years"/>
+    <answer flag="0" text="Presidential elections in Ukraine are held every four years"/>
+    <answer flag="1" text="Ukraine's Parliament consists of 450 members"/>
+  </question>
+  <question level="1" simple="False" text="Vstanovist correspondence between geographic objects and their characteristics">
+    <answer text="s.Mar 'Yanivka -"/>
+    <answer text="Cape Sarich -"/>
+    <answer text="s.Hrem ball"/>
+    <answer text="s.Chervona Star"/>
+    <variant>
+      <item flag="2" text="extreme southern point of Ukraine"/>
+      <item flag="1" text="geographical center of Ukraine"/>
+      <item flag="3" text="extreme northern point of Ukraine"/>
+      <item flag="0" text="extreme point of western Ukraine"/>
+      <item flag="4" text="extreme eastern point of Ukraine"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set correspondence between the years and events in the history of Ukraine">
+    <answer text="1919 -"/>
+    <answer text="1991 -"/>
+    <answer text="1954 -"/>
+    <answer text="1187 -"/>
+    <variant>
+      <item flag="2" text="independence"/>
+      <item flag="3" text="completion of the territory"/>
+      <item flag="1" text="proclamation of the Act of Unification"/>
+      <item flag="0" text="adoption of the Declaration on State Sovereignty"/>
+      <item flag="4" text="first coined the name &quot;Ukraine&quot;"/>
+    </variant>
+  </question>
+</testing>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Western democracies">
+  <question text="When the U.S. and Germany signed a peace treaty?">
+    <answer flag="0" text="1918"/>
+    <answer flag="0" text="1919"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="1" text="1921"/>
+  </question>
+  <question text="What is the period in U.S. history was called &quot;prosperity&quot;?">
+    <answer flag="0" text="1918 - 1922 рр."/>
+    <answer flag="1" text="1922 - 1929 рр."/>
+    <answer flag="0" text="1929 - 1933 рр."/>
+  </question>
+  <question text="In the 20 years in power in the U.S. were">
+    <answer flag="0" text="Democratic Party"/>
+    <answer flag="1" text="Republican Party"/>
+    <answer flag="0" text="progressive block"/>
+  </question>
+  <question text="USSR and the U.S. established diplomatic relations in">
+    <answer flag="0" text="1923"/>
+    <answer flag="1" text="1933"/>
+    <answer flag="0" text="1939"/>
+  </question>
+  <question text="What causes acute social conflict mid 20-ies in the UK?">
+    <answer flag="0" text="The desire to trade union leaders to seize power in the country"/>
+    <answer flag="1" text="The desire of owners of mines to increase their income by miners"/>
+    <answer flag="0" text="Pertinacity government on the issue of expansion of social legislation"/>
+    <answer flag="0" text="Soviet intervention in the internal affairs of Great Britain"/>
+  </question>
+  <question text="&quot;Vmyrotvorennya Policy&quot; held in the UK government">
+    <answer flag="1" text="Chamberlain"/>
+    <answer flag="0" text="Baldwin"/>
+    <answer flag="0" text="MacDonald"/>
+    <answer flag="0" text="Churchill"/>
+  </question>
+  <question text="When it was founded the British Commonwealth? Which countries were to her?">
+    <answer flag="0" text="In 1926, the British dominions"/>
+    <answer flag="0" text="In 1931 all English possession"/>
+    <answer flag="1" text="In 1931 the British dominions"/>
+  </question>
+  <question text="What events have driven to the fascist coup in France in 1934?">
+    <answer flag="0" text="Getting the economic crisis"/>
+    <answer flag="1" text="The victory of the Nazis in Germany"/>
+    <answer flag="0" text="Exposing corruption in parliament and government"/>
+    <answer flag="0" text="Creation of the Popular Front"/>
+    <answer flag="0" text="The beginning of Nazi aggression in Europe"/>
+  </question>
+  <question text="The Popular Front in France - is">
+    <answer flag="0" text="voluntary association of citizens in order to meet government"/>
+    <answer flag="1" text="broad anti-fascist coalition"/>
+    <answer flag="0" text="resistance movement and national liberation movement"/>
+    <answer flag="0" text="form an association of political parties on the eve of presidential elections"/>
+  </question>
+  <question text="When it was formed the first ever UK Labour Government?">
+    <answer flag="0" text="In 1918"/>
+    <answer flag="1" text="In 1924"/>
+    <answer flag="0" text="In 1926,"/>
+    <answer flag="0" text="In 1930,"/>
+  </question>
+  <question text="Ireland became independent in">
+    <answer flag="0" text="1916"/>
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1937"/>
+    <answer flag="0" text="1938"/>
+  </question>
+  <question text="The first event F. Roosevelt after his election as U.S. president was">
+    <answer flag="0" text="recovery of agriculture"/>
+    <answer flag="1" text="banking sector, deposit insurance"/>
+    <answer flag="0" text="creation of public works"/>
+    <answer flag="0" text="introduction of codes of &quot;fair competition&quot;"/>
+  </question>
+</testing>

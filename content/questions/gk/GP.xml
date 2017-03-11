@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Географічне положення ">
+  <question level="1" simple="True" text="За розмірами території Україна в Європі:">
+    <answer flag="0" text="є найбільшою"/>
+    <answer flag="1" text="поступається тільки Росії"/>
+    <answer flag="0" text="поступається Франції і Росії"/>
+  </question>
+  <question level="1" simple="True" text="З якою із перелічених країн Україна не має спільних кордонів?">
+    <answer flag="1" text="З Болгарією"/>
+    <answer flag="0" text="З Румунією"/>
+    <answer flag="0" text="Зі Словаччиною"/>
+  </question>
+  <question level="1" simple="True" text="Який з аеропортів знаходиться в межах Києва?">
+    <answer flag="0" text="Бориспіль"/>
+    <answer flag="1" text="Київ (Жуляни)"/>
+    <answer flag="0" text="Гостомельський"/>
+  </question>
+  <question level="1" simple="True" text="Яке із міст-супутників Києва найбільше?">
+    <answer flag="1" text="Бровари"/>
+    <answer flag="0" text="Бориспіль"/>
+    <answer flag="0" text="Вишгород"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є правильним?">
+    <answer flag="0" text="На південь від Києва знаходиться Київське водосховище"/>
+    <answer flag="1" text="Київ знаходиться в північній частині держави"/>
+    <answer flag="0" text="Аеропорт Бориспіль розташований західніше Києва"/>
+  </question>
+  <question level="1" simple="True" text="По якій річці здійснюється судноплавне сполучення України з низкою країн Центральної та Західної Європи?">
+    <answer flag="0" text="По Дніпру"/>
+    <answer flag="1" text="По Дунаю"/>
+    <answer flag="0" text="По Західному Бугу"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині світу знаходиться Україна?">
+    <answer flag="1" text="В Європі"/>
+    <answer flag="0" text="В Азії"/>
+    <answer flag="0" text="В Євразії"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним?">
+    <answer flag="0" text="Київ-найбільше місто держави"/>
+    <answer flag="1" text="Київ-найбільше місто східної Європи"/>
+    <answer flag="0" text="Через Київ проходить межа лісової та лісостепової зони"/>
+  </question>
+  <question level="1" simple="True" text="Якщо виїхати з Києва в західному напрямку, то першим обласним центром на шляху буде:">
+    <answer flag="0" text="Чернігів"/>
+    <answer flag="1" text="Житомир"/>
+    <answer flag="0" text="Рівне"/>
+  </question>
+  <question level="1" simple="True" text="Північна частина межі Київської області є одночасно державним кордоном України з:">
+    <answer flag="1" text="Білоруссю"/>
+    <answer flag="0" text="Росією"/>
+    <answer flag="0" text="Польщею"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним?">
+    <answer flag="0" text="Україна межує з сімома державами"/>
+    <answer flag="0" text="Територія України омивається водами двох морів"/>
+    <answer flag="1" text="Із столиць іноземних держав до Києва найближче розташована Москва"/>
+  </question>
+</testing>

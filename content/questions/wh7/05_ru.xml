@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Европа в XIV-XV вв. Духовный мир человека средневековья">
+  <question text="Основу английской армии в годы Столетней войны составляли">
+    <answer flag="1" text="свободные крестьяне"/>
+    <answer flag="0" text="рыцари"/>
+    <answer flag="0" text="иностранные наемники"/>
+  </question>
+  <question text="Восстание крестьян во Франции во время Столетней войны называлось">
+    <answer flag="0" text="восстание Вота Тайлера"/>
+    <answer flag="1" text="Жакерия"/>
+    <answer flag="0" text="Крестьянская война"/>
+  </question>
+  <question text="Использовалась огнестрельное оружие в годы Столетней войны?">
+    <answer flag="1" text="так"/>
+    <answer flag="0" text="ни"/>
+  </question>
+  <question text="Последнего византийского императора звали">
+    <answer flag="1" text="Константин XI"/>
+    <answer flag="0" text="Олксий И Комнин"/>
+    <answer flag="0" text="Юстиниан III"/>
+  </question>
+  <question text="Какое название дали турки Константинополю после его захвата?">
+    <answer flag="0" text="Анкара"/>
+    <answer flag="1" text="Стамбул"/>
+    <answer flag="0" text="Порта"/>
+  </question>
+  <question text="Главными украшениями готических храмов были">
+    <answer flag="1" text="витражи"/>
+    <answer flag="0" text="скульптуры"/>
+    <answer flag="0" text="иконы"/>
+  </question>
+  <question text="В 1479 г. брак Изабеллы Кастильской и Фердинанда Арагонского привел к">
+    <answer flag="0" text="образования королевства Португалия"/>
+    <answer flag="1" text="образования королевства Испания."/>
+  </question>
+  <question text="Как назывался правитель Венеции?">
+    <answer flag="0" text="герцог"/>
+    <answer flag="1" text="дож"/>
+    <answer flag="0" text="великий князь"/>
+    <answer flag="0" text="король"/>
+  </question>
+  <question text="Борьбу гуситов против рыцарей-крестоносцев возглавил">
+    <answer flag="0" text="Ян Гус"/>
+    <answer flag="1" text="Ян Жижка"/>
+    <answer flag="0" text="Сигизмунд Люксембургский"/>
+  </question>
+  <question text="Обучение в средневековых университетах велось на">
+    <answer flag="0" text="национальных языках"/>
+    <answer flag="1" text="латинском языке"/>
+    <answer flag="0" text="французском языке"/>
+  </question>
+  <question text="В какой стране зародился готический стиль в архитектуре?">
+    <answer flag="0" text="Англии"/>
+    <answer flag="1" text="Франции"/>
+    <answer flag="0" text="Италии"/>
+    <answer flag="0" text="Германии"/>
+  </question>
+  <question text="Кто был изобретателем книгопечатания в Европе?">
+    <answer flag="0" text="Иван Федоров"/>
+    <answer flag="1" text="Иоганн Гутенберг"/>
+    <answer flag="0" text="Фома Аквинский"/>
+  </question>
+</testing>

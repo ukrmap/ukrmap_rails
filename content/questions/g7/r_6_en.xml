@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="NORTH AMERICA">
+  <question level="1" simple="True" text="The area of North America">
+    <answer flag="1" text="24 250 sq. km. km"/>
+    <answer flag="0" text="30 320 sq. km. km"/>
+    <answer flag="0" text="17 830 sq. km. km"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Greenland - the world's largest island"/>
+    <answer flag="0" text="Australia - the smallest continent of the Earth"/>
+    <answer flag="1" text="The area North America ranks second among continents"/>
+  </question>
+  <question level="1" simple="True" text="The highest peak in North America are:">
+    <answer flag="1" text="H. McKinley"/>
+    <answer flag="0" text="G. Blanc"/>
+    <answer flag="0" text="g. Aconcagua"/>
+  </question>
+  <question level="1" simple="True" text="The biggest river in North America are:">
+    <answer flag="0" text="Mackenzie"/>
+    <answer flag="1" text="Mississippi"/>
+    <answer flag="0" text="Yukon"/>
+  </question>
+  <question level="1" simple="True" text="The largest rivers in North America include:">
+    <answer flag="0" text="Basin to the Pacific"/>
+    <answer flag="1" text="to the Atlantic Ocean basin"/>
+    <answer flag="0" text="internal to the basin drain"/>
+  </question>
+  <question level="1" simple="True" text="Semi-deserts of North America:">
+    <answer flag="0" text="occupy a narrow strip of Atlantic coast"/>
+    <answer flag="0" text="lie in the extreme south of the mainland"/>
+    <answer flag="1" text="occupy the interior of the Cordilleras"/>
+  </question>
+  <question level="1" simple="True" text="Which statement is correct?">
+    <answer flag="0" text="The continent is a cold pole of the Earth"/>
+    <answer flag="1" text="On the continent was recorded the highest temperature in Western Hemisphere"/>
+    <answer flag="0" text="In the Northern Hemisphere is driest desert planet"/>
+  </question>
+  <question level="1" simple="True" text="Which animal is endemic in North America?">
+    <answer flag="1" text="Skunk"/>
+    <answer flag="0" text="Chipmunk"/>
+    <answer flag="0" text="Hummingbird"/>
+  </question>
+  <question level="1" simple="True" text="The population of North America is dominated by:">
+    <answer flag="1" text="descendants of immigrants from Europe"/>
+    <answer flag="0" text="indigenous population - Indians"/>
+    <answer flag="0" text="African Americans"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer flag="1" text="Most of the population of North America - urban dwellers"/>
+    <answer flag="0" text="The most densely populated on the continent is central regions"/>
+    <answer flag="0" text="Indigenous peoples of North America are African Americans"/>
+  </question>
+  <question level="1" simple="True" text="Among the most widespread religion in the continent are:">
+    <answer flag="1" text="Christianity"/>
+    <answer flag="0" text="Islam"/>
+    <answer flag="0" text="traditional beliefs and cults"/>
+  </question>
+  <question level="1" simple="True" text="The group of developing countries, with the above include:">
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="Canada"/>
+    <answer flag="1" text="Mexico"/>
+  </question>
+</testing>

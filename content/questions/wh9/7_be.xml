@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗША ў першай палове XIX стагоддзя Грамадзянская вайна (1861-1865 гг.)">
+  <question level="1" simple="True" text="Назва якога з наступных амерыканскіх штатаў звязана з назвай індзейскага племя?">
+    <answer flag="0" text="Нью-Мексіка"/>
+    <answer flag="1" text="Дакота"/>
+    <answer flag="0" text="Джорджыя"/>
+    <answer flag="0" text="Луізіяна"/>
+  </question>
+  <question level="1" simple="True" text="Як называлі удзельнікаў руху за неадкладную адмену рабства, які паўстаў у ЗША ў 1830-х гадах?">
+    <answer flag="1" text="абаліцыяністаў"/>
+    <answer flag="0" text="куклуксклановцы"/>
+    <answer flag="0" text="канфедэраты"/>
+    <answer flag="0" text="інсургентамі"/>
+  </question>
+  <question level="1" simple="True" text="У XIX стагоддзі першай палітычнай партыяй, якая ўзнікла ў ЗША была">
+    <answer flag="1" text="дэмакратычная партыя"/>
+    <answer flag="0" text="рэспубліканская партыя"/>
+  </question>
+  <question level="1" simple="True" text="1803 ЗША набылі ў Францыі тэрыторыю">
+    <answer flag="0" text="Фларыды"/>
+    <answer flag="0" text="Тэхас"/>
+    <answer flag="1" text="Луізіяны"/>
+    <answer flag="0" text="Арэгона"/>
+  </question>
+  <question level="1" simple="True" text="Калі ў валоданне ЗША перайшла тэрыторыя Тэхаса?">
+    <answer flag="0" text="1813"/>
+    <answer flag="0" text="1818"/>
+    <answer flag="0" text="1842"/>
+    <answer flag="1" text="1845"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіны ЗША купілі 1876 тэрыторыю Аляскі?">
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="0" text="Вялікабрытанія"/>
+    <answer flag="1" text="Расія"/>
+    <answer flag="0" text="Францыя"/>
+  </question>
+  <question level="1" simple="True" text="Штаты Нью-Ёрк, Агаё, Пэнсыльванія, Мічыган былі">
+    <answer flag="0" text="рабаўладальніцкія"/>
+    <answer flag="1" text="свабоднымі ад рабства"/>
+  </question>
+  <question level="1" simple="True" text="Горад быў сталіцай Канфедэрацыі?">
+    <answer flag="1" text="Рычманд"/>
+    <answer flag="0" text="Вашынгтон"/>
+    <answer flag="0" text="Філядэльфія"/>
+    <answer flag="0" text="Калумбія"/>
+  </question>
+  <question level="1" simple="True" text="Грамадзянская вайна ў ЗША пачалася пасля нападу канфедэратаў на">
+    <answer flag="0" text="Форт-Генры"/>
+    <answer flag="1" text="Форт-Самтер"/>
+    <answer flag="0" text="Сэнт-Луіс"/>
+    <answer flag="0" text="Сэнт-Огастин"/>
+  </question>
+  <question level="1" simple="True" text="Бітва пад Геттисбергом ў ліпені 1863 г. завяршылася паразай войскаў">
+    <answer flag="1" text="Канфедэрацыі"/>
+    <answer flag="0" text="Саюза"/>
+  </question>
+  <question level="1" simple="True" text="Галоўнакамандуючым войскаў Саюза быў генерал">
+    <answer flag="0" text="Шэрман"/>
+    <answer flag="0" text="Лі"/>
+    <answer flag="0" text="Батлер"/>
+    <answer flag="1" text="Грант"/>
+  </question>
+  <question level="1" simple="True" text="Дзе адбылася капітуляцыя галоўных сіл Канфедэрацыі?">
+    <answer flag="1" text="Аппоматтокс"/>
+    <answer flag="0" text="Геттисберге"/>
+    <answer flag="0" text="Ролі"/>
+    <answer flag="0" text="Цынцынаці"/>
+  </question>
+</testing>

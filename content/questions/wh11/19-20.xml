@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Світ у 1950 р. та у 2008 р.">
+  <question level="1" simple="True" text="Які володіння були колоніями Великої Британії?">
+    <answer flag="1" text="Золотий Берег"/>
+    <answer flag="1" text="Бечуаналенд"/>
+    <answer flag="0" text="Макао"/>
+    <answer flag="0" text="Іфні"/>
+  </question>
+  <question level="1" simple="True" text="Як можна охарактеризувати відносини між СРСР та США наприкінці 40-их років XX ст.">
+    <answer flag="1" text="&quot;Холодна війна&quot;"/>
+    <answer flag="0" text="&quot;Гаряча війна&quot;"/>
+    <answer flag="0" text="&quot;Інтифада&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Які колоніальні володіння отримали незалежність до 1950 р.?">
+    <answer flag="1" text="В'єтнам"/>
+    <answer flag="1" text="Індонезія"/>
+    <answer flag="0" text="Камбоджа"/>
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Філіппіни"/>
+  </question>
+  <question level="1" simple="True" text="Який стан деколонізації переживав світ у 1950 р.?">
+    <answer flag="1" text="Перший"/>
+    <answer flag="0" text="Другий"/>
+    <answer flag="0" text="Третій"/>
+    <answer flag="0" text="Четвертий"/>
+  </question>
+  <question level="1" simple="True" text="Які країни  &quot;Великої вісімки&quot; є постійними членами Ради безпеки ООН?">
+    <answer flag="1" text="Росія"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="1" text="Велика Британія"/>
+  </question>
+  <question level="1" simple="True" text="Які країни здобули незалежність після 1989 р.?">
+    <answer flag="0" text="Лівія"/>
+    <answer flag="1" text="Латвія"/>
+    <answer flag="1" text="Литва"/>
+    <answer flag="0" text="Лесото"/>
+  </question>
+  <question level="1" simple="True" text="Які політичні питання стали причинами непорозумінь між Росією та США наприкінці XX ст.?">
+    <answer flag="1" text="Розширення НАТО на Схід"/>
+    <answer flag="1" text="Врегулювання близькосхідного конфлікту"/>
+    <answer flag="1" text="Врегулювання югославського конфлікту"/>
+    <answer flag="0" text="Врегулювання кривавих конфліктів в Тропічній та Південній Африці"/>
+  </question>
+  <question level="1" simple="True" text="Яка дві глобальні проблеми вважаються найбільш важливими на початку XXI ст.?">
+    <answer flag="0" text="Інформаційна безпека"/>
+    <answer flag="1" text="Міжнародний тероризм"/>
+    <answer flag="0" text="Освоєння космосу і Світового океану"/>
+    <answer flag="1" text="Кліматичні зміни"/>
+  </question>
+</testing>

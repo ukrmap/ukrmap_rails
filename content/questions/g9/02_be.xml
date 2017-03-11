@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="НАСЕЛЬНІЦТВА">
+  <question level="1" simple="True" text="У якім годзе была праведзена апошняя перапіс насельніцтва Ўкраіны?">
+    <answer flag="0" text="У 1991 г."/>
+    <answer flag="1" text="У 2001 г."/>
+    <answer flag="0" text="У 1996 г."/>
+  </question>
+  <question level="1" simple="True" text="Па колькасці насельніцтва ў Еўропе Ўкраіне:">
+    <answer flag="1" text="займае шостае месца"/>
+    <answer flag="0" text="саступае толькі Францыі"/>
+    <answer flag="0" text="саступае толькі Расіі"/>
+  </question>
+  <question level="1" simple="True" text="Найбольш урбанізаваных рэгіёнам дзяржавы з'яўляюцца:">
+    <answer flag="0" text="Кіеўшчыны"/>
+    <answer flag="1" text="Данбас"/>
+    <answer flag="0" text="Галічына"/>
+  </question>
+  <question level="1" simple="True" text="У якой вобласці самая агульная шчыльнасць насельніцтва?">
+    <answer flag="0" text="Львоўскай"/>
+    <answer flag="0" text="Днепрапятроўскай"/>
+    <answer flag="1" text="Данецкай"/>
+  </question>
+  <question level="1" simple="True" text="Які з адказаў з'яўляецца няправільнай?">
+    <answer flag="0" text="У адным з гарадоў-мільянераў з'яўляецца марскі порт"/>
+    <answer flag="1" text="Усе абласныя цэнтры нашай краіны - горада-мільянеры"/>
+    <answer flag="0" text="Усе горада-мільянеры Украіны з'яўляюцца абласнымі цэнтрамі"/>
+  </question>
+  <question level="1" simple="True" text="Якія з адказаў няправільнымі?">
+    <answer flag="0" text="Пераважная большасць расейцаў Украіне пражывае ў гарадах"/>
+    <answer flag="1" text="За гады незалежнасці ў Украіне не праводзілася ні аднаго перапісу насельніцтва"/>
+    <answer flag="1" text="У Крыму нізкі натуральны прырост насельніцтва сярод рэгіёнаў Украіны"/>
+  </question>
+  <question level="1" simple="True" text="Выберыце правільныя адказы">
+    <answer flag="1" text="Крым - адзіны рэгіён Украіны, дзе ў структуры насельніцтва пераважаюць рускія"/>
+    <answer flag="1" text="Вобласці дзяржавы з высокім узроўнем урбанізацыі мае найвышэйшую агульную шчыльнасць насельніцтва"/>
+    <answer flag="0" text="З моманту набыцця Украінай незалежнасці Крым мае статус аўтаноміі"/>
+    <answer flag="1" text="У большасці абласцей Украіны паказчыкі натуральнага прыросту насельніцтва маюць адмоўнае значэнне"/>
+  </question>
+  <question level="1" simple="True" text="Які з сцвярджэнняў з'яўляецца правільным?">
+    <answer flag="0" text="З рэлігійных канфесій іслам найбольш распаўсюджаны на Одесщине"/>
+    <answer flag="1" text="Ва Украіне чатыры горада-мільянеры"/>
+    <answer flag="0" text="У Днепрапятроўскай вобласці сельскае насельніцтва пераважае над гарадскім"/>
+  </question>
+  <question level="1" simple="True" text="У якой перыяд у Украіне была найбольшая колькасць насельніцтва?">
+    <answer flag="0" text="Перад пачаткам Другой сусветнай вайны"/>
+    <answer flag="1" text="У пачатку 90-х гадоў мінулага стагоддзя"/>
+    <answer flag="0" text="У 2001 годзе"/>
+  </question>
+  <question level="1" simple="True" text="Дзе пражывае пераважная большасць мусульман Украіны?">
+    <answer flag="1" text="У Крыму"/>
+    <answer flag="0" text="У Данецкай вобласці"/>
+    <answer flag="0" text="У Адэскай вобласці"/>
+  </question>
+  <question level="1" simple="True" text="Пакажыце краіны, дзе ў складзе насельніцтва звыш 1 млн чалавек ўкраінскага паходжання">
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="Бразілія"/>
+    <answer flag="1" text="Расія"/>
+    <answer flag="0" text="Польшча"/>
+    <answer flag="1" text="ЗША"/>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць">
+    <answer text="Букавіна -"/>
+    <answer text="Валынь -"/>
+    <answer text="Галічына -"/>
+    <variant>
+      <item flag="2" text="гісторыка-этнаграфічны рэгіён на паўночным захадзе Украіны"/>
+      <item flag="1" text="гісторыка-этнаграфічны рэгіён у межах пераважна Чарнавіцкай вобласці"/>
+      <item flag="3" text="гісторыка-этнаграфічны рэгіён у межах пераважна Львоўскай і Тэрнопальскай абласцей"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць">
+    <answer text="Чарнавіцкая -"/>
+    <answer text="Донетчина -"/>
+    <answer text="Чарнігаўская -"/>
+    <answer text="Крым -"/>
+    <variant>
+      <item flag="2" text="рэгіён Украіна з найбольшым насельніцтва"/>
+      <item flag="1" text="вобласць, дзе насельніцтва менш за 1 млн жыхароў"/>
+      <item flag="4" text="рэгіён, дзе ў структуры насельніцтва пераважаюць рускія"/>
+      <item flag="3" text="вобласць, з найменшай шчыльнасцю насельніцтва"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць">
+    <answer text="Расея -"/>
+    <answer text="ЗША -"/>
+    <answer text="Бразілія -"/>
+    <variant>
+      <item flag="2" text="краіна, у якую быў накіраваны першы паток эмігрантаў з Украіны ў канцы XIX ст."/>
+      <item flag="1" text="краіна з найбуйнейшай украінскай дыяспарай"/>
+      <item flag="3" text="краіна, цэнтр культурнага жыцця украінскім якой знаходзіцца ў м.Прудентополис"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць">
+    <answer text="Адэса -"/>
+    <answer text="Севастопаль -"/>
+    <answer text="Ужгород -"/>
+    <variant>
+      <item flag="2" text="горад, які мае спецыяльны статус"/>
+      <item flag="1" text="горад-мільянер"/>
+      <item flag="3" text="адміністрацыйны цэнтр заходняй вобласці дзяржавы"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Рэгіён - адміністрацыйны цэнтр&quot;">
+    <answer text="Валынская вобласць"/>
+    <answer text="АР Крым -"/>
+    <answer text="Закарпацкая вобласьць -"/>
+    <variant>
+      <item flag="0" text="Уладзімір-Валынскі"/>
+      <item flag="1" text="Луцк"/>
+      <item flag="2" text="Сімферопаль"/>
+      <item flag="0" text="Севастопаль"/>
+      <item flag="3" text="Ужгород"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Устанавіце адпаведнасць ў парах &quot;Нацыянальнае меншасць - рэгіён кампактнага пражывання&quot;">
+    <answer text="Грэкі -"/>
+    <answer text="Венгры -"/>
+    <answer text="Гагаузы -"/>
+    <answer text="Румыны -"/>
+    <variant>
+      <item flag="3" text="Одесщина"/>
+      <item flag="1" text="Донетчина"/>
+      <item flag="4" text="Букавіна"/>
+      <item flag="2" text="Закарпацце"/>
+    </variant>
+  </question>
+</testing>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украінскія землі ў канцы XVIII стагоддзя">
+  <question level="1" simple="True" text="Запарожскія зямлі пасля ліквідацыі Новай Сечы быў уключаны ў склад ...">
+    <answer flag="1" text="Азоўскай і Наварасійскай губерняў"/>
+    <answer flag="0" text="Наварасійскай губерні"/>
+    <answer flag="0" text="Астраханскай губерні"/>
+    <answer flag="0" text="Екацерынаслаўскай намесніцтва"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе была заснавана Адэса?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1774"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1795"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе адбыўся першы падзел Рэчы Паспалітай?">
+    <answer flag="0" text="1770"/>
+    <answer flag="1" text="1772"/>
+    <answer flag="0" text="1776"/>
+    <answer flag="0" text="1778"/>
+  </question>
+  <question level="1" simple="True" text="Па якім падзелам Рэчы Паспалітай, які меў месца ў XVIII стагоддзі, Расійская імперыя атрымала Заходнюю Валынь, Заходнюю Беларусь, Літву?">
+    <answer flag="0" text="Першым"/>
+    <answer flag="0" text="Другім"/>
+    <answer flag="1" text="Трэцім"/>
+    <answer flag="0" text="Чацвёртым"/>
+  </question>
+  <question level="1" simple="True" text="Якія дзяржавы ўдзельнічалі ў падзелах Рэчы Паспалітай апошняй чвэрці XVIII стагоддзя?">
+    <answer flag="1" text="Прусія"/>
+    <answer flag="1" text="Расійская імперыя"/>
+    <answer flag="0" text="Швецыя"/>
+    <answer flag="1" text="Манархія аўстрыйскіх Габсбургаў"/>
+    <answer flag="0" text="Асманская імперыя"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылося польскае вызваленчае паўстанне, якое ўзначальвае Тадэвуш Касцюшка?">
+    <answer flag="0" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1794"/>
+  </question>
+  <question level="1" simple="True" text="Права валодаць любым рэгіёнам ўкраінскіх земляў замацавала за Аўстрыяй Канстанцінопальская канвенцыя 1775?">
+    <answer flag="0" text="Холмшчына"/>
+    <answer flag="0" text="Закарпацце"/>
+    <answer flag="1" text="Букавіна"/>
+    <answer flag="0" text="Галічына"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе на Левабярэжнай Украіны былі ліквідаваныя казацкія палкі і ператвораны ў рэгулярныя часткі расійскай арміі?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1775"/>
+    <answer flag="0" text="1781"/>
+    <answer flag="1" text="1783"/>
+  </question>
+  <question level="1" simple="True" text="Якое меркаваньне з'яўляецца правільным? У выніку падзелаў Рэчы Паспалітай большасць украінскіх земляў: 1) апынулася ў складзе Расійскай імперыі, 2) атрымалі Губернскае адміністрацыйна-тэрытарыяльнае прыладу.">
+    <answer flag="1" text="Абодва варыянты правільныя"/>
+    <answer flag="0" text="Толькі 1 варыянт правільны"/>
+    <answer flag="0" text="Толькі 2 варыянт правільны"/>
+    <answer flag="0" text="Абодва варыянту няправільныя"/>
+  </question>
+  <question level="1" simple="True" text="У выніку якіх падзей у склад Расійскай імперыі ўвайшлі прычерноморскіх зямлі паміж Днястром і Паўднёвым Бугам?">
+    <answer flag="0" text="Другога падзелу Рэчы Паспалітай"/>
+    <answer flag="0" text="Трэцяга падзелу Рэчы Паспалітай"/>
+    <answer flag="0" text="Руска-турэцкай вайны 1768-1774 гг"/>
+    <answer flag="1" text="Руска-турэцкай вайны 1787-1791 гг"/>
+  </question>
+  <question level="1" simple="True" text="Войскі якіх дзяржаў прымалі ўдзел у падаўленні польскага паўстання на чале з Т. Касцюшка?">
+    <answer flag="1" text="Расійскай імперыі"/>
+    <answer flag="0" text="Асманскай імперыі"/>
+    <answer flag="0" text="Манархіі аўстрыйскіх Габсбургаў"/>
+    <answer flag="1" text="Прусіі"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе была ліквідаваная Крымскае ханства?">
+    <answer flag="0" text="1775"/>
+    <answer flag="1" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1795"/>
+  </question>
+</testing>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Древний Восток">
+  <question level="1" simple="True" text="В дельте которой реки сформировавшийся древний Египет?">
+    <answer flag="0" text="Тигр"/>
+    <answer flag="0" text="Евфрат"/>
+    <answer flag="1" text="Нил"/>
+    <answer flag="0" text="Хуанхэ"/>
+  </question>
+  <question level="1" simple="True" text="Как назывались самостоятельные области, на которые общинные союзы разделили долину Нила?">
+    <answer flag="1" text="Номы"/>
+    <answer flag="0" text="Округа"/>
+    <answer flag="0" text="Районы"/>
+    <answer flag="0" text="Колонии"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошло объединение Нижнего (Южного) Египта и Верхнего (Северного) Египта в единое государство?">
+    <answer flag="1" text="Около XXX века до н. э"/>
+    <answer flag="0" text="Около XXI в. до н. э"/>
+    <answer flag="0" text="Около XVI в. до н. э"/>
+  </question>
+  <question level="1" simple="True" text="Кто руководил Древним Египтом?">
+    <answer flag="1" text="Царь"/>
+    <answer flag="1" text="Фараон"/>
+    <answer flag="0" text="Жерець"/>
+    <answer flag="0" text="Вождь"/>
+    <answer flag="0" text="Император"/>
+  </question>
+  <question level="1" simple="True" text="Какие города были столицами Древнего Египта?">
+    <answer flag="1" text="Мемфис"/>
+    <answer flag="1" text="Иттауи"/>
+    <answer flag="1" text="Фивы"/>
+    <answer flag="0" text="Каир"/>
+  </question>
+  <question level="1" simple="True" text="Какие города были столицами Египта в эпоху нового царства?">
+    <answer flag="1" text="Фивы"/>
+    <answer flag="1" text="Ахетатон"/>
+    <answer flag="0" text="Иттауи"/>
+    <answer flag="0" text="Мемфис"/>
+    <answer flag="1" text="Пер-Рамсес"/>
+  </question>
+  <question level="1" simple="True" text="Кого хоронили в пирамидах в древнем Египте?">
+    <answer flag="0" text="Рабов"/>
+    <answer flag="0" text="Жрецов"/>
+    <answer flag="1" text="Фараонов"/>
+    <answer flag="0" text="Чиновников"/>
+    <answer flag="0" text="Воинов"/>
+  </question>
+  <question level="1" simple="True" text="Какие государства возникли на территории Двуречья?">
+    <answer flag="1" text="Аккад"/>
+    <answer flag="0" text="Египет"/>
+    <answer flag="0" text="Индия"/>
+    <answer flag="1" text="Ассирия"/>
+    <answer flag="1" text="Шумер"/>
+  </question>
+  <question level="1" simple="True" text="В середине которого тысячелетия до н. э возник Вавилон?">
+    <answer flag="1" text="III"/>
+    <answer flag="0" text="II"/>
+    <answer flag="0" text="I"/>
+  </question>
+  <question level="1" simple="True" text="Как звали самого известного царя Вавилонского и когда он правил?">
+    <answer flag="0" text="Рамзес II"/>
+    <answer flag="1" text="Хаммурапи"/>
+    <answer flag="0" text="Солон"/>
+    <answer flag="1" text="XVIII в. до н. э"/>
+    <answer flag="0" text="III тыс. до н. э"/>
+    <answer flag="0" text="III в. до н. э"/>
+  </question>
+  <question level="1" simple="True" text="Кем был создан первый алфавит?">
+    <answer flag="0" text="Египтянами"/>
+    <answer flag="0" text="Индийцами"/>
+    <answer flag="0" text="Римлянами"/>
+    <answer flag="0" text="Греками"/>
+    <answer flag="1" text="Финикийцами"/>
+  </question>
+  <question level="1" simple="True" text="Что в переводе с древнегреческого языка означает Библия?">
+    <answer flag="0" text="Сказание"/>
+    <answer flag="0" text="История"/>
+    <answer flag="1" text="Книга"/>
+    <answer flag="0" text="Завещание"/>
+  </question>
+  <question level="1" simple="True" text="Где и кто создал древнейшую библиотеку?">
+    <answer flag="0" text="Вавилон"/>
+    <answer flag="1" text="Ассирия"/>
+    <answer flag="0" text="Египет"/>
+    <answer flag="0" text="Индия"/>
+    <answer flag="0" text="Хаммурапи"/>
+    <answer flag="1" text="Ашшурбанипала"/>
+    <answer flag="0" text="Рамзес И"/>
+    <answer flag="0" text="Будда"/>
+  </question>
+  <question level="1" simple="True" text="Из какой страны берет свое начало древнейшая из мировых религий - Буддизм?">
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Япония"/>
+    <answer flag="1" text="Индия"/>
+    <answer flag="0" text="Вьетнам"/>
+  </question>
+  <question level="1" simple="True" text="Кто и когда первыми проплыли вокруг Африки?">
+    <answer flag="0" text="Египтяне"/>
+    <answer flag="1" text="Финикийцы"/>
+    <answer flag="0" text="Персы"/>
+    <answer flag="0" text="XX в. до н. э"/>
+    <answer flag="1" text="600 г. до н. э"/>
+    <answer flag="0" text="III тыс. до н. э"/>
+  </question>
+  <question level="1" simple="True" text="Санскрит - это язык ...">
+    <answer flag="0" text="Египтян"/>
+    <answer flag="0" text="Финикийцев"/>
+    <answer flag="1" text="Ариев"/>
+  </question>
+  <question level="1" simple="True" text="Какое государство называют Поднебесная империя?">
+    <answer flag="0" text="Индия"/>
+    <answer flag="0" text="Персия"/>
+    <answer flag="0" text="Египет"/>
+    <answer flag="0" text="Сирия"/>
+    <answer flag="1" text="Китай"/>
+  </question>
+  <question level="1" simple="True" text="Какую сооружение было построено во времена правления императора Цинь-Шихуана?">
+    <answer flag="0" text="Пирамида"/>
+    <answer flag="1" text="Великая Китайская стена"/>
+    <answer flag="0" text="Буддийский храм"/>
+    <answer flag="0" text="Колизей"/>
+    <answer flag="0" text="Статуя Афины"/>
+  </question>
+  <question level="1" simple="True" text="Сколько китайских государств существовало в эпоху &quot;Воюющих царств&quot;?">
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="7"/>
+    <answer flag="0" text="9"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Великий шелковый путь&quot; пролегал от Китая до">
+    <answer flag="0" text="Средней Азии"/>
+    <answer flag="0" text="Ирану"/>
+    <answer flag="0" text="Индии"/>
+    <answer flag="1" text="Средиземного моря"/>
+  </question>
+</testing>

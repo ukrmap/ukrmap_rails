@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Розпад Радянського Союзу. Утворення нових держав.">
+  <question level="1" simple="True" text="Де та коли сталася катастрофічна аварія на Чорнобильській АЕС?">
+    <answer flag="1" text="Українська РСР"/>
+    <answer flag="0" text="Білоруська РСР"/>
+    <answer flag="0" text="Російська РФСР"/>
+    <answer flag="0" text="Березень 1969 р."/>
+    <answer flag="1" text="Квітень 1986 р."/>
+    <answer flag="0" text="Серпень 1981 р."/>
+  </question>
+  <question level="1" simple="True" text="Коли був здійснений невдалий державний переворот ГКЧП в Москві?">
+    <answer flag="0" text="25-26 квітня 1986 р."/>
+    <answer flag="1" text="19-21 серпня 1991 р."/>
+    <answer flag="0" text="8-10 грудня 1991 р."/>
+  </question>
+  <question level="1" simple="True" text="Які історичні події відбулися 8 грудня 1991 р.?">
+    <answer flag="1" text="Підписання &quot;Угоди про створення СНД&quot;"/>
+    <answer flag="1" text="Припинення існування СРСР"/>
+    <answer flag="0" text="&quot;Помаранчева&quot; революція"/>
+  </question>
+  <question level="1" simple="True" text="Які країни стали засновницями СНД?">
+    <answer flag="1" text="Російська Федерація"/>
+    <answer flag="1" text="Білорусь"/>
+    <answer flag="0" text="Естонія"/>
+    <answer flag="0" text="Литва"/>
+    <answer flag="1" text="Україна"/>
+  </question>
+  <question level="1" simple="True" text="Яка колишня республіка проголосила незалежність 24 серпня 1991 р.?">
+    <answer flag="0" text="Білоруська"/>
+    <answer flag="0" text="Грузинська"/>
+    <answer flag="1" text="Українська"/>
+    <answer flag="0" text="Молдавська"/>
+  </question>
+  <question level="1" simple="True" text="В яких роках та в яких країнах СНД відбувалися &quot;кольорові&quot; революції?">
+    <answer flag="0" text="1991"/>
+    <answer flag="1" text="2003"/>
+    <answer flag="1" text="2004"/>
+    <answer flag="1" text="2005"/>
+    <answer flag="0" text="Російська Федерація"/>
+    <answer flag="1" text="Грузія"/>
+    <answer flag="1" text="Україна"/>
+    <answer flag="1" text="Киргизстан"/>
+  </question>
+</testing>

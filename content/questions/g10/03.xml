@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="География природных ресурсов">
+  <question text="Топливные ресурсы являются">
+    <answer flag="1" text="исчерпаемыми и невозобновляемыми"/>
+    <answer flag="0" text="исчерпаемыми и возобновляемыми"/>
+    <answer flag="0" text="неисчерпаемыми и возобновляемыми"/>
+  </question>
+  <question text="В каком полушарии сосредоточены основные месторождения каменного угля ?">
+    <answer flag="1" text="В Северном"/>
+    <answer flag="0" text="В Южном"/>
+  </question>
+  <question text="Самая богатая водными ресурсами страна мира это">
+    <answer flag="0" text="США"/>
+    <answer flag="0" text="Китай"/>
+    <answer flag="1" text="Канада"/>
+  </question>
+  <question text="Какая из стран хуже всего обеспечена лесными ресурсами ?">
+    <answer flag="0" text="Швеция"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="Афганистан"/>
+    <answer flag="0" text="Индия"/>
+  </question>
+  <question text="Какая страна лучше всего обеспечена пашней в расчете на душу населения ?">
+    <answer flag="0" text="США"/>
+    <answer flag="0" text="Индия"/>
+    <answer flag="1" text="Казахстан"/>
+    <answer flag="0" text="Украина"/>
+  </question>
+  <question text="Какая из перечисленных стран имеет наиболее благоприятное сочетание агроклиматических ресурсов ?">
+    <answer flag="0" text="Австралия"/>
+    <answer flag="1" text="Украина"/>
+    <answer flag="0" text="Индия"/>
+    <answer flag="0" text="Израиль"/>
+  </question>
+  <question text="Какая страна более интенсивно использует подземные термальные воды ?">
+    <answer flag="0" text="Япония"/>
+    <answer flag="1" text="Исландия"/>
+    <answer flag="0" text="Индонезия"/>
+  </question>
+  <question text="Самой большой по мощности ГЭС в мире является">
+    <answer flag="0" text="Гранд-Кули (США)"/>
+    <answer flag="1" text="Итайпу (Бразилия/Парагвай)"/>
+    <answer flag="0" text="Гечжоуба (Китай)"/>
+    <answer flag="0" text="Братская (Россия)"/>
+  </question>
+  <question text="Размещение биологических ресурсов зависит от">
+    <answer flag="0" text="уровня экономического развития страны"/>
+    <answer flag="1" text="соотношения тепла и влаги"/>
+    <answer flag="0" text="строения земной коры"/>
+  </question>
+  <question text="Тектонические структуры, к которым приурочены залежи топливных полезных ископаемых, это">
+    <answer flag="0" text="щиты древних платформ"/>
+    <answer flag="0" text="области кайнозойской складчатости"/>
+    <answer flag="1" text="предгорные прогибы"/>
+    <answer flag="0" text="области мезозойской складчатости"/>
+  </question>
+  <question text="Выделите верные ответы">
+    <answer flag="1" text="В России самые большие запасы природного газа"/>
+    <answer flag="1" text="В Саудовской Аравии самые большие запасы нефти"/>
+    <answer flag="0" text="Россия занимает первое место по добыче алмазов"/>
+  </question>
+  <question text="Самым старым национальным парком мира является">
+    <answer flag="0" text="Вуд-Баффало"/>
+    <answer flag="1" text="Йеллоустонский"/>
+    <answer flag="0" text="Нгоронгоро"/>
+  </question>
+</testing>

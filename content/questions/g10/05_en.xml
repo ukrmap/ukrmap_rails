@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Global Problems of Mankind">
+  <question text="The energy problem is caused by">
+    <answer flag="1" text="increasing energy consumption"/>
+    <answer flag="0" text="low quality of fuel resources"/>
+    <answer flag="0" text="using alternative energy sources"/>
+  </question>
+  <question text="Population explosion in the twentieth century. called">
+    <answer flag="0" text="increasing number of cities in the world"/>
+    <answer flag="0" text="high level of industrial development in developed countries"/>
+    <answer flag="1" text="significant reduction in mortality in developing countries"/>
+  </question>
+  <question text="Which international organizations, coordinating efforts to address global problems of mankind?">
+    <answer flag="0" text="ASEAN"/>
+    <answer flag="0" text="CIS"/>
+    <answer flag="0" text="EU"/>
+    <answer flag="1" text="UN"/>
+  </question>
+  <question text="On what continent is the &quot;pole of hunger&quot;?">
+    <answer flag="0" text="Australia"/>
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="Eurasia"/>
+    <answer flag="0" text="South America"/>
+  </question>
+  <question text="Which parts of the world's oceans are the most polluted?">
+    <answer flag="1" text="Territorial waters"/>
+    <answer flag="0" text="The open water area"/>
+    <answer flag="1" text="Offshore zone"/>
+  </question>
+  <question text="Which continent has the largest share of protected areas in the general area?">
+    <answer flag="0" text="North America"/>
+    <answer flag="0" text="Eurasia"/>
+    <answer flag="0" text="Africa"/>
+    <answer flag="1" text="Australia"/>
+  </question>
+  <question text="What forests of the globe most intensively cut down?">
+    <answer flag="0" text="Taiga"/>
+    <answer flag="1" text="Selva"/>
+    <answer flag="0" text="Jungles of equatorial Africa"/>
+  </question>
+  <question text="In large cities, the major source of air pollution is">
+    <answer flag="0" text="TPP"/>
+    <answer flag="0" text="petrochemical companies"/>
+    <answer flag="0" text="enterprise of building materials"/>
+    <answer flag="1" text="motor transport"/>
+  </question>
+  <question text="Land reclamation is">
+    <answer flag="0" text="career earthworks"/>
+    <answer flag="1" text="restoration of damaged land"/>
+    <answer flag="0" text="plowing of virgin lands"/>
+    <answer flag="0" text="decline in the area of agricultural land"/>
+  </question>
+  <question text="The greenhouse effect contributes to the increase in Earth's atmosphere">
+    <answer flag="1" text="carbon dioxide"/>
+    <answer flag="0" text="sulfur dioxide"/>
+    <answer flag="0" text="Freon"/>
+    <answer flag="0" text="Ozone"/>
+  </question>
+  <question text="On what continent is the lowest life expectancy?">
+    <answer flag="0" text="Asia"/>
+    <answer flag="1" text="Africa"/>
+    <answer flag="0" text="Australia"/>
+    <answer flag="0" text="South America"/>
+  </question>
+  <question text="Country in which no diminution of the separatist movement, it">
+    <answer flag="0" text="U.S."/>
+    <answer flag="1" text="India"/>
+    <answer flag="0" text="Poland"/>
+  </question>
+</testing>

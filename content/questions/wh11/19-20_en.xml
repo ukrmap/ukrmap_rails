@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The World in 1950 and in 2008">
+  <question level="1" simple="True" text="What possession were colonies of Great Britain?">
+    <answer flag="1" text="Gold Coast"/>
+    <answer flag="1" text="Bechuanalend"/>
+    <answer flag="0" text="Macau"/>
+    <answer flag="0" text="Ifni"/>
+  </question>
+  <question level="1" simple="True" text="How can you characterize relations between the USSR and U.S. in the late 40th years of XX century.">
+    <answer flag="1" text="The Cold War"/>
+    <answer flag="0" text="&quot;Hot War&quot;"/>
+    <answer flag="0" text="&quot;Intifada&quot;"/>
+  </question>
+  <question level="1" simple="True" text="What are the colonies became independent in 1950?">
+    <answer flag="1" text="Vietnam"/>
+    <answer flag="1" text="Indonesia"/>
+    <answer flag="0" text="Cambodia"/>
+    <answer flag="0" text="Laos"/>
+    <answer flag="1" text="Philippines"/>
+  </question>
+  <question level="1" simple="True" text="What is the status of decolonization world experienced in 1950?">
+    <answer flag="1" text="First"/>
+    <answer flag="0" text="Second"/>
+    <answer flag="0" text="Third"/>
+    <answer flag="0" text="Fourth"/>
+  </question>
+  <question level="1" simple="True" text="Which countries of the Great Eight are permanent members of UN Security Council?">
+    <answer flag="1" text="Russia"/>
+    <answer flag="0" text="Canada"/>
+    <answer flag="1" text="U.S."/>
+    <answer flag="0" text="China"/>
+    <answer flag="0" text="Japan"/>
+    <answer flag="1" text="France"/>
+    <answer flag="1" text="Great Britain"/>
+  </question>
+  <question level="1" simple="True" text="What countries gained independence after 1989?">
+    <answer flag="0" text="Libya"/>
+    <answer flag="1" text="Latvia"/>
+    <answer flag="1" text="Lithuania"/>
+    <answer flag="0" text="Lesotho"/>
+  </question>
+  <question level="1" simple="True" text="What political issues were the reasons of misunderstanding between Russia and the U.S. in the late XX century.?">
+    <answer flag="1" text="NATO enlargement to the East"/>
+    <answer flag="1" text="Settlement of the Middle East conflict"/>
+    <answer flag="1" text="The settlement of the Yugoslav conflict"/>
+    <answer flag="0" text="The settlement of the bloody conflict in tropical and South Africa"/>
+  </question>
+  <question level="1" simple="True" text="Which two global issues considered most important at the beginning of the XXI century.?">
+    <answer flag="0" text="Information Security"/>
+    <answer flag="1" text="International terrorism"/>
+    <answer flag="0" text="Space exploration and the World Ocean"/>
+    <answer flag="1" text="Climate change"/>
+  </question>
+</testing>

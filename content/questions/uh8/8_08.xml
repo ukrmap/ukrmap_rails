@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Культура України в другій половині XVI - першій половині XVII ст. Розвиток освіти та науки ">
+  <question level="1" simple="True" text="Коли було засновано Києво-Могилянську академію?">
+    <answer flag="0" text="1576 р."/>
+    <answer flag="1" text="1632 р."/>
+  </question>
+  <question level="1" simple="True" text="Яка з подій відбулася раніше?">
+    <answer flag="0" text="Видання Острозької Біблії"/>
+    <answer flag="1" text="Створення Пересопницького Євангелія"/>
+  </question>
+  <question level="1" simple="True" text="Де й коли в Україні з'явилася перша братська школа?">
+    <answer flag="1" text="У Львові 1586 р."/>
+    <answer flag="0" text="У Києві 1615 р."/>
+  </question>
+  <question level="1" simple="True" text="Яка подія надала можливість створити братську школу в Києві?">
+    <answer flag="0" text="Надання київському Богоявленському братству права ставропігії"/>
+    <answer flag="1" text="Київська шляхтянка Галшка Гулевичівна подарувала Київському братству &quot;двір з пляцем&quot; на Подолі"/>
+  </question>
+  <question level="1" simple="True" text="Яку школу вважать першою вищою школою в Україні?">
+    <answer flag="1" text="Острозьку школу"/>
+    <answer flag="0" text="Львівську братську школу"/>
+  </question>
+  <question level="1" simple="True" text="Як виникла Києво-Могилянська академія?">
+    <answer flag="1" text="Внаслідок злиття київських Братської та Лаврської шкіл"/>
+    <answer flag="0" text="Після реорганізації Острозької академії"/>
+  </question>
+  <question level="1" simple="True" text="Яку книгу вважають першою відомою книгою Святого Письма тогочасною книжною українською мовою?">
+    <answer flag="1" text="Пересопницьке Євангеліє"/>
+    <answer flag="0" text="Острозьку Біблію"/>
+  </question>
+  <question level="1" simple="True" text="Яка книга була першим повним друкованим виданням Біблії церковнослов'янською мовою?">
+    <answer flag="0" text="Требник Петра Могили"/>
+    <answer flag="1" text="Острозька Біблія"/>
+  </question>
+  <question level="1" simple="True" text="Хто був автором першого українського друкованого словника &quot;Лексис&quot;?">
+    <answer flag="1" text="Лаврентій Зизаній"/>
+    <answer flag="0" text="Мелетій Смотрицький"/>
+  </question>
+  <question level="1" simple="True" text="Хто такий Іван Федоров?">
+    <answer flag="0" text="Український князь, фундатор Острозької академії, ініціатор видання Острозької Біблії"/>
+    <answer flag="1" text="Московський першодрукар, засновник постійного друкарства на українських землях"/>
+  </question>
+  <question level="1" simple="True" text="Які книжки було надруковано у Львові Іваном Федоровим?">
+    <answer flag="1" text="Апостол, «Буквар»"/>
+    <answer flag="0" text="«Адельфотес», «Лексикон славенороський»"/>
+  </question>
+  <question level="1" simple="True" text="Яка друкарня на Україні була найпотужнішою в першій половині XVII ст.?">
+    <answer flag="1" text="Друкарня Києво-Печерської лаври"/>
+    <answer flag="0" text="Друкарня Івана Федоровича"/>
+  </question>
+</testing>

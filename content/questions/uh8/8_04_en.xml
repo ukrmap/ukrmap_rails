@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hetman Pavlo Konashevych-Sahaidachny. Ukrainian Cossacks in the first quarter of the XVII.">
+  <question level="1" simple="True" text="What period is called the &quot;heroic era of campaigns?">
+    <answer flag="0" text="Revolt 1591-1596 biennium, when the liberated territories zaprovadzhuvavsya Cossack System"/>
+    <answer flag="1" text="Successful sea trips Cossacks to the Turkish-Tatar fortress in the first two decades of the XVII century., Which was released as a result hundreds of thousands of slaves"/>
+  </question>
+  <question level="1" simple="True" text="In what years Hetman Petro-Konashevich Sagaidachnogo?">
+    <answer flag="0" text="Are 90 years of the XVI century."/>
+    <answer flag="1" text="In the first decades of the XVII century."/>
+  </question>
+  <question level="1" simple="True" text="As the Cossacks called their boats on which they paid trips to the possession of the Ottoman Empire?">
+    <answer flag="0" text="Servitude"/>
+    <answer flag="1" text="Seagull"/>
+    <answer flag="0" text="Tryanhulamy"/>
+  </question>
+  <question level="1" simple="True" text="What a memorable year of 1620 and in Ukraine's history?">
+    <answer flag="1" text="The Kiev Brotherhood and Cossacks led by P.Konashevychem Sahaidachny-restored church hierarchy"/>
+    <answer flag="0" text="A hike P. Konashevich-Sagaidachnogo to Moscow, which was intended to help the prince Vladislavove"/>
+  </question>
+  <question level="1" simple="True" text="Where was located the largest nevilnytskyy market in the Crimea, whither his victorious march Hetman P. Konashevych-Sahaidachny?">
+    <answer flag="0" text="In Hotine"/>
+    <answer flag="1" text="In Kaffa"/>
+    <answer flag="0" text="In Iasi"/>
+  </question>
+  <question level="1" simple="True" text="As a result of the events was signed Deulinske truce between Muscovy and the Commonwealth?">
+    <answer flag="0" text="As a result Khotyn war"/>
+    <answer flag="1" text="Due to hike the Polish Prince Wladyslaw with Hetman Sahaidachny to Moscow"/>
+  </question>
+  <question level="1" simple="True" text="What on earth Deulinskym truce between Muscovy and the Commonwealth ceded to Poland at 14, 5 years?">
+    <answer flag="1" text="Smolensk and Chernigov-Siverschyna"/>
+    <answer flag="0" text="Kiev region, Volyn and Bratslavshchina"/>
+  </question>
+  <question level="1" simple="True" text="Which country were subordinated to the fortress, against which directed their sea trips Cossacks in an era of heroic journeys?">
+    <answer flag="1" text="Ottoman Empire"/>
+    <answer flag="0" text="Rech"/>
+  </question>
+  <question level="1" simple="True" text="What event listed below is linked to Peter Konashevych-Sahaidachny?">
+    <answer flag="0" text="The introduction of the Registered Cossack troops"/>
+    <answer flag="1" text="Introduction to the Kyiv Zaporizhia Army Fellowship"/>
+  </question>
+  <question level="1" simple="True" text="What army were enemies in war Khotyn?">
+    <answer flag="1" text="Polish army, reinforced by 40 thousand Cossack army, Turkish and Tatar army"/>
+    <answer flag="0" text="Polish army, reinforced by 40 thousand Cossack army, and Muscovite-Tatar army"/>
+  </question>
+  <question level="1" simple="True" text="He played a crucial role in the victory of the Commonwealth in Khotyn war?">
+    <answer flag="0" text="Forces of the Commonwealth, led by Crown Lithuanian Hetman Chodkiewicz Charles"/>
+    <answer flag="1" text="Cossack troops, headed by Peter Konashevych-Sahaidachny"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences Khotyn war?">
+    <answer flag="0" text="The Ottoman Empire lost considerable territory, including lands of the Crimean Khanate and the Danube countries - Moldavia, Wallachia, Transylvania"/>
+    <answer flag="1" text="Poland withdrew the threat of losing huge territory. The battle resulted in strengthening of the liberation struggle of peoples conquered by the Turks"/>
+  </question>
+</testing>

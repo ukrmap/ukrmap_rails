@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Барацьба народаў Еўропы і Азіі супраць чужаземных захопнікаў">
+  <question text="Калі курултай падаў Темучжина тытул Чынгісхан?">
+    <answer flag="0" text="1199"/>
+    <answer flag="1" text="1206"/>
+    <answer flag="0" text="1223"/>
+  </question>
+  <question text="Дзе князь Аляксандр Неўскі разбіў нямецкіх рыцараў-крыжакоў 5 красавіку 1242?">
+    <answer flag="0" text="каля г. Нява"/>
+    <answer flag="0" text="пад сценамі Пскова"/>
+    <answer flag="1" text="на крызісе Чудскім возеры"/>
+  </question>
+  <question text="Як еўрапейцы называлі арабаў, якія пражывалі на Пірынейскім паўвостраве?">
+    <answer flag="0" text="туркі"/>
+    <answer flag="1" text="маўры"/>
+    <answer flag="0" text="бедуіны"/>
+  </question>
+  <question text="Зямлі Наўгародскай зямлі спрабавалі захапіць">
+    <answer flag="0" text="Ордэн тампліераў"/>
+    <answer flag="1" text="Ордэн мечаносцаў"/>
+    <answer flag="0" text="Тэўтонскі ордэн"/>
+    <answer flag="0" text="Мальтыйскі ордэн"/>
+  </question>
+  <question text="Рэканкіста працягвалася">
+    <answer flag="1" text="8 стагоддзяў"/>
+    <answer flag="0" text="10 стагоддзяў"/>
+    <answer flag="0" text="12 стагоддзяў."/>
+  </question>
+  <question text="Параза ў якой бітве прымусіла Візантыю канчаткова адмовіцца ад усходніх тэрыторый?">
+    <answer flag="1" text="пры Мириокефали"/>
+    <answer flag="0" text="пры Акре"/>
+    <answer flag="0" text="пры Анкары"/>
+  </question>
+  <question text="Якая з трох імперый не ўпісваецца лагічны шэраг?">
+    <answer flag="0" text="Трапезундская"/>
+    <answer flag="0" text="Болдуін"/>
+    <answer flag="1" text="Лацінская"/>
+  </question>
+  <question text="Румский султанат заснавалі ў Малой Азіі">
+    <answer flag="0" text="туркі-асманы"/>
+    <answer flag="1" text="туркі-сельджукі"/>
+    <answer flag="0" text="арабы."/>
+  </question>
+  <question text="Якую найбольшай краіну заваявалі манголы?">
+    <answer flag="1" text="Кітай"/>
+    <answer flag="0" text="Персія"/>
+    <answer flag="0" text="Русь"/>
+  </question>
+  <question text="Батый заснаваў дзяржава">
+    <answer flag="1" text="Залатая Арда"/>
+    <answer flag="0" text="Харэзм"/>
+    <answer flag="0" text="Крымскае ханства."/>
+  </question>
+  <question text="Калі крыжакі захапілі Канстанцінопаль?">
+    <answer flag="0" text="1096"/>
+    <answer flag="0" text="1192"/>
+    <answer flag="1" text="1204"/>
+  </question>
+  <question text="Заснавальнікам апошняй дынастыі візантыйскіх василевсов быў">
+    <answer flag="0" text="Мануіл I Комнін"/>
+    <answer flag="1" text="Міхаіл VIII Палеолаг"/>
+    <answer flag="0" text="Ян III Ласкарис."/>
+  </question>
+</testing>

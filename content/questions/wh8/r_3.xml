@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Визвольний рух у Нідерландах">
+  <question level="1" simple="True" text="Найбільшим за кількістю населення містом Нідерландів у XVI ст. був:">
+    <answer flag="1" text="Антверпен"/>
+    <answer flag="0" text="Амстердам"/>
+    <answer flag="0" text="Гаарлем"/>
+    <answer flag="0" text="Брюссель"/>
+  </question>
+  <question level="1" simple="True" text="В якому році у Нідерландах спалахнуло повстання іконоборців?">
+    <answer flag="0" text="1656"/>
+    <answer flag="1" text="1566"/>
+    <answer flag="0" text="1567"/>
+    <answer flag="0" text="1568"/>
+  </question>
+  <question level="1" simple="True" text="За правління якого іспанського короля розпочався визвольний рух у Нідерландах?">
+    <answer flag="0" text="Карла І"/>
+    <answer flag="0" text="Генріха ІІІ"/>
+    <answer flag="1" text="Філіппа ІІ"/>
+    <answer flag="0" text="Сигізмунда ІІІ"/>
+  </question>
+  <question level="1" simple="True" text="Опозицію іспанській владі в роки визвольної боротьби у Нідерландах очолював:">
+    <answer flag="0" text="герцог Альба"/>
+    <answer flag="0" text="граф Лестер"/>
+    <answer flag="1" text="Вільгельм Оранський"/>
+    <answer flag="0" text="Моріц Оранський"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія стала поштовхом до повстання проти іспанців на півночі Нідерландів?">
+    <answer flag="0" text="повстання іконоборців"/>
+    <answer flag="0" text="облога іспанцями міста Лейдена"/>
+    <answer flag="1" text="захоплення морськими гезами міста Бріль"/>
+    <answer flag="0" text="облога іспанцями міста Гаарлема"/>
+  </question>
+  <question level="1" simple="True" text="Чиєю перемогою завершилася облога міста Лейдена?">
+    <answer flag="0" text="іспанців"/>
+    <answer flag="1" text="голландців"/>
+  </question>
+  <question level="1" simple="True" text="Хто запровадив у Нідерландах 10-відсотковий податок з продажу усіх товарів?">
+    <answer flag="0" text="Маргарита Пармська "/>
+    <answer flag="1" text="герцог Альба"/>
+    <answer flag="0" text="Вільгельм Оранський"/>
+    <answer flag="0" text="Моріц Оранський"/>
+  </question>
+  <question level="1" simple="True" text="Яка подія відбулася раніше?">
+    <answer flag="1" text="укладання Арраської унії"/>
+    <answer flag="0" text="укладання Утрехтської унії"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих провінцій увійшла до Арраської унії?">
+    <answer flag="1" text="Артуа"/>
+    <answer flag="0" text="Зеландія"/>
+    <answer flag="0" text="Утрехт"/>
+    <answer flag="0" text="Фрисландія"/>
+  </question>
+  <question level="1" simple="True" text="Кого було обрано штатгальтером Сполучених провінцій Нідерландів після загибелі Вільгельма Оранського?">
+    <answer flag="1" text="Моріца Оранського"/>
+    <answer flag="0" text="Маргариту Пармську"/>
+    <answer flag="0" text="Генріха Наваррського"/>
+    <answer flag="0" text="герцога Гіза"/>
+  </question>
+  <question level="1" simple="True" text="Коли Іспанія остаточно визнала незалежність Сполучених провінцій Нідерландів?">
+    <answer flag="0" text="1579 р."/>
+    <answer flag="0" text="1584 р."/>
+    <answer flag="0" text="1609 р."/>
+    <answer flag="1" text="1648 р."/>
+  </question>
+  <question level="1" simple="True" text="Яке місто Голландської республіки стало новим центром світової торгівлі у XVII ст.?">
+    <answer flag="0" text="Антверпен"/>
+    <answer flag="1" text="Амстердам "/>
+    <answer flag="0" text="Лейден"/>
+    <answer flag="0" text="Гаарлем"/>
+  </question>
+</testing>

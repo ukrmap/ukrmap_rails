@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Розселення та еміграція українців у другій половині ХІХ – на початку ХХ ст.">
+  <question level="1" simple="True" text="Чим була зумовлена масова трудова еміграція українців наприкінці ХІХ ст.?">
+    <answer flag="1" text="Аграрним перенаселенням українських земель"/>
+    <answer flag="0" text="Прагненням російського і австрійського урядів позбутися українського населення"/>
+    <answer flag="0" text="Нерозвиненістю міського життя на українських землях"/>
+    <answer flag="0" text="Одвічним прагненням до нових пригод і відкриттів"/>
+  </question>
+  <question level="1" simple="True" text="Яку назву отримали землі, освоєні українцями на Далекому Сході?">
+    <answer flag="1" text="Зелений клин"/>
+    <answer flag="0" text="Сірий клин"/>
+    <answer flag="0" text="Саскачеван"/>
+    <answer flag="0" text="Кубань"/>
+  </question>
+  <question level="1" simple="True" text="До якої з названих країн українські поселенці прибули першими?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Бразилія"/>
+    <answer flag="0" text="Аргентина"/>
+  </question>
+  <question level="1" simple="True" text="У якій з названих країн українська громада на початок ХХ ст. була найчисельнішою?">
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="США"/>
+    <answer flag="0" text="Бразилія"/>
+    <answer flag="0" text="Аргентина"/>
+  </question>
+  <question level="1" simple="True" text="З яких регіонів України переважала трудова еміграція на Захід?">
+    <answer flag="1" text="Галичина, Закарпаття, Буковина, Волинь"/>
+    <answer flag="0" text="Поділля, Київщина"/>
+    <answer flag="0" text="Степові райони"/>
+    <answer flag="0" text="Донбас, Слобожанщина, Придніпров’я"/>
+  </question>
+  <question level="1" simple="True" text="Який рік вважається початком української трудової еміграція?">
+    <answer flag="0" text="1850 р."/>
+    <answer flag="0" text="1860 р."/>
+    <answer flag="1" text="1870 р."/>
+    <answer flag="0" text="1880 р."/>
+  </question>
+</testing>

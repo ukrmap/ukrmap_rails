@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The emergence of human life in Ukraine">
+  <question level="1" simple="True" text="When the first time in Ukraine appeared pralyudy?">
+    <answer flag="1" text="About 1 million years ago"/>
+    <answer flag="0" text="About 150 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="What to consider parking pralyudey oldest in Ukraine?">
+    <answer flag="0" text="Village Mizyn in Chernihiv"/>
+    <answer flag="1" text="Queen Village in Transcarpathia"/>
+  </question>
+  <question level="1" simple="True" text="As archaeologists explain the term cultural layer?">
+    <answer flag="0" text="So called archaeological culture"/>
+    <answer flag="1" text="It is called soil, which revealed traces of human activity"/>
+  </question>
+  <question level="1" simple="True" text="As scientists called kromanyontsiv predecessors?">
+    <answer flag="1" text="Paleoantropamy (Neanderthals)"/>
+    <answer flag="0" text="Arhantropamy (prezyndzhantropamy and Pithecanthropus)"/>
+  </question>
+  <question level="1" simple="True" text="When there was &quot;reasonable person&quot;?">
+    <answer flag="0" text="150 thousand years ago"/>
+    <answer flag="1" text="40-35 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="Which goes back the origin of art and religious beliefs?">
+    <answer flag="0" text="Hours of the first pralyudey"/>
+    <answer flag="1" text="Hours Neanderthals"/>
+  </question>
+  <question level="1" simple="True" text="How to call &quot;reasonable person&quot; in the place of the first find of its most ancient remnants?">
+    <answer flag="0" text="Neanderthals"/>
+    <answer flag="1" text="Kromanyontsem"/>
+  </question>
+  <question level="1" simple="True" text="What were the main occupation during a reasonable person of Late Pleistocene?">
+    <answer flag="1" text="Hunting"/>
+    <answer flag="0" text="Livestock and agriculture"/>
+  </question>
+  <question level="1" simple="True" text="What are the most popular parking Late Pleistocene in Ukraine?">
+    <answer flag="1" text="Mesopotamia in Cherkasy, Chernihiv on Mizyn, Cyril parking in Kiev"/>
+    <answer flag="0" text="Rokosovo in Transcarpathia, Luke Vrublovetska in-Dniester, Labushne Odessschine"/>
+  </question>
+  <question level="1" simple="True" text="What were the most common tools in kromanyontsiv?">
+    <answer flag="0" text="Manual rubylo that could chop, cut and hack"/>
+    <answer flag="1" text="Scrubber for leather, cutting to work with the bone, cutting knives, needles, sewing"/>
+    <answer flag="0" text="Hostrokonechnyky and comb"/>
+  </question>
+  <question level="1" simple="True" text="What teams lived kromanyontsi?">
+    <answer flag="0" text="Large groups - herds"/>
+    <answer flag="1" text="Groups of 30 families - 40 people - generic communities"/>
+  </question>
+  <question level="1" simple="True" text="What is the name science that studies the history of society to the material remains of human life and activity - real landmarks?">
+    <answer flag="1" text="Archeology"/>
+    <answer flag="0" text="Chronology"/>
+  </question>
+</testing>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украинские земли в конце XVIII века">
+  <question level="1" simple="True" text="Запорожские земли после ликвидации Новой Сечи был включен в состав ...">
+    <answer flag="1" text="Азовской и Новороссийской губерний"/>
+    <answer flag="0" text="Новороссийской губернии"/>
+    <answer flag="0" text="Астраханской губернии"/>
+    <answer flag="0" text="Екатеринославского наместничества"/>
+  </question>
+  <question level="1" simple="True" text="В каком году была основана Одесса?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1774"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1795"/>
+  </question>
+  <question level="1" simple="True" text="В каком году состоялся первый раздел Речи Посполитой?">
+    <answer flag="0" text="1770"/>
+    <answer flag="1" text="1772"/>
+    <answer flag="0" text="1776"/>
+    <answer flag="0" text="1778"/>
+  </question>
+  <question level="1" simple="True" text="По какому разделом Речи Посполитой, имевший место в XVIII веке, Российская империя получила Западную Волынь, Западную Белоруссию, Литву?">
+    <answer flag="0" text="Первым"/>
+    <answer flag="0" text="Вторым"/>
+    <answer flag="1" text="Третьим"/>
+    <answer flag="0" text="Четвертым"/>
+  </question>
+  <question level="1" simple="True" text="Какие государства участвовали в разделах Речи Посполитой последней четверти XVIII века?">
+    <answer flag="1" text="Пруссия"/>
+    <answer flag="1" text="Российская империя"/>
+    <answer flag="0" text="Швеция"/>
+    <answer flag="1" text="Монархия австрийских Габсбургов"/>
+    <answer flag="0" text="Османская империя"/>
+  </question>
+  <question level="1" simple="True" text="Когда произошло польское освободительное восстание, возглавляемое Тодеушем Костюшко?">
+    <answer flag="0" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1793"/>
+    <answer flag="1" text="1794"/>
+  </question>
+  <question level="1" simple="True" text="Право владеть любым регионом украинских земель закрепила за Австрией Константинопольская конвенция 1775?">
+    <answer flag="0" text="Холмщина"/>
+    <answer flag="0" text="Закарпатье"/>
+    <answer flag="1" text="Буковина"/>
+    <answer flag="0" text="Галичина"/>
+  </question>
+  <question level="1" simple="True" text="В каком году на Левобережной Украины были ликвидированы казацкие полки и превращены в регулярные части российской армии?">
+    <answer flag="0" text="1768"/>
+    <answer flag="0" text="1775"/>
+    <answer flag="0" text="1781"/>
+    <answer flag="1" text="1783"/>
+  </question>
+  <question level="1" simple="True" text="Какое суждение является правильным? В результате разделов Речи Посполитой большинство украинских земель: 1) оказалась в составе Российской империи, 2) получили губернское административно-территориальное устройство.">
+    <answer flag="1" text="Оба варианта правильные"/>
+    <answer flag="0" text="Только 1 вариант правильный"/>
+    <answer flag="0" text="Только 2 вариант правильный"/>
+    <answer flag="0" text="Оба варианта неправильные"/>
+  </question>
+  <question level="1" simple="True" text="В результате каких событий в состав Российской империи вошли причерноморские земли между Днестром и Южным Бугом?">
+    <answer flag="0" text="Второго раздела Речи Посполитой"/>
+    <answer flag="0" text="Третьего раздела Речи Посполитой"/>
+    <answer flag="0" text="Русско-турецкой войны 1768-1774 гг"/>
+    <answer flag="1" text="Русско-турецкой войны 1787-1791 гг"/>
+  </question>
+  <question level="1" simple="True" text="Войска каких государств принимали участие в подавлении польского восстания во главе с Т. Костюшко?">
+    <answer flag="1" text="Российской империи"/>
+    <answer flag="0" text="Османской империи"/>
+    <answer flag="0" text="Монархии австрийских Габсбургов"/>
+    <answer flag="1" text="Пруссии"/>
+  </question>
+  <question level="1" simple="True" text="В каком году была ликвидирована Крымское ханство?">
+    <answer flag="0" text="1775"/>
+    <answer flag="1" text="1783"/>
+    <answer flag="0" text="1791"/>
+    <answer flag="0" text="1795"/>
+  </question>
+</testing>

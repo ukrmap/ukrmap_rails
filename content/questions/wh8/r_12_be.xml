@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Германскія дзяржавы ў XVIII ст.">
+  <question level="1" simple="True" text="Які мірны дагавор сярэдзіны XVII ст. замацаваў палітычную раздробленасць Германіі?">
+    <answer flag="1" text="Вестфальскі"/>
+    <answer flag="0" text="Аугсбургский"/>
+    <answer flag="0" text="Венскі"/>
+  </question>
+  <question level="1" simple="True" text="З якой дынастыі абіраліся імператары Свяшчэннай Рымскай імперыі германскай нацыі?">
+    <answer flag="0" text="Гогенцалерны"/>
+    <answer flag="0" text="Бурбонаў"/>
+    <answer flag="1" text="Габсбургаў"/>
+    <answer flag="0" text="Люксембургам"/>
+  </question>
+  <question level="1" simple="True" text="Адзінай жанчынай на імператарскім троне з дынастыі Габсбургаў была:">
+    <answer flag="0" text="Марыя-Антуанэта"/>
+    <answer flag="0" text="Марыя Сцюарт"/>
+    <answer flag="1" text="Марыя-Тэрэзія"/>
+  </question>
+  <question level="1" simple="True" text="Калі Прусія атрымала незалежнасць ад Польшчы?">
+    <answer flag="0" text="1648"/>
+    <answer flag="1" text="1657"/>
+    <answer flag="0" text="1701"/>
+    <answer flag="0" text="1762"/>
+  </question>
+  <question level="1" simple="True" text="Хто з кіраўнікоў Брандербург-Прусіі першым атрымаў каралеўскі тытул?">
+    <answer flag="0" text="Фрыдрых-Вільгельм"/>
+    <answer flag="1" text="Фрыдрых I"/>
+    <answer flag="0" text="Фрыдрых II"/>
+    <answer flag="0" text="Фрыдрых-Вільгельм"/>
+  </question>
+  <question level="1" simple="True" text="Якія імператары Аўстрыі праводзілі палітыку ў духу &quot;асвечанага абсалютызму&quot;?">
+    <answer flag="0" text="Карл VI"/>
+    <answer flag="1" text="Марыя-Тэрэзія і Іосіф II"/>
+    <answer flag="0" text="Іосіф II"/>
+  </question>
+  <question level="1" simple="True" text="Якое назву атрымала вайна, якая доўжылася ў 1756-1763 гг?">
+    <answer flag="0" text="Паўночная"/>
+    <answer flag="0" text="Трыццацігадовая"/>
+    <answer flag="1" text="Сямігадовая"/>
+    <answer flag="0" text="за &quot;аўстрыйскае спадчыну&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых войнаў не змяніла палітычную карту Еўропы?">
+    <answer flag="0" text="за &quot;іспанскае спадчыну&quot;"/>
+    <answer flag="0" text="за &quot;аўстрыйскае спадчыну&quot;"/>
+    <answer flag="1" text="Сямігадовая"/>
+  </question>
+  <question level="1" simple="True" text="Уваходзіла Прусія ў склад Свяшчэннай Рымскай імперыі?">
+    <answer flag="0" text="Так"/>
+    <answer flag="0" text="Ні"/>
+    <answer flag="1" text="асобныя валодання"/>
+  </question>
+  <question level="1" simple="True" text="На якіх кантынентах адбываліся падзеі Сямігадовай вайны?">
+    <answer flag="1" text="Азіі"/>
+    <answer flag="1" text="Еўропе"/>
+    <answer flag="0" text="Афрыцы"/>
+    <answer flag="0" text="Паўднёвай Амерыцы"/>
+    <answer flag="1" text="Паўночнай Амерыцы"/>
+    <answer flag="0" text="Аўстраліі"/>
+  </question>
+  <question level="1" simple="True" text="Якая дынастыя правілы ў Прусіі?">
+    <answer flag="0" text="Габсбургаў"/>
+    <answer flag="1" text="Гогенцалерны"/>
+    <answer flag="0" text="Бурбонаў"/>
+  </question>
+  <question level="1" simple="True" text="Працягнеце лагічны шэраг: Кацярына II, Фрыдрых II ...">
+    <answer flag="0" text="Пётр"/>
+    <answer flag="0" text="Людовік XVII"/>
+    <answer flag="1" text="Марыя-Тэрэзія, Іосіф II"/>
+  </question>
+</testing>

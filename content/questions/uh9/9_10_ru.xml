@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украинская культура первой половины XIX в.">
+  <question level="1" simple="True" text="Сколько университетов существовало на украинских землях в первой половине XIX века?">
+    <answer flag="0" text="1"/>
+    <answer flag="0" text="2"/>
+    <answer flag="1" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="Кто был автором сборников &quot;Малороссийские песни&quot;, &quot;Украинские народные песни&quot;, которыми увлекалась тогдашняя украинская и русская интеллигенция?">
+    <answer flag="0" text="И. Котляревский"/>
+    <answer flag="1" text="М. Максимович"/>
+    <answer flag="0" text="М. Цертелева"/>
+    <answer flag="0" text="Т. Шевченко"/>
+  </question>
+  <question level="1" simple="True" text="В каком году вышло первое издание &quot;Кобзаря&quot; Т. Шевченко?">
+    <answer flag="0" text="1836"/>
+    <answer flag="1" text="1840"/>
+    <answer flag="0" text="1847"/>
+    <answer flag="0" text="1861"/>
+  </question>
+  <question level="1" simple="True" text="Кто был автором первого литературного произведения написанного живым народным украинским языком?">
+    <answer flag="1" text="И. Котляревский"/>
+    <answer flag="0" text="П.Гулак-Артемовский"/>
+    <answer flag="0" text="Квитки-Основьяненко"/>
+    <answer flag="0" text="Т. Шевченко"/>
+  </question>
+  <question level="1" simple="True" text="Какой стиль преобладал в архитектуре Украины первой половины XIX века?">
+    <answer flag="0" text="Барокко"/>
+    <answer flag="0" text="Рококо"/>
+    <answer flag="1" text="Классицизм"/>
+    <answer flag="0" text="Модерн"/>
+  </question>
+  <question level="1" simple="True" text="Кто из украинских математиков начал Петербургскую математическую школу?">
+    <answer flag="1" text="М. Остроградский"/>
+    <answer flag="0" text="Т. Осиповский"/>
+    <answer flag="0" text="Н. Костомаров"/>
+    <answer flag="0" text="М. Максимович"/>
+  </question>
+</testing>

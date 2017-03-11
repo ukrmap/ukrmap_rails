@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Америки наприкінці XIX - на початку XX ст.">
+  <question level="1" simple="True" text="Країни Латинської Америки звільнилися від колоніальної залежності">
+    <answer flag="1" text="на початку ХІХ ст."/>
+    <answer flag="0" text="у середині ХІХ ст."/>
+    <answer flag="0" text="наприкінці ХІХ ст."/>
+  </question>
+  <question level="1" simple="True" text="''Доктрина Монро'' була проголошена у">
+    <answer flag="1" text="1823 р. "/>
+    <answer flag="0" text="1870 р."/>
+    <answer flag="0" text="1889 р."/>
+  </question>
+  <question level="1" simple="True" text="Яка з латиноамериканських країн була проголошена імперією? ">
+    <answer flag="0" text="Венесуела"/>
+    <answer flag="0" text="Аргентина"/>
+    <answer flag="1" text="Бразилія"/>
+  </question>
+  <question level="1" simple="True" text="В результаті іспано-американської війни Іспанія втратила">
+    <answer flag="1" text="Кубу і Пуерто-Рико"/>
+    <answer flag="0" text="Панаму і Коста-Рику"/>
+    <answer flag="0" text="Тринідат і Тобаґо"/>
+  </question>
+  <question level="1" simple="True" text="Яка війна між країнами Латинської Америки була найбільш кривавою?">
+    <answer flag="0" text="іспано-американська "/>
+    <answer flag="1" text="Параґвайська"/>
+    <answer flag="0" text="аргентино-бразильська"/>
+    <answer flag="0" text="Селітряна"/>
+  </question>
+  <question level="1" simple="True" text="Будівництво Панамського каналу було завершено в">
+    <answer flag="0" text="1898 р."/>
+    <answer flag="0" text="1904 р."/>
+    <answer flag="1" text="1914 р."/>
+  </question>
+  <question level="1" simple="True" text="Домінуюче становище у політичному житті країн Латинської Америки тривалий час посідали">
+    <answer flag="0" text="раби"/>
+    <answer flag="1" text="латифундисти"/>
+    <answer flag="0" text="підприємці"/>
+  </question>
+  <question level="1" simple="True" text="Яка з названих європейських країн не володіла колоніями в Америці?">
+    <answer flag="0" text="Данія"/>
+    <answer flag="0" text="Нідерланди"/>
+    <answer flag="1" text="Бельгія"/>
+  </question>
+  <question level="1" simple="True" text="''Банановими республіками'' називали країни">
+    <answer flag="0" text="Південної Америки "/>
+    <answer flag="1" text="Центральної Америки"/>
+  </question>
+  <question level="1" simple="True" text="Країни Латинської Америки після здобуття незалежності переважно були">
+    <answer flag="1" text="республіками"/>
+    <answer flag="0" text="монархіями"/>
+  </question>
+  <question level="1" simple="True" text="У другій половині XIX ст. країни Південної Америки перебували під переважаючим впливом">
+    <answer flag="0" text="Іспанії"/>
+    <answer flag="0" text="Португалії"/>
+    <answer flag="1" text="Англії"/>
+    <answer flag="0" text="Франції "/>
+  </question>
+  <question level="1" simple="True" text="Сільське господарство в країнах Латинської Америки було">
+    <answer flag="1" text="монокультурним"/>
+    <answer flag="0" text="багатогалузевим "/>
+  </question>
+</testing>

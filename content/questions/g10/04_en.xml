@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="World economy">
+  <question text="What type of power is the leader in fuel and energy balance of the world?">
+    <answer flag="0" text="NPP"/>
+    <answer flag="1" text="TPP"/>
+    <answer flag="0" text="GES"/>
+  </question>
+  <question text="For the chemical industry is characteristic of">
+    <answer flag="0" text="extensive production"/>
+    <answer flag="0" text="energy"/>
+    <answer flag="1" text="water-retaining"/>
+    <answer flag="0" text="high cost of equipment"/>
+  </question>
+  <question text="Which country has the largest fleet of vehicles?">
+    <answer flag="0" text="Japan"/>
+    <answer flag="1" text="U.S."/>
+    <answer flag="0" text="China"/>
+  </question>
+  <question text="The largest by cargo volume port in the world - is">
+    <answer flag="0" text="London"/>
+    <answer flag="0" text="Rotterdam"/>
+    <answer flag="1" text="Shanghai"/>
+    <answer flag="0" text="New York"/>
+  </question>
+  <question text="Leader in the world in production of mineral fertilizers is">
+    <answer flag="0" text="Russia"/>
+    <answer flag="0" text="U.S."/>
+    <answer flag="1" text="China"/>
+    <answer flag="0" text="India"/>
+  </question>
+  <question text="The basis of agricultural production are">
+    <answer flag="1" text="land"/>
+    <answer flag="0" text="ethnic and religious characteristics of the population"/>
+    <answer flag="0" text="historical traditions"/>
+  </question>
+  <question text="What traits are inherent in extensive farming livestock?">
+    <answer flag="0" text="Breeding"/>
+    <answer flag="0" text="Stabling of animals"/>
+    <answer flag="1" text="Growth in production mainly due to increase in livestock"/>
+    <answer flag="0" text="Pasture, stabling the animals"/>
+  </question>
+  <question text="Organization of Petroleum Exporting Countries is">
+    <answer flag="1" text="OPEC"/>
+    <answer flag="0" text="ATEC"/>
+    <answer flag="0" text="NAFTA"/>
+  </question>
+  <question text="According to the types of works transport is divided into">
+    <answer flag="0" text="water, air, road, rail"/>
+    <answer flag="1" text="freight and passenger"/>
+    <answer flag="0" text="pack and cartage"/>
+  </question>
+  <question text="The leading sectors of agriculture are">
+    <answer flag="0" text="aquaculture and apiculture"/>
+    <answer flag="0" text="sericulture"/>
+    <answer flag="1" text="crop"/>
+    <answer flag="1" text="animal husbandry"/>
+  </question>
+  <question text="Non-ferrous metals smelting of heavy metals in the placement of focus, mainly on">
+    <answer flag="0" text="cheap electricity"/>
+    <answer flag="1" text="availability of raw materials"/>
+    <answer flag="0" text="availability of water"/>
+  </question>
+  <question text="What goods dominate the turnover of sea transport?">
+    <answer flag="0" text="Building Materials"/>
+    <answer flag="0" text="Ferrous and nonferrous metals"/>
+    <answer flag="0" text="Grain"/>
+    <answer flag="1" text="Petroleum and petroleum products"/>
+  </question>
+</testing>

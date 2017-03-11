@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Разгортванне руху супраціву ў Украіне">
+  <question level="1" simple="True" text="Назавіце прозвішчы камандзіраў Украінскай Паўстанцкай Арміі (УПА)">
+    <answer flag="1" text="Шухевіч"/>
+    <answer flag="0" text="Бульба-Боровец"/>
+    <answer flag="0" text="Бандэра"/>
+    <answer flag="1" text="Клячкивский"/>
+  </question>
+  <question level="1" simple="True" text="Калі быў абвешчаны Акт аднаўлення Украінскага дзяржавы?">
+    <answer flag="0" text="Лістапада 1941"/>
+    <answer flag="1" text="Чэрвень 1941"/>
+    <answer flag="0" text="Май 1942"/>
+    <answer flag="0" text="Кастрычніка 1942 года"/>
+  </question>
+  <question level="1" simple="True" text="Хто узначальваў ўкраінскае ўрад пасля абвяшчэння Акту аднаўлення Украінскага дзяржавы?">
+    <answer flag="0" text="С. Бандэра"/>
+    <answer flag="1" text="Я. Стецько"/>
+    <answer flag="0" text="Р. Шухевіч"/>
+    <answer flag="0" text="А. Шаптыцкага"/>
+  </question>
+  <question level="1" simple="True" text="Хто узначальваў атрад &quot;Палеская Сеч&quot;?">
+    <answer flag="0" text="С. Ковпак"/>
+    <answer flag="0" text="С. Бандэра"/>
+    <answer flag="0" text="А. Сабураў"/>
+    <answer flag="1" text="Т. Бульба-Боровец"/>
+    <answer flag="0" text="А. Фёдараў"/>
+  </question>
+  <question level="1" simple="True" text="С. Бандэры былі створаны тры паходныя групы, якія павінны былі рухацца ад заходняй мяжы, адпаведна,">
+    <answer flag="1" text="на Кіеў"/>
+    <answer flag="0" text="на Сімферопаль"/>
+    <answer flag="0" text="на Палтаву"/>
+    <answer flag="1" text="на Харкаў"/>
+    <answer flag="0" text="у Днепрапятроўск"/>
+    <answer flag="1" text="на Адэсу"/>
+  </question>
+  <question level="1" simple="True" text="Назавіце легальныя ўкраінскія арганізацыі">
+    <answer flag="1" text="Грамадскі камітэт"/>
+    <answer flag="0" text="Палеская Сеч"/>
+    <answer flag="1" text="Украінскі краёвай камітэт"/>
+    <answer flag="1" text="Маларасійскай нацыянальны савет"/>
+  </question>
+  <question level="1" simple="True" text="У якім горадзе знаходзіцца галоўны ачаг дзейнасці &quot;Палескай Сечы&quot; у чэрвені-лістападзе 1941 г.?">
+    <answer flag="0" text="Оўруч"/>
+    <answer flag="0" text="Столін"/>
+    <answer flag="0" text="Сарны"/>
+    <answer flag="1" text="Олевск"/>
+    <answer flag="0" text="Селизивка"/>
+  </question>
+  <question level="1" simple="True" text="У якіх гарадах дзейнічалі савецкія падпольныя арганізацыі?">
+    <answer flag="1" text="Паўлаград"/>
+    <answer flag="1" text="Краснодон"/>
+    <answer flag="1" text="Нежын"/>
+    <answer flag="0" text="Канатоп"/>
+    <answer flag="0" text="Лубны"/>
+    <answer flag="1" text="Шапятоўка"/>
+    <answer flag="0" text="Марыупаль"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Акт аб аднаўленні Украінскага дзяржавы&quot; быў абвешчаны">
+    <answer flag="1" text="ў Львове"/>
+    <answer flag="0" text="ў Роўне"/>
+    <answer flag="0" text="ў Кіеве"/>
+    <answer flag="0" text="у Луцку"/>
+  </question>
+  <question level="1" simple="True" text="На вясны 1942 г. Украінскі цэнтральны камітэт ўзначаліў">
+    <answer flag="1" text="В. Кубийович"/>
+    <answer flag="0" text="В. Велічкоўскі"/>
+    <answer flag="0" text="Я. Стецько"/>
+  </question>
+</testing>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Географія природних ресурсів">
+  <question text="Паливні ресурси є">
+    <answer flag="1" text="вичерпаними і не поновлюються"/>
+    <answer flag="0" text="вичерпаними та відновлювальними"/>
+    <answer flag="0" text="невичерпними та відновлювальними"/>
+  </question>
+  <question text="У якій півкулі зосереджені основні родовища кам'яного вугілля?">
+    <answer flag="1" text="У Північному"/>
+    <answer flag="0" text="У Південному"/>
+  </question>
+  <question text="Найбагатша водними ресурсами країна світу це">
+    <answer flag="0" text="США"/>
+    <answer flag="0" text="Китай"/>
+    <answer flag="1" text="Канада"/>
+  </question>
+  <question text="Яка з країн найгірше забезпечена лісовими ресурсами?">
+    <answer flag="0" text="Швеція"/>
+    <answer flag="0" text="Канада"/>
+    <answer flag="1" text="Афганістан"/>
+    <answer flag="0" text="Індія"/>
+  </question>
+  <question text="Яка країна найкраще забезпечена ріллею в розрахунку на душу населення?">
+    <answer flag="0" text="США"/>
+    <answer flag="0" text="Індія"/>
+    <answer flag="1" text="Казахстан"/>
+    <answer flag="0" text="України"/>
+  </question>
+  <question text="Яка з перелічених країн має найбільш сприятливе поєднання агрокліматичних ресурсів?">
+    <answer flag="0" text="Австралія"/>
+    <answer flag="1" text="України"/>
+    <answer flag="0" text="Індія"/>
+    <answer flag="0" text="Ізраїль"/>
+  </question>
+  <question text="Яка країна більш інтенсивно використовує підземні термальні води?">
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="Ісландія"/>
+    <answer flag="0" text="Індонезія"/>
+  </question>
+  <question text="Найбільшою за потужністю ГЕС у світі є">
+    <answer flag="0" text="Гранд-Кулі (США)"/>
+    <answer flag="1" text="Ітайпу (Бразилія / Парагвай)"/>
+    <answer flag="0" text="Гечжоуба (Китай)"/>
+    <answer flag="0" text="Братська (Росія)"/>
+  </question>
+  <question text="Розміщення біологічних ресурсів залежить від">
+    <answer flag="0" text="рівня економічного розвитку країни"/>
+    <answer flag="1" text="співвідношення тепла і вологи"/>
+    <answer flag="0" text="будови земної кори"/>
+  </question>
+  <question text="Тектонічні структури, до яких приурочені поклади паливних корисних копалин, це">
+    <answer flag="0" text="щити древніх платформ"/>
+    <answer flag="0" text="області кайнозойської складчастості"/>
+    <answer flag="1" text="передгірні прогини"/>
+    <answer flag="0" text="області мезозойської складчастості"/>
+  </question>
+  <question text="Виділіть вірні відповіді">
+    <answer flag="1" text="У Росії найбільші запаси природного газу"/>
+    <answer flag="1" text="У Саудівській Аравії найбільші запаси нафти"/>
+    <answer flag="0" text="Росія посідає перше місце з видобутку алмазів"/>
+  </question>
+  <question text="Найстарішим національним парком світу є">
+    <answer flag="0" text="Вуд-Баффало"/>
+    <answer flag="1" text="Єллоустонський"/>
+    <answer flag="0" text="Нгоронгоро"/>
+  </question>
+</testing>

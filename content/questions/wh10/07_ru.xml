@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Развитие культуры">
+  <question text="Доминирующей художественной течением в СССР был">
+    <answer flag="0" text="реализм"/>
+    <answer flag="0" text="критический реализм"/>
+    <answer flag="1" text="социалистический реализм"/>
+  </question>
+  <question text="В какой группе стран сфера культуры в 20-30-е годы была под полным контролем государства?">
+    <answer flag="1" text="Германии, Италии, СССР"/>
+    <answer flag="0" text="Англии, Франции, США"/>
+    <answer flag="0" text="Польше, Венгрии, Румынии"/>
+  </question>
+  <question text="Созданная В. Гроппиусом в Германии школа Баухаус определяла новые тенденции развития">
+    <answer flag="0" text="литературы"/>
+    <answer flag="0" text="живописи"/>
+    <answer flag="1" text="архитектуры"/>
+  </question>
+  <question text="С. Дали был основателем">
+    <answer flag="0" text="реализма"/>
+    <answer flag="1" text="сюрреализма"/>
+    <answer flag="0" text="социалистического реализма"/>
+    <answer flag="0" text="критического реализма"/>
+  </question>
+  <question text="Центром производства кинофильмов в США в 30-е годы стал">
+    <answer flag="0" text="Чикаго"/>
+    <answer flag="0" text="Нью-Йорк"/>
+    <answer flag="1" text="Голливуд"/>
+  </question>
+  <question text="Наиболее политизированным олимпиадой в 20-30-е годы стала Олимпиада в">
+    <answer flag="0" text="Париже"/>
+    <answer flag="1" text="Берлине"/>
+    <answer flag="0" text="Лос-Анджелесе"/>
+  </question>
+  <question text="Китч - это">
+    <answer flag="1" text="массовая продукция, рассчитанная на внешний эффект"/>
+    <answer flag="0" text="разновидность массовой культуры"/>
+    <answer flag="0" text="новый вид эстрадного жанра"/>
+  </question>
+  <question text="Какой новое средство массовой информации стал широко применяться в 20-30-е годы?">
+    <answer flag="0" text="Газеты"/>
+    <answer flag="0" text="Журналы"/>
+    <answer flag="1" text="Радио"/>
+    <answer flag="0" text="Кино"/>
+  </question>
+  <question text="Для массовой культуры стран с тоталитарными режимами характерный">
+    <answer flag="1" text="пропагандизм"/>
+    <answer flag="0" text="подконтрольность"/>
+    <answer flag="0" text="демократизм, раскованность"/>
+  </question>
+  <question text="Какую основную роль играла массовая культура в тоталитарных государствах?">
+    <answer flag="0" text="Развлекательную"/>
+    <answer flag="1" text="Идеологическую"/>
+    <answer flag="0" text="Воспитательную"/>
+  </question>
+  <question text="Искусство, которое сводилось к определенного соотношения линий и фигур, получило название">
+    <answer flag="1" text="абстракционизм"/>
+    <answer flag="0" text="декаденство"/>
+    <answer flag="0" text="сюрреализм"/>
+  </question>
+  <question text="В какой стране в 20-30-е годы произошла &quot;культурная революция&quot;?">
+    <answer flag="0" text="Германия"/>
+    <answer flag="0" text="Италия"/>
+    <answer flag="1" text="СССР"/>
+  </question>
+</testing>

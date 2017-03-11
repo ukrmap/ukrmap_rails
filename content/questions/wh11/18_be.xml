@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Афрыкі">
+  <question level="1" simple="True" text="Якая краіна мела каланіяльную назву Французская Судан?">
+    <answer flag="0" text="Судан"/>
+    <answer flag="1" text="Малыя"/>
+    <answer flag="0" text="Танзанія"/>
+    <answer flag="0" text="Намібія"/>
+    <answer flag="0" text="Замбія"/>
+  </question>
+  <question level="1" simple="True" text="Калі было ўтворана арганізацыю афрыканскага адзінства (ОАЕ)?">
+    <answer flag="1" text="Май 1963?"/>
+    <answer flag="0" text="Май 1964?"/>
+    <answer flag="0" text="Май 1967?"/>
+    <answer flag="0" text="Май 1969?"/>
+  </question>
+  <question level="1" simple="True" text="Калі і паміж якімі краінамі адбыўся ваенны канфлікт &quot;Пяшчаная вайна&quot;?">
+    <answer flag="1" text="1963-1964 гг"/>
+    <answer flag="0" text="1975-1976 гг"/>
+    <answer flag="0" text="1977-1983 гг"/>
+    <answer flag="0" text="Самалі і Эфіопіяй"/>
+    <answer flag="0" text="Лівіяй і Чадам"/>
+    <answer flag="1" text="Марока і Алжырам"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе і ў якой краіне на Асамблеі ОАЕ была прынятая рэзалюцыя аб непарушнасці межаў афрыканскіх дзяржаў?">
+    <answer flag="0" text="1963"/>
+    <answer flag="1" text="1964"/>
+    <answer flag="0" text="1965"/>
+    <answer flag="0" text="1967"/>
+    <answer flag="0" text="Эфіопіі"/>
+    <answer flag="1" text="Егіпце"/>
+    <answer flag="0" text="Алжыры"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіне адбылося звяржэнне манархіі ў 1974 г.?">
+    <answer flag="0" text="Лівіі"/>
+    <answer flag="0" text="Судане"/>
+    <answer flag="1" text="Эфіопіі"/>
+    <answer flag="0" text="Егіпце"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе і дзе быў заснаваны Афрыканскі Саюз?">
+    <answer flag="0" text="1963"/>
+    <answer flag="0" text="1986"/>
+    <answer flag="1" text="2002"/>
+    <answer flag="1" text="Дурбан"/>
+    <answer flag="0" text="Кейптаўн"/>
+    <answer flag="0" text="Прэторыя"/>
+  </question>
+</testing>

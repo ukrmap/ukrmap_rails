@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Countries in Europe">
+  <question text="What is characteristic of the demographic situation in most countries of Europe?">
+    <answer flag="0" text="The second type of population reproduction"/>
+    <answer flag="1" text="The first type of population reproduction"/>
+    <answer flag="0" text="Population explosion"/>
+  </question>
+  <question text="Which one is the traditional branches of engineering for the European Group of Eight?">
+    <answer flag="1" text="Automotive"/>
+    <answer flag="0" text="Tractor construction"/>
+    <answer flag="0" text="Heavy engineering"/>
+  </question>
+  <question text="Which of these countries have a republican form of government?">
+    <answer flag="1" text="France"/>
+    <answer flag="0" text="Norway"/>
+    <answer flag="1" text="Austria"/>
+    <answer flag="1" text="Ireland"/>
+  </question>
+  <question text="In which country is the highest level of urbanization?">
+    <answer flag="0" text="In Germany,"/>
+    <answer flag="0" text="In Italy"/>
+    <answer flag="1" text="In Iceland"/>
+    <answer flag="0" text="In the UK"/>
+  </question>
+  <question text="Steel mills in the Ruhr (Germany), guided by">
+    <answer flag="0" text="iron ore deposit"/>
+    <answer flag="1" text="Coking Coal"/>
+    <answer flag="0" text="a full range of raw materials"/>
+  </question>
+  <question text="Which of the following ports in Western Europe belong to the category of the world?">
+    <answer flag="0" text="Oslo"/>
+    <answer flag="0" text="Glasgow"/>
+    <answer flag="1" text="Marseilles"/>
+    <answer flag="0" text="Amsterdam"/>
+  </question>
+  <question text="Largest GDP in Europe is a leader">
+    <answer flag="1" text="Germany"/>
+    <answer flag="0" text="United Kingdom"/>
+    <answer flag="0" text="France"/>
+  </question>
+  <question text="Which of the following countries outside the euro zone (the space where the euro)">
+    <answer flag="1" text="Germany"/>
+    <answer flag="1" text="Portugal"/>
+    <answer flag="0" text="Sweden"/>
+    <answer flag="1" text="Ireland"/>
+  </question>
+  <question text="What type of transport in Russia ranked first in cargo volume?">
+    <answer flag="0" text="Automotive"/>
+    <answer flag="1" text="Railway"/>
+    <answer flag="0" text="Inland waterway"/>
+    <answer flag="0" text="Pipeline"/>
+  </question>
+  <question text="Which of the following countries are members of NATO">
+    <answer flag="1" text="Lithuania"/>
+    <answer flag="0" text="Belorussia"/>
+    <answer flag="1" text="Slovakia"/>
+    <answer flag="1" text="Hungary"/>
+  </question>
+  <question text="Which of the following countries is not a member of the EU?">
+    <answer flag="1" text="Norway"/>
+    <answer flag="1" text="Switzerland"/>
+    <answer flag="0" text="Spain"/>
+  </question>
+  <question text="Capital of a European state, which was formed in 2006, is">
+    <answer flag="0" text="Pristina"/>
+    <answer flag="1" text="Podgorica"/>
+    <answer flag="0" text="Ljubljana"/>
+  </question>
+</testing>

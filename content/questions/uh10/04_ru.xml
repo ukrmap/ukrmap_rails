@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украинская ССР в условиях новой экономической политики (1920-1928).">
+  <question text="В каком году в основном завершилась восстановление промышленности УССР?">
+    <answer flag="0" text="1923"/>
+    <answer flag="1" text="1925"/>
+    <answer flag="0" text="1926"/>
+    <answer flag="0" text="1927"/>
+  </question>
+  <question text="В области национальной политики XII с съезд РКП (б) провозгласил курс на:">
+    <answer flag="1" text="коренизацию"/>
+    <answer flag="0" text="украинизацию"/>
+    <answer flag="0" text="национализацию"/>
+    <answer flag="0" text="приватизацию"/>
+  </question>
+  <question text="Каким был официальный государственный статус Украины в начале 20-х годов:">
+    <answer flag="1" text="независимого государства"/>
+    <answer flag="0" text="автономии в составе федеративной России"/>
+    <answer flag="0" text="независимого государства, которое заключило военно-политический союз с другими советскими республиками"/>
+    <answer flag="0" text="области России"/>
+  </question>
+  <question text="Какая международная организация оказала помощь Украине во время голода 1921-1922 гг?">
+    <answer flag="0" text="Лига Наций"/>
+    <answer flag="0" text="Помгол (помощь голодающим)"/>
+    <answer flag="1" text="АРА (Американская организация помощи)"/>
+  </question>
+  <question text="Кто из названных ниже повстанческих вожаков возглавлял антисоветский повстанческое движение в Украине в 1921 г.?">
+    <answer flag="0" text="Григорьев"/>
+    <answer flag="1" text="Махно"/>
+    <answer flag="0" text="Тютюнник"/>
+    <answer flag="0" text="Зеленый"/>
+    <answer flag="0" text="Орлик"/>
+    <answer flag="0" text="Мордалевич"/>
+    <answer flag="0" text="Струк"/>
+  </question>
+  <question text="Созданный в 1922 г. в Киеве театр &quot;Березиль&quot; возглавлял">
+    <answer flag="1" text="Л. Курбас"/>
+    <answer flag="0" text="Г. Веревка"/>
+    <answer flag="0" text="Г. Юра"/>
+  </question>
+  <question text="Советская Украина заключила первую мирное соглашение с">
+    <answer flag="0" text="Латвией"/>
+    <answer flag="0" text="Литвой"/>
+    <answer flag="0" text="Эстонией"/>
+    <answer flag="1" text="Польшей"/>
+    <answer flag="0" text="Турцией"/>
+  </question>
+  <question text="Национал-коммунистические взгляды А. Шумского и Н. Волобуева руководство большевистской партии">
+    <answer flag="0" text="поддержало"/>
+    <answer flag="1" text="осудило"/>
+    <answer flag="0" text="проигнорировало"/>
+  </question>
+  <question text="Первым и самым главным мероприятием нэпа была замена">
+    <answer flag="0" text="продналога продразверсткой"/>
+    <answer flag="1" text="продразверстки продналогом"/>
+    <answer flag="0" text="осуществление партийной чистки"/>
+  </question>
+  <question text="Какого года началась политика украинизации?">
+    <answer flag="0" text="1921"/>
+    <answer flag="0" text="1922"/>
+    <answer flag="1" text="1923"/>
+  </question>
+  <question text="Крестьянское повстанческое движение против политики большевиков был в основном подавлен в ...">
+    <answer flag="1" text="1921"/>
+    <answer flag="0" text="1922"/>
+    <answer flag="0" text="1923"/>
+  </question>
+  <question text="УССР вошла в состав СССР в ...">
+    <answer flag="0" text="1921"/>
+    <answer flag="1" text="1922"/>
+    <answer flag="0" text="1923"/>
+  </question>
+</testing>

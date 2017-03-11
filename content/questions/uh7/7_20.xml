@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Писемність, освіта, наукові знання, література та музика Київської Русі й Галицько-Волинської держави">
+  <question level="1" simple="True" text="Коли було створено Остромирове Євангеліє?">
+    <answer flag="1" text="У 1056 - 1057 рр."/>
+    <answer flag="0" text="У 1185 - 1187 рр."/>
+  </question>
+  <question level="1" simple="True" text="Що відбулося раніше?">
+    <answer flag="1" text="Створення «Слова о полку Iгоревiм»"/>
+    <answer flag="0" text="Укладення Галицько-Волинського літопису"/>
+  </question>
+  <question level="1" simple="True" text="Хто такий Аліпій Печерський?">
+    <answer flag="0" text="Один з перших печерських ченців, найвідоміший лікар XI ст."/>
+    <answer flag="1" text="Київський іконописець, монах Києво-Печерського монастиря"/>
+  </question>
+  <question level="1" simple="True" text="Кого вважають автором й упорядником «Повісті минулих літ»?">
+    <answer flag="1" text="Нестора"/>
+    <answer flag="0" text="Феодосія Печерського"/>
+  </question>
+  <question level="1" simple="True" text="Про що розповідається в „Повісті минулих літ”?">
+    <answer flag="1" text="Викладено події на землях Русі від 860 до 1111 р."/>
+    <answer flag="0" text="Переповідається історія Києво-Печерського монастиря, життєпис його перших подвижників"/>
+  </question>
+  <question level="1" simple="True" text="Який з літописів є безпосереднім продовженням „Повісті минулих літ”?">
+    <answer flag="1" text="Київський літопис"/>
+    <answer flag="0" text="Галицько-Волинський"/>
+  </question>
+  <question level="1" simple="True" text="Автором якого відомого твору є митрополит Іларіон?">
+    <answer flag="0" text="„Повчання дітям”"/>
+    <answer flag="1" text="„Слово про закон і благодать”"/>
+  </question>
+  <question level="1" simple="True" text="Якою мовою за часів Київської Русі писали богослужбові книжки?">
+    <answer flag="1" text="Церковнослов'янською"/>
+    <answer flag="0" text="Українською"/>
+  </question>
+  <question level="1" simple="True" text="Як називається перша датована рукописна книга Русі?">
+    <answer flag="1" text="Остромирове Євангеліє"/>
+    <answer flag="0" text="„Слово о полку Ігоревім”"/>
+  </question>
+  <question level="1" simple="True" text="При дворі якого волинського князя iснувала велика книгописна майстерня?">
+    <answer flag="1" text="Володимира Васильовича"/>
+    <answer flag="0" text="Романа Мстиславича"/>
+  </question>
+  <question level="1" simple="True" text="За якого князя з'явилися перші школи для навчання дітей з найближчого оточення князя">
+    <answer flag="1" text="За князювання Володимира Святославича"/>
+    <answer flag="0" text="За князювання Ярослава Мудрого"/>
+  </question>
+  <question level="1" simple="True" text="На яких музичних інструментах грали тогочасні музики?">
+    <answer flag="1" text="Гуслях, гудках, рогах, свистках, свирілях, бубнах"/>
+    <answer flag="0" text="Кобзах, бандурах, лірах, тулумбасах"/>
+  </question>
+</testing>

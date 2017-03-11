@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Достопримечательности">
+  <Item Caption="Костел святого Николая" FileName="1"/>
+  <Item Caption="Андреевская церковь" FileName="2"/>
+  <Item Caption="Хоральная синагога" FileName="3"/>
+  <Item Caption="Успенская церковь" FileName="4"/>
+  <Item Caption="Оперный театр" FileName="5"/>
+  <Item Caption="Оперный театр. Зрительный зал" FileName="6"/>
+  <Item Caption="Дом учителя" FileName="7"/>
+  <Item Caption="Дом Городского совета" FileName="8"/>
+  <Item Caption="На Крещатике" FileName="9"/>
+  <Item Caption="Цирк" FileName="10"/>
+  <Item Caption="Телебашня" FileName="11"/>
+  <Item Caption="Дворец &quot;Украина&quot;" FileName="12"/>
+  <Item Caption="Железнодорожный вокзал" FileName="13"/>
+  <Item Caption="НСК &quot;Олимпийский&quot; - главная спортивная арена страны" FileName="14"/>
+  <Item Caption="Памятник М. Грушевскому" FileName="15"/>
+  <Item Caption="Памятник воинам-афганцам" FileName="16"/>
+  <Item Caption="На площади Сантьяго де Чили" FileName="17"/>
+  <Item Caption="Вернисаж возле Андреевского спуска" FileName="18"/>
+  <Item Caption="Андреевский спуск" FileName="19"/>
+  <Item Caption="Михайловский Златоверхий монастырь" FileName="20"/>
+  <Item Caption="На Михайловской площади" FileName="21"/>
+</List>

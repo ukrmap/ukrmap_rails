@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Развитие украинской культуры во второй половине XIX - начале ХХ в.">
+  <question level="1" simple="True" text="Сколько университетов действовало на украинских землях в начале ХХ века?">
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="6"/>
+  </question>
+  <question level="1" simple="True" text="Кто является основоположником украинской классической музыки?">
+    <answer flag="0" text="С. Гулак-Артемовский"/>
+    <answer flag="1" text="Н. Лысенко"/>
+    <answer flag="0" text="М. Вербицкий"/>
+    <answer flag="0" text="Н. Аркас"/>
+  </question>
+  <question level="1" simple="True" text="Когда на западноукраинских землях было введено обязательное начальное образование?">
+    <answer flag="0" text="1861"/>
+    <answer flag="1" text="1869"/>
+    <answer flag="0" text="1875"/>
+    <answer flag="0" text="1888"/>
+  </question>
+  <question level="1" simple="True" text="Какой из указанных университетов на украинских землях был основан во второй половине XIX века?">
+    <answer flag="0" text="Харьковский"/>
+    <answer flag="0" text="Киевский"/>
+    <answer flag="0" text="Львовский"/>
+    <answer flag="1" text="Черновицкий"/>
+  </question>
+  <question level="1" simple="True" text="В каком году было создано Научное общество им. Т. Шевченко (НОШ), игравшее роль Академии Наук Украины?">
+    <answer flag="0" text="1873"/>
+    <answer flag="0" text="1882"/>
+    <answer flag="1" text="1892"/>
+    <answer flag="0" text="1895"/>
+  </question>
+  <question level="1" simple="True" text="В какой период произошел расцвет украинского театрального искусства?">
+    <answer flag="0" text="1870-е гг"/>
+    <answer flag="1" text="1880-е гг"/>
+    <answer flag="0" text="1890-е гг"/>
+    <answer flag="0" text="начале ХХ в."/>
+  </question>
+  <question level="1" simple="True" text="Кто написал оперы &quot;Наталка-Полтавка&quot;, &quot;Тарас Бульба&quot;, &quot;Энеида&quot;, &quot;Коза-дереза&quot;?">
+    <answer flag="0" text="И.Гулак-Артемовский"/>
+    <answer flag="1" text="Н. Лысенко"/>
+    <answer flag="0" text="М. Леонтович"/>
+    <answer flag="0" text="М. Вербицкий"/>
+  </question>
+</testing>

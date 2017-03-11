@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="Medieval Society">
+  <question text="Accommodation feudal lords.">
+    <answer flag="1" text="lock"/>
+    <answer flag="0" text="cottage"/>
+    <answer flag="0" text="palace"/>
+  </question>
+  <question text="A brief statement explaining the content of the coat of arms knight?">
+    <answer flag="0" text="sentence"/>
+    <answer flag="1" text="motto"/>
+    <answer flag="0" text="aphorism"/>
+  </question>
+  <question text="Payment of money or food is called feudal peasant">
+    <answer flag="0" text="boon"/>
+    <answer flag="1" text="servage"/>
+    <answer flag="0" text="banalitet"/>
+    <answer flag="0" text="gild"/>
+  </question>
+  <question text="Type of economy, in which the products of labor are made only to meet the owner, and not for sale">
+    <answer flag="1" text="natural economy"/>
+    <answer flag="0" text="market economy."/>
+  </question>
+  <question text="As the main castle tower called?">
+    <answer flag="1" text="donzhon"/>
+    <answer flag="0" text="Town Hall"/>
+    <answer flag="0" text="belfry"/>
+  </question>
+  <question text="What is the main cause of peasant uprisings in the Middle Ages?">
+    <answer flag="0" text="Exploitation of feudal peasants"/>
+    <answer flag="1" text="violation of established traditions of feudal"/>
+    <answer flag="0" text="desire of farmers to get rid of any dependence"/>
+    <answer flag="0" text="unresolved land issues between the peasant and feudal"/>
+    <answer flag="0" text="envy on the life of feudal peasants"/>
+  </question>
+  <question text="What layer of medieval society was the most numerous?">
+    <answer flag="0" text="free peasants"/>
+    <answer flag="1" text="dependent farmers"/>
+  </question>
+  <question text="Which states medieval society pay tithe?">
+    <answer flag="0" text="feudal"/>
+    <answer flag="0" text="priests"/>
+    <answer flag="1" text="peasants"/>
+  </question>
+  <question text="In the Middle Ages knights called">
+    <answer flag="0" text="armed peasant"/>
+    <answer flag="1" text="Turf Warrior"/>
+    <answer flag="0" text="powerful feudal"/>
+  </question>
+  <question text="What should produce apprentice in order to become tradesmen?">
+    <answer flag="1" text="masterpiece"/>
+    <answer flag="0" text="emblem of his shop"/>
+    <answer flag="0" text="gifts to all the masters workshop"/>
+  </question>
+  <question text="At union called apprentices">
+    <answer flag="0" text="shop"/>
+    <answer flag="0" text="guild"/>
+    <answer flag="1" text="fraternity."/>
+  </question>
+  <question text="What is the name of a city of self?">
+    <answer flag="1" text="Magdeburg law"/>
+    <answer flag="0" text="Roman law"/>
+    <answer flag="0" text="independence"/>
+  </question>
+</testing>

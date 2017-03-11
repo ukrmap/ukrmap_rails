@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Азіі ў канцы XIX - пачатку ХХ ст.">
+  <question level="1" simple="True" text="У якіх краінах Азіі ў пачатку ХХ ст. адбыліся рэвалюцыі?">
+    <answer flag="1" text="Кітай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="0" text="Індыя"/>
+    <answer flag="1" text="Асманская імперыя"/>
+    <answer flag="1" text="Персія"/>
+    <answer flag="0" text="Індакітай"/>
+  </question>
+  <question level="1" simple="True" text="Дзяржава валодала найбуйнейшымі каланіяльнымі валадарствамі ў Азіі на пачатак ХХ стагоддзя?">
+    <answer flag="1" text="Англія"/>
+    <answer flag="0" text="Францыя"/>
+    <answer flag="0" text="Германія"/>
+    <answer flag="0" text="ЗША"/>
+    <answer flag="0" text="Японія"/>
+  </question>
+  <question level="1" simple="True" text="У якой з названых дзяржаў у пачатку ХХ ст. была звергнута манархія і абвешчана рэспубліка?">
+    <answer flag="0" text="Персія"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="0" text="Асманская імперыя"/>
+    <answer flag="1" text="Кітай"/>
+  </question>
+  <question level="1" simple="True" text="Якія краіны падзялілі Персію (Іран) на сферы ўплыву?">
+    <answer flag="0" text="ЗША і Англія"/>
+    <answer flag="0" text="Англія і Францыя"/>
+    <answer flag="1" text="Англія і Расія"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылася японска-кітайская вайна?">
+    <answer flag="1" text="1894-1895 гг"/>
+    <answer flag="0" text="1904-1905 гг"/>
+    <answer flag="0" text="1911-1912 гг"/>
+  </question>
+  <question level="1" simple="True" text="Синхайська рэвалюцыя адбылася ў">
+    <answer flag="0" text="Расіі"/>
+    <answer flag="1" text="Кітаі"/>
+    <answer flag="0" text="Японіі"/>
+  </question>
+  <question level="1" simple="True" text="Меджліс быў створаны ў">
+    <answer flag="0" text="Турцыі"/>
+    <answer flag="1" text="Іране"/>
+    <answer flag="0" text="Кітаі"/>
+  </question>
+  <question level="1" simple="True" text="Якая рэвалюцыя, была ў Азіі першай?">
+    <answer flag="0" text="Младотурецкая"/>
+    <answer flag="1" text="іранская"/>
+    <answer flag="0" text="Синхайська"/>
+  </question>
+  <question level="1" simple="True" text="У якой краіне дзейнічаў ІНК?">
+    <answer flag="0" text="Кітай"/>
+    <answer flag="1" text="Індыя"/>
+    <answer flag="0" text="Персія"/>
+  </question>
+  <question level="1" simple="True" text="Якія тэрыторыі набыла Японія выніку япона-кітайскай вайны?">
+    <answer flag="0" text="а. Хайнань"/>
+    <answer flag="0" text="правінцыю Гуандун"/>
+    <answer flag="1" text="а. Тайвань"/>
+    <answer flag="0" text="правінцыю Шаньдун"/>
+  </question>
+  <question level="1" simple="True" text="Калі ў Асманскай імперыі было адноўлена канстытуцыі 1876 г.?">
+    <answer flag="0" text="1878"/>
+    <answer flag="0" text="1912"/>
+    <answer flag="1" text="1908"/>
+  </question>
+  <question level="1" simple="True" text="Аднаўленне ўлады імператара ў Японіі адбылося ў">
+    <answer flag="1" text="1868"/>
+    <answer flag="0" text="1889"/>
+    <answer flag="0" text="1905"/>
+  </question>
+</testing>

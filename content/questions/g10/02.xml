@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="География населения">
+  <question text="Наиболее многонациональной и многоязычной страной считается">
+    <answer flag="0" text="Россия"/>
+    <answer flag="1" text="Индия"/>
+    <answer flag="0" text="Китай"/>
+    <answer flag="0" text="Индонезия"/>
+  </question>
+  <question text="Как называется переезд части состоятельного населения в пригородную зону на постоянное жительство?">
+    <answer flag="0" text="Урбанизация"/>
+    <answer flag="0" text="Псевдоурбанизация"/>
+    <answer flag="1" text="Субурбанизация"/>
+    <answer flag="0" text="Агломерация"/>
+  </question>
+  <question text="Какие из перечисленных языковых групп принадлежат к индоевропейской языковой семье?">
+    <answer flag="1" text="Армянская"/>
+    <answer flag="1" text="Романская"/>
+    <answer flag="0" text="Финно-угорская"/>
+    <answer flag="1" text="Нуристанская"/>
+  </question>
+  <question text="Какая из названных стран имеет наиболее низкий уровень урбанизации?">
+    <answer flag="0" text="Кувейт"/>
+    <answer flag="0" text="Бразилия"/>
+    <answer flag="1" text="Афганистан"/>
+    <answer flag="0" text="Новая Зеландия"/>
+  </question>
+  <question text="Какая из перечисленных религий является этническим признаком одного народа?">
+    <answer flag="0" text="Буддизм"/>
+    <answer flag="0" text="Католицизм"/>
+    <answer flag="1" text="Иудаизм"/>
+    <answer flag="0" text="Ислам"/>
+  </question>
+  <question text="Какой из перечисленных языков наиболее распространен в Северной Африке?">
+    <answer flag="0" text="Немецкий"/>
+    <answer flag="0" text="Испанский"/>
+    <answer flag="1" text="Французский"/>
+  </question>
+  <question text="Какая часть экономически активного населения характерна для развитых стран?">
+    <answer flag="0" text="45 %"/>
+    <answer flag="0" text="55 %"/>
+    <answer flag="1" text="70 %"/>
+  </question>
+  <question text="К категории миграций по мотивам относятся миграции">
+    <answer flag="0" text="внешние"/>
+    <answer flag="1" text="экономические"/>
+    <answer flag="0" text="принудительные"/>
+    <answer flag="0" text="сезонные"/>
+  </question>
+  <question text="Крупнейшим мегалополисом мира по численности населения является">
+    <answer flag="0" text="Приозерный"/>
+    <answer flag="0" text="Английский"/>
+    <answer flag="1" text="Токайдо"/>
+    <answer flag="0" text="Приатлантический"/>
+  </question>
+  <question text="Среди мировых религий самой молодой является">
+    <answer flag="0" text="Буддизм"/>
+    <answer flag="1" text="Ислам"/>
+    <answer flag="0" text="Христианство"/>
+  </question>
+  <question text="Какой тип воспроизводства населения характерен для Японии?">
+    <answer flag="0" text="Расширенный"/>
+    <answer flag="1" text="Суженный"/>
+  </question>
+  <question text="Как называются сосредоточения городских населенных пунктов, между которыми существуют тесные связи?">
+    <answer flag="1" text="Агломерации"/>
+    <answer flag="0" text="Мегалополисы"/>
+    <answer flag="0" text="Города-миллионеры"/>
+  </question>
+</testing>

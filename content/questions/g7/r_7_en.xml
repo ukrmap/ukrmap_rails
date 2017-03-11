@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Antarctica">
+  <question level="1" simple="True" text="First conquered the South Pole:">
+    <answer flag="1" text="Robert Scott and penguins"/>
+    <answer flag="0" text="Thaddeus Bellingshausen and Mikhail Lazarev"/>
+    <answer flag="0" text="William Smith"/>
+  </question>
+  <question level="1" simple="True" text="The region of the globe, uniting with the mainland Antarctic coastal ocean waters and surrounding islands are called:">
+    <answer flag="0" text="Pole cold"/>
+    <answer flag="1" text="Antarctica"/>
+    <answer flag="0" text="Arctic"/>
+  </question>
+  <question level="1" simple="True" text="Active volcano in Antarctica are:">
+    <answer flag="1" text="Erebus"/>
+    <answer flag="0" text="Elbrus"/>
+    <answer flag="0" text="Etna"/>
+  </question>
+  <question level="1" simple="True" text="The highest point in Antarctica is:">
+    <answer flag="1" text="in the mountains Elsuert"/>
+    <answer flag="0" text="in the Transantarctic Mountains"/>
+    <answer flag="0" text="Erebus volcano on"/>
+  </question>
+  <question level="1" simple="True" text="Icebergs were:">
+    <answer flag="1" text="land ice that slid off into the water and forms a floating ice"/>
+    <answer flag="0" text="large ice floes, rising from the ocean bottom"/>
+    <answer flag="0" text="ice is formed due to freezing of surface water"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Antarctica - the only continent that is totally in the polar latitudes"/>
+    <answer flag="0" text="Of all the continents, Antarctica was discovered last"/>
+    <answer flag="1" text="Antarctica - the smallest continent"/>
+  </question>
+  <question level="1" simple="True" text="The lowest temperature on the planet - 89,2 ° C recorded at Antarctic stations:">
+    <answer flag="0" text="Vernadsky (Ukraine)"/>
+    <answer flag="1" text="Vostok (Russia)"/>
+    <answer flag="0" text="Amundsen - Scott (USA)"/>
+  </question>
+  <question level="1" simple="True" text="Cold air flows down from central areas to the edges of the Antarctic continent, forms:">
+    <answer flag="1" text="drains winds"/>
+    <answer flag="0" text="trade winds"/>
+    <answer flag="0" text="breezes"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="Antarctica - the highest continent of the Earth"/>
+    <answer flag="1" text="Antarctica - this archipelago"/>
+    <answer flag="0" text="Part of Antarctica outside the southern polar circle"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is correct?">
+    <answer flag="1" text="In the Antarctic ice shelves is the largest in the world"/>
+    <answer flag="0" text="Antarctica is in intensive mining"/>
+    <answer flag="0" text="Most animal life in Antarctica associated with the central part of the mainland"/>
+  </question>
+  <question level="1" simple="True" text="The area of Antarctica is:">
+    <answer flag="0" text="7.6 million square meters. km"/>
+    <answer flag="1" text="14.1 million square meters. km"/>
+    <answer flag="0" text="30 million square meters. km"/>
+  </question>
+  <question level="1" simple="True" text="Which of the statements is wrong?">
+    <answer flag="0" text="In Antarctica concentrated 4 / 5 freshwater world, preserved in glaciers."/>
+    <answer flag="0" text="Humidity in many places, Antarctica is lower than in the deserts of the planet nayzharkishyh"/>
+    <answer flag="1" text="Antarctica rests on the southern polar circle"/>
+  </question>
+</testing>

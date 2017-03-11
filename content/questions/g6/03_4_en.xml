@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="BIOSPHERE AND GEOGRAPHIC SHELL">
+  <question level="1" simple="True" text="When, according to scientists, there is Earth?">
+    <answer flag="0" text="About 45 million years ago"/>
+    <answer flag="0" text="Around 4.5 million years ago"/>
+    <answer flag="1" text="About 4.5 billion years ago"/>
+  </question>
+  <question level="1" simple="True" text="When scientists believe the planet was born life?">
+    <answer flag="0" text="Existed from the very beginning of the Earth"/>
+    <answer flag="0" text="Around 35 million years ago"/>
+    <answer flag="1" text="About 3.5 billion years ago"/>
+  </question>
+  <question level="1" simple="True" text="Under what conditions of life on Earth was born?">
+    <answer flag="0" text="It was brought from other planets, meteorite"/>
+    <answer flag="1" text="In shallow marine due to simple physical and chemical processes"/>
+    <answer flag="0" text="It was brought from other planets, aliens from outer space"/>
+    <answer flag="0" text="On land, on the shores of warm water reservoirs"/>
+  </question>
+  <question level="1" simple="True" text="What is the name the ability of living organisms, absorbing solar energy, recycle carbon dioxide to create carbohydrates and organic substances in his body, while emphasizing the oxygen?">
+    <answer flag="0" text="Mutation"/>
+    <answer flag="0" text="Transformation"/>
+    <answer flag="1" text="Photosynthesis"/>
+  </question>
+  <question level="1" simple="True" text="What earthly shell includes the biosphere?">
+    <answer flag="0" text="Lithosphere and atmosphere"/>
+    <answer flag="0" text="The lower part of the atmosphere and hydrosphere all"/>
+    <answer flag="0" text="The entire upper part of the hydrosphere and lithosphere"/>
+    <answer flag="1" text="The lower part of the atmosphere, hydrosphere and the whole upper part of the lithosphere"/>
+  </question>
+  <question level="1" simple="True" text="How many species of organisms living on Earth?">
+    <answer flag="0" text="Over 2 thousand"/>
+    <answer flag="0" text="Over 20 thousand"/>
+    <answer flag="1" text="More than 2 million"/>
+  </question>
+  <question level="1" simple="True" text="The largest zonal prorodnymy complexes are">
+    <answer flag="1" text="Geographic Zones"/>
+    <answer flag="0" text="Natural areas"/>
+    <answer flag="0" text="Continents and Oceans"/>
+  </question>
+  <question level="1" simple="True" text="The change in natural systems depends on the height of the area called">
+    <answer flag="0" text="Mountain zoning"/>
+    <answer flag="1" text="Vysotna explain"/>
+    <answer flag="0" text="Vysotna zoning"/>
+  </question>
+  <question level="1" simple="True" text="Where in the world formed the largest number of high-altitude zones?">
+    <answer flag="1" text="On the southern slopes of Himalayas"/>
+    <answer flag="0" text="In the mountainous regions of equatorial Africa"/>
+    <answer flag="0" text="In the Andes"/>
+  </question>
+  <question level="1" simple="True" text="Which of the following environmental problems are global?">
+    <answer flag="1" text="Greenhouse Effect and Sea level rise"/>
+    <answer flag="0" text="The excessive number of bears marsupial in Australia"/>
+    <answer flag="1" text="Air pollution and the associated acid rain"/>
+    <answer flag="1" text="Ocean pollution and depletion of resources"/>
+    <answer flag="1" text="Ozone depletion"/>
+  </question>
+  <question level="1" simple="True" text="What with global environmental problems caused by human activity?">
+    <answer flag="1" text="Ozone layer of the atmosphere"/>
+    <answer flag="1" text="Desertification"/>
+    <answer flag="1" text="Ocean pollution, and reduction of its resources"/>
+    <answer flag="0" text="The negative impact on health and the health of space storms"/>
+  </question>
+  <question level="1" simple="True" text="What determines the fertility of the soil?">
+    <answer flag="1" text="Output layer of humus"/>
+    <answer flag="0" text="Texture of soil"/>
+    <answer flag="0" text="Zvolozhenist territory"/>
+  </question>
+</testing>

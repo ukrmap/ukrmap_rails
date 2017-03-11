@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukrainian lands in the system of international relations">
+  <question level="1" simple="True" text="How the Russian-Turkish wars took place in the first third of the nineteenth century.?">
+    <answer flag="0" text="1"/>
+    <answer flag="1" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="0" text="4"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian land became the arena of armed struggle during the invasion of Napoleon's army in Russia in 1812?">
+    <answer flag="0" text="Skirts"/>
+    <answer flag="0" text="Kyiv region"/>
+    <answer flag="1" text="Volin"/>
+    <answer flag="0" text="Galicia"/>
+  </question>
+  <question level="1" simple="True" text="Do sapience? Army during the invasion of French emperor Napoleon in Russia: 1) land covered an anti-Russian Ukrainian uprising, which facilitated the French attack, and 2) the population of the Ukrainian lands remained loyal to the Russian Empire took part in the defeat of Napoleon's army.">
+    <answer flag="0" text="both are valid"/>
+    <answer flag="0" text="only 1 correct option"/>
+    <answer flag="1" text="only 2 are valid"/>
+    <answer flag="0" text="both wrong"/>
+  </question>
+  <question level="1" simple="True" text="What year Danusian Sich led by chieftain Joseph went smooth on the side of the Russians?">
+    <answer flag="0" text="1806"/>
+    <answer flag="0" text="1812"/>
+    <answer flag="0" text="1825"/>
+    <answer flag="1" text="1828"/>
+  </question>
+  <question level="1" simple="True" text="What event led to the elimination of the Turkish sultan Danusian Host?">
+    <answer flag="0" text="defeat in war with Russia in the 1806-1812 biennium"/>
+    <answer flag="0" text="claim the French emperor Napoleon I to the Turkish sultan"/>
+    <answer flag="1" text="transition of Danusian Sich led by chieftain Joseph smooth on the side of Russians"/>
+    <answer flag="0" text="creation of Ust-Danube troops from part Danusian Sich that went to the side of Russians"/>
+  </question>
+  <question level="1" simple="True" text="What year in the Ukrainian lands by Emperor Alexander I established military settlements?">
+    <answer flag="0" text="the Russian-Turkish war of 1806-1812 biennium"/>
+    <answer flag="1" text="the Russian-French War 1812-1814 biennium"/>
+    <answer flag="0" text="after the Decembrist uprising in 1825"/>
+    <answer flag="0" text="the Russian-Turkish war of 1828-1829 biennium"/>
+  </question>
+  <question level="1" simple="True" text="As a result of a war to the Russian Empire entered Bessarabia?">
+    <answer flag="1" text="Russo-Turkish war of 1806-1812 biennium"/>
+    <answer flag="0" text="Russian-French war of 1812-1814 biennium"/>
+    <answer flag="0" text="Russo-Turkish war of 1828-1829 biennium"/>
+    <answer flag="0" text="The Crimean War 1853-1856 biennium"/>
+  </question>
+  <question level="1" simple="True" text="Who was the initiator of war settlements in the Ukrainian lands?">
+    <answer flag="1" text="Alexander I"/>
+    <answer flag="0" text="A. Arakcheyev"/>
+    <answer flag="0" text="Nicholas"/>
+    <answer flag="0" text="M. Kutuzov"/>
+  </question>
+  <question level="1" simple="True" text="Where was the decisive battle of the Russo-Turkish war of 1806-1812 years?">
+    <answer flag="1" text="During Ruschukom"/>
+    <answer flag="0" text="At Borodino"/>
+    <answer flag="0" text="When Ishmael"/>
+    <answer flag="0" text="In r.Rymnyk"/>
+  </question>
+  <question level="1" simple="True" text="Do sapience? Ukrainian Cossack regiments during the Russo-French war: 1) participated in foreign campaigns, and even the Russian army came to Paris, and 2) played an important role in taking the fortress of Zamosc.">
+    <answer flag="1" text="both are valid"/>
+    <answer flag="0" text="only 1 correct option"/>
+    <answer flag="0" text="only 2 are valid"/>
+    <answer flag="0" text="both wrong"/>
+  </question>
+  <question level="1" simple="True" text="What are the Ukrainian lands were part of the Russian Empire after the Russian-Turkish war of 1806-1812 years?">
+    <answer flag="0" text="Bessarabia"/>
+    <answer flag="1" text="South Bessarabia and Hotynschyna"/>
+    <answer flag="0" text="Northern Bukovina"/>
+    <answer flag="0" text="Bukovina and Pokuttia"/>
+  </question>
+  <question level="1" simple="True" text="For a treaty to Russia departed the mouth of the Danube and the eastern coast of the Black Sea?">
+    <answer flag="1" text="Adrianopolsky"/>
+    <answer flag="0" text="Iasi"/>
+    <answer flag="0" text="Bucharest"/>
+    <answer flag="0" text="Kuchuk-Kaynadzhyrskym"/>
+  </question>
+</testing>

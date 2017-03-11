@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Предпосылки и начало Национально-освободительной войны украинского народа против польского господства. Развертывание Национально-освободительной войны в 1648-1649 гг">
+  <question level="1" simple="True" text="Когда началась Национально-освободительная война?">
+    <answer flag="0" text="1548 p."/>
+    <answer flag="1" text="1648 p."/>
+  </question>
+  <question level="1" simple="True" text="Кто возглавил Национально-освободительную войну украинского народа?">
+    <answer flag="1" text="Богдан Хмельницкий"/>
+    <answer flag="0" text="Максим Кривонос"/>
+  </question>
+  <question level="1" simple="True" text="Каково состояние общества играл ведущую роль в ходе и руководстве Национально-освободительной войны?">
+    <answer flag="0" text="Крестьянство"/>
+    <answer flag="1" text="Казачество"/>
+  </question>
+  <question level="1" simple="True" text="Где состоялся первый бой между повстанцами и польским войском?">
+    <answer flag="1" text="На Желтых Водах"/>
+    <answer flag="0" text="Под Корсунем"/>
+  </question>
+  <question level="1" simple="True" text="Какое из событий произошло раньше?">
+    <answer flag="0" text="Уpочистий въезд Б. Хмельницкого в Киев"/>
+    <answer flag="1" text="Осада украинский войском Львова и Замостье"/>
+  </question>
+  <question level="1" simple="True" text="Какая битва открыла украинский армии путь на Галичину в 1648 г.?">
+    <answer flag="0" text="Желтоводский"/>
+    <answer flag="1" text="Пилявецкая"/>
+  </question>
+  <question level="1" simple="True" text="О какой исторической фигуре идет речь? Украинский полководец. Участвовал во всех битва 1648 г. Умер в ноябре 1648 г. в лагере под Замостьем от чумы">
+    <answer flag="0" text="Иван Выговский"/>
+    <answer flag="1" text="Максим Кривонос"/>
+  </question>
+  <question level="1" simple="True" text="Чем закончилась Збаражской-Зборовская военная кампания?">
+    <answer flag="0" text="Заключением Белоцерковского договора"/>
+    <answer flag="1" text="Подписанием Зборовского договора"/>
+  </question>
+  <question level="1" simple="True" text="Какие земли перешли под власть гетмана за Збоpiвським договоpа?">
+    <answer flag="0" text="Все земли Украины, находившиеся в составе Речи Посполитой"/>
+    <answer flag="1" text="Территории бывших Киевского, Брацлавского и Черниговского воеводств"/>
+  </question>
+  <question level="1" simple="True" text="Сколько казаков предусматривал казацкий реестр по Зборовским договору?">
+    <answer flag="0" text="20 тыс."/>
+    <answer flag="1" text="40 тыс."/>
+  </question>
+  <question level="1" simple="True" text="С кем в начале войны Б. Хмельницкий заключил союзный договор о военной помощи?">
+    <answer flag="0" text="С Московiею"/>
+    <answer flag="1" text="С Крымским ханством"/>
+  </question>
+  <question level="1" simple="True" text="Какую битву поляки считали позорной за всю историю Польши?">
+    <answer flag="0" text="Желтоводский"/>
+    <answer flag="1" text="Пилявецкой"/>
+  </question>
+</testing>

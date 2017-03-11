@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Kiev State for the first dukes">
+  <question level="1" simple="True" text="Who Kiev princes, for the chronicle, died as a result of collusion with the sword Varangian warriors, led by Oleg?">
+    <answer flag="1" text="Askold"/>
+    <answer flag="0" text="Games"/>
+  </question>
+  <question level="1" simple="True" text="When seized power in Kiev, Oleg?">
+    <answer flag="1" text="In 882, the"/>
+    <answer flag="0" text="In 945, the"/>
+  </question>
+  <question level="1" simple="True" text="What impact had to hike Askold Byzantine Empire?">
+    <answer flag="1" text="A powerful shot Ruthenian fleet forced Byzantium to recognize Russia as a state"/>
+    <answer flag="0" text="Ruses fleet was destroyed by the so-called Greek fire"/>
+  </question>
+  <question level="1" simple="True" text="How many years, according to chroniclers, reigned in Kiev, Oleg?">
+    <answer flag="0" text="5 years"/>
+    <answer flag="1" text="1930"/>
+  </question>
+  <question level="1" simple="True" text="Who was the first of the princes of Kiev Rurik dynasty table?">
+    <answer flag="0" text="Prince Askold"/>
+    <answer flag="1" text="Prince Igor"/>
+  </question>
+  <question level="1" simple="True" text="Clashes with the tribal eastern alliance which Prince Igor began his reign in which the opposition found its death?">
+    <answer flag="0" text="Polyansky"/>
+    <answer flag="1" text="Derevlyanskym"/>
+  </question>
+  <question level="1" simple="True" text="Who Kiev princes to victory sign nailed his shield on the Golden Gate Byzantine capital?">
+    <answer flag="1" text="Prince Oleg"/>
+    <answer flag="0" text="Prince Igor"/>
+  </question>
+  <question level="1" simple="True" text="How to call the armed forces, which were the regular troops of Prince and his apparatus of power?">
+    <answer flag="0" text="Veche"/>
+    <answer flag="1" text="Wife"/>
+  </question>
+  <question level="1" simple="True" text="For what event Historians first attempt to bring events of princely power of Christianity in the land of the Rus?">
+    <answer flag="1" text="From the campaign of Prince Askold to Byzantium 860"/>
+    <answer flag="0" text="From the campaign of Prince Igor of Byzantium, the 912"/>
+  </question>
+  <question level="1" simple="True" text="Land East of tribal alliances which was attached to the Kievan state for Oleg?">
+    <answer flag="1" text="To Slovenia, Krivichi, Radymychi"/>
+    <answer flag="0" text="Siveryany Polyan Derevlyany"/>
+  </question>
+  <question level="1" simple="True" text="What are the nomads had to fight for 9 Rus - early 10 th century.?">
+    <answer flag="1" text="Khazars, Magyars, Pechenegs"/>
+    <answer flag="0" text="Huns, Avars, Bulgars"/>
+  </question>
+  <question level="1" simple="True" text="Which of these cities already existed in Ukraine during the reign of Igor?">
+    <answer flag="0" text="Novgorod, Rostov, Polotsk, Ladoga, Moore, Pskov"/>
+    <answer flag="1" text="Ljubech, Chernigov, Pereyaslav, Vyshgorod Iskorosten, Galich"/>
+  </question>
+</testing>

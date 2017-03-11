@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List Title="Sights">
+  <Item Caption="Church of St.. Nicholas" FileName="1"/>
+  <Item Caption="St. Andrew's Church" FileName="2"/>
+  <Item Caption="Choral Synagogue" FileName="3"/>
+  <Item Caption="Assumption Church" FileName="4"/>
+  <Item Caption="Opera house" FileName="5"/>
+  <Item Caption="Opera House. Hall Auditorium" FileName="6"/>
+  <Item Caption="Teacher's House" FileName="7"/>
+  <Item Caption="Home City Council" FileName="8"/>
+  <Item Caption="At Kreschatike" FileName="9"/>
+  <Item Caption="Circus" FileName="10"/>
+  <Item Caption="TV Tower" FileName="11"/>
+  <Item Caption="Palace &quot;Ukraine&quot;" FileName="12"/>
+  <Item Caption="Railway station" FileName="13"/>
+  <Item Caption="NSK &quot;Olympic&quot; - main arena" FileName="14"/>
+  <Item Caption="Monument Hrushevsky" FileName="15"/>
+  <Item Caption="Monument to Afghanistan" FileName="16"/>
+  <Item Caption="The area of Santiago de Chile" FileName="17"/>
+  <Item Caption="Opening day at Andrew's Descent" FileName="18"/>
+  <Item Caption="Andrew's Descent" FileName="19"/>
+  <Item Caption="Michael's Monastery" FileName="20"/>
+  <Item Caption="At St. Michael's Square" FileName="21"/>
+</List>

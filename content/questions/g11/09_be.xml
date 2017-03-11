@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Афрыкі, Аўстраліі і Акіяніі">
+  <question level="1" simple="True" text="У якой частцы Афрыкі вырошчваецца больш рысу?">
+    <answer flag="0" text="Заходняй"/>
+    <answer flag="1" text="Ўсходняй"/>
+    <answer flag="0" text="Паўднёвай"/>
+    <answer flag="0" text="Паўночнай"/>
+  </question>
+  <question level="1" simple="True" text="Апрацоўчая прамысловасць краін Афрыкі размешчана пераважна ў">
+    <answer flag="0" text="сталіцах"/>
+    <answer flag="1" text="партовых гарадах"/>
+    <answer flag="0" text="цэнтральных частках краіны"/>
+  </question>
+  <question level="1" simple="True" text="Каланіяльнымі рысамі транспартнай сеткі краін Афрыкі з'яўляецца">
+    <answer flag="0" text="адсутнасць адзінай транспартнай сістэмы"/>
+    <answer flag="1" text="больш густая транспартная сетка на ўзбярэжжы"/>
+    <answer flag="0" text="фактычнае адсутнасць чыгуначнага транспарту"/>
+  </question>
+  <question level="1" simple="True" text="Калі ласка, абярыце краіну, для якой праблема дэфіцыту прэснай вады з'яўляецца найбольш актуальнай?">
+    <answer flag="0" text="Конга"/>
+    <answer flag="1" text="Егіпет"/>
+    <answer flag="0" text="Ліберыя"/>
+    <answer flag="0" text="Ангола"/>
+  </question>
+  <question level="1" simple="True" text="Годам вызваленьня Афрыкі з'яўляецца">
+    <answer flag="0" text="1950"/>
+    <answer flag="1" text="1960"/>
+    <answer flag="0" text="1970"/>
+  </question>
+  <question level="1" simple="True" text="Народ, які пражывае на поўдні Афрыкі, гэта">
+    <answer flag="0" text="берберы"/>
+    <answer flag="1" text="буры"/>
+    <answer flag="0" text="пігмеі"/>
+    <answer flag="0" text="арабы"/>
+  </question>
+  <question level="1" simple="True" text="Якая Монокультурная краіна Афрыкі спецыялізуецца на экспарце баксітаў?">
+    <answer flag="0" text="Кот-д'Івуар"/>
+    <answer flag="0" text="Паўднёвая Афрыка"/>
+    <answer flag="1" text="Гвінея"/>
+    <answer flag="0" text="Камерун"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых краін, па дадзеных ААН ставіцца да групы найбяднейшых краін свету?">
+    <answer flag="0" text="Лівія"/>
+    <answer flag="0" text="Папуа-Новая Гвінея"/>
+    <answer flag="1" text="Сьера-Леонэ"/>
+  </question>
+  <question level="1" simple="True" text="Уплыў каланіяльнага мінулага Аўстраліі і Новай Зеландыі праяўляецца ў">
+    <answer flag="1" text="сыравіннай спецыялізацыі экспарту"/>
+    <answer flag="0" text="перавазе буйнога землеўладання"/>
+    <answer flag="0" text="тэрытарыяльнай структуры гаспадаркі"/>
+  </question>
+  <question level="1" simple="True" text="Які від транспарту практычна адсутнічае ў Аўстраліі?">
+    <answer flag="0" text="Аўтамабільны"/>
+    <answer flag="0" text="Чыгуначны"/>
+    <answer flag="1" text="Рачны"/>
+    <answer flag="0" text="Паветраны"/>
+  </question>
+  <question level="1" simple="True" text="Найбольш густозаселенным раёнам ў Аўстраліі з'яўляецца">
+    <answer flag="0" text="Поўнач"/>
+    <answer flag="1" text="Паўднёва-Усход"/>
+    <answer flag="0" text="Паўднёва-Захад"/>
+  </question>
+  <question level="1" simple="True" text="Асноўным экспартным таварам астраўных краін Акіяніі з'яўляецца">
+    <answer flag="0" text="рыба"/>
+    <answer flag="0" text="жэмчуг"/>
+    <answer flag="1" text="копры"/>
+    <answer flag="0" text="цытрусавыя"/>
+  </question>
+</testing>

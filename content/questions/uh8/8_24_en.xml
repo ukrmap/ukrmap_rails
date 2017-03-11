@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine after the Battle of Poltava. Strengthening the colonial policy of the Russian Empire">
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="1" text="The formation and launch of operations in the Little Russian Collegium Hetmanate"/>
+    <answer flag="0" text="Final disposition of Hetman"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure referred to? Selected hetman of the order of Peter I. During his Moscow Hetman government introduced in Hetmanate Little Russian Collegium">
+    <answer flag="1" text="About Ivan Skoropadsky"/>
+    <answer flag="0" text="About Danylo Apostol"/>
+  </question>
+  <question level="1" simple="True" text="Reason for the king's government created the Little Russian Collegium?">
+    <answer flag="1" text="To control Hetmanate"/>
+    <answer flag="0" text="To help hetman in military and court cases"/>
+  </question>
+  <question level="1" simple="True" text="He was elected hetman Hetman after recovery, the canceled and Peter?">
+    <answer flag="0" text="Paul Polubotok"/>
+    <answer flag="1" text="Danylo Apostol"/>
+  </question>
+  <question level="1" simple="True" text="To Hetman of the tsarist government had provided &quot;Rishytelni points?">
+    <answer flag="1" text="Danylo Apostol"/>
+    <answer flag="0" text="Philip Orlik"/>
+  </question>
+  <question level="1" simple="True" text="As called institution that governed during the 1734-1750 biennium Hetmanate?">
+    <answer flag="1" text="Board Hetman's government"/>
+    <answer flag="0" text="General Military Chancellery"/>
+  </question>
+  <question level="1" simple="True" text="What city was the capital of the Cossack by Ivan Skoropadsky and D. Apostol?">
+    <answer flag="0" text="Baturin"/>
+    <answer flag="1" text="Deaf"/>
+    <answer flag="0" text="Chigirin"/>
+  </question>
+  <question level="1" simple="True" text="When and where was Cyril Razumovsky elected hetman?">
+    <answer flag="1" text="1750 in Gluhove"/>
+    <answer flag="0" text="1744 in Kiev"/>
+  </question>
+  <question level="1" simple="True" text="As called administrative unit, covering the territory of Sloboda Ukraine and was founded in 1765?">
+    <answer flag="1" text="Sloboda-Ukrainian province"/>
+    <answer flag="0" text="Little Russian Governor-General"/>
+  </question>
+  <question level="1" simple="True" text="What is the governing body of the Left-Bank Ukraine and Zaporozhye created the tsarist government in 1764?">
+    <answer flag="1" text="Little Russian Collegium, led by Count Peter Rumyantsev"/>
+    <answer flag="0" text="Board Hetman government headed by Prince Alexei Shahovskym"/>
+  </question>
+  <question level="1" simple="True" text="Where was New Sich located?">
+    <answer flag="1" text="In the underground river that went into Sky next Chortomlyk"/>
+    <answer flag="0" text="In the upper reaches of the Kamenka river, right tributary of the Dnieper"/>
+  </question>
+  <question level="1" simple="True" text="What are territorial and administrative units were established in the territory after the abolition of the regimental Hetmanate-centesimal system?">
+    <answer flag="1" text="Kiev, Chernigov, Novgorod province Sivers'k"/>
+    <answer flag="0" text="Kyiv, Volyn and Podolsk province"/>
+  </question>
+</testing>

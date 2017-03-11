@@ -1,0 +1,75 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<testing name="European countries in X-XIII centuries.">
+  <question level="1" text="When the battle with the Hungarians and Otto on the River Lech?">
+    <answer flag="0" text="911"/>
+    <answer flag="0" text="919 was"/>
+    <answer flag="1" text="955 was"/>
+    <answer flag="0" text="966 was"/>
+  </question>
+  <question level="1" text="In 1077 a meeting in Kanossi Pope Gregory VII to the German emperor">
+    <answer flag="0" text="Otto I"/>
+    <answer flag="0" text="Otto II"/>
+    <answer flag="1" text="Henry IV"/>
+    <answer flag="0" text="Frederick Barbarossa and"/>
+  </question>
+  <question level="1" text="Where in the Balkans at the end of VII century. there was the first Bulgarian kingdom?">
+    <answer flag="0" text="central"/>
+    <answer flag="1" text="Northeast"/>
+    <answer flag="0" text="southwest"/>
+    <answer flag="0" text="Northwest"/>
+  </question>
+  <question level="1" text="What kingdom emerged in Europe in 1025">
+    <answer flag="1" text="Polish"/>
+    <answer flag="0" text="Czech"/>
+    <answer flag="0" text="Hungarian"/>
+    <answer flag="0" text="Croatian"/>
+  </question>
+  <question level="1" text="Church Cathedral in 1095, where Pope Urban II issued a call to the First Crusade was held in">
+    <answer flag="0" text="Rome"/>
+    <answer flag="0" text="Paris"/>
+    <answer flag="0" text="Toulouse"/>
+    <answer flag="1" text="Clermont"/>
+  </question>
+  <question level="1" text="Capture a city was to participants of the Second Crusade?">
+    <answer flag="0" text="Jerusalem"/>
+    <answer flag="0" text="Constantinople"/>
+    <answer flag="1" text="Damascus"/>
+    <answer flag="0" text="Acres"/>
+  </question>
+  <question level="1" text="When you have a Latin empire?">
+    <answer flag="0" text="1202"/>
+    <answer flag="1" text="1204"/>
+    <answer flag="0" text="1217"/>
+    <answer flag="0" text="1221"/>
+  </question>
+  <question level="1" text="The era of the Crusades ended winning the Egyptians in 1291 the fortress">
+    <answer flag="0" text="Tortoza"/>
+    <answer flag="0" text="Tripoli"/>
+    <answer flag="0" text="Sidon"/>
+    <answer flag="1" text="Akram"/>
+  </question>
+  <question level="1" text="Which of the English kings significantly increased their knowledge of French as a result of marriage to Aliyenoroyu Aquitaine?">
+    <answer flag="0" text="And William the Conqueror"/>
+    <answer flag="1" text="Henry II Plantagenet"/>
+    <answer flag="0" text="And Richard Lion Heart"/>
+    <answer flag="0" text="John Lackland"/>
+  </question>
+  <question level="1" text="When there was an English Parliament?">
+    <answer flag="0" text="1199"/>
+    <answer flag="0" text="1216"/>
+    <answer flag="0" text="1263"/>
+    <answer flag="1" text="1265"/>
+  </question>
+  <question level="1" text="According to the French king whose reign the English monarch had lost most of his possessions?">
+    <answer flag="1" text="Philip II Augustus"/>
+    <answer flag="0" text="Louis VIII"/>
+    <answer flag="0" text="St. Louis IX"/>
+    <answer flag="0" text="Philip IV of beautiful"/>
+  </question>
+  <question level="1" text="When France was first convened General States?">
+    <answer flag="0" text="1263"/>
+    <answer flag="0" text="1284"/>
+    <answer flag="1" text="1302"/>
+    <answer flag="0" text="1314"/>
+  </question>
+</testing>

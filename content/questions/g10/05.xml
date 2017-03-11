@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Глобальные проблемы человечества">
+  <question text="Энергетическая проблема вызвана">
+    <answer flag="1" text="ростом потребления энергии"/>
+    <answer flag="0" text="низким качеством топливных ресурсов"/>
+    <answer flag="0" text="использованием нетрадиционных источников энергии"/>
+  </question>
+  <question text="Демографический взрыв в ХХ в. вызван">
+    <answer flag="0" text="ростом количества городов в мире"/>
+    <answer flag="0" text="высоким уровнем развития промышленности в развитых странах"/>
+    <answer flag="1" text="существенным снижением уровня смертности в развивающихся странах"/>
+  </question>
+  <question text="Какая из международных организаций координирует работу по преодолению глобальных проблем человечества?">
+    <answer flag="0" text="АСЕАН"/>
+    <answer flag="0" text="СНГ"/>
+    <answer flag="0" text="ЕС"/>
+    <answer flag="1" text="ООН"/>
+  </question>
+  <question text="На каком континенте находится &quot;полюс голода&quot;?">
+    <answer flag="0" text="Австралия"/>
+    <answer flag="1" text="Африка"/>
+    <answer flag="0" text="Евразия"/>
+    <answer flag="0" text="Южная Америка"/>
+  </question>
+  <question text="Какие части Мирового океана являются наиболее загрязненными?">
+    <answer flag="1" text="Территориальные воды"/>
+    <answer flag="0" text="Открытая акватория"/>
+    <answer flag="1" text="Шельфовые зоны"/>
+  </question>
+  <question text="Какой из континентов имеет самую большую долю природоохранных территорий в общей площади?">
+    <answer flag="0" text="Северная Америка"/>
+    <answer flag="0" text="Евразия"/>
+    <answer flag="0" text="Африка"/>
+    <answer flag="1" text="Австралия"/>
+  </question>
+  <question text="Какие леса земного шара наиболее интенсивно вырубаются?">
+    <answer flag="0" text="Тайга"/>
+    <answer flag="1" text="Сельва"/>
+    <answer flag="0" text="Джунгли экваториальной Африки"/>
+  </question>
+  <question text="В больших городах основным источником загрязнения воздуха является">
+    <answer flag="0" text="ТЭС"/>
+    <answer flag="0" text="предприятия нефтехимии"/>
+    <answer flag="0" text="предприятия строительных материалов"/>
+    <answer flag="1" text="автотранспорт"/>
+  </question>
+  <question text="Рекультивация земель это">
+    <answer flag="0" text="карьерные земельные работы"/>
+    <answer flag="1" text="восстановление нарушенных земель"/>
+    <answer flag="0" text="распашка целины"/>
+    <answer flag="0" text="сокращение площадей сельскохозяйственных угодий"/>
+  </question>
+  <question text="Образованию парникового эффекта способствует увеличение в атмосфере Земли">
+    <answer flag="1" text="углекислого газа"/>
+    <answer flag="0" text="сернистого газа"/>
+    <answer flag="0" text="фреонов"/>
+    <answer flag="0" text="озона"/>
+  </question>
+  <question text="На каком континенте самая низкая продолжительность жизни?">
+    <answer flag="0" text="Азия"/>
+    <answer flag="1" text="Африка"/>
+    <answer flag="0" text="Австралия"/>
+    <answer flag="0" text="Южная Америка"/>
+  </question>
+  <question text="Страна, в которой не затихают сепаратистские движения, это">
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Индия"/>
+    <answer flag="0" text="Польша"/>
+  </question>
+</testing>

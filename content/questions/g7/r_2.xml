@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ОКЕАНИ">
+  <question level="1" simple="True" text="Який океан є найбільшим на планеті?">
+    <answer flag="0" text="Атлантичний"/>
+    <answer flag="1" text="Тихий"/>
+    <answer flag="0" text="Індійський"/>
+    <answer flag="0" text="Північний Льодовитий"/>
+  </question>
+  <question level="1" simple="True" text="Під впливом яких факторів виникають морські течії?">
+    <answer flag="1" text="Постійних вітрів"/>
+    <answer flag="0" text="Обрисів берегів"/>
+    <answer flag="0" text="Руху дна океанів"/>
+  </question>
+  <question level="1" simple="True" text="Яку глибину має жолоб Пуерто-Рико?">
+    <answer flag="0" text="11022 м"/>
+    <answer flag="1" text="8742 м"/>
+    <answer flag="0" text="9783 м"/>
+  </question>
+  <question level="1" simple="True" text="Який океан є найтеплішим? ">
+    <answer flag="1" text="Індійський"/>
+    <answer flag="0" text="Атлантичний"/>
+    <answer flag="0" text="Тихий"/>
+  </question>
+  <question level="1" simple="True" text="Свою назву Тихий океан отримав від :">
+    <answer flag="0" text="Марко Поло"/>
+    <answer flag="1" text="Фернана Маґеллана"/>
+    <answer flag="0" text="Христофора Колумба"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer flag="0" text="Північний Льодовитий океан - найменший серед океанів"/>
+    <answer flag="0" text="Порівняно з Тихим Атлантичний океан значно більше відчуває вплив суходолу"/>
+    <answer flag="1" text="Органічний світ океанів найбагатший у глибинах океанів"/>
+  </question>
+  <question level="1" simple="True" text="В якій частині Атлантичного океану спостерігається найбільша солоність ? ">
+    <answer flag="0" text="В місцях, де в океан впадають потужні річки"/>
+    <answer flag="1" text="В тропічних широтах"/>
+    <answer flag="0" text="В полярних широтах"/>
+  </question>
+  <question level="1" simple="True" text="Яке з тверджень є неправильним ?">
+    <answer flag="1" text="В Індійському океані немає серединно-океанічних хребтів"/>
+    <answer flag="0" text="Індійський океан - найсолоніший на планеті"/>
+    <answer flag="0" text="Індійський океан - найтепліший на планеті"/>
+  </question>
+  <question level="1" simple="True" text="Головну роль у формуванні морських течій Північного Льодовитого океану відіграє :">
+    <answer flag="0" text="атмосферна циркуляція"/>
+    <answer flag="1" text="потужний потік вод Атлантичного океану"/>
+    <answer flag="0" text="рельєф дна океану"/>
+  </question>
+  <question level="1" simple="True" text="Найбільша солоність Північного Льодовитого океану спостерігається :">
+    <answer flag="0" text="в місцях, де в океан впадають річки"/>
+    <answer flag="1" text="там, де в океан вливаються води Атлантичного і Тихого океанів"/>
+    <answer flag="0" text="в центральній частині океану"/>
+  </question>
+  <question level="1" simple="True" text="Яку глибину має Маріанський жолоб ?">
+    <answer flag="0" text="8 848 м"/>
+    <answer flag="0" text="8 742 м"/>
+    <answer flag="1" text="11 022 м"/>
+  </question>
+  <question level="1" simple="True" text="Яке море є найсолонішим ?">
+    <answer flag="0" text="Середземне"/>
+    <answer flag="0" text="Чорне"/>
+    <answer flag="1" text="Червоне"/>
+  </question>
+</testing>

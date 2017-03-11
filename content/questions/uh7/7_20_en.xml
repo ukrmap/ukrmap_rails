@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Writing, education, scientific knowledge, literature and music of Kievan Rus and Galicia-Volyn state">
+  <question level="1" simple="True" text="When was Ostromyrov gospel?">
+    <answer flag="1" text="In 1056 - 1057 рр."/>
+    <answer flag="0" text="In 1185 - 1187 рр."/>
+  </question>
+  <question level="1" simple="True" text="What happened before?">
+    <answer flag="1" text="Creation of &quot;The Tale Ihorevim&quot;"/>
+    <answer flag="0" text="Conclusion Galicia-Volyn chronicle"/>
+  </question>
+  <question level="1" simple="True" text="Who is Alipio Caves?">
+    <answer flag="0" text="One of the first monks Caves, the most famous doctor XI century."/>
+    <answer flag="1" text="Kyiv iconographer, a monk of Kiev-Pechersk monastery"/>
+  </question>
+  <question level="1" simple="True" text="Who is considered the author and compiler of &quot;Tale of Bygone Years&quot;?">
+    <answer flag="1" text="Nestor"/>
+    <answer flag="0" text="Theodosius of Pechersk"/>
+  </question>
+  <question level="1" simple="True" text="What is said in the &quot;Tale of Bygone Years&quot;?">
+    <answer flag="1" text="Presents events in the lands of Rus from 860 to 1111"/>
+    <answer flag="0" text="Retold the history of Kiev-Pechersk monastery, a biography of his first associates"/>
+  </question>
+  <question level="1" simple="True" text="Which of the chronicles is a direct continuation of the &quot;Tale of Bygone Years&quot;?">
+    <answer flag="1" text="Kyiv Chronicle"/>
+    <answer flag="0" text="Galicia-Volyn"/>
+  </question>
+  <question level="1" simple="True" text="The author whose work is renowned Metropolitan Hilarion?">
+    <answer flag="0" text="&quot;Guidelines for Children&quot;"/>
+    <answer flag="1" text="&quot;Word of Law and Grace&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Which language for the Kievan Rus wrote liturgical books?">
+    <answer flag="1" text="Church Slavonic"/>
+    <answer flag="0" text="Ukrainian"/>
+  </question>
+  <question level="1" simple="True" text="As name of the first dated manuscript book Rus?">
+    <answer flag="1" text="Ostromyrov Gospel"/>
+    <answer flag="0" text="The Tale of Igor's"/>
+  </question>
+  <question level="1" simple="True" text="At the court of which the Prince of Volyn existed knyhopysna big studio?">
+    <answer flag="1" text="Vladimir"/>
+    <answer flag="0" text="Roman Mstyslavych"/>
+  </question>
+  <question level="1" simple="True" text="For a prince, the first school to teach kids from the nearby environment of Prince">
+    <answer flag="1" text="Under the reign of Vladimir Svyatoslavich"/>
+    <answer flag="0" text="Under the reign of Yaroslav the Wise"/>
+  </question>
+  <question level="1" simple="True" text="What musical instruments playing the music of that time?">
+    <answer flag="1" text="Harp tone, horns, whistles, svyrilyah, tambourines"/>
+    <answer flag="0" text="Kobza, Bandura, lirah, tulumbasah"/>
+  </question>
+</testing>

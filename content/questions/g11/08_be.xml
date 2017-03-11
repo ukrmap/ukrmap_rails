@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Краіны Амерыкі">
+  <question level="1" simple="True" text="Найбуйнейшымі нафтаздабыўнымі штатамі ЗША з'яўляецца">
+    <answer flag="1" text="Аляска, Тэхас"/>
+    <answer flag="0" text="Масачусэтс, Каліфорнія"/>
+    <answer flag="0" text="Агаё, Мічыган"/>
+  </question>
+  <question level="1" simple="True" text="Які тып электрастанцый з'яўляецца вядучым у электраэнергетыцы ЗША?">
+    <answer flag="1" text="ТЭС"/>
+    <answer flag="0" text="ГЭС"/>
+    <answer flag="0" text="АЭС"/>
+  </question>
+  <question level="1" simple="True" text="У якім з рэгіёнаў ЗША засяроджана больш нафтаперапрацоўчых прадпрыемстваў?">
+    <answer flag="0" text="Штаты Атлантычнага ўзбярэжжа"/>
+    <answer flag="0" text="Каліфорнія і Аляска"/>
+    <answer flag="1" text="Тэхас і Луізіяна"/>
+  </question>
+  <question level="1" simple="True" text="Дзе знаходзіцца &quot;кукурузны пояс&quot; ЗША?">
+    <answer flag="0" text="Паўночна-Усход"/>
+    <answer flag="0" text="Ціхаакіянскі ўзбярэжжа"/>
+    <answer flag="0" text="Узбярэжжы Мексіканскага заліва"/>
+    <answer flag="1" text="Сярэдні Захад"/>
+  </question>
+  <question level="1" simple="True" text="Нераўнамернасць размяшчэння гаспадаркі на тэрыторыі Канады тлумачыцца">
+    <answer flag="1" text="прыроднымі ўмовамі"/>
+    <answer flag="0" text="размяшчэннем карысных выкапняў"/>
+    <answer flag="0" text="ўмовамі асваення тэрыторыі краіны"/>
+  </question>
+  <question level="1" simple="True" text="Які тып электрастанцый вырабляе найбольшую долю электраэнергіі ў Канадзе?">
+    <answer flag="0" text="ТЭС"/>
+    <answer flag="1" text="ГЭС"/>
+    <answer flag="0" text="АЭС"/>
+  </question>
+  <question level="1" simple="True" text="Якія правінцыі Канады вылучаюцца найбольшай канцэнтрацыяй прамысловасці?">
+    <answer flag="0" text="Саскачеван і Манітобы"/>
+    <answer flag="1" text="Квебек і Антарыё"/>
+    <answer flag="0" text="Новая Шатландыя і Ньюфаўндленд"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых краін не ўваходзіць у склад Брытанскага Садружнасці Нацый?">
+    <answer flag="0" text="Ямайка"/>
+    <answer flag="0" text="Багамскія Астравы"/>
+    <answer flag="1" text="Панама"/>
+    <answer flag="0" text="Барбадос"/>
+  </question>
+  <question level="1" simple="True" text="Унікальным багаццем Чылі">
+    <answer flag="0" text="нафту"/>
+    <answer flag="0" text="каменны вугаль"/>
+    <answer flag="1" text="салетра"/>
+    <answer flag="0" text="волава"/>
+  </question>
+  <question level="1" simple="True" text="Стэпы Аргентыны называюць">
+    <answer flag="0" text="льянос"/>
+    <answer flag="0" text="Кампас"/>
+    <answer flag="1" text="пампа"/>
+    <answer flag="0" text="прэрыя"/>
+  </question>
+  <question level="1" simple="True" text="Жытніцай Канады з'яўляецца правінцыі">
+    <answer flag="0" text="Манітобы, Брытанская Калумбія"/>
+    <answer flag="0" text="Квебек, Антарыё"/>
+    <answer flag="1" text="Альберта, Саскачеван"/>
+  </question>
+  <question level="1" simple="True" text="Гарадскі агламерацыяй Паўднёвай Амерыкі з насельніцтвам больш за 5 млн чалавек з'яўляюцца">
+    <answer flag="0" text="Монтавідэа"/>
+    <answer flag="1" text="Ліма"/>
+    <answer flag="0" text="Каракас"/>
+    <answer flag="0" text="Порту-Алегри"/>
+  </question>
+</testing>

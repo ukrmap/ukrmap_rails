@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in 1985 - 1991 рр. Bototba for independence">
+  <question level="1" simple="True" text="What occupied the position of party-political leadership of the USSR, headed by V. Shcherbytskyi during 1985 - 1987 рр. reformist course of Gorbachev?">
+    <answer flag="0" text="full support and active implementation of the republic course of democratization of public life"/>
+    <answer flag="1" text="support rate &quot;adjustment&quot; in words and in disregard of the actual blocking reform steps of the central party leadership"/>
+    <answer flag="0" text="categorical refusal to support perestroika, initiated measures conservative party circles to eliminate Gorbachev from power"/>
+    <answer flag="0" text="develop our own concept of reforming the USSR on the basis of market relations in the economic independence of the republic"/>
+  </question>
+  <question level="1" simple="True" text="What demand-hunger strike of students in Kiev in October 1990, Parliament approved the USSR?">
+    <answer flag="0" text="Nationalization of property and CPU LKSMU"/>
+    <answer flag="1" text="The resignation of Prime Minister Viktor Masol"/>
+    <answer flag="0" text="Working-out of military service conscripts in Ukraine"/>
+    <answer flag="0" text="Nepidpysannya Ukraine's new union contract"/>
+  </question>
+  <question level="1" simple="True" text="Do sapience? The impetus for the deployment of the independence movement in the USSR: 1) was the transformation processes in the USSR) was a coup attempt organized HKCHP (DKNS).">
+    <answer flag="0" text="Both are valid"/>
+    <answer flag="1" text="Only 1 correct option"/>
+    <answer flag="0" text="Only 2 are valid"/>
+    <answer flag="0" text="Both incorrect"/>
+  </question>
+  <question level="1" simple="True" text="In what year Mr. Shcherbytskyi been removed from the position of First Secretary and member of the Politburo of the Communist Party Central Committee in connection with retirement?">
+    <answer flag="0" text="1986"/>
+    <answer flag="1" text="1989"/>
+    <answer flag="0" text="1990"/>
+    <answer flag="0" text="1991"/>
+  </question>
+  <question level="1" simple="True" text="Employees of a miners' strike of the mine started in Ukraine in 1989?">
+    <answer flag="1" text="&quot;Deep-Yasinuvatska&quot;"/>
+    <answer flag="0" text="&quot;Central-North&quot;"/>
+    <answer flag="0" text="&quot;Chervonogvardiis'ka&quot;"/>
+    <answer flag="0" text="&quot;Central-Irmino&quot;"/>
+  </question>
+  <question level="1" simple="True" text="With what the Soviet leader linked the emergence of concepts of &quot;openness&quot;, &quot;new political thinking&quot;, &quot;democratization&quot;?">
+    <answer flag="0" text="Leonid Brezhnev"/>
+    <answer flag="0" text="Yuri Andropov"/>
+    <answer flag="0" text="K. Chernenko"/>
+    <answer flag="1" text="Gorbachev"/>
+  </question>
+  <question level="1" simple="True" text="Do sapience? The Chernobyl disaster: 1) sustainable environmental disaster for many regions of Ukraine, 2) started a process of elimination of nuclear energy in Ukraine.">
+    <answer flag="0" text="Both are valid"/>
+    <answer flag="1" text="Only 1 correct option"/>
+    <answer flag="0" text="Only 2 are valid"/>
+    <answer flag="0" text="Both incorrect"/>
+  </question>
+</testing>

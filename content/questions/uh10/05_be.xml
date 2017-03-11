@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Украіна ва ўмовах савецкай мадэрнізацыі.">
+  <question text="Асноўная маса прамысловых прадпрыемстваў Украіны за гады індустрыялізацыі была пабудавана ў">
+    <answer flag="1" text="І пяцігодку"/>
+    <answer flag="0" text="II пяцігодку"/>
+    <answer flag="0" text="III пяцігодку"/>
+  </question>
+  <question text="Хто быў Першым сакратаром ЦК КП (б) У ў 1928-1938 гг?">
+    <answer flag="1" text="Л. Кагановіч"/>
+    <answer flag="0" text="С. Косиор"/>
+    <answer flag="0" text="М. Хрушчоў"/>
+  </question>
+  <question text="Годам &quot;вялікага пералому&quot; называюць">
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1933"/>
+    <answer flag="0" text="1936"/>
+  </question>
+  <question text="У 30-я гады дамінуючым метадам у мастацтве і літаратуры быў:">
+    <answer flag="0" text="крытычны рэалізм"/>
+    <answer flag="1" text="сацыялістычны рэалізм"/>
+    <answer flag="0" text="сімвалізм"/>
+  </question>
+  <question text="Якая галоўная прычына галадамору 1932-1933 гадоў ва Ўкраіне?">
+    <answer flag="0" text="засуха і неўраджай"/>
+    <answer flag="1" text="мэтанакіраваная палітыка вышэйшай камуністычнага кіраўніцтва"/>
+    <answer flag="0" text="агрэсія супраць Украіны суседніх дзяржаў"/>
+    <answer flag="0" text="правал індустрыялізацыі"/>
+  </question>
+  <question text="На якім з з'ездзе ВКП (б) было прынята рашэнне аб калектывізацыі?">
+    <answer flag="0" text="XIV"/>
+    <answer flag="1" text="ХV"/>
+    <answer flag="0" text="XVI"/>
+  </question>
+  <question text="&quot;Сталінская&quot; Канстытуцыя РСФСР была прынята ў">
+    <answer flag="0" text="1929"/>
+    <answer flag="0" text="1934"/>
+    <answer flag="0" text="1936"/>
+    <answer flag="1" text="1937"/>
+  </question>
+  <question text="Якая пяцігодка стала па выразе І. Сталіна час &quot;знішчэнне рэлігіі&quot;?">
+    <answer flag="0" text="Першая"/>
+    <answer flag="1" text="Другая"/>
+    <answer flag="0" text="Трэцяя"/>
+  </question>
+  <question text="Урачыстае адкрыццё Днепрагэс адбылося ў">
+    <answer flag="0" text="1930"/>
+    <answer flag="0" text="1931"/>
+    <answer flag="1" text="1932"/>
+  </question>
+  <question text="Галоўным абвінавачаньнем для ўкраінскіх дзеячаў было">
+    <answer flag="1" text="буржуазны нацыяналізм"/>
+    <answer flag="0" text="шпіянаж"/>
+    <answer flag="0" text="шкодніцтва"/>
+  </question>
+  <question text="Пазначце год абвяшчэння курсу на суцэльную калектывізацыю ў УССР.">
+    <answer flag="0" text="1919"/>
+    <answer flag="1" text="1929"/>
+    <answer flag="0" text="1932"/>
+    <answer flag="0" text="1937"/>
+  </question>
+  <question text="Пакажыце судовы працэс, на якім былі асуджаныя да розных тэрмінаў зняволення С. Яфрэмава, М. Слабченко, І. Гермайзе і іншых прадстаўнікоў украінскай інтэлігенцыі.">
+    <answer flag="1" text="справа &quot;Саюза вызвалення Украіны&quot;"/>
+    <answer flag="0" text="&quot;Шахцінскі справа&quot;"/>
+    <answer flag="0" text="справа &quot;Украінскага нацыянальнага цэнтра&quot;"/>
+    <answer flag="0" text="справа &quot;Украінскай ваеннай арганізацыі&quot;"/>
+  </question>
+</testing>

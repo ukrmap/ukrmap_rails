@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Hetman land and right-bank Ukraine in late XVII - early XVIII century.">
+  <question level="1" simple="True" text="When and where born Ivan Mazepa?">
+    <answer flag="0" text="1627 in Chyhyryn"/>
+    <answer flag="1" text="1639 in Kiev region"/>
+  </question>
+  <question level="1" simple="True" text="What city was the seat of Hetman Mazepa for?">
+    <answer flag="1" text="Baturin"/>
+    <answer flag="0" text="Deaf"/>
+    <answer flag="0" text="Chigirin"/>
+  </question>
+  <question level="1" simple="True" text="What year began Hetman I. Mazepa?">
+    <answer flag="0" text="1672 p."/>
+    <answer flag="1" text="1687 p."/>
+  </question>
+  <question level="1" simple="True" text="What were the name of the treaty article on Ivan Mazepa and the tsarist government?">
+    <answer flag="0" text="Hluhivskyh"/>
+    <answer flag="1" text="Kolomaksky"/>
+    <answer flag="0" text="Konotop"/>
+  </question>
+  <question level="1" simple="True" text="What Kolomaksky article differed from Hlukhivsky?">
+    <answer flag="1" text="According to articles in Kolomaksky Hetmanate increased power kings, were even more limited rights and Hetman Hetman's government"/>
+    <answer flag="0" text="Unlike Hlukhivsky Kolomaksky article included the allocation between Ukraine and Muscovy mutually beneficial and equal relations"/>
+  </question>
+  <question level="1" simple="True" text="What was the purpose of domestic policy Mazepa?">
+    <answer flag="0" text="Contributed to the absorption of Hetman Ukraine Russia"/>
+    <answer flag="1" text="Was aimed at creating a Western state model with preservation of the traditional Cossack system"/>
+  </question>
+  <question level="1" simple="True" text="Which measures resorted Ivan Mazepa in cultural and educational field?">
+    <answer flag="1" text="Assisted in the construction and reconstruction of architectural structures, the development of national education and typography"/>
+    <answer flag="0" text="Prohibiting printing in Ukrainian, Ukrainian persecuted writers, scientists, cultural life subordinated guidelines and prescriptions royal officials"/>
+  </question>
+  <question level="1" simple="True" text="Why Polish government allowed to recover on the Right Bank cossacks?">
+    <answer flag="1" text="To protect themselves from attacks of the Turkish-Tatar hordes who freely through the devastation Right Bank advanced deep into Polish territory"/>
+    <answer flag="0" text="To later restore the Cossack state on the Right Bank"/>
+  </question>
+  <question level="1" simple="True" text="Who was the associate Semen piles on the right bank?">
+    <answer flag="1" text="Samiylo I. (Samus), Andrew Abazyn, Zechariah spark"/>
+    <answer flag="0" text="Michael Myklashevska John Skoropadskyi, James Lyzogub"/>
+  </question>
+  <question level="1" simple="True" text="What regiments were created as a result of recovery on the Right Bank cossacks?">
+    <answer flag="1" text="Boguslavsky, Korsunsky, Bratslavsky, Fastovsky (Bilotserkivskiy)"/>
+    <answer flag="0" text="Sumy, Ohtirsky, Izyumskyy, Ostrohozkyy"/>
+  </question>
+  <question level="1" simple="True" text="What caused the national liberation uprising of 1702-1704 he was the right bank?">
+    <answer flag="1" text="Actions of the Polish government, which zalahodyvshy case with Turkey, no longer needed the help of Cossacks, and therefore decided to eliminate the Right Bank cossacks"/>
+    <answer flag="0" text="Actions of the Moscow government, which, seeking to conquer the land right bank, ordered left-bank hetman take a right-bank shelves"/>
+  </question>
+  <question level="1" simple="True" text="What ended the uprising 1702-1704 biennium?">
+    <answer flag="1" text="Defeat the insurgents, the power switch right bank of Ivan Mazepa"/>
+    <answer flag="0" text="Association of Left-Bank Right Bank regiments under the rule Hetmanate S. Paliy"/>
+  </question>
+</testing>

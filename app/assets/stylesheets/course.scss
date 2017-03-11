@@ -1,0 +1,14 @@
+table.course tr td a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+table.course tr td a:hover {
+  text-decoration: none;
+}
+
+table.course tr td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

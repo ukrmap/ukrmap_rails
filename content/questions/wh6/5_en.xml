@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ancient History of the Ukrainian lands">
+  <question level="1" simple="True" text="What are the archaeological finds were made in the village. Queen (Transcarpathia)?">
+    <answer flag="1" text="Tools, &quot;the man pryamohodyachoyi&quot;"/>
+    <answer flag="0" text="Remains of Neanderthal"/>
+    <answer flag="0" text="The remains of Australopithecus settlement"/>
+  </question>
+  <question level="1" simple="True" text="Near the settlement of which was found buried Neanderthals?">
+    <answer flag="0" text="Tripoli"/>
+    <answer flag="0" text="Dobranychivka"/>
+    <answer flag="1" text="Kyyik-Koba"/>
+  </question>
+  <question level="1" simple="True" text="When, under the assumptions of archaeologists, could be the first people in Ukraine?">
+    <answer flag="0" text="About 2 million years ago"/>
+    <answer flag="0" text="Around 1.7 million years ago"/>
+    <answer flag="0" text="About 1,5 million years ago"/>
+    <answer flag="1" text="About 1 million years ago"/>
+    <answer flag="0" text="About 500 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="When, the first farmers and herders in Ukraine?">
+    <answer flag="0" text="About 10 thousand years ago"/>
+    <answer flag="1" text="About 7 thousand years ago"/>
+    <answer flag="0" text="About 5 thousand years ago"/>
+    <answer flag="0" text="About 30 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="As scientists have named representatives of the ancient agricultural culture in the Neolithic Ukraine?">
+    <answer flag="0" text="Scythians"/>
+    <answer flag="0" text="Cimmerians"/>
+    <answer flag="1" text="Trypillia"/>
+  </question>
+  <question level="1" simple="True" text="As the largest Sarmatian tribes were called?">
+    <answer flag="1" text="Yazigi"/>
+    <answer flag="1" text="Roksolany"/>
+    <answer flag="1" text="Aorsy"/>
+    <answer flag="0" text="Skiry"/>
+    <answer flag="1" text="Sirak"/>
+    <answer flag="0" text="Bastarny"/>
+  </question>
+  <question level="1" simple="True" text="What names are Scythian burial mounds, which are found in Ukraine?">
+    <answer flag="1" text="Chortomlyk"/>
+    <answer flag="1" text="Mariupol"/>
+    <answer flag="0" text="Mylohrad"/>
+    <answer flag="1" text="Oguz"/>
+  </question>
+  <question level="1" simple="True" text="In what year BC. BC Persian King Darius I went to conquer the ancient land of Ukraine and whose resistance he did not beat and then?">
+    <answer flag="0" text="521"/>
+    <answer flag="1" text="514"/>
+    <answer flag="0" text="510"/>
+    <answer flag="0" text="Sarmatians"/>
+    <answer flag="0" text="Cimmerians"/>
+    <answer flag="1" text="Scythians"/>
+  </question>
+  <question level="1" simple="True" text="As called state that existed in the Ukrainian territory in VII - IV centuries. BC. BC?">
+    <answer flag="0" text="Persia"/>
+    <answer flag="1" text="Great Scythia"/>
+    <answer flag="0" text="Assyria"/>
+    <answer flag="0" text="Phoenicia"/>
+  </question>
+  <question level="1" simple="True" text="What is the name of ancient and modern capital of the kingdom of Bosporus?">
+    <answer flag="0" text="Chersonese"/>
+    <answer flag="0" text="Olbia"/>
+    <answer flag="1" text="Panticapaeum"/>
+    <answer flag="0" text="Sevastopol"/>
+    <answer flag="0" text="Nikolaev"/>
+    <answer flag="1" text="Kerch"/>
+  </question>
+  <question level="1" simple="True" text="What nations are in different times inhabited territory of contemporary Ukraine?">
+    <answer flag="0" text="Celts"/>
+    <answer flag="1" text="Slavs"/>
+    <answer flag="1" text="Cimmerians"/>
+    <answer flag="1" text="Scythians"/>
+    <answer flag="1" text="Sarmatians"/>
+  </question>
+  <question level="1" simple="True" text="What are the Slavic tribes residing in Ukraine?">
+    <answer flag="0" text="Gauthier"/>
+    <answer flag="1" text="Anti"/>
+    <answer flag="1" text="Sklavyny"/>
+    <answer flag="0" text="Huns"/>
+  </question>
+</testing>

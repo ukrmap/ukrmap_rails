@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="France in the XVI - first half XVII.">
+  <question level="1" simple="True" text="What city was the capital of France in the XVI century.?">
+    <answer flag="0" text="Marseille"/>
+    <answer flag="0" text="Orleans"/>
+    <answer flag="1" text="Paris"/>
+    <answer flag="0" text="Le Havre"/>
+  </question>
+  <question level="1" simple="True" text="In which part of the French Huguenots kingdom movement gained the support of the largest population?">
+    <answer flag="0" text="the north"/>
+    <answer flag="1" text="the south"/>
+  </question>
+  <question level="1" simple="True" text="War ended with the signing of Italian:">
+    <answer flag="1" text="peace with the Kato-Kambrezi"/>
+    <answer flag="0" text="Edict of Nantes"/>
+    <answer flag="0" text="Nantes mercy"/>
+    <answer flag="0" text="&quot;Act suprematiyu&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Huguenots were adherents:">
+    <answer flag="0" text="Lutheranism"/>
+    <answer flag="1" text="kalvinyzmu"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Fire House&quot; led the fight against:">
+    <answer flag="0" text="Catholics"/>
+    <answer flag="1" text="Protestants"/>
+    <answer flag="0" text="criminals"/>
+    <answer flag="0" text="beggars"/>
+  </question>
+  <question level="1" simple="True" text="When were the events that became known as the &quot;Massacre of St. Bartholomew?">
+    <answer flag="0" text="1562"/>
+    <answer flag="0" text="1565"/>
+    <answer flag="1" text="1572"/>
+    <answer flag="0" text="1575"/>
+  </question>
+  <question level="1" simple="True" text="Which royal dynasty established itself in France after Henry of Navarre took the throne?">
+    <answer flag="1" text="Bourbon"/>
+    <answer flag="0" text="Valois"/>
+    <answer flag="0" text="The Tudors"/>
+    <answer flag="0" text="Stewards"/>
+  </question>
+  <question level="1" simple="True" text="Who owns statement: &quot;The state is me&quot;?">
+    <answer flag="0" text="Henry III"/>
+    <answer flag="0" text="Henry IV"/>
+    <answer flag="0" text="Louis XIII"/>
+    <answer flag="1" text="Louis XIV"/>
+  </question>
+  <question level="1" simple="True" text="Cardinal Richelieu was the first minister of the King:">
+    <answer flag="0" text="Henry III"/>
+    <answer flag="0" text="Henry IV"/>
+    <answer flag="1" text="Louis XIII"/>
+    <answer flag="0" text="Louis XIV"/>
+  </question>
+  <question level="1" simple="True" text="When issued &quot;Edict of mercy?">
+    <answer flag="0" text="1562"/>
+    <answer flag="0" text="1572"/>
+    <answer flag="0" text="1598"/>
+    <answer flag="1" text="1629"/>
+  </question>
+  <question level="1" simple="True" text="Thirty Years' War ended the reign of French King:">
+    <answer flag="0" text="Henry III"/>
+    <answer flag="0" text="Henry IV"/>
+    <answer flag="0" text="Louis XIII"/>
+    <answer flag="1" text="Louis XIV"/>
+  </question>
+  <question level="1" simple="True" text="Louis XIV Colbert appointed to the post:">
+    <answer flag="0" text="first Minister"/>
+    <answer flag="0" text="War Minister"/>
+    <answer flag="1" text="Minister of Finance"/>
+    <answer flag="0" text="Army Headquarters"/>
+  </question>
+</testing>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="АФРЫКА">
+  <question level="1" simple="True" text="Першым даследчыкам унутраных раёнаў Афрыкі быў:">
+    <answer flag="1" text="Давід Лівінгстан"/>
+    <answer flag="0" text="Генры Стэнлі"/>
+    <answer flag="0" text="Васка да Гама"/>
+  </question>
+  <question level="1" simple="True" text="Крайняй паўднёвай кропкай Афрыкі з'яўляюцца:">
+    <answer flag="0" text="мыс Добрай Надзеі"/>
+    <answer flag="1" text="мыс Агульяс"/>
+    <answer flag="0" text="мыс Рос-Энгель"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца правільным?">
+    <answer flag="1" text="Афрыка - самы гарачы кантынент"/>
+    <answer flag="0" text="Афрыка - самы кантынент"/>
+    <answer flag="0" text="Афрыка - самы сухі мацярык"/>
+  </question>
+  <question level="1" simple="True" text="Найвысокай вяршыняй Афрыкі з'яўляюцца:">
+    <answer flag="0" text="г. Косцюшко"/>
+    <answer flag="1" text="г. Кіліманджара"/>
+    <answer flag="0" text="г. Кенія"/>
+  </question>
+  <question level="1" simple="True" text="У якой частцы Афрыкі знаходзяцца Драконавыя горы?">
+    <answer flag="0" text="На поўначы"/>
+    <answer flag="1" text="На паўднёвым усходзе"/>
+    <answer flag="0" text="На ўсходзе"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца правільным?">
+    <answer flag="0" text="На фарміраванне клімату Сахары значны ўплыў мае Міжземнае мора"/>
+    <answer flag="0" text="Сахара - засушлівыя пустыні планеты"/>
+    <answer flag="1" text="Сахара - найбуйнейшая пустыня планеты"/>
+  </question>
+  <question level="1" simple="True" text="Якое сцвярджэнне з'яўляецца правільным?">
+    <answer flag="0" text="Ніл - самая паўнаводная рака Афрыкі"/>
+    <answer flag="0" text="Конга - самая паўнаводная рака планеты"/>
+    <answer flag="1" text="Ніл - самая доўгая рака свету"/>
+  </question>
+  <question level="1" simple="True" text="Якое возера з'яўляецца самым глыбокім у Афрыцы?">
+    <answer flag="1" text="Танганьіка"/>
+    <answer flag="0" text="Вікторыя"/>
+    <answer flag="0" text="Тана"/>
+  </question>
+  <question level="1" simple="True" text="Якая рака адносіцца да басейна Індыйскага акіяна?">
+    <answer flag="0" text="Нігер"/>
+    <answer flag="1" text="Замбези"/>
+    <answer flag="0" text="Конга"/>
+  </question>
+  <question level="1" simple="True" text="Як завуць у Афрыцы сухія рачныя даліны, вада ў якіх з'яўляецца толькі перыядычна?">
+    <answer flag="0" text="Аазісы"/>
+    <answer flag="1" text="Вадзі"/>
+    <answer flag="0" text="Маскоги"/>
+  </question>
+  <question level="1" simple="True" text="Сярод насельніцтва краін Паўночнай Афрыкі найбольш распаўсюджанай рэлігіяй з'яўляецца:">
+    <answer flag="0" text="Хрысціянства"/>
+    <answer flag="1" text="Іслам"/>
+    <answer flag="0" text="Будызм"/>
+  </question>
+  <question level="1" simple="True" text="Да катэгорыі развітых дзяржаў свету належыць:">
+    <answer flag="0" text="Егіпет"/>
+    <answer flag="0" text="Лівія"/>
+    <answer flag="1" text="Паўднёвая Афрыка"/>
+  </question>
+</testing>

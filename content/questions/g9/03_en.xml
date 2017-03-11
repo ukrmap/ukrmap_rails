@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Facilities">
+  <question level="1" simple="True" text="Which answers are correct?">
+    <answer flag="1" text="Kiev - the largest shipbuilding center of the state"/>
+    <answer flag="0" text="Lviv - Ukraine Bus United Center"/>
+    <answer flag="1" text="Osh - Center ferrous metallurgy in Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="Which answers are correct?">
+    <answer flag="1" text="In the three cities of Ukraine operates Metro"/>
+    <answer flag="0" text="In Ukraine five operating nuclear power plants"/>
+    <answer flag="1" text="Eurotunnel is the largest cargo port of Ukraine"/>
+  </question>
+  <question level="1" simple="True" text="Most of the coal reserves are located in Ukraine:">
+    <answer flag="0" text="Dnieper Basin"/>
+    <answer flag="0" text="Lviv-Volyn Basin"/>
+    <answer flag="1" text="Donets Basin"/>
+  </question>
+  <question level="1" simple="True" text="What are the answers wrong?">
+    <answer flag="0" text="Most of the coal produced in Ukraine mine (closed) method"/>
+    <answer flag="1" text="For the Donbass mines typical small depth of coal seams"/>
+    <answer flag="0" text="Ukraine has deposits of uranium ore"/>
+    <answer flag="1" text="Brown coal has a higher calorific value than bituminous"/>
+  </question>
+  <question level="1" simple="True" text="The largest share of gross national product of Ukraine is:">
+    <answer flag="0" text="agriculture"/>
+    <answer flag="1" text="industry"/>
+    <answer flag="0" text="Construction and communications"/>
+  </question>
+  <question level="1" simple="True" text="What are the options 'name AES - satellite city' right?">
+    <answer flag="1" text="Rivne - Kuznetsovsk"/>
+    <answer flag="0" text="Zaporozhye - Yuzhnoukrainsk"/>
+    <answer flag="1" text="Khmelnytsky - Netishyn"/>
+    <answer flag="0" text="South - Energodar"/>
+  </question>
+  <question level="1" simple="True" text="Select the correct statement.">
+    <answer flag="1" text="To the central economic region consists of Cherkassy and Kirovograd"/>
+    <answer flag="1" text="The main portion of iron ore in Ukraine gives Rig pool"/>
+    <answer flag="0" text="Most of the Ukrainian electricity produced at hydroelectric"/>
+    <answer flag="1" text="Mykolayiv Alumina Plant is a large"/>
+  </question>
+  <question level="1" simple="True" text="With great resort cities listed Tsetr are:">
+    <answer flag="0" text="New Kakhovka"/>
+    <answer flag="1" text="Mirgorod"/>
+    <answer flag="0" text="Zhitomir"/>
+    <answer flag="1" text="Berdyansk"/>
+  </question>
+  <question level="1" simple="True" text="Importation of goods from abroad is called:">
+    <answer flag="1" text="imports"/>
+    <answer flag="0" text="export"/>
+    <answer flag="0" text="barter"/>
+  </question>
+  <question level="1" simple="True" text="South plant is:">
+    <answer flag="0" text="in Odessa"/>
+    <answer flag="0" text="in the Zaporozhye region"/>
+    <answer flag="1" text="in the Mykolaiv region"/>
+  </question>
+  <question level="1" simple="True" text="Center of ferrous metallurgy in Ukraine are:">
+    <answer flag="0" text="Kramatorsk"/>
+    <answer flag="1" text="Zaporozhye"/>
+    <answer flag="0" text="Kharkiv"/>
+  </question>
+  <question level="1" simple="True" text="Valid claims are">
+    <answer flag="0" text="Energodar is a satellite city plant, located in western Ukraine"/>
+    <answer flag="1" text="Kiev is Ukraine's largest automotive center"/>
+    <answer flag="1" text="The deposits of uranium ore in Ukraine are concentrated in Kirovohrad and Dnipropetrovsk"/>
+    <answer flag="0" text="Ukraine fully meets the needs of petroleum products due to their petroleum refinery"/>
+  </question>
+  <question level="1" simple="True" text="What phrase is correct?">
+    <answer flag="1" text="Kramatorska CHP"/>
+    <answer flag="0" text="Rivne HPS"/>
+    <answer flag="1" text="Khmelnitsky NPP"/>
+    <answer flag="0" text="Tashlitska TES"/>
+  </question>
+  <question level="1" simple="True" text="The main centers of production of brown coal are:">
+    <answer flag="0" text="Donetsk"/>
+    <answer flag="1" text="Vatutine"/>
+    <answer flag="0" text="Makiyivka"/>
+    <answer flag="1" text="Alexandria"/>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;AES - city satellite">
+    <answer text="Rivne -"/>
+    <answer text="Zaporozhye -"/>
+    <answer text="Khmelnytsky -"/>
+    <answer text="South -"/>
+    <variant>
+      <item flag="0" text="Pripyat"/>
+      <item flag="1" text="Kuznetsovsk"/>
+      <item flag="3" text="Netishyn"/>
+      <item flag="2" text="Energodar"/>
+      <item flag="4" text="Yuzhnoukrainsk"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;areas - economic area&quot;">
+    <answer text="Volyn, Rivne -"/>
+    <answer text="Cherkassy, Kirovograd -"/>
+    <answer text="Dnipropetrovsk, Zaporizhzhya -"/>
+    <answer text="Donetsk, Luhansk -"/>
+    <variant>
+      <item flag="2" text="Central"/>
+      <item flag="1" text="Northwest"/>
+      <item flag="4" text="Donetsk"/>
+      <item flag="0" text="Capital"/>
+      <item flag="3" text="Prydneprovsk"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;- City of specialty mechanical engineering&quot;">
+    <answer text="Nicholas -"/>
+    <answer text="Osh -"/>
+    <answer text="White Church -"/>
+    <answer text="Kharkiv -"/>
+    <variant>
+      <item flag="2" text="Automotive"/>
+      <item flag="3" text="Agricultural Machinery"/>
+      <item flag="0" text="Bus"/>
+      <item flag="1" text="Shipbuilding"/>
+      <item flag="4" text="Aircraft"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;- City of specialization&quot;">
+    <answer text="Dnipropetrovsk, Zaporizhzhya -"/>
+    <answer text="Kiev, Borispol -"/>
+    <answer text="Kalush, Stebnyk -"/>
+    <variant>
+      <item flag="3" text="potash fertilizers"/>
+      <item flag="1" text="Nitrogen fertilizer"/>
+      <item flag="2" text="phosphate fertilizer"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Check the consistency between the brand and economic areas">
+    <answer text="NORD -"/>
+    <answer text="Chumak -"/>
+    <answer text="AVIANT -"/>
+    <answer text="Torch -"/>
+    <variant>
+      <item flag="2" text="Black Sea"/>
+      <item flag="1" text="Donetsk"/>
+      <item flag="4" text="Carpathian"/>
+      <item flag="3" text="Capital"/>
+      <item flag="0" text="Central"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;- City of Light Industry Expertise&quot;">
+    <answer text="Tysmenytsia -"/>
+    <answer text="Chernigov -"/>
+    <answer text="Kherson -"/>
+    <variant>
+      <item flag="1" text="wool"/>
+      <item flag="2" text="fur"/>
+      <item flag="3" text="Cotton"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Set the line in pairs &quot;- City of Industry Expertise&quot;">
+    <answer text="Nadvirna -"/>
+    <answer text="Yenakieve -"/>
+    <answer text="Shebelynka -"/>
+    <variant>
+      <item flag="1" text="Refining"/>
+      <item flag="2" text="Coal"/>
+      <item flag="3" text="gas"/>
+    </variant>
+  </question>
+</testing>

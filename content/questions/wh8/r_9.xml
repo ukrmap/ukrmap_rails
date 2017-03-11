@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Країни Сходу в XVI – XVIII ст.">
+  <question level="1" simple="True" text="У якій з країн Сходу поширена кастова система?">
+    <answer flag="0" text="Китай"/>
+    <answer flag="1" text="Індія"/>
+    <answer flag="0" text="Монголія"/>
+  </question>
+  <question level="1" simple="True" text="Хто був засновником держави Великих Моголів?">
+    <answer flag="0" text="Акбар"/>
+    <answer flag="1" text="Бабур"/>
+    <answer flag="0" text="Ауранґзеб"/>
+  </question>
+  <question level="1" simple="True" text="За якого правителя влада Моголів поширилася майже на весь півострів Індостан?">
+    <answer flag="1" text="Акбар"/>
+    <answer flag="0" text="Бабур"/>
+    <answer flag="0" text="Ауранґзеб"/>
+  </question>
+  <question level="1" simple="True" text="У якому році маньчжури захопили Пекін і заснували нову династію Цін?">
+    <answer flag="0" text="1526 р."/>
+    <answer flag="0" text="1571 р."/>
+    <answer flag="1" text="1644 р."/>
+  </question>
+  <question level="1" simple="True" text="Яка династія правила в Китаї напередодні маньчжурського завоювання?">
+    <answer flag="0" text="Цін"/>
+    <answer flag="1" text="Мін"/>
+    <answer flag="0" text="Сун"/>
+  </question>
+  <question level="1" simple="True" text="Якого з турецьких султанів називали &quot;законодавцем&quot;?">
+    <answer flag="1" text="Сулейман І"/>
+    <answer flag="0" text="Селім І"/>
+    <answer flag="0" text="Ахмед І"/>
+  </question>
+  <question level="1" simple="True" text="Найбільшого розквіту Османська імперія досягла за правління султана:">
+    <answer flag="0" text="Селіма І"/>
+    <answer flag="1" text="Сулеймана І"/>
+    <answer flag="0" text="Мохаммеда IV"/>
+  </question>
+  <question level="1" simple="True" text="Селянська війна в Китаї тривала впродовж:">
+    <answer flag="0" text="1620-1639 рр."/>
+    <answer flag="1" text="1639-1644 рр."/>
+    <answer flag="0" text="1644-1656 рр."/>
+  </question>
+  <question level="1" simple="True" text="Славнозвісна мечеть-мавзолей Тадж-Махал є шедевром архітектури:">
+    <answer flag="0" text="Китаю"/>
+    <answer flag="1" text="Імперії Великих Моголів"/>
+    <answer flag="0" text="Османської імперії"/>
+  </question>
+  <question level="1" simple="True" text="Коли було засновано англійську Ост-Індську компанію?">
+    <answer flag="1" text="1600 р."/>
+    <answer flag="0" text="1602 р."/>
+    <answer flag="0" text="1639 р."/>
+  </question>
+  <question level="1" simple="True" text="Битва під Віднем 1683 р. завершилась перемогою:">
+    <answer flag="0" text="турецької армії"/>
+    <answer flag="1" text="військ антитурецької коаліції"/>
+  </question>
+  <question level="1" simple="True" text="Коли відбулася битва під Могачем, в результаті якої Угорщина потрапила під владу Османської імперії?">
+    <answer flag="0" text="1520 р."/>
+    <answer flag="1" text="1526 р."/>
+    <answer flag="0" text="1571 р."/>
+  </question>
+</testing>

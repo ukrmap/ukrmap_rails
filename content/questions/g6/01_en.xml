@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="GEOGRAPHICAL KNOWLEDGE OF EARTH">
+  <question level="1" simple="True" text="In the mind of the people whose land was the hemisphere that holding back the four elephants?">
+    <answer flag="0" text="Ancient Egyptians"/>
+    <answer flag="0" text="Ancient Chinese"/>
+    <answer flag="1" text="The ancient Indians"/>
+  </question>
+  <question level="1" simple="True" text="The first person obrahuvav dimensions of our planet and introduced the concept of &quot;parallel&quot; and &quot;meridians&quot;?">
+    <answer flag="1" text="Eratosthenes"/>
+    <answer flag="0" text="Ptolemy"/>
+    <answer flag="0" text="Behaym"/>
+  </question>
+  <question level="1" simple="True" text="Who first suggested that the Earth has the shape of balls?">
+    <answer flag="0" text="Behaym"/>
+    <answer flag="1" text="Pythagoras"/>
+    <answer flag="0" text="Eratosthenes"/>
+  </question>
+  <question level="1" simple="True" text="Globe as a model of the world first created">
+    <answer flag="0" text="Eratosthenes Kirenskyy"/>
+    <answer flag="1" text="Martin Behaym"/>
+    <answer flag="0" text="Gerard Mercator"/>
+  </question>
+  <question level="1" simple="True" text="Who believe discoverers of Iceland and Greenland?">
+    <answer flag="1" text="Norman"/>
+    <answer flag="0" text="Phoenicians"/>
+    <answer flag="0" text="Egyptians"/>
+  </question>
+  <question level="1" simple="True" text="Who first used the compass in navigation?">
+    <answer flag="1" text="Chinese"/>
+    <answer flag="0" text="Arabs"/>
+    <answer flag="0" text="Normans"/>
+  </question>
+  <question level="1" simple="True" text="The works of European travelers who were once first systematic source of knowledge about China?">
+    <answer flag="1" text="Marco Polo"/>
+    <answer flag="0" text="Athanasius Nikitin"/>
+    <answer flag="0" text="Christopher Columbus"/>
+  </question>
+  <question level="1" simple="True" text="In what year was discovered America?">
+    <answer flag="1" text="In 1492"/>
+    <answer flag="0" text="In 1498"/>
+    <answer flag="0" text="In 1504"/>
+  </question>
+  <question level="1" simple="True" text="Who sailors discovered America?">
+    <answer flag="0" text="Amerigo Vespucci"/>
+    <answer flag="1" text="Christopher Columbus"/>
+    <answer flag="0" text="Ferdinand Magellan"/>
+  </question>
+  <question level="1" simple="True" text="What was the name of the lead ship of Columbus?">
+    <answer flag="0" text="&quot;Santiago&quot;"/>
+    <answer flag="1" text="&quot;Santa Maria&quot;"/>
+    <answer flag="0" text="&quot;Trinidad&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Who first suggested that the new land Columbus discovered is actually an unknown continent?">
+    <answer flag="1" text="Amerigo Vespucci"/>
+    <answer flag="0" text="Ferdinand Magellan"/>
+    <answer flag="0" text="Martin Valdzemyuller"/>
+  </question>
+  <question level="1" simple="True" text="Ferdinand Magellan went down in history as a navigator,">
+    <answer flag="0" text="who discovered America"/>
+    <answer flag="1" text="that led the first round the world"/>
+    <answer flag="0" text="that opened the sea route from Europe to India"/>
+    <answer flag="1" text="entitled a sea of the world's largest"/>
+  </question>
+  <question level="1" simple="True" text="What caravels of Magellan's expedition did not achieve Seville during the first circumnavigation trip?">
+    <answer flag="1" text="&quot;Trinidad&quot;"/>
+    <answer flag="1" text="&quot;San Antonio&quot;"/>
+    <answer flag="0" text="Victoria"/>
+    <answer flag="1" text="&quot;Santiago&quot;"/>
+    <answer flag="1" text="&quot;Konsepsion&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Travelers Who first reached the North Pole?">
+    <answer flag="1" text="Robert Piri"/>
+    <answer flag="0" text="Fritof Nansen"/>
+    <answer flag="0" text="Penguins"/>
+  </question>
+  <question level="1" simple="True" text="Who gave the name of the planet's largest ocean?">
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="1" text="Ferdinand Magellan"/>
+    <answer flag="0" text="Bartolomeu Dias"/>
+  </question>
+  <question level="1" simple="True" text="How to call Australia from 1606 to 1814 years?">
+    <answer flag="0" text="New Britain"/>
+    <answer flag="0" text="New Spain"/>
+    <answer flag="1" text="New Holland"/>
+  </question>
+  <question level="1" simple="True" text="Where in 1779 in a skirmish with natives killed James Cook?">
+    <answer flag="0" text="In the Philippine Islands"/>
+    <answer flag="0" text="At the robber (Marianas) Islands"/>
+    <answer flag="1" text="In Hawaii"/>
+  </question>
+  <question level="1" simple="True" text="Philippine Islands became a place of death">
+    <answer flag="0" text="Christopher Columbus"/>
+    <answer flag="0" text="James Cook"/>
+    <answer flag="1" text="Ferdinand Magellan"/>
+  </question>
+  <question level="1" simple="True" text="What was the nationality of the traveler that first reached the South Pole?">
+    <answer flag="0" text="French"/>
+    <answer flag="0" text="The English"/>
+    <answer flag="1" text="Norwegian"/>
+  </question>
+  <question level="1" simple="True" text="What means of transportation were not used during the expedition Amundsen South Pole conquest?">
+    <answer flag="0" text="Dogs"/>
+    <answer flag="1" text="Horses"/>
+    <answer flag="1" text="Tractors"/>
+  </question>
+  <question level="1" simple="True" text="What was the main reason for the failure of Robert Scott's expedition to the South Pole?">
+    <answer flag="1" text="Poorly chosen move"/>
+    <answer flag="0" text="Inaccurate navigation"/>
+    <answer flag="0" text="Insufficient funding for the expedition"/>
+  </question>
+  <question level="1" simple="True" text="Who of these travelers had Ukrainian roots?">
+    <answer flag="1" text="Lysyansky"/>
+    <answer flag="0" text="Kruzenshtern"/>
+    <answer flag="0" text="Bellingshausen"/>
+  </question>
+  <question level="1" simple="True" text="Where in Antarctica funktsionaye Ukrainian polar station &quot;Akademik Vernadsky&quot;?">
+    <answer flag="1" text="Since 1996"/>
+    <answer flag="0" text="Since 1991"/>
+    <answer flag="0" text="Since 2001"/>
+  </question>
+  <question level="1" simple="True" text="What's the name speed in navigation unit?">
+    <answer flag="0" text="Nmi"/>
+    <answer flag="1" text="Node"/>
+    <answer flag="0" text="Knot"/>
+    <answer flag="0" text="Gordian knot"/>
+  </question>
+</testing>

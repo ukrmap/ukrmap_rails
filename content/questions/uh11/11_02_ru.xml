@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Оккупационный режим в Украине">
+  <question level="1" simple="True" text="Как назывались рейхскомиссариаты, внедрении нацистским командованием на оккупированных землях Советского Союза?">
+    <answer flag="1" text="&quot;Украина&quot;"/>
+    <answer flag="0" text="&quot;Транснистрия&quot;"/>
+    <answer flag="1" text="&quot;Остланд&quot;"/>
+  </question>
+  <question level="1" simple="True" text="В каком городе находилась гитлеровская администрация оккупированной Украине?">
+    <answer flag="0" text="Варшава"/>
+    <answer flag="0" text="Одесса"/>
+    <answer flag="1" text="Ровно"/>
+  </question>
+  <question level="1" simple="True" text="Какой регион был включен в Генеральный губернаторства (Польша)?">
+    <answer flag="0" text="Волынь"/>
+    <answer flag="0" text="Правобережья"/>
+    <answer flag="0" text="Полтавщина"/>
+    <answer flag="1" text="Восточная Галиция"/>
+    <answer flag="0" text="Северная Буковина"/>
+    <answer flag="0" text="Бессарабия"/>
+  </question>
+  <question level="1" simple="True" text="Когда было заключено германо-румынская соглашение о передаче мижириччя Днестра и Южного Буга с городом Одессой?">
+    <answer flag="1" text="19 июля 1941"/>
+    <answer flag="0" text="19 сентября 1941"/>
+    <answer flag="0" text="19 августа 1941"/>
+  </question>
+  <question level="1" simple="True" text="В каких городах прошли массовые расстрелы многолюдных еврейских общин?">
+    <answer flag="0" text="Жмеринка"/>
+    <answer flag="0" text="Бердичев"/>
+    <answer flag="1" text="Янив"/>
+    <answer flag="1" text="Киев"/>
+  </question>
+  <question level="1" simple="True" text="У какого города размещалась Ставка Гитлера (&quot;Вервольф&quot;) в Украину?">
+    <answer flag="0" text="Киев"/>
+    <answer flag="1" text="Винница"/>
+    <answer flag="0" text="Ровно"/>
+    <answer flag="0" text="Вапнярка"/>
+  </question>
+</testing>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Киев в прошлом">
+  <question level="1" simple="True" text="В какой из перечисленных лет Киев имел наибольшее количество жителей?">
+    <answer flag="0" text="900 г."/>
+    <answer flag="1" text="1200"/>
+    <answer flag="0" text="1500"/>
+    <answer flag="0" text="1700"/>
+  </question>
+  <question level="1" simple="True" text="В какой из перечисленных лет Киев имел наименьшее количество жителей?">
+    <answer flag="0" text="1914"/>
+    <answer flag="0" text="1920"/>
+    <answer flag="0" text="1940"/>
+    <answer flag="1" text="1943"/>
+  </question>
+  <question level="1" simple="True" text="Древнейший описание Киева датируется:">
+    <answer flag="0" text="1240 годом"/>
+    <answer flag="1" text="945 годом"/>
+    <answer flag="0" text="1380 годом"/>
+  </question>
+  <question level="1" simple="True" text="Во времена Игоря, Ольги и Святослава большинство населения города проживало на:">
+    <answer flag="0" text="Горе"/>
+    <answer flag="1" text="Подоле"/>
+  </question>
+  <question level="1" simple="True" text="В каком году войско Батыя разрушило столицу Руси?">
+    <answer flag="1" text="В 1240"/>
+    <answer flag="0" text="В 945"/>
+    <answer flag="0" text="В 1147"/>
+  </question>
+  <question level="1" simple="True" text="Как назывался руководящий орган Киева времен Речи Посполитой?">
+    <answer flag="0" text="Парламент"/>
+    <answer flag="1" text="Магистрат"/>
+    <answer flag="0" text="Городская дума"/>
+  </question>
+  <question level="1" simple="True" text="Основателем коллегиума, который действовал в стенах Братского монастыря, был:">
+    <answer flag="0" text="Адам Кисель"/>
+    <answer flag="1" text="Петр Могила"/>
+    <answer flag="0" text="Михаил Ломоносов"/>
+  </question>
+  <question level="1" simple="True" text="Первая киевская типография работала в:">
+    <answer flag="1" text="Печерском монастыре"/>
+    <answer flag="0" text="Софийском монастыре"/>
+    <answer flag="0" text="Михайловском монастыре"/>
+  </question>
+  <question level="1" simple="True" text="Гору, на которой стоял киевский замок, впоследствии стали называть.">
+    <answer flag="0" text="Лиса"/>
+    <answer flag="0" text="Детка"/>
+    <answer flag="1" text="Киселевка"/>
+    <answer flag="0" text="Черепанова"/>
+  </question>
+  <question level="1" simple="True" text="В каком году Екатерина II посетила Киев?">
+    <answer flag="1" text="В 1787 году"/>
+    <answer flag="0" text="В 1616 году"/>
+    <answer flag="0" text="В 1825 году"/>
+  </question>
+  <question level="1" simple="True" text="Саркофаг, в котором захоронены Ярослава Мудрого, находится в:">
+    <answer flag="0" text="Киево-Печерской лавре"/>
+    <answer flag="1" text="Софийском соборе"/>
+    <answer flag="0" text="Михайловском Златоверхом соборе"/>
+  </question>
+  <question level="1" simple="True" text="Какая выдающееся событие в жизни Киева произошло в 1870 году?">
+    <answer flag="0" text="Городу было предоставлено Магдебургское право"/>
+    <answer flag="1" text="В город пришла железная"/>
+    <answer flag="0" text="Киев посетила Екатерина II"/>
+  </question>
+</testing>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Советский Союз в 1945-1953 гг и в 1954-1985 гг">
+  <question level="1" simple="True" text="Какой период в истории СССР приходится на 1945-1953 гг?">
+    <answer flag="1" text="&quot;Сталинизм&quot;"/>
+    <answer flag="0" text="&quot;Оттепель&quot;"/>
+    <answer flag="0" text="Годы &quot;застоя&quot;"/>
+    <answer flag="0" text="&quot;Перестройка&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Какую территорию по договору 1945 г. с Чехословакией были присоединены к СССР?">
+    <answer flag="0" text="Бессарабию"/>
+    <answer flag="0" text="Пивнничну Буковину"/>
+    <answer flag="0" text="Тувинскую Народную Республику"/>
+    <answer flag="1" text="Карпатскую Украину"/>
+  </question>
+  <question level="1" simple="True" text="В каких регионах СССР действовал антисоветское движение сопротивления в 1945-1953 гг?">
+    <answer flag="1" text="Западная Украина"/>
+    <answer flag="1" text="Западная Белоруссия"/>
+    <answer flag="1" text="Прибалтика"/>
+    <answer flag="0" text="Республики Закавказья"/>
+  </question>
+  <question level="1" simple="True" text="Против каких народов во время войны были проведены массовые жестокие карательные операции?">
+    <answer flag="1" text="Калмыков"/>
+    <answer flag="1" text="Поляков"/>
+    <answer flag="0" text="Казахов"/>
+    <answer flag="1" text="Немцев Поволжья"/>
+  </question>
+  <question level="1" simple="True" text="Кто были главными претендентами на власть в СССР после смерти Сталина?">
+    <answer flag="1" text="Хрущев"/>
+    <answer flag="0" text="Молотов"/>
+    <answer flag="0" text="Булганин"/>
+    <answer flag="1" text="Берия"/>
+    <answer flag="1" text="Маленков"/>
+  </question>
+  <question level="1" simple="True" text="В каком году начался период, который в истории СССР называют &quot;Оттепель&quot;?">
+    <answer flag="0" text="1945"/>
+    <answer flag="1" text="1953"/>
+    <answer flag="0" text="1964"/>
+    <answer flag="0" text="1985"/>
+  </question>
+  <question level="1" simple="True" text="В каком году и с территории которого советской республики был запущен первый искусственный спутник Земли?">
+    <answer flag="0" text="1954"/>
+    <answer flag="1" text="1957"/>
+    <answer flag="0" text="1961"/>
+    <answer flag="1" text="Казахской"/>
+    <answer flag="0" text="Узбекской"/>
+    <answer flag="0" text="Российской"/>
+  </question>
+  <question level="1" simple="True" text="Какая республика СССР была одним из главных районов освоения целинных и залежных земель в 1954 - 1960 гг.?">
+    <answer flag="0" text="Украинская ССР"/>
+    <answer flag="1" text="Казахская ССР"/>
+    <answer flag="0" text="Туркменская ССР"/>
+    <answer flag="0" text="Якутская АССР"/>
+  </question>
+  <question level="1" simple="True" text="Какой период своей истории переживал СССР в 1964 - 1985 гг.?">
+    <answer flag="0" text="&quot;Сталинизм&quot;"/>
+    <answer flag="0" text="&quot;Оттепель&quot;"/>
+    <answer flag="1" text="Годы &quot;застоя&quot;"/>
+    <answer flag="0" text="&quot;Перестройка&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Кто занял пост Генерального секретаря ЦК КПСС в марте 1985 г.?">
+    <answer flag="0" text="Сталин"/>
+    <answer flag="0" text="Хрущев"/>
+    <answer flag="0" text="Брежнев"/>
+    <answer flag="0" text="Андропов"/>
+    <answer flag="1" text="Горбачев"/>
+  </question>
+  <question level="1" simple="True" text="Когда происходило вторжение советских войск в Авганистан?">
+    <answer flag="0" text="1949-1980 гг"/>
+    <answer flag="0" text="1956-1962 гг"/>
+    <answer flag="0" text="1954-1960 гг"/>
+    <answer flag="0" text="1974-1984 гг"/>
+    <answer flag="1" text="1979-1989 гг"/>
+  </question>
+  <question level="1" simple="True" text="Когда осуществлялось строительство Байкало-Амурской магистрали?">
+    <answer flag="0" text="1979-1989 гг"/>
+    <answer flag="0" text="1956-1962 гг"/>
+    <answer flag="0" text="1954-1960 гг"/>
+    <answer flag="1" text="1974-1984 гг"/>
+  </question>
+</testing>

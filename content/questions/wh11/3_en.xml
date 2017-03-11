@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Second World War (Events November 19, 1942 - 9 May 1945)">
+  <question level="1" simple="True" text="In which city, with the participation of states in November-December 1943 historical conference was held to develop the final strategy against Germany and its allies, and opening a second front in Western Europe?">
+    <answer flag="0" text="Yalta"/>
+    <answer flag="1" text="Tehran"/>
+    <answer flag="0" text="Potsdam"/>
+    <answer flag="1" text="USSR"/>
+    <answer flag="0" text="France"/>
+    <answer flag="1" text="U.S."/>
+    <answer flag="1" text="Great Britain"/>
+    <answer flag="0" text="China"/>
+  </question>
+  <question level="1" simple="True" text="Course of events which changed the largest tank battle of World War II that took place during Prokhorovka July 12, 1943?">
+    <answer flag="0" text="Battle of Stalingrad"/>
+    <answer flag="0" text="Battle for Moscow"/>
+    <answer flag="1" text="Kursk battle"/>
+    <answer flag="0" text="Battle of the Dnieper"/>
+  </question>
+  <question level="1" simple="True" text="The troops are fronts and under whose command participated in Korsun-Shevchenko Operation?">
+    <answer flag="1" text="1 st Ukrainian"/>
+    <answer flag="1" text="2-Ukrainian"/>
+    <answer flag="0" text="4-th Ukrainian"/>
+    <answer flag="1" text="M. Vatutin"/>
+    <answer flag="1" text="Ivan Konev"/>
+    <answer flag="0" text="F. Tolbukhina"/>
+  </question>
+  <question level="1" simple="True" text="When was conducted as a result of a successful offensive which ended the 900-day blockade of Leningrad?">
+    <answer flag="0" text="January 27 - February 17, 1944"/>
+    <answer flag="1" text="January 14 - February 29, 1944"/>
+    <answer flag="0" text="23chervnya - August 29, 1944"/>
+    <answer flag="0" text="20-29 August 1944"/>
+  </question>
+  <question level="1" simple="True" text="How and where called Fate of operation carried out by anti-Hitler coalition allies from June 6 - July 24, 1944?">
+    <answer flag="0" text="Operation Bagration &quot;"/>
+    <answer flag="0" text="Operation Dragoon &quot;"/>
+    <answer flag="1" text="Operation Overlord &quot;"/>
+    <answer flag="1" text="Nomandiya"/>
+    <answer flag="0" text="Sicily"/>
+    <answer flag="0" text="North Africa"/>
+  </question>
+  <question level="1" simple="True" text="What transactions were conducted and who liberated the country during the liberation mission of the Soviet army in Europe?">
+    <answer flag="1" text="Yasko-Kyshynivs'ka"/>
+    <answer flag="1" text="Belgrade"/>
+    <answer flag="0" text="Ardenska"/>
+    <answer flag="1" text="Romania"/>
+    <answer flag="1" text="Bulgaria"/>
+    <answer flag="1" text="Yugoslavia"/>
+  </question>
+  <question level="1" simple="True" text="When was the adventurous attack German troops in the Ardennes?">
+    <answer flag="0" text="16-26 November 1944"/>
+    <answer flag="1" text="16-26 December 1944"/>
+    <answer flag="0" text="16-26 January 1944"/>
+    <answer flag="0" text="16-26 November 1945"/>
+  </question>
+  <question level="1" simple="True" text="When was the Yalta Conference and pryymyav who participate in it?">
+    <answer flag="1" text="04/11 February 1945"/>
+    <answer flag="0" text="April 25 - June 26, 1945"/>
+    <answer flag="0" text="July 17 - August 2, 1945"/>
+    <answer flag="1" text="Stalin"/>
+    <answer flag="1" text="Roosevelt"/>
+    <answer flag="1" text="Churchill"/>
+  </question>
+  <question level="1" simple="True" text="When the Act was signed the unconditional surrender of German armed forces?">
+    <answer flag="0" text="May 7, 1945"/>
+    <answer flag="1" text="May 8, 1945"/>
+    <answer flag="0" text="May 9, 1945"/>
+  </question>
+</testing>

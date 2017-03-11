@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Geography of Natural Resources">
+  <question text="Fuel resources are">
+    <answer flag="1" text="exhaustible and non-renewable"/>
+    <answer flag="0" text="exhaustible and renewable"/>
+    <answer flag="0" text="inexhaustible and renewable"/>
+  </question>
+  <question text="In which hemisphere are concentrated major deposits of coal?">
+    <answer flag="1" text="In North"/>
+    <answer flag="0" text="In Southern"/>
+  </question>
+  <question text="The richest country in the world of water resources is">
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="China"/>
+    <answer flag="1" text="Canada"/>
+  </question>
+  <question text="Which one of the worst forest resources provided?">
+    <answer flag="0" text="Sweden"/>
+    <answer flag="0" text="Canada"/>
+    <answer flag="1" text="Afghanistan"/>
+    <answer flag="0" text="India"/>
+  </question>
+  <question text="Which country is best ensured arable land per capita?">
+    <answer flag="0" text="U.S."/>
+    <answer flag="0" text="India"/>
+    <answer flag="1" text="Kazakhstan"/>
+    <answer flag="0" text="Ukraine"/>
+  </question>
+  <question text="Which of the following countries has the most favorable combination of agroclimatic resources?">
+    <answer flag="0" text="Australia"/>
+    <answer flag="1" text="Ukraine"/>
+    <answer flag="0" text="India"/>
+    <answer flag="0" text="Israel"/>
+  </question>
+  <question text="Which country is more extensive use of underground thermal water?">
+    <answer flag="0" text="Japan"/>
+    <answer flag="1" text="Iceland"/>
+    <answer flag="0" text="Indonesia"/>
+  </question>
+  <question text="The largest in hydroelectric capacity in the world is">
+    <answer flag="0" text="Grand Coulee (USA)"/>
+    <answer flag="1" text="Itaipu (Brazil / Paraguay)"/>
+    <answer flag="0" text="Gechzhouba (China)"/>
+    <answer flag="0" text="Bratsk (Russia)"/>
+  </question>
+  <question text="Placement of biological resources depends on">
+    <answer flag="0" text="level of economic development"/>
+    <answer flag="1" text="ratio of heat and moisture"/>
+    <answer flag="0" text="crustal structure"/>
+  </question>
+  <question text="Tectonic structures, which are associated with deposits of fossil fuels, it">
+    <answer flag="0" text="shields of ancient platforms"/>
+    <answer flag="0" text="of Cenozoic folding"/>
+    <answer flag="1" text="foredeep"/>
+    <answer flag="0" text="of Mesozoic folding"/>
+  </question>
+  <question text="Scroll to the right answers">
+    <answer flag="1" text="In Russia, the largest reserves of natural gas"/>
+    <answer flag="1" text="In Saudi Arabia the largest oil reserves"/>
+    <answer flag="0" text="Russia takes first place in the diamond mining"/>
+  </question>
+  <question text="The oldest national park in the world is">
+    <answer flag="0" text="Wood Buffalo"/>
+    <answer flag="1" text="Yellowstone"/>
+    <answer flag="0" text="Ngorongoro"/>
+  </question>
+</testing>

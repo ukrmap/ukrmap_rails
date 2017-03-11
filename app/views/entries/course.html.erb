@@ -1,0 +1,8 @@
+<% content_for :title, @entry.title %>
+<h1><%= @entry.title %></h1>
+
+<table class="table table-hover course">
+  <tbody>
+  <%= render partial: "entry_row", collection: @entries, as: :entry %>
+  </tbody>
+</table>

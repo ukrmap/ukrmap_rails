@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Development of Culture of Ukraine in the second half of XVII - the first half of XVIII century.">
+  <question level="1" simple="True" text="In which cities and Hetmanate Slobozhanshchina in the first half XVII. acting colleges?">
+    <answer flag="1" text="Chernihiv, Kharkiv, Pereyaslav"/>
+    <answer flag="0" text="Lviv, Odessa, Kiev"/>
+  </question>
+  <question level="1" simple="True" text="In cities where there were major left-bank Ukraine printing?">
+    <answer flag="1" text="Kyiv and Chernihiv"/>
+    <answer flag="0" text="Lviv and Lutsk"/>
+  </question>
+  <question level="1" simple="True" text="Which university in Ukraine was a major center of science and art during the second half of XVII - XVIII century the first half.?">
+    <answer flag="0" text="Ostrog Academy"/>
+    <answer flag="1" text="Kyiv Mohyla Academy"/>
+  </question>
+  <question level="1" simple="True" text="Which city is called the music capital of Ukraine dated Hetman Kirill Razumovsky?">
+    <answer flag="0" text="Baturin"/>
+    <answer flag="1" text="Deaf"/>
+  </question>
+  <question level="1" simple="True" text="Which of the architectural structures were built or rebuilt by Hetman Ivan Mazepa in Ukrainian Cossack Baroque style?">
+    <answer flag="1" text="All Saints Church on the Economic Gate of Kiev-Pechersk Lavra, St. Sophia and St. Michael's Cathedral in Kiev, the Assumption Cathedral and Trinity Church Gate of Kiev-Pechersk Lavra"/>
+    <answer flag="0" text="Transfiguration Cathedral in Mhar, St. George's Cathedral Vydubytsky monastery in Kiev"/>
+  </question>
+  <question level="1" simple="True" text="Which attractions are architectural structures in the style of Ukrainian Cossack Baroque?">
+    <answer flag="1" text="Pokrovsky Cathedral in Kharkiv, Transfiguration Cathedral Mhar House, J. Lyzohub (Regimental Office) in Chernigov"/>
+    <answer flag="0" text="Chapel Kampianiv of Latin church in Lviv, in Ukraine building Kornyakta"/>
+  </question>
+  <question level="1" simple="True" text="Who is the most prominent artists of that time graphic artist, Ukrainian Baroque masters?">
+    <answer flag="1" text="Alexander Tarasevich, Leonti Tarasevich, John Schyrskyy"/>
+    <answer flag="0" text="Lazarus Baranovych, Feofan Prokopovich, Michael Myklashevska"/>
+  </question>
+  <question level="1" simple="True" text="What is the most famous artists of Ukrainian Baroque painters?">
+    <answer flag="0" text="Zinovy Clement and John Velichkovsky"/>
+    <answer flag="1" text="John Rutkovych and Job Kondzelevych"/>
+  </question>
+  <question level="1" simple="True" text="Which of the works written in the genre of historical prose?">
+    <answer flag="1" text="&quot;Synopsis&quot;, &quot;Chronicles of ancient chroniclers&quot;"/>
+    <answer flag="0" text="&quot;Zehar with poluzeharkom&quot;, &quot;key of knowledge&quot;, Chetyi-mineral"/>
+  </question>
+  <question level="1" simple="True" text="Who is the most famous artists of the Cossacks chronicler?">
+    <answer flag="1" text="Gregory Hrabianka and Samiylo Velichko"/>
+    <answer flag="0" text="Daniel Lazar Baranovych Tuptalo"/>
+  </question>
+  <question level="1" simple="True" text="Which artists are prominent church leaders, writers?">
+    <answer flag="0" text="Michael Myklashevska John Velichkovsky John Rutkovych"/>
+    <answer flag="1" text="Stefan Jaworski Baranovych Lazarus, Daniel Tuptalo"/>
+  </question>
+  <question level="1" simple="True" text="Who is Feofan Prokopovich?">
+    <answer flag="0" text="Prominent Ukrainian painter and engraver"/>
+    <answer flag="1" text="Ukrainian scientist encyclopedist, public and church figure"/>
+  </question>
+</testing>

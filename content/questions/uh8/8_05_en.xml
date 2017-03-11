@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The national-liberation uprising of the Ukrainian people 20-30's XVII.">
+  <question level="1" simple="True" text="As a result of the events Kurukove signed agreement?">
+    <answer flag="1" text="Due to the Polish-Cossack armed conflict in 1625"/>
+    <answer flag="0" text="As a result, Smolenskaya (Moscow-Polish) War in 1634"/>
+  </question>
+  <question level="1" simple="True" text="What Kurukove included agreement on military-territorial structure of the Cossacks?">
+    <answer flag="0" text="&quot;In perpetuity&quot; Cossacks were deprived of the right to elect officers"/>
+    <answer flag="1" text="Creation of six regiments: Bilotserkivskyi, Kanev, Korsunskogo, Pereyaslavsky, Cherkassy and Chigirinskogo"/>
+  </question>
+  <question level="1" simple="True" text="How soon after construction of the fortress destroyed Cossacks led by Ivan Sulyma?">
+    <answer flag="0" text="Hotinskuyu"/>
+    <answer flag="0" text="Kamenets Podolsk"/>
+    <answer flag="1" text="Kodatska"/>
+  </question>
+  <question level="1" simple="True" text="Which events took place earlier?">
+    <answer flag="1" text="Rebellion led by Ivan Sulima"/>
+    <answer flag="0" text="Adoption of the Sejm of the Commonwealth The ordinance troops Zaporizhzhya Registered ... &quot;"/>
+  </question>
+  <question level="1" simple="True" text="When and where was &quot;&quot; Night of Taras?">
+    <answer flag="1" text="1630 under Pereyaslav"/>
+    <answer flag="0" text="1637 under Kumeykamy"/>
+  </question>
+  <question level="1" simple="True" text="What ended the Tarasova night?">
+    <answer flag="0" text="Defeat insurgents"/>
+    <answer flag="1" text="The defeat of Poles"/>
+  </question>
+  <question level="1" simple="True" text="Who led the national liberation uprising 1637-1638 biennium?">
+    <answer flag="0" text="Marco Zhmaylom, John Sulima, Taras Tryasylo"/>
+    <answer flag="1" text="Paul Pawluk, James Ostrainyn, Dmitry Hun"/>
+  </question>
+  <question level="1" simple="True" text="What ended national-liberation uprising of 1637-1638 years?">
+    <answer flag="1" text="Defeat insurgents"/>
+    <answer flag="0" text="The defeat of Poles"/>
+  </question>
+  <question level="1" simple="True" text="What kind of historical figure referred to? Insurrectionist Pavliuk. Summer 1638 was elected hetman. Reflecting the Poles, built at the confluence, the elder in Sulu impregnable camp, which insured the revolt of the Cossacks complete defeat">
+    <answer flag="1" text="About Dmitry Hunyu"/>
+    <answer flag="0" text="About Ivan Sula"/>
+  </question>
+  <question level="1" simple="True" text="What lead the uprising in 1638, losing hope of success, departed with a part of the Cossacks Sloboda Ukraine, where he settled near Chugueva?">
+    <answer flag="0" text="Carp throw"/>
+    <answer flag="1" text="Jacob Ostrainyn"/>
+  </question>
+  <question level="1" simple="True" text="As predicted the &quot;ordination troops Zaporizhzhya Registered?">
+    <answer flag="0" text="Military authority over the registered Cossacks Hetman belonged, which selected the Combined Board and approved the Polish government"/>
+    <answer flag="1" text="Two regiments Registered in turn had to constantly stand Zaporozhye"/>
+  </question>
+  <question level="1" simple="True" text="What decade Poles called &quot;golden peace&quot; due to lack of time during this high-profile speeches Ukrainian?">
+    <answer flag="0" text="1602-1612 biennium"/>
+    <answer flag="1" text="1638-1648 biennium"/>
+  </question>
+</testing>

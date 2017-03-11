@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Тоталітарні та диктаторські режими">
+    <question text="Монархію в Росії було повалено в результаті">
+        <answer flag="1" text="лютневої революції"/>
+        <answer flag="0" text="жовтневого перевороту"/>
+        <answer flag="0" text="заколоту генерала Корнілова"/>
+    </question>
+    <question text="Перший більшовицький уряд Росії очолював">
+        <answer flag="0" text="Л. Троцький"/>
+        <answer flag="1" text="В. Ленін"/>
+        <answer flag="0" text="Й. Сталін"/>
+    </question>
+    <question text="Брестський мир підписали">
+        <answer flag="0" text="18 грудня 1917 р."/>
+        <answer flag="0" text="23 лютого 1918 р."/>
+        <answer flag="1" text="3 березня 1918 р."/>
+    </question>
+    <question text="Збройний виступ спартаківців (комуністів) у Берліні відбувся в">
+        <answer flag="0" text="листопаді 1918 р."/>
+        <answer flag="1" text="січні 1919 р."/>
+        <answer flag="0" text="квітні 1919 р."/>
+    </question>
+    <question text="Нацистський „пивний путч” відбувся в">
+        <answer flag="0" text="Берліні"/>
+        <answer flag="1" text="Мюнхені"/>
+        <answer flag="0" text="Нюрнберзі"/>
+        <answer flag="0" text="Кілі"/>
+    </question>
+    <question text="Прихід нацистів до влади в Німеччині відбувся в">
+        <answer flag="0" text="1919 р."/>
+        <answer flag="0" text="1923 р."/>
+        <answer flag="1" text="1933 р."/>
+        <answer flag="0" text="1939 р."/>
+    </question>
+    <question text="Заколот націоналістів проти уряду Народного фронту в Іспанії спалахнув">
+        <answer flag="0" text="28 січня 1930 р."/>
+        <answer flag="0" text="14 квітня 1931 р."/>
+        <answer flag="1" text="17 липня 1936 р."/>
+    </question>
+    <question text="Антисемітизм найбільш активно проявився в політиці">
+        <answer flag="1" text="німецьких нацистів"/>
+        <answer flag="0" text="італійських фашистів"/>
+        <answer flag="0" text="іспанських фалангістів"/>
+    </question>
+    <question text="Яку назву отримала політика більшовиків, запроваджена в 1921 р.?">
+        <answer flag="0" text="«Воєнний комунізм»"/>
+        <answer flag="1" text="Неп"/><answer flag="0" text="Колективізація"/>
+    </question>
+    <question text="3 наведених груп країн назвіть ті, де протягом 20-30-х рр. встановилися тоталітарні режими.">
+        <answer flag="0" text="Болгарія, Китай, Польща, Румунія"/>
+        <answer flag="0" text="Югославія, Чехо-Словаччина, Японія, СРСР, Німеччина"/>
+        <answer flag="1" text="СРСР, Німеччина, Італія"/>
+    </question>
+    <question text="У якому році було створено СРСР?">
+        <answer flag="1" text="1922 р."/>
+        <answer flag="0" text="1923 р."/>
+        <answer flag="0" text="1924 р."/>
+    </question>
+    <question text="У якій країні були “Два червоні роки”?">
+        <answer flag="0" text="Іспанія"/>
+        <answer flag="1" text="Італія"/>
+        <answer flag="0" text="СРСР"/>
+        <answer flag="0" text="Німеччина"/>
+    </question>
+</testing>

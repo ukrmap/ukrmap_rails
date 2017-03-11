@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="French revolution of the late eighteenth century.">
+  <question level="1" simple="True" text="In whose reign of King started a revolution in France?">
+    <answer flag="0" text="Louis XIV"/>
+    <answer flag="0" text="Louis XV"/>
+    <answer flag="1" text="Louis XVI"/>
+    <answer flag="0" text="Louis XVIII"/>
+  </question>
+  <question level="1" simple="True" text="Taking the Bastille fortress-prison was">
+    <answer flag="0" text="May 5, 1789"/>
+    <answer flag="0" text="May 17, 1789"/>
+    <answer flag="1" text="July 14, 1789"/>
+    <answer flag="0" text="September 3, 1789"/>
+  </question>
+  <question level="1" simple="True" text="What names are superfluous in the list of cities cells counterrevolutionary exile?">
+    <answer flag="1" text="Hague"/>
+    <answer flag="0" text="London"/>
+    <answer flag="0" text="Koblenz"/>
+    <answer flag="1" text="Bern"/>
+    <answer flag="0" text="Turin"/>
+    <answer flag="1" text="Cologne"/>
+  </question>
+  <question level="1" simple="True" text="What island was captured by Napoleon during the Egyptian campaign?">
+    <answer flag="0" text="Sardinia"/>
+    <answer flag="1" text="Malta"/>
+    <answer flag="0" text="Crete"/>
+  </question>
+  <question level="1" simple="True" text="Member of the first anti-French coalition included">
+    <answer flag="1" text="Spain"/>
+    <answer flag="1" text="Great Britain"/>
+    <answer flag="0" text="Ottoman Empire"/>
+    <answer flag="1" text="Prussia"/>
+    <answer flag="0" text="Swiss Union"/>
+    <answer flag="1" text="Austria"/>
+    <answer flag="1" text="Sardinian Kingdom"/>
+  </question>
+  <question level="1" simple="True" text="What French province became the center of cavalier uprising in March-December 1793r.?">
+    <answer flag="0" text="Champagne"/>
+    <answer flag="1" text="Vendée"/>
+    <answer flag="0" text="Auvergne"/>
+    <answer flag="0" text="Gascon"/>
+  </question>
+  <question level="1" simple="True" text="Which of these countries did not belong to the second anti-French coalition?">
+    <answer flag="0" text="Neapolitan kingdom"/>
+    <answer flag="0" text="Russian Empire"/>
+    <answer flag="1" text="Kingdom of Sweden"/>
+    <answer flag="1" text="Kingdom of Prussia"/>
+    <answer flag="0" text="Ottoman Empire"/>
+    <answer flag="0" text="Great Britain"/>
+    <answer flag="0" text="Kingdom of Portugal"/>
+  </question>
+  <question level="1" simple="True" text="Near Abukira French ships fought with the fleet">
+    <answer flag="1" text="UK"/>
+    <answer flag="0" text="Turkey"/>
+    <answer flag="0" text="Russia"/>
+  </question>
+  <question level="1" simple="True" text="In the battle near the pyramids July 20 1798r. Napoleon's army triumphed">
+    <answer flag="0" text="English"/>
+    <answer flag="0" text="Persians"/>
+    <answer flag="1" text="Turks"/>
+  </question>
+  <question level="1" simple="True" text="The leader of the Directory was">
+    <answer flag="0" text="Talyen"/>
+    <answer flag="0" text="Frero"/>
+    <answer flag="1" text="Barras"/>
+    <answer flag="0" text="Myurat"/>
+  </question>
+  <question level="1" simple="True" text="August 1, 1798 French ships destroyed the British fleet">
+    <answer flag="0" text="in La Manche"/>
+    <answer flag="0" text="the island of Malta"/>
+    <answer flag="0" text="near Cape Trafalgar"/>
+    <answer flag="1" text="near Cape Abukir"/>
+  </question>
+  <question level="1" simple="True" text="The coup in 1918 and establishing bryumera Consulate was">
+    <answer flag="0" text="November 16, 1796"/>
+    <answer flag="1" text="November 9, 1799"/>
+    <answer flag="0" text="June 14, 1800"/>
+    <answer flag="0" text="June 18, 1804"/>
+  </question>
+</testing>

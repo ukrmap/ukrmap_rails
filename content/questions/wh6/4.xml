@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Давній Рим">
+  <question level="1" simple="True" text="Хто й коли, за легендою, заснував Рим?">
+    <answer flag="0" text="Амулій"/>
+    <answer flag="0" text="Нумітор"/>
+    <answer flag="1" text="Ромул"/>
+    <answer flag="0" text="Рем"/>
+    <answer flag="0" text="765 р. до н. е."/>
+    <answer flag="0" text="761 р. до н. е."/>
+    <answer flag="1" text="753 р. до н. е."/>
+    <answer flag="0" text="750 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Як називали перших правителів Риму?">
+    <answer flag="0" text="Вождь"/>
+    <answer flag="0" text="Імператор"/>
+    <answer flag="1" text="Цар"/>
+    <answer flag="0" text="Фараон"/>
+  </question>
+  <question level="1" simple="True" text="Що покладено в основу латинського алфавіту?">
+    <answer flag="0" text="Клинопис"/>
+    <answer flag="1" text="Грецька грамота"/>
+    <answer flag="0" text="Давньоєгипетські  ієрогліфи"/>
+  </question>
+  <question level="1" simple="True" text="Кому фактично належала реальна влада в Римській республіці?">
+    <answer flag="1" text="Сенатові"/>
+    <answer flag="1" text="Вищим магістрам"/>
+    <answer flag="0" text="Народним зборам"/>
+  </question>
+  <question level="1" simple="True" text="Коли почалася перша Пунічна війна?">
+    <answer flag="1" text="264 р. до н. е."/>
+    <answer flag="0" text="241 р. до н. е."/>
+    <answer flag="0" text="218 р. до н. е."/>
+    <answer flag="0" text="201 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Як називалися військові підрозділи римської армії?">
+    <answer flag="0" text="Агели"/>
+    <answer flag="0" text="Фаланги"/>
+    <answer flag="1" text="Легіони"/>
+  </question>
+  <question level="1" simple="True" text="Як називали рабів, яким давали зброю й примушували битися один з одним на смерть?">
+    <answer flag="0" text="Домашні"/>
+    <answer flag="0" text="Державні"/>
+    <answer flag="1" text="Гладіатори"/>
+    <answer flag="0" text="Храмові"/>
+  </question>
+  <question level="1" simple="True" text="Коли почалося найбільше в історії давнього світу повстання рабів під проводом Спартака?">
+    <answer flag="1" text="73 р. до н. е."/>
+    <answer flag="0" text="73 р.  н. е."/>
+    <answer flag="0" text="71 р. до н. е."/>
+  </question>
+  <question level="1" simple="True" text="Хто уклав &quot;союз трьох мужів&quot; - тріумвірат?">
+    <answer flag="1" text="Луциній Красс"/>
+    <answer flag="0" text="Гай Марій"/>
+    <answer flag="1" text="Гней Помпей"/>
+    <answer flag="0" text="Корнелій Сулла"/>
+    <answer flag="1" text="Юлій Цезар"/>
+  </question>
+  <question level="1" simple="True" text="Хто із правителів Римської імперії не належав до династії Юліїв-Клавдіїв?">
+    <answer flag="0" text="Калігула"/>
+    <answer flag="1" text="Марк Тулій Цицерон"/>
+    <answer flag="1" text="Марк Антоній"/>
+    <answer flag="0" text="Нерон"/>
+    <answer flag="0" text="Гай Юлій Цезар"/>
+  </question>
+  <question level="1" simple="True" text="Кого з римських імператорів після смерті оголосили богом?">
+    <answer flag="0" text="Калігулу"/>
+    <answer flag="0" text="Нерона"/>
+    <answer flag="0" text="Веспасіана"/>
+    <answer flag="1" text="Траяна"/>
+    <answer flag="0" text="Марка Аврелія"/>
+  </question>
+  <question level="1" simple="True" text="Коли і де з'явилися перші християни?">
+    <answer flag="0" text="ІІ ст. до н. е."/>
+    <answer flag="0" text="І ст. до н. е."/>
+    <answer flag="1" text="І ст.  н. е."/>
+    <answer flag="1" text="Давня Палестина"/>
+    <answer flag="0" text="Єгипет"/>
+    <answer flag="0" text="Македонія"/>
+  </question>
+  <question level="1" simple="True" text="На території якого державного утворення зародилось християнство?">
+    <answer flag="0" text="Парфянського царства"/>
+    <answer flag="1" text="Римської імперії"/>
+    <answer flag="0" text="Вірменії"/>
+  </question>
+  <question level="1" simple="True" text="Який період свого розвитку переживала Римська Імперія в ІІІ ст. н. е.?">
+    <answer flag="0" text="Золотий вік"/>
+    <answer flag="1" text="Криза"/>
+    <answer flag="0" text="Громадянська війна"/>
+  </question>
+  <question level="1" simple="True" text="Хто з римських імператорів і коли легалізував християнство?">
+    <answer flag="1" text="313"/>
+    <answer flag="0" text="325"/>
+    <answer flag="0" text="330"/>
+    <answer flag="0" text="Траян"/>
+    <answer flag="1" text="Константин І"/>
+    <answer flag="0" text="Нерон"/>
+  </question>
+  <question level="1" simple="True" text="В якому році  відбулося перенесення столиці Римської Імперії до Константинополя?">
+    <answer flag="0" text="313"/>
+    <answer flag="1" text="330"/>
+    <answer flag="0" text="476"/>
+    <answer flag="0" text="478"/>
+  </question>
+  <question level="1" simple="True" text="В яких роках відбувалися вторгнення до &quot;вічного міста&quot; - Риму?">
+    <answer flag="1" text="410"/>
+    <answer flag="0" text="451"/>
+    <answer flag="1" text="455"/>
+    <answer flag="0" text="476"/>
+  </question>
+  <question level="1" simple="True" text="Який рік вважається роком загибелі Західної Римської Імперії, і хто був останнім імператором Риму?">
+    <answer flag="0" text="455"/>
+    <answer flag="1" text="476"/>
+    <answer flag="0" text="410"/>
+    <answer flag="0" text="Одоакр"/>
+    <answer flag="0" text="Аецій"/>
+    <answer flag="1" text="Ромул Август"/>
+  </question>
+</testing>

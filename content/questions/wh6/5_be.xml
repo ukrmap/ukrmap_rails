@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Гісторыя ўкраінскіх земляў">
+  <question level="1" simple="True" text="Якія археалагічныя знаходкі былі зробленыя ў с. Каралеве (Закарпацце)?">
+    <answer flag="1" text="Сэрвіс &quot;чалавека прамаходзячы&quot;"/>
+    <answer flag="0" text="Рэшткі неандэртальца"/>
+    <answer flag="0" text="Рэшткі паселішча аўстралапітэка"/>
+  </question>
+  <question level="1" simple="True" text="Каля якога селішча знойдзенае пахаванне неандэртальцаў?">
+    <answer flag="0" text="Трыпалі"/>
+    <answer flag="0" text="Добраничевка"/>
+    <answer flag="1" text="Киик-Коба"/>
+  </question>
+  <question level="1" simple="True" text="Калі, па здагадках археолагаў, маглі з'явіцца першыя людзі на тэрыторыі Украіны?">
+    <answer flag="0" text="Каля 2 млн гадоў таму"/>
+    <answer flag="0" text="Каля 1,7 млн гадоў таму"/>
+    <answer flag="0" text="Каля 1,5 млн гадоў таму"/>
+    <answer flag="1" text="Каля 1 млн гадоў таму"/>
+    <answer flag="0" text="Каля 500 тыс. гадоў назад"/>
+  </question>
+  <question level="1" simple="True" text="Калі з'явіліся першыя земляробы і жывёлагадоўцы на тэрыторыі Украіны?">
+    <answer flag="0" text="Каля 10 тыс. гадоў назад"/>
+    <answer flag="1" text="Каля 7 тыс. гадоў назад"/>
+    <answer flag="0" text="Каля 5 тыс. гадоў назад"/>
+    <answer flag="0" text="Каля 30 тыс. гадоў назад"/>
+  </question>
+  <question level="1" simple="True" text="Як назвалі навукоўцы прадстаўнікоў старажытнай земляробчай культуры на тэрыторыі Украіны эпохі неаліту?">
+    <answer flag="0" text="Скіфы"/>
+    <answer flag="0" text="Киммерийцы"/>
+    <answer flag="1" text="Трипольцы"/>
+  </question>
+  <question level="1" simple="True" text="Як называліся самыя сармацкія плямёны?">
+    <answer flag="1" text="Языги"/>
+    <answer flag="1" text="Роксолана"/>
+    <answer flag="1" text="Аорсы"/>
+    <answer flag="0" text="Скірамі"/>
+    <answer flag="1" text="Сираки"/>
+    <answer flag="0" text="Бастарнаў"/>
+  </question>
+  <question level="1" simple="True" text="Якія назвы маюць скіфскія курганы, знойдзеныя на тэрыторыі Украіны?">
+    <answer flag="1" text="Чертомлык"/>
+    <answer flag="1" text="Мариупольский"/>
+    <answer flag="0" text="Мілаград"/>
+    <answer flag="1" text="Огуз"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе да н. н.э. фарсі цар Дарый I адправіўся заваёўваць зямлі старажытнай Украіны і чый супраціў ён так тады і не адолеў?">
+    <answer flag="0" text="521"/>
+    <answer flag="1" text="514"/>
+    <answer flag="0" text="510"/>
+    <answer flag="0" text="Сарматы"/>
+    <answer flag="0" text="Киммерийцы"/>
+    <answer flag="1" text="Скіфы"/>
+  </question>
+  <question level="1" simple="True" text="Як называлася дзяржава, якая існавала на ўкраінскай тэрыторыі ў VII - IV стст. да н. э?">
+    <answer flag="0" text="Персія"/>
+    <answer flag="1" text="Вялікая Скіфію"/>
+    <answer flag="0" text="Асірыя"/>
+    <answer flag="0" text="Фінікія"/>
+  </question>
+  <question level="1" simple="True" text="Якая старажытная і сучасная назвы сталіцы Боспорского царствы?">
+    <answer flag="0" text="Херсонес"/>
+    <answer flag="0" text="Прывітаньне"/>
+    <answer flag="1" text="Пантикапей"/>
+    <answer flag="0" text="Севастопаль"/>
+    <answer flag="0" text="Нікалаеў"/>
+    <answer flag="1" text="Керч"/>
+  </question>
+  <question level="1" simple="True" text="Якія плямёны ў розны час засялялі тэрыторыю сучаснай Украіны?">
+    <answer flag="0" text="Кельты"/>
+    <answer flag="1" text="Славяне"/>
+    <answer flag="1" text="Киммерийцы"/>
+    <answer flag="1" text="Скіфы"/>
+    <answer flag="1" text="Сарматы"/>
+  </question>
+  <question level="1" simple="True" text="Якія славянскія плямёны пражывалі на тэрыторыі Украіны?">
+    <answer flag="0" text="Готы"/>
+    <answer flag="1" text="Анты"/>
+    <answer flag="1" text="Склавины"/>
+    <answer flag="0" text="Гуны"/>
+  </question>
+</testing>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Старажытны Усход">
+  <question level="1" simple="True" text="У дэльце якой ракі сфармаваўся старажытны Егіпет?">
+    <answer flag="0" text="Тыгр"/>
+    <answer flag="0" text="Евфрат"/>
+    <answer flag="1" text="Ніл"/>
+    <answer flag="0" text="Хуанхэ"/>
+  </question>
+  <question level="1" simple="True" text="Як называліся самастойныя вобласці, на якія супольныя саюзы падзялілі даліну Ніла?">
+    <answer flag="1" text="Номы"/>
+    <answer flag="0" text="Акругі"/>
+    <answer flag="0" text="Раёны"/>
+    <answer flag="0" text="Калоніі"/>
+  </question>
+  <question level="1" simple="True" text="Калі адбылося аб'яднанне Ніжняга (Паўднёвага) Егіпта і Верхняга (Паўночнага) Егіпта ў адзіную дзяржаву?">
+    <answer flag="1" text="Каля XXX стагоддзя да н. э"/>
+    <answer flag="0" text="Каля XXI ст. да н. э"/>
+    <answer flag="0" text="Каля XVI ст. да н. э"/>
+  </question>
+  <question level="1" simple="True" text="Хто кіраваў Старажытным Эгіптам?">
+    <answer flag="1" text="Цар"/>
+    <answer flag="1" text="Фараон"/>
+    <answer flag="0" text="Жерець"/>
+    <answer flag="0" text="Правадыр"/>
+    <answer flag="0" text="Імператар"/>
+  </question>
+  <question level="1" simple="True" text="Якія гарады былі сталіцамі Старажытнага Егіпта?">
+    <answer flag="1" text="Мэмфіс"/>
+    <answer flag="1" text="Иттауи"/>
+    <answer flag="1" text="Фівы"/>
+    <answer flag="0" text="Каір"/>
+  </question>
+  <question level="1" simple="True" text="Якія гарады былі сталіцамі Егіпта ў эпоху новага царства?">
+    <answer flag="1" text="Фівы"/>
+    <answer flag="1" text="Ахетатон"/>
+    <answer flag="0" text="Иттауи"/>
+    <answer flag="0" text="Мэмфіс"/>
+    <answer flag="1" text="Пер-Рамзес"/>
+  </question>
+  <question level="1" simple="True" text="Каго хавалі ў пірамідах ў старажытным Егіпце?">
+    <answer flag="0" text="Рабоў"/>
+    <answer flag="0" text="Жрацоў"/>
+    <answer flag="1" text="Фараонаў"/>
+    <answer flag="0" text="Чыноўнікаў"/>
+    <answer flag="0" text="Воінаў"/>
+  </question>
+  <question level="1" simple="True" text="Якія дзяржавы паўсталі на тэрыторыі Двуречья?">
+    <answer flag="1" text="Акад"/>
+    <answer flag="0" text="Егіпет"/>
+    <answer flag="0" text="Індыя"/>
+    <answer flag="1" text="Асірыя"/>
+    <answer flag="1" text="Шумер"/>
+  </question>
+  <question level="1" simple="True" text="У сярэдзіне якога тысячагоддзя да н. э паўстаў Вавілон?">
+    <answer flag="1" text="III"/>
+    <answer flag="0" text="II"/>
+    <answer flag="0" text="I"/>
+  </question>
+  <question level="1" simple="True" text="Як клікалі самага вядомага цара Вавілонскага і калі ён кіраваў?">
+    <answer flag="0" text="Рамзес II"/>
+    <answer flag="1" text="Хамурапі"/>
+    <answer flag="0" text="Солон"/>
+    <answer flag="1" text="XVIII ст. да н. э"/>
+    <answer flag="0" text="III тыс. да н. э"/>
+    <answer flag="0" text="III ст. да н. э"/>
+  </question>
+  <question level="1" simple="True" text="Кім быў створаны першы альфабэт?">
+    <answer flag="0" text="Егіпцянамі"/>
+    <answer flag="0" text="Індыйцамі"/>
+    <answer flag="0" text="Рымлянамі"/>
+    <answer flag="0" text="Грэкамі"/>
+    <answer flag="1" text="Фінікійцам"/>
+  </question>
+  <question level="1" simple="True" text="Што ў перакладзе з старажытнагрэцкай мовы азначае Біблія?">
+    <answer flag="0" text="Паданне"/>
+    <answer flag="0" text="Гісторыя"/>
+    <answer flag="1" text="Кніга"/>
+    <answer flag="0" text="Завяшчанне"/>
+  </question>
+  <question level="1" simple="True" text="Дзе і хто стварыў найстаражытную бібліятэку?">
+    <answer flag="0" text="Вавілон"/>
+    <answer flag="1" text="Асірыя"/>
+    <answer flag="0" text="Егіпет"/>
+    <answer flag="0" text="Індыя"/>
+    <answer flag="0" text="Хамурапі"/>
+    <answer flag="1" text="Ашшурбанипала"/>
+    <answer flag="0" text="Рамзес І"/>
+    <answer flag="0" text="Буда"/>
+  </question>
+  <question level="1" simple="True" text="З якой краіны бярэ свой пачатак старажытная з сусветных рэлігій - Будызм?">
+    <answer flag="0" text="Кітай"/>
+    <answer flag="0" text="Японія"/>
+    <answer flag="1" text="Індыя"/>
+    <answer flag="0" text="В'етнам"/>
+  </question>
+  <question level="1" simple="True" text="Хто і калі першымі праплылі вакол Афрыкі?">
+    <answer flag="0" text="Егіпцяне"/>
+    <answer flag="1" text="Фінікійцы"/>
+    <answer flag="0" text="Пэрсы"/>
+    <answer flag="0" text="XX ст. да н. э"/>
+    <answer flag="1" text="600 г. да н. э"/>
+    <answer flag="0" text="III тыс. да н. э"/>
+  </question>
+  <question level="1" simple="True" text="Санскрыт - гэта мова ...">
+    <answer flag="0" text="Егіпцян"/>
+    <answer flag="0" text="Фінікійцаў"/>
+    <answer flag="1" text="Арыяў"/>
+  </question>
+  <question level="1" simple="True" text="Якое дзяржава называюць Паднябесная імперыя?">
+    <answer flag="0" text="Індыя"/>
+    <answer flag="0" text="Персія"/>
+    <answer flag="0" text="Егіпет"/>
+    <answer flag="0" text="Сірыя"/>
+    <answer flag="1" text="Кітай"/>
+  </question>
+  <question level="1" simple="True" text="Якую збудаванне было пабудавана ў часы праўлення імператара Цынь-Шихуана?">
+    <answer flag="0" text="Піраміда"/>
+    <answer flag="1" text="Вялікая Кітайская сцяна"/>
+    <answer flag="0" text="Будыйскі храм"/>
+    <answer flag="0" text="Калізей"/>
+    <answer flag="0" text="Статуя Афіны"/>
+  </question>
+  <question level="1" simple="True" text="Колькі кітайскіх дзяржаў існавала ў эпоху &quot;Ваюючых царстваў&quot;?">
+    <answer flag="0" text="4"/>
+    <answer flag="0" text="5"/>
+    <answer flag="1" text="7"/>
+    <answer flag="0" text="9"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Вялікі шаўковы шлях&quot; пралягаў ад Кітая да">
+    <answer flag="0" text="Сярэдняй Азіі"/>
+    <answer flag="0" text="Ірану"/>
+    <answer flag="0" text="Індыі"/>
+    <answer flag="1" text="Міжземнага мора"/>
+  </question>
+</testing>

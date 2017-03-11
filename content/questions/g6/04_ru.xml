@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ЗЕМЛЯ - ПЛАНЕТА ЛЮДЕЙ">
+  <question level="1" simple="True" text="Как называется наука, изучающая процессы формирования количества и состава населения, а также особенности его размещения?">
+    <answer flag="1" text="Демография"/>
+    <answer flag="0" text="Демология"/>
+    <answer flag="0" text="Демократия"/>
+    <answer flag="0" text="Демагогия"/>
+  </question>
+  <question level="1" simple="True" text="Когда, по мнению ученых, появились первые предки человека?">
+    <answer flag="0" text="Около 2 тыс. лет назад"/>
+    <answer flag="1" text="Около 2 млн лет назад"/>
+    <answer flag="0" text="Около 20 тыс. лет назад"/>
+    <answer flag="0" text="Около 20 млн лет назад"/>
+  </question>
+  <question level="1" simple="True" text="Какой регион Земли считают местом появления первых людей?">
+    <answer flag="1" text="Африку"/>
+    <answer flag="0" text="Европу"/>
+    <answer flag="0" text="Америку"/>
+    <answer flag="0" text="Австралию"/>
+  </question>
+  <question level="1" simple="True" text="Когда, по мнению ученых, появился человек современного типа?">
+    <answer flag="0" text="400 лет назад"/>
+    <answer flag="0" text="400 тыс. лет назад"/>
+    <answer flag="1" text="40 тыс. лет назад"/>
+    <answer flag="0" text="4 тыс. лет назад"/>
+  </question>
+  <question level="1" simple="True" text="Сколько насчитывается основных (больших) рас?">
+    <answer flag="0" text="2"/>
+    <answer flag="0" text="3"/>
+    <answer flag="1" text="4"/>
+  </question>
+  <question level="1" simple="True" text="К какой расе принадлежат украинским и другие славяне?">
+    <answer flag="0" text="Монголоидной"/>
+    <answer flag="1" text="Европеоидной"/>
+    <answer flag="0" text="Негроидной"/>
+    <answer flag="0" text="Австралоидной"/>
+  </question>
+  <question level="1" simple="True" text="Что хотел доказать и доказал М.Миклухо-Маклай, который в 1870-1883 годах жил среди папуасов Новой Гвинеи?">
+    <answer flag="0" text="Значительное отличие культурного развития аборигенов от европейских стандартов"/>
+    <answer flag="0" text="Несостоятельность папуасов к умственного развития"/>
+    <answer flag="1" text="Одинаковую способность народов разных рас к умственного развития, обучения и искусства"/>
+  </question>
+  <question level="1" simple="True" text="Сколько народов начисляется на планете?">
+    <answer flag="0" text="Более 20 тысяч"/>
+    <answer flag="1" text="Более 2 тысяч"/>
+    <answer flag="0" text="Более 200"/>
+    <answer flag="0" text="Более 20"/>
+  </question>
+  <question level="1" simple="True" text="Какой народ является самым большим на планете?">
+    <answer flag="0" text="Американцы"/>
+    <answer flag="0" text="Россияне"/>
+    <answer flag="1" text="Китайцы"/>
+    <answer flag="0" text="Японцы"/>
+  </question>
+  <question level="1" simple="True" text="Сколько людей сегодня населяет Землю?">
+    <answer flag="0" text="2 млрд"/>
+    <answer flag="0" text="4 млрд"/>
+    <answer flag="1" text="Более 6500 миллионов"/>
+    <answer flag="0" text="Более 10 млрд"/>
+  </question>
+  <question level="1" simple="True" text="За какой период население Земли последнее время удвоилось?">
+    <answer flag="0" text="За последние 1 000 лет"/>
+    <answer flag="0" text="За последние 400 лет"/>
+    <answer flag="1" text="За последние 40 лет"/>
+    <answer flag="0" text="За последние 100 лет"/>
+  </question>
+  <question level="1" simple="True" text="Численность которых из перечисленных народов превышает 50 млн человек?">
+    <answer flag="1" text="Мексиканцы"/>
+    <answer flag="1" text="Вьетнамцы"/>
+    <answer flag="1" text="Пенджабцы"/>
+    <answer flag="0" text="Греки"/>
+    <answer flag="1" text="Тамилы"/>
+  </question>
+  <question level="1" simple="True" text="Укажите три крупнейших по численности населения государства планеты?">
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="Индонезия"/>
+    <answer flag="0" text="Бразилия"/>
+    <answer flag="1" text="Индия"/>
+    <answer flag="1" text="США"/>
+  </question>
+  <question level="1" simple="True" text="Укажите три крупнейших по площади государства планеты?">
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="Китай"/>
+    <answer flag="1" text="Россия"/>
+    <answer flag="1" text="Канада"/>
+    <answer flag="0" text="Бразилия"/>
+    <answer flag="0" text="Австралия"/>
+  </question>
+  <question level="1" simple="True" text="Какой город является столицей государства, образовавшегося в 2006 году?">
+    <answer flag="0" text="Приштина"/>
+    <answer flag="1" text="Подгорица"/>
+    <answer flag="0" text="Скопье"/>
+  </question>
+  <question level="1" simple="True" text="Государство по площади и численности населения занимает пятое место среди стран мира?">
+    <answer flag="0" text="Индонезия"/>
+    <answer flag="0" text="Пакистан"/>
+    <answer flag="1" text="Бразилия"/>
+  </question>
+  <question level="1" simple="True" text="Наименьшей по площади государством мира является">
+    <answer flag="0" text="Монако"/>
+    <answer flag="1" text="Ватикан"/>
+    <answer flag="0" text="Лихтенштейн"/>
+  </question>
+  <question level="1" simple="True" text="Какое из утверждений является неправильным?">
+    <answer flag="0" text="Административно Украины состоит из Автономной республики Крым, 24 областей и двух городов, имеющих специальный статус"/>
+    <answer flag="1" text="Украина является федеративным государством"/>
+    <answer flag="0" text="Украина граничит с семью государствами"/>
+  </question>
+  <question level="1" simple="True" text="В каких областях Украины проживает более 3 млн жителей?">
+    <answer flag="0" text="Харьковской"/>
+    <answer flag="1" text="Донецкой"/>
+    <answer flag="0" text="Луганской"/>
+    <answer flag="0" text="Львовской"/>
+    <answer flag="1" text="Днепропетровской"/>
+    <answer flag="0" text="Одесской"/>
+  </question>
+  <question level="1" simple="True" text="Какая область Украина является самой большой по площади?">
+    <answer flag="0" text="Донецкая"/>
+    <answer flag="0" text="Днепропетровская"/>
+    <answer flag="1" text="Одесская"/>
+    <answer flag="0" text="Черниговская"/>
+  </question>
+  <question level="1" simple="True" text="Какая область Украина является крупнейшей по населению?">
+    <answer flag="0" text="Одесская"/>
+    <answer flag="1" text="Донецкая"/>
+    <answer flag="0" text="Днепропетровская"/>
+    <answer flag="0" text="Харьковская"/>
+  </question>
+  <question level="1" simple="True" text="В каких из перечисленных городов Украины проживает более 1 млн жителей?">
+    <answer flag="1" text="Харьков"/>
+    <answer flag="1" text="Одесса"/>
+    <answer flag="0" text="Львов"/>
+    <answer flag="1" text="Днепропетровск"/>
+  </question>
+  <question level="1" simple="True" text="Какие утверждения является неправильным?">
+    <answer flag="0" text="Наименьшей по площади среди областей Украины является Черновицкая область"/>
+    <answer flag="1" text="Украина полностью обеспечивает свои потребности в природном газе и нефти за счет собственной добычи"/>
+    <answer flag="0" text="Природные условия Украины благоприятны для развития сельского хозяйства"/>
+    <answer flag="1" text="Последние десять лет численность населения нашего государства неуклонно растет"/>
+  </question>
+  <question level="1" simple="True" text="Членом которых из перечисленных организаций являются Украине?">
+    <answer flag="1" text="ООН"/>
+    <answer flag="0" text="НАТО"/>
+    <answer flag="1" text="СНГ"/>
+    <answer flag="1" text="ГУАМ"/>
+  </question>
+</testing>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Китай, Япония и Корея">
+  <question level="1" simple="True" text="Когда была провозглашена Китайская Народная Республика (КНР)?">
+    <answer flag="0" text="31 января 1949"/>
+    <answer flag="1" text="1 октября 1949"/>
+    <answer flag="0" text="12 декабря 1949"/>
+  </question>
+  <question level="1" simple="True" text="В каких годах происходили антикитайские восстания в Синьцзяне и Тибете?">
+    <answer flag="0" text="1949"/>
+    <answer flag="1" text="1950"/>
+    <answer flag="1" text="1959"/>
+    <answer flag="0" text="1969"/>
+    <answer flag="0" text="1979"/>
+  </question>
+  <question level="1" simple="True" text="Когда и между какими странами произошли опасные вооруженные столкновения на о. Даманский и г. Жаланашколь?">
+    <answer flag="1" text="13 июня 1969"/>
+    <answer flag="0" text="13 июля 1969"/>
+    <answer flag="1" text="13 августа 1969"/>
+    <answer flag="0" text="Вьетнам"/>
+    <answer flag="1" text="СССР"/>
+    <answer flag="1" text="Китай"/>
+  </question>
+  <question level="1" simple="True" text="Какие страны принимали участие в 1979 г. в военном конфликте с Камбоджу?">
+    <answer flag="0" text="Лаос"/>
+    <answer flag="1" text="Вьетнам"/>
+    <answer flag="1" text="Китай"/>
+    <answer flag="0" text="США"/>
+    <answer flag="1" text="СССР"/>
+  </question>
+  <question level="1" simple="True" text="Когда была принята новая Конституция Японии, согласно которой император лишался реальной власти (отрекался &quot;божественного происхождения&quot;)?">
+    <answer flag="0" text="2 сентября 1945"/>
+    <answer flag="1" text="3 мая 1947"/>
+    <answer flag="0" text="8 марта 1951"/>
+  </question>
+  <question level="1" simple="True" text="Когда состоялось провозглашение Республики Корея (Южной Корее) и Корейской Народно-Демократической Республики (Северной Кореи)?">
+    <answer flag="1" text="15 августа 1948"/>
+    <answer flag="1" text="9 сентября 1948"/>
+    <answer flag="0" text="15 сентября 1950"/>
+    <answer flag="0" text="25 октября 1950"/>
+  </question>
+  <question level="1" simple="True" text="Когда была установлена демаркационная линия между двумя корейскими государствами на перемирии в Паньминьчжони?">
+    <answer flag="0" text="15 сентября 1950"/>
+    <answer flag="0" text="24 октября 1950"/>
+    <answer flag="1" text="27 июля 1953"/>
+  </question>
+</testing>

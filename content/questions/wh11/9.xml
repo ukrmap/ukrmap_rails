@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Європа в 1945-1989 рр.">
+  <question level="1" simple="True" text="Які країни були учасницями Європейської асоціації спільної торгівлі з 1960 р.?">
+    <answer flag="1" text="Фінляндія"/>
+    <answer flag="0" text="Румунія"/>
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Австрія"/>
+    <answer flag="1" text="Швейцарія"/>
+  </question>
+  <question level="1" simple="True" text="Які країни отримали допомогу згідно з планом &quot;Маршалла&quot; з 1948-1952 рр.?">
+    <answer flag="0" text="Польща"/>
+    <answer flag="1" text="Югославія"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="0" text="Болгарія"/>
+    <answer flag="1" text="Норвегія"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні в 1967-1974 рр. правив режим &quot;чорних полковників&quot;?">
+    <answer flag="0" text="Туреччині"/>
+    <answer flag="0" text="Албанії"/>
+    <answer flag="1" text="Греції"/>
+    <answer flag="0" text="Югославії"/>
+  </question>
+  <question level="1" simple="True" text="В якому році відбулася революція в Португалії, яка відкрила шлях до демократії?">
+    <answer flag="0" text="1968"/>
+    <answer flag="1" text="1974"/>
+    <answer flag="0" text="1984"/>
+    <answer flag="0" text="1989"/>
+  </question>
+  <question level="1" simple="True" text="В якій країні відбулося повалення монархії в 1946 р.?">
+    <answer flag="0" text="Румунії"/>
+    <answer flag="0" text="Югославії"/>
+    <answer flag="1" text="Болгарії"/>
+    <answer flag="0" text="Греції"/>
+  </question>
+  <question level="1" simple="True" text="Які з перелічених держав були засновницями ООН 26 червня 1945 р. на конференції в Сан-Франциско?">
+    <answer flag="1" text="Чехо-Словаччина"/>
+    <answer flag="0" text="Іспанія"/>
+    <answer flag="1" text="Франція"/>
+    <answer flag="1" text="Польща"/>
+    <answer flag="1" text="Україна (УРСР)"/>
+  </question>
+</testing>

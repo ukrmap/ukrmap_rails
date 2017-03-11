@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="ОБЩИЙ РАЗДЕЛ">
+  <question level="1" simple="True" text="Какие из ответов являются правильными?">
+    <answer flag="0" text="Украина находится в III часовом поясе"/>
+    <answer flag="1" text="Отсчет времени ведется от 180-го меридиана"/>
+    <answer flag="1" text="Полдень в Украине наступает на два часа раньше, чем в нулевом (западноевропейском) часовом поясе"/>
+  </question>
+  <question level="1" simple="True" text="Какой из ответов является неправильной?">
+    <answer flag="0" text="По виду геометрической поверхности картографические проекции делятся на цилиндрические, азимутальные, конические"/>
+    <answer flag="0" text="К тематических карт относятся физико-географические и экономические карты"/>
+    <answer flag="1" text="Используя равновеликие проекции, можно создавать карты без искажений"/>
+  </question>
+  <question level="1" simple="True" text="Впервые название &quot;Украина&quot; упоминается:">
+    <answer flag="1" text="в Киевском Летописи (1187 г.)"/>
+    <answer flag="0" text="в книге Г. Боплана &quot;Описание Украины&quot; (1650 г.)"/>
+    <answer flag="0" text="в описаниях византийских и арабских путешественников X в."/>
+  </question>
+  <question level="1" simple="True" text="Автором &quot;Описания Украины&quot; являются:">
+    <answer flag="0" text="Гиппократ"/>
+    <answer flag="1" text="Г. Боплан"/>
+    <answer flag="0" text="Геродот"/>
+  </question>
+  <question level="1" simple="True" text="Общепризнанный географический центр Украины находится:">
+    <answer flag="0" text="в г. Светловодск Кировоградской области"/>
+    <answer flag="1" text="вблизи с. Марьяновка Черкасской области"/>
+    <answer flag="0" text="у г.Чигирин Черкасской области"/>
+  </question>
+  <question level="1" simple="True" text="Крайней южной точкой Украины являются:">
+    <answer flag="1" text="м. Сарыч"/>
+    <answer flag="0" text="м. Тарханкут"/>
+    <answer flag="0" text="м. Меганом"/>
+  </question>
+  <question level="1" simple="True" text="Какие из утверждений являются правильными?">
+    <answer flag="1" text="Площадь территории Украины составляет 603,7 тыс. кв. км"/>
+    <answer flag="1" text="Украина граничит с семью странами"/>
+    <answer flag="0" text="Территория Украины омывается водами трех морей"/>
+  </question>
+  <question level="1" simple="True" text="С какими из перечисленных стран не граничит Украина?">
+    <answer flag="0" text="Со Словакией"/>
+    <answer flag="1" text="С Болгарией"/>
+    <answer flag="1" text="Со Словенией"/>
+  </question>
+  <question level="1" simple="True" text="В каком году завершилось формирование территории Украины?">
+    <answer flag="0" text="В 1922"/>
+    <answer flag="1" text="В 1954"/>
+    <answer flag="0" text="В 1991"/>
+  </question>
+  <question level="1" simple="True" text="Какие территории были включены в состав Украины в послевоенное время?">
+    <answer flag="0" text="Северная Буковина"/>
+    <answer flag="0" text="Южная Бессарабия"/>
+    <answer flag="1" text="Закарпатье"/>
+    <answer flag="1" text="Крымская область"/>
+  </question>
+  <question level="1" simple="True" text="Членом которых из перечисленных организаций являются Украине?">
+    <answer flag="0" text="ОПЕК"/>
+    <answer flag="1" text="Содружество независимых государств"/>
+    <answer flag="1" text="Международный валютный фонд"/>
+    <answer flag="1" text="Всемирная торговая"/>
+  </question>
+  <question level="1" simple="True" text="Какой из ответов является правильной?">
+    <answer flag="0" text="Выборы в Верховную Раду Украины проводятся раз в пять лет"/>
+    <answer flag="0" text="Выборы Президента Украины проходят раз в четыре года"/>
+    <answer flag="1" text="Парламент Украины состоит из 450 депутатов"/>
+  </question>
+  <question level="1" simple="False" text="Встановисть соответствие между географическими объектами и их характеристиками">
+    <answer text="с.Мар 'Яновка -"/>
+    <answer text="Мыс Сарыч -"/>
+    <answer text="с.Грем 'мяч"/>
+    <answer text="Червона Звезда"/>
+    <variant>
+      <item flag="2" text="крайняя южная точка Украины"/>
+      <item flag="1" text="географический центр Украины"/>
+      <item flag="3" text="крайняя северная точка Украины"/>
+      <item flag="0" text="крайняя западная точка Украины"/>
+      <item flag="4" text="крайняя восточная точка Украины"/>
+    </variant>
+  </question>
+  <question level="1" simple="False" text="Установите соответствие между годами и событиями в истории Украины">
+    <answer text="1919 г. -"/>
+    <answer text="1991 г. -"/>
+    <answer text="1954 г. -"/>
+    <answer text="1187 -"/>
+    <variant>
+      <item flag="2" text="провозглашения независимости"/>
+      <item flag="3" text="завершение формирования территории"/>
+      <item flag="1" text="провозглашения Акта воссоединения"/>
+      <item flag="0" text="принятия декларации о государственном суверенитете"/>
+      <item flag="4" text="впервые употреблено название &quot;Украина&quot;"/>
+    </variant>
+  </question>
+</testing>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Українська СРР в умовах нової економічної політики (1920-1928).">
+  <question text="В якому році в основному завершилася відбудова промисловості УСРР?">
+    <answer flag="0" text="1923 р."/>
+    <answer flag="1" text="1925 р."/>
+    <answer flag="0" text="1926 р."/>
+    <answer flag="0" text="1927 р."/>
+  </question>
+  <question text="У галузі національної політики ХІІ з`їзд РКП(б) проголосив курс на:">
+    <answer flag="1" text="коренізацію"/>
+    <answer flag="0" text="українізацію"/>
+    <answer flag="0" text="націоналізацію"/>
+    <answer flag="0" text="приватизацію"/>
+  </question>
+  <question text="Яким був офіційний державний статус України на початку 20-х років:">
+    <answer flag="1" text="незалежної держави"/>
+    <answer flag="0" text="автономії в складі федеративної Росії"/>
+    <answer flag="0" text="незалежної держави, що уклала воєнно-політичний союз із іншими радянськими республіками"/>
+    <answer flag="0" text="області Росії"/>
+  </question>
+  <question text="Яка міжнародна організація надала допомогу Україні під час голоду 1921-1922 рр.?">
+    <answer flag="0" text="Ліга Націй"/>
+    <answer flag="0" text="Помгол (допомога голодуючим)"/>
+    <answer flag="1" text="АРА (Американська організація допомоги)"/>
+  </question>
+  <question text="Хто з названих нижче повстанських ватажків очолював антирадянський повстанський рух в Україні у 1921 р.?">
+    <answer flag="0" text="Григор`єв"/>
+    <answer flag="1" text="Махно"/>
+    <answer flag="0" text="Тютюнник"/>
+    <answer flag="0" text="Зелений"/>
+    <answer flag="0" text="Орлик"/>
+    <answer flag="0" text="Мордалевич"/>
+    <answer flag="0" text="Струк"/>
+  </question>
+  <question text="Створений 1922 р. в Києві театр “Березіль” очолював">
+    <answer flag="1" text="Л. Курбас"/>
+    <answer flag="0" text="Г. Верьовка"/>
+    <answer flag="0" text="Г. Юра"/>
+  </question>
+  <question text="Радянська Україна уклала першу мирну угоду з">
+    <answer flag="0" text="Латвією"/>
+    <answer flag="0" text="Литвою"/>
+    <answer flag="0" text="Естонією"/>
+    <answer flag="1" text="Польщею"/>
+    <answer flag="0" text="Туреччиною"/>
+  </question>
+  <question text="Націонал-комуністичні погляди О. Шумського і М. Волобуєва керівництво більшовицької партії">
+    <answer flag="0" text="підтримало"/>
+    <answer flag="1" text="засудило"/>
+    <answer flag="0" text="проігнорувало"/>
+  </question>
+  <question text="Першим і найголовнішим заходом непу була заміна">
+    <answer flag="0" text="продподатку продрозкладкою"/>
+    <answer flag="1" text="продрозкладки продподатком"/>
+    <answer flag="0" text="здійснення партійної чистки"/>
+  </question>
+  <question text="Якого року розпочалася політика українізації?">
+    <answer flag="0" text="1921 р."/>
+    <answer flag="0" text="1922 р."/>
+    <answer flag="1" text="1923 р."/>
+  </question>
+  <question text="Селянський повстанський рух проти політики більшовиків був в основному придушений в…">
+    <answer flag="1" text="1921 р."/>
+    <answer flag="0" text="1922 р."/>
+    <answer flag="0" text="1923 р."/>
+  </question>
+  <question text="УСРР увійшла до складу СРСР в...">
+    <answer flag="0" text="1921 р."/>
+    <answer flag="1" text="1922 р."/>
+    <answer flag="0" text="1923 р."/>
+  </question>
+</testing>

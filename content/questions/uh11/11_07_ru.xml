@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Этнический состав населения">
+  <question level="1" simple="True" text="В каком регионе Украины представители титульной нации не является преобладающим этносом?">
+    <answer flag="0" text="Одесщина"/>
+    <answer flag="0" text="Донбасс"/>
+    <answer flag="0" text="Киевщина"/>
+    <answer flag="1" text="Крым"/>
+  </question>
+  <question level="1" simple="True" text="Какая этнографическая группа Украинский живет на Черниговщине?">
+    <answer flag="0" text="Полищуки"/>
+    <answer flag="0" text="Бойки"/>
+    <answer flag="0" text="Гуцулы"/>
+    <answer flag="1" text="Литвины"/>
+  </question>
+  <question level="1" simple="True" text="В каких областях проживают Бойки?">
+    <answer flag="0" text="Хмельницкой"/>
+    <answer flag="1" text="Ивано-Франковской"/>
+    <answer flag="1" text="Львовской"/>
+    <answer flag="0" text="Ровенской"/>
+  </question>
+  <question level="1" simple="True" text="Представители каких трех национальных меньшинств является самыми многочисленными в Киеве?">
+    <answer flag="1" text="Белорусы"/>
+    <answer flag="0" text="Молдаване"/>
+    <answer flag="0" text="Поляки"/>
+    <answer flag="1" text="Евреи"/>
+    <answer flag="1" text="Россияне"/>
+  </question>
+  <question level="1" simple="True" text="Сколько представителей других национальностей (по данным переписи населения 2001 г.) проживает в нашем государстве?">
+    <answer flag="0" text="Свыше 7,5 млн"/>
+    <answer flag="1" text="Более 10500 тысяч"/>
+    <answer flag="0" text="Более 12500 тысяч"/>
+  </question>
+  <question level="1" simple="True" text="В каких городах одним из основных этносов поляки?">
+    <answer flag="0" text="Ровно"/>
+    <answer flag="1" text="Житомир"/>
+    <answer flag="0" text="Винница"/>
+    <answer flag="1" text="Хмельницкий"/>
+    <answer flag="0" text="Луцк"/>
+    <answer flag="1" text="Львов"/>
+  </question>
+</testing>

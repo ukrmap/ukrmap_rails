@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Ukraine in the struggle to preserve national independence">
+  <question text="Labour Congress was">
+    <answer flag="0" text="the supreme executive body of the UPR"/>
+    <answer flag="1" text="highest legislative body of the UPR"/>
+    <answer flag="0" text="advisory body to the chieftain S. Petliura"/>
+    <answer flag="0" text="function as deputies in Ukraine"/>
+  </question>
+  <question text="Chortkiv offensive (ofenzyva) was directed UGA">
+    <answer flag="1" text="against Polish troops"/>
+    <answer flag="0" text="against Russian troops"/>
+    <answer flag="0" text="against the Red Army"/>
+    <answer flag="0" text="against Romanian forces"/>
+  </question>
+  <question text="UNR Act was proclaimed and WUFR">
+    <answer flag="0" text="January 22, 1919 in Lviv"/>
+    <answer flag="1" text="January 22, 1919 in Kiev"/>
+    <answer flag="0" text="7 (22) November 1917 in Kiev"/>
+    <answer flag="0" text="November 1, 1918"/>
+  </question>
+  <question text="The main strike force troops directory during the uprising were antyhetmanskoho">
+    <answer flag="1" text="USS"/>
+    <answer flag="0" text="UGA"/>
+    <answer flag="0" text="First Ukrainian building"/>
+    <answer flag="0" text="peasant rebel troops"/>
+  </question>
+  <question text="Select from the list of rebel leader of the peasant movement in Ukraine:">
+    <answer flag="1" text="N. Makhno"/>
+    <answer flag="0" text="A. Denikin"/>
+    <answer flag="0" text="E. Petrushevych"/>
+    <answer flag="0" text="Rakovski"/>
+  </question>
+  <question text="After joining the Red Army in Galicia during the Soviet-Polish war there was a">
+    <answer flag="0" text="West Ukrainian National Republic"/>
+    <answer flag="0" text="Ukrainian Soviet Socialist Republic"/>
+    <answer flag="1" text="Galician Soviet Socialist Republic"/>
+    <answer flag="0" text="Galicia-Bucovina Governor-General"/>
+    <answer flag="0" text="Bukovina Soviet Republic"/>
+  </question>
+  <question text="After the simultaneous entry into the Kyiv Ukrainian and White Guard troops August 30, 1919">
+    <answer flag="1" text="Ukrainian troops were forced to leave the city"/>
+    <answer flag="0" text="Ukrainian troops ousted the Whites from the city"/>
+    <answer flag="0" text="Kyiv has been divided into zones of control"/>
+  </question>
+  <question text="As called for the Ukrainian Hetman State Skoropadsky?">
+    <answer flag="0" text="Ukrainian People's Republic"/>
+    <answer flag="0" text="West Ukrainian National Republic"/>
+    <answer flag="1" text="Ukrainian State"/>
+  </question>
+  <question text="To which the state had ZUNR lead the armed struggle for independence?">
+    <answer flag="0" text="Russia"/>
+    <answer flag="1" text="Poland"/>
+    <answer flag="0" text="with Austria"/>
+    <answer flag="0" text="with Germany"/>
+  </question>
+  <question text="As called policy, it introduced the Bolsheviks in 1919?">
+    <answer flag="0" text="NEP"/>
+    <answer flag="1" text="&quot;War Communism&quot;"/>
+    <answer flag="0" text="Revival"/>
+  </question>
+  <question text="Key position defense Whites in the Crimea were">
+    <answer flag="1" text="isthmus of Perekop"/>
+    <answer flag="0" text="in the mountains of Crimea"/>
+    <answer flag="0" text="near Sevastopol"/>
+  </question>
+  <question text="The second &quot;winter campaign ended in tragedy in the city">
+    <answer flag="0" text="Sharp"/>
+    <answer flag="1" text="Bazaar"/>
+    <answer flag="0" text="Kyiv"/>
+  </question>
+</testing>

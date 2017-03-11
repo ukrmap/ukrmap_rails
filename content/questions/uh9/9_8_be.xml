@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Грамадска-палітычнае жыццё на ўкраінскіх землях у першай палове XIX ст.">
+  <question level="1" simple="True" text="Як называлася першая украінскамоўныя газета на заходнеўкраінскіх землях?">
+    <answer flag="0" text="&quot;Русалка Днястроўскі&quot;"/>
+    <answer flag="1" text="&quot;Зоря Галіцкая&quot;"/>
+    <answer flag="0" text="&quot;Справа&quot;"/>
+    <answer flag="0" text="&quot;Рускім сабор&quot;"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе выйшла ў свет першае выданне зборніка паэзіі Т. Шаўчэнкі &quot;Кабзар&quot;?">
+    <answer flag="0" text="1836"/>
+    <answer flag="1" text="1840"/>
+    <answer flag="0" text="1848"/>
+    <answer flag="0" text="1861"/>
+  </question>
+  <question level="1" simple="True" text="Ці правільнае меркаванне? Масонскія ложы: 1) былі распаўсюджаны на ўкраінскіх землях у першай чвэрці XIX стагоддзя, 2) у пачатку XIX ст. выступалі за аддзяленне Украіны ад Расеі.">
+    <answer flag="0" text="Абодва варыянты правільныя"/>
+    <answer flag="1" text="Толькі 1 варыянт правільны"/>
+    <answer flag="0" text="Толькі 2 варыянт правільны"/>
+    <answer flag="0" text="Абодва варыянту няправільныя"/>
+  </question>
+  <question level="1" simple="True" text="Праграмай якога грамадства дзекабрыстаў прадугледжвалася стварэнне украінскую, Чарнаморскай і Бугскім дзяржаў з цэнтрамі ў Харкаве, Адэсе і Кіеве?">
+    <answer flag="0" text="&quot;Саюз дастатку&quot;"/>
+    <answer flag="0" text="&quot;Таварыства злучаных славян&quot;"/>
+    <answer flag="0" text="&quot;Паўднёвае таварыства&quot;"/>
+    <answer flag="1" text="&quot;Паўночнае таварыства&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Які дакумент дзекабрыстаў прадугледжваў прадастаўленне аўтаномных правоў украінскім землях?">
+    <answer flag="1" text="&quot;Канстытуцыя&quot; Мураўёва"/>
+    <answer flag="0" text="&quot;Руская праўда&quot;"/>
+    <answer flag="0" text="&quot;Закон Божы&quot;"/>
+    <answer flag="0" text="&quot;Зялёная кніга&quot;"/>
+  </question>
+  <question level="1" simple="True" text="Якую арганізацыю ў 1846 г. заснавалі Н. Кастамараў і Н. Гулак?">
+    <answer flag="0" text="&quot;Таварыства злучаных славян&quot;"/>
+    <answer flag="1" text="Кірыла-Мефодзіеўскай брацтва (грамадства)"/>
+    <answer flag="0" text="&quot;Руская тройца&quot;"/>
+    <answer flag="0" text="Братэрства тарасовцев"/>
+  </question>
+  <question level="1" simple="True" text="&quot;Я Русін быў, ёсьць і буду. Я нарадзіўся Русінаў, Сумленны мой род не забуду, застануся яго сынам ...&quot;. Хто з'яўляецца аўтарам гэтага верша, які пасля стаў гімнам русінаў Закарпацьця?">
+    <answer flag="1" text="А. Духнович"/>
+    <answer flag="0" text="А. Добрянский"/>
+    <answer flag="0" text="М. Шашкевіч"/>
+    <answer flag="0" text="В. Падалінскі"/>
+  </question>
+  <question level="1" simple="True" text="Якія наступствы мела &quot;вясна народаў&quot; для заходнеўкраінскіх зямель?">
+    <answer flag="0" text="Закарпацце, Галічына і Букавіна атрымалі аўтаномію"/>
+    <answer flag="0" text="Усе ўкраінскія землі ў межах Аўстрыйскай імперыі былі аб'яднаны ў адзіную адміністрацыйную адзінку"/>
+    <answer flag="1" text="На заходнеўкраінскіх землях было адменена прыгоннае"/>
+    <answer flag="0" text="Сфармаваліся першыя ўкраінскія палітычныя партыі"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе адбыўся ўзброенае выступленне дзекабрыстаў ва Ўкраіне?">
+    <answer flag="0" text="1812"/>
+    <answer flag="0" text="1821"/>
+    <answer flag="1" text="1825"/>
+    <answer flag="0" text="1829"/>
+  </question>
+  <question level="1" simple="True" text="Калі ўкраінскі атрымалі першы вопыт парламенцкай дзейнасці?">
+    <answer flag="1" text="Падчас рэвалюцыі 1948-1949 гг"/>
+    <answer flag="0" text="Пасля стварэння Галіцкага сейма"/>
+    <answer flag="0" text="У час паўстання дзекабрыстаў ў Расійскай імперыі"/>
+    <answer flag="0" text="Пасля польскага нацыянальнага паўстання 1830-1831 гг"/>
+  </question>
+  <question level="1" simple="True" text="Узброенае выступленне мела месца на заходнеўкраінскіх землях у першай палове XIX стагоддзя?">
+    <answer flag="0" text="Сялянскае паўстанне пад правадырствам В. Кармалюка"/>
+    <answer flag="1" text="Сялянскае паўстанне пад правадырствам пад кіраўніцтвам І. жарабіца"/>
+    <answer flag="0" text="Паўстанне ваенных пасяленцаў"/>
+    <answer flag="0" text="Паўстанне Бугскага казацкага войскі"/>
+  </question>
+  <question level="1" simple="True" text="Якія плыні вызваленчых рухаў існавалі на ўкраінскіх землях у першай палове XIX стагоддзя?">
+    <answer flag="1" text="Украінскі"/>
+    <answer flag="1" text="Польскі"/>
+    <answer flag="0" text="Расійская"/>
+  </question>
+  <question level="1" simple="True" text="Аднойчы Іван Франка адзначаў: &quot;Русалка Днестровая&quot;, хоць і які нязначнае ўтрыманне, якія няясныя думкі ў ёй выказана - была ў свой час з'явай наскрозь рэвалюцыйным &quot;. У якім годзе была надрукаваная гэтая зборка?">
+    <answer flag="0" text="1814"/>
+    <answer flag="0" text="1831"/>
+    <answer flag="1" text="1836"/>
+    <answer flag="0" text="1848"/>
+  </question>
+  <question level="1" simple="True" text="Якія ўкраінскія землі былі ахоплены рэвалюцыяй 1848-1849 гг?">
+    <answer flag="1" text="Закарпацце"/>
+    <answer flag="1" text="Галічына"/>
+    <answer flag="1" text="Букавіна"/>
+    <answer flag="0" text="Падоле"/>
+    <answer flag="0" text="Валынь"/>
+  </question>
+  <question level="1" simple="True" text="Горад стаў цэнтрам першай хвалі нацыянальнага руху на заходнеўкраінскіх землях?">
+    <answer flag="0" text="Львоў"/>
+    <answer flag="0" text="Камянец-Падольскі"/>
+    <answer flag="1" text="Перемышль"/>
+    <answer flag="0" text="Тернополь"/>
+  </question>
+  <question level="1" simple="True" text="Якая з названых падзей мела месца на заходнеўкраінскіх землях?">
+    <answer flag="0" text="Сялянскае паўстанне пад правадырствам В. Кармалюка"/>
+    <answer flag="1" text="Стварэнне Галоўнай Рускай савета"/>
+    <answer flag="0" text="Паўстанне Чарнігаўскага палка"/>
+    <answer flag="0" text="Стварэнне Кірыла-Мефодзіеўскай грамадства"/>
+  </question>
+  <question level="1" simple="True" text="Хто ўваходзіў у гурток маладых інтэлектуалаў, які атрымаў назву &quot;Руская тройца&quot;?">
+    <answer flag="1" text="М. Шашкевіч, І. Вагилевич, Я. Галавацкага"/>
+    <answer flag="0" text="М. Шашкевіч, М. Вярбіцкі, А. Бачинский"/>
+    <answer flag="0" text="Г. Яхимович, В. Падалінскі, Л. жарабіца"/>
+    <answer flag="0" text="А. Духнович, А. Добрянский, Я. Галавацкага"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе была ліквідаваная ўніяцкая царква на Правабярэжнай Украіны?">
+    <answer flag="0" text="1814"/>
+    <answer flag="0" text="1825"/>
+    <answer flag="0" text="1831"/>
+    <answer flag="1" text="1839"/>
+  </question>
+  <question level="1" simple="True" text="Хто гуляў вядучую ролю ва ўкраінскім нацыянальным руху на заходнеўкраінскіх землях у першай палове XIX стагоддзя?">
+    <answer flag="0" text="Украінізаванай польская шляхта"/>
+    <answer flag="0" text="Нашчадкі былой казацкай старшыны"/>
+    <answer flag="1" text="Грэка-каталіцкія сьвятары"/>
+    <answer flag="0" text="Прадстаўнікі інтэлігенцыі, якія былі вхидцямы з сялян і мяшчан"/>
+  </question>
+  <question level="1" simple="True" text="Які рэгіён Украіны ў складзе Расійскай імперыі стаў цэнтрам украінскага нацыянальнага руху ў першай трэці XIX стагоддзя?">
+    <answer flag="0" text="Падоле"/>
+    <answer flag="0" text="Кіеўшчыны"/>
+    <answer flag="0" text="Запорожье"/>
+    <answer flag="1" text="Слобожанщина"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея спрыяла адмене паншчыны на заходнеўкраінскіх землях?">
+    <answer flag="0" text="Паўстанне ў ваенных паселішчах"/>
+    <answer flag="0" text="Актывізацыя дзейнасці паўстанцаў"/>
+    <answer flag="1" text="Сялянскія выступленні 1846 г. і рэвалюцыйныя падзеі 1848-1849 гг"/>
+    <answer flag="0" text="Польскае паўстанне 1830-1831 гг"/>
+  </question>
+  <question level="1" simple="True" text="Якое падзея стала падставай да фарміравання казачых палкоў ў Палтаўскай і Чарнігаўскай губернях у 1830 г.?">
+    <answer flag="0" text="Паўстанне ў ваенных паселішчах"/>
+    <answer flag="1" text="Польскае паўстанне"/>
+    <answer flag="0" text="Паўстанне сялян пад кіраўніцтвам Устима Кармалюка"/>
+    <answer flag="0" text="Выступленне дзекабрыстаў"/>
+  </question>
+  <question level="1" simple="True" text="Якая арганізацыя ў гады рэвалюцыі 1848-1849 гг. Выконвала ролю прадстаўніка ўкраінскага насельніцтва Галічыны перад цэнтральным урадам?">
+    <answer flag="0" text="&quot;Рускім сабор&quot;"/>
+    <answer flag="0" text="Сабор рускіх вучоных"/>
+    <answer flag="1" text="Галоўная Руская рада"/>
+    <answer flag="0" text="&quot;Руская тройца&quot;"/>
+  </question>
+  <question level="1" simple="True" text="У якім годзе царскім урадам была забаронена дзейнасць масонскіх ложаў, у прыватнасці, і ва Ўкраіне?">
+    <answer flag="0" text="1815"/>
+    <answer flag="1" text="1822"/>
+    <answer flag="0" text="1826"/>
+    <answer flag="0" text="1831"/>
+  </question>
+</testing>

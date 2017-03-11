@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Mongol invasion of Ukrainian lands">
+  <question level="1" simple="True" text="As in the annals of those Russians and European chronicles called the Mongols?">
+    <answer flag="0" text="Mongol-Tatar"/>
+    <answer flag="1" text="Tatars"/>
+  </question>
+  <question level="1" simple="True" text="Clashed with troops at the Battle of the River Kaltsi?">
+    <answer flag="1" text="Rus and allied troops against the Mongol horde Polovtsi"/>
+    <answer flag="0" text="Allied hordes of Mongols and Polovtsian against Rus"/>
+  </question>
+  <question level="1" simple="True" text="What battle ended on Kaltsi?">
+    <answer flag="1" text="Mongol victory"/>
+    <answer flag="0" text="Rus victory"/>
+  </question>
+  <question level="1" simple="True" text="Who led the raid of the Mongol hordes to Russia in 1237 - 1240 рр.?">
+    <answer flag="0" text="Genghis Khan"/>
+    <answer flag="1" text="Batuhan"/>
+  </question>
+  <question level="1" simple="True" text="What land in south-west Russia first to face devastation of the Mongols?">
+    <answer flag="1" text="Pereyaslav and Chernigov"/>
+    <answer flag="0" text="Galician and Volyn"/>
+  </question>
+  <question level="1" simple="True" text="When the Mongols held in Kyiv under siege?">
+    <answer flag="0" text="Spring 1223"/>
+    <answer flag="1" text="Autumn-winter 1240"/>
+  </question>
+  <question level="1" simple="True" text="What were the consequences of capture of Kyiv Mongols?">
+    <answer flag="1" text="Almost all residential and commercial buildings, palaces and churches were destroyed Kyiv"/>
+    <answer flag="0" text="The city remained unharmed"/>
+  </question>
+  <question level="1" simple="True" text="Where they went after the Mongol hordes of devastation Kyiv?">
+    <answer flag="0" text="We returned back home"/>
+    <answer flag="1" text="In Galicia and Volhynia"/>
+  </question>
+  <question level="1" simple="True" text="What is the Golden Horde?">
+    <answer flag="0" text="Mongol Empire, founded by Genghis Khan believed"/>
+    <answer flag="1" text="Mongolian government that began in the early 40 th century 13. hikes due to Batu Khan"/>
+  </question>
+  <question level="1" simple="True" text="What was the dependence of Rus lands from the Golden Horde?">
+    <answer flag="0" text="Ruthenian principalities were annexed to the Golden Horde as its ulus, designed and managed them with khans ruling dynasty"/>
+    <answer flag="1" text="Rus princes get a shortcut on the ownership of land, obligated to provide military support and paid tribute"/>
+  </question>
+  <question level="1" simple="True" text="What ended the visit of the Galician-Volyn Prince Daniel Romanovich the Horde?">
+    <answer flag="1" text="Adoption of the Prince of Galicia-Volyn table"/>
+    <answer flag="0" text="Prince executed for refusing to perform pagan rituals"/>
+  </question>
+  <question level="1" simple="True" text="Which of the armies - members of the military events of 1237-1240 years was typical for a single command, a clear structure, strict discipline?">
+    <answer flag="0" text="Ruska"/>
+    <answer flag="1" text="Mongolian"/>
+  </question>
+</testing>

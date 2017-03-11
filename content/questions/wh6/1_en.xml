@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="The life of ancient people">
+  <question level="1" simple="True" text="When the first man appeared on Earth?">
+    <answer flag="1" text="About 2 million years ago"/>
+    <answer flag="0" text="About 5 million years ago"/>
+    <answer flag="0" text="About 1 million years ago"/>
+    <answer flag="0" text="About 4 million years ago"/>
+  </question>
+  <question level="1" simple="True" text="What is the continent, according to most contemporary scholars, is considered the first people originated on Earth?">
+    <answer flag="0" text="North America"/>
+    <answer flag="0" text="South America"/>
+    <answer flag="0" text="Antarctica"/>
+    <answer flag="0" text="Eurasia"/>
+    <answer flag="1" text="Africa"/>
+  </question>
+  <question level="1" simple="True" text="When living on Earth Australopithecus and Homo habilis?">
+    <answer flag="1" text="5,5-1,5 million years ago"/>
+    <answer flag="0" text="1,5-300 thousand years ago"/>
+    <answer flag="0" text="300-35 thousands years ago"/>
+  </question>
+  <question level="1" simple="True" text="People lived on the Earth 1.5 million - 300 thousand years ago?">
+    <answer flag="1" text="Pithecanthropus"/>
+    <answer flag="1" text="Atlantropy"/>
+    <answer flag="0" text="Neanderthal"/>
+    <answer flag="0" text="Kromanyontsi"/>
+    <answer flag="1" text="Synantropy"/>
+  </question>
+  <question level="1" simple="True" text="As called man - younger contemporary Neanderthal?">
+    <answer flag="0" text="Pithecanthropus"/>
+    <answer flag="0" text="Australopithecus"/>
+    <answer flag="1" text="Kromanyonets"/>
+  </question>
+  <question level="1" simple="True" text="In that group united by ancient people?">
+    <answer flag="1" text="Flock"/>
+    <answer flag="1" text="Generic community"/>
+    <answer flag="1" text="Tribe"/>
+    <answer flag="0" text="State"/>
+  </question>
+  <question level="1" simple="True" text="Who led the life of the tribe?">
+    <answer flag="0" text="King"/>
+    <answer flag="0" text="Zherets"/>
+    <answer flag="1" text="Council officers"/>
+    <answer flag="1" text="Leader"/>
+    <answer flag="0" text="Pharaoh"/>
+  </question>
+  <question level="1" simple="True" text="When a person is likely to be passed from gathering to agriculture?">
+    <answer flag="1" text="12.10 thousand years ago"/>
+    <answer flag="0" text="7 thousand years ago"/>
+    <answer flag="0" text="5 thousand years ago"/>
+    <answer flag="0" text="4 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="What animal was tame people first?">
+    <answer flag="0" text="Horse"/>
+    <answer flag="0" text="Cow"/>
+    <answer flag="0" text="Pig"/>
+    <answer flag="0" text="Cat"/>
+    <answer flag="1" text="Dog"/>
+  </question>
+  <question level="1" simple="True" text="When he learned to make tools made of metal?">
+    <answer flag="0" text="10.15 thousand years ago"/>
+    <answer flag="1" text="7.6 thousand years ago"/>
+    <answer flag="0" text="5 thousand years ago"/>
+    <answer flag="0" text="4 thousand years ago"/>
+  </question>
+  <question level="1" simple="True" text="Which city, famous archaeologists, belong to the oldest?">
+    <answer flag="0" text="Chzhoukoudyan"/>
+    <answer flag="0" text="Tripoli"/>
+    <answer flag="1" text="Chatal-Huyuk"/>
+    <answer flag="1" text="Jericho"/>
+    <answer flag="0" text="Ternifin"/>
+  </question>
+  <question level="1" simple="True" text="What is considered the beginning point &quot;of our era?">
+    <answer flag="0" text="Founding of Rome"/>
+    <answer flag="1" text="Christmas"/>
+    <answer flag="0" text="Origin of the Earth"/>
+    <answer flag="0" text="The emergence of the first man"/>
+  </question>
+</testing>

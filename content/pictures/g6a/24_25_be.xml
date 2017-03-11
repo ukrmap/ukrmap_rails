@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List>
+  <Item Caption="Акула-молат" FileName="116"/>
+  <Item Caption="Альбатрос" FileName="9"/>
+  <Item Caption="Афрыканскі страўс" FileName="69"/>
+  <Item Caption="Бабак" FileName="34"/>
+  <Item Caption="Баклан" FileName="38"/>
+  <Item Caption="Барракуды" FileName="120"/>
+  <Item Caption="Бегемот" FileName="63"/>
+  <Item Caption="Бізон" FileName="30"/>
+  <Item Caption="Белая акула" FileName="114"/>
+  <Item Caption="Белая сава" FileName="7"/>
+  <Item Caption="Белы мядзведзь" FileName="2"/>
+  <Item Caption="Бялку" FileName="26"/>
+  <Item Caption="Белагаловы арлан" FileName="36"/>
+  <Item Caption="Бялуха" FileName="102"/>
+  <Item Caption="Высакародны алень" FileName="17"/>
+  <Item Caption="Бобр" FileName="22"/>
+  <Item Caption="Барсук" FileName="23"/>
+  <Item Caption="Браняносцы" FileName="54"/>
+  <Item Caption="Буйвалы" FileName="60"/>
+  <Item Caption="Вапити" FileName="16"/>
+  <Item Caption="Мядзведзь" FileName="13"/>
+  <Item Caption="Овцебык" FileName="1"/>
+  <Item Caption="Паруснік" FileName="121"/>
+  <Item Caption="Воўк" FileName="19"/>
+  <Item Caption="Васьміног" FileName="127"/>
+  <Item Caption="Газэлі" FileName="49"/>
+  <Item Caption="Гаттерия" FileName="95"/>
+  <Item Caption="Гепард" FileName="61"/>
+  <Item Caption="Гіены" FileName="64"/>
+  <Item Caption="Гімалайскі мядзведзь" FileName="83"/>
+  <Item Caption="Глушэц" FileName="29"/>
+  <Item Caption="Гарыла" FileName="77"/>
+  <Item Caption="Грэнладская кіт" FileName="99"/>
+  <Item Caption="Грыф" FileName="51"/>
+  <Item Caption="Двухгорбы вярблюд" FileName="45"/>
+  <Item Caption="Дэльфіны" FileName="103"/>
+  <Item Caption="Джэйрана" FileName="46"/>
+  <Item Caption="Дрофа" FileName="39"/>
+  <Item Caption="Егіпецкая чапля" FileName="70"/>
+  <Item Caption="Янот" FileName="21"/>
+  <Item Caption="Яхідна" FileName="67"/>
+  <Item Caption="Жыраф" FileName="58"/>
+  <Item Caption="Журавель" FileName="89"/>
+  <Item Caption="Зайцы" FileName="20"/>
+  <Item Caption="Зебра" FileName="62"/>
+  <Item Caption="Змеі" FileName="52"/>
+  <Item Caption="Зубр" FileName="18"/>
+  <Item Caption="Ігуана" FileName="41"/>
+  <Item Caption="Казуара" FileName="91"/>
+  <Item Caption="Кальмары" FileName="125"/>
+  <Item Caption="Качканосы" FileName="66"/>
+  <Item Caption="Кашалота" FileName="98"/>
+  <Item Caption="Кенгуру" FileName="65"/>
+  <Item Caption="Ківі" FileName="94"/>
+  <Item Caption="Кот лясной" FileName="24"/>
+  <Item Caption="Каала" FileName="87"/>
+  <Item Caption="Каёт" FileName="31"/>
+  <Item Caption="Кондар" FileName="50"/>
+  <Item Caption="Каралавыя рыбкі" FileName="119"/>
+  <Item Caption="Касатка" FileName="101"/>
+  <Item Caption="Каткі" FileName="106"/>
+  <Item Caption="Кракадзілы" FileName="96"/>
+  <Item Caption="Кулай" FileName="47"/>
+  <Item Caption="Лама" FileName="43"/>
+  <Item Caption="Львы" FileName="59"/>
+  <Item Caption="Лемуры" FileName="84"/>
+  <Item Caption="Лятучыя рыбы" FileName="118"/>
+  <Item Caption="Ліса" FileName="33"/>
+  <Item Caption="Лирохвосты" FileName="93"/>
+  <Item Caption="Ласось" FileName="113"/>
+  <Item Caption="Лось" FileName="14"/>
+  <Item Caption="Манты" FileName="124"/>
+  <Item Caption="Медузы" FileName="128"/>
+  <Item Caption="Морж" FileName="3"/>
+  <Item Caption="Марскі леў" FileName="105"/>
+  <Item Caption="Марскі леапард" FileName="5"/>
+  <Item Caption="Марскі акунь" FileName="111"/>
+  <Item Caption="Марскі слон" FileName="104"/>
+  <Item Caption="Марскія зоркі" FileName="129"/>
+  <Item Caption="Марскія чарапахі" FileName="130"/>
+  <Item Caption="Мурашкаед" FileName="55"/>
+  <Item Caption="Муфлон" FileName="76"/>
+  <Item Caption="Наўтылус" FileName="126"/>
+  <Item Caption="Насарогі" FileName="57"/>
+  <Item Caption="Одногорбый вярблюд" FileName="44"/>
+  <Item Caption="Арангутан" FileName="85"/>
+  <Item Caption="Селедочную акула" FileName="117"/>
+  <Item Caption="Селядца" FileName="107"/>
+  <Item Caption="Паўлін" FileName="90"/>
+  <Item Caption="Панда" FileName="81"/>
+  <Item Caption="Пантэра" FileName="82"/>
+  <Item Caption="Папугаі" FileName="92"/>
+  <Item Caption="Пекары" FileName="72"/>
+  <Item Caption="Пелікан" FileName="40"/>
+  <Item Caption="Пясец" FileName="11"/>
+  <Item Caption="Паўночны алень" FileName="10"/>
+  <Item Caption="Пінгвіны" FileName="8"/>
+  <Item Caption="Плямісты алень" FileName="80"/>
+  <Item Caption="Палярная курапатка" FileName="6"/>
+  <Item Caption="Пума" FileName="42"/>
+  <Item Caption="Рыба-меч" FileName="123"/>
+  <Item Caption="Рыба-месяц" FileName="122"/>
+  <Item Caption="Рысь" FileName="15"/>
+  <Item Caption="Расамаха" FileName="12"/>
+  <Item Caption="Сайгак" FileName="32"/>
+  <Item Caption="Сардзіны" FileName="108"/>
+  <Item Caption="Свіння дзікая" FileName="25"/>
+  <Item Caption="Сейвал" FileName="100"/>
+  <Item Caption="Сіні кіт" FileName="97"/>
+  <Item Caption="Сіняя акула" FileName="115"/>
+  <Item Caption="Скумбрыя" FileName="110"/>
+  <Item Caption="Скунс" FileName="73"/>
+  <Item Caption="Сланы" FileName="56"/>
+  <Item Caption="Собаль" FileName="27"/>
+  <Item Caption="Стэпавы арол" FileName="37"/>
+  <Item Caption="Страўс эму" FileName="71"/>
+  <Item Caption="Страўс Нанда" FileName="68"/>
+  <Item Caption="Тапир" FileName="75"/>
+  <Item Caption="Цецярук" FileName="28"/>
+  <Item Caption="Тыгры" FileName="79"/>
+  <Item Caption="Траска" FileName="112"/>
+  <Item Caption="Тукан" FileName="88"/>
+  <Item Caption="Тунца" FileName="109"/>
+  <Item Caption="Цюлені" FileName="4"/>
+  <Item Caption="Суслік" FileName="35"/>
+  <Item Caption="Чепрачный тапир" FileName="86"/>
+  <Item Caption="Чарапахі" FileName="53"/>
+  <Item Caption="Шымпанзэ" FileName="78"/>
+  <Item Caption="Ягуар" FileName="74"/>
+  <Item Caption="Як" FileName="48"/>
+</List>

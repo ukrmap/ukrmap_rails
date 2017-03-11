@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testing name="Страны Азии">
+  <question text="Для демографической ситуации большинства стран Азии характерным является">
+    <answer flag="0" text="старение наций"/>
+    <answer flag="0" text="демографический кризис"/>
+    <answer flag="1" text="демографический взрыв"/>
+    <answer flag="0" text="депопуляция населения"/>
+  </question>
+  <question text="Какая из стран Закавказья хорошо обеспечена нефтью?">
+    <answer flag="0" text="Грузия"/>
+    <answer flag="0" text="Армения"/>
+    <answer flag="1" text="Азербайджан"/>
+  </question>
+  <question text="Основной сельскохозяйственной культурой, выращиваемой на орошаемых землях в Центральной Азии, является">
+    <answer flag="0" text="рис"/>
+    <answer flag="1" text="хлопчатник"/>
+    <answer flag="0" text="арахис"/>
+  </question>
+  <question text="Наибольшим портом Китая является">
+    <answer flag="1" text="Шанхай"/>
+    <answer flag="0" text="Пекин"/>
+    <answer flag="0" text="Циндао"/>
+    <answer flag="0" text="Далянь"/>
+  </question>
+  <question text="Укажите государства, в которых нефтедобывающая промышленность является отраслью международной специализации">
+    <answer flag="1" text="Кувейт"/>
+    <answer flag="0" text="Сирия"/>
+    <answer flag="1" text="Бруней"/>
+    <answer flag="1" text="Саудовская Аравия"/>
+  </question>
+  <question text="Тадж-Махал находится в">
+    <answer flag="0" text="Непале"/>
+    <answer flag="0" text="Таиланде"/>
+    <answer flag="1" text="Индии"/>
+    <answer flag="0" text="Турции"/>
+  </question>
+  <question text="Главную роль в промышленности Японии играет">
+    <answer flag="1" text="центр, о. Хонсю"/>
+    <answer flag="0" text="север, о. Хоккайдо"/>
+    <answer flag="0" text="юг, о. Кюсю"/>
+    <answer flag="0" text="юго-восток, о. Сикоку"/>
+  </question>
+  <question text="Национальной религией Китая является">
+    <answer flag="0" text="синтоизм"/>
+    <answer flag="1" text="конфуцианство и даосизм"/>
+    <answer flag="0" text="буддизм"/>
+    <answer flag="0" text="сикхизм"/>
+  </question>
+  <question text="Какая из перечисленных стран входит в группу „азиатских тигров”?">
+    <answer flag="0" text="Израиль"/>
+    <answer flag="0" text="Филиппины"/>
+    <answer flag="1" text="Южная Корея"/>
+    <answer flag="0" text="Малайзия"/>
+  </question>
+  <question text="Наиболее экономически развитым районом Китая является">
+    <answer flag="1" text="Восточный"/>
+    <answer flag="0" text="Северный"/>
+    <answer flag="0" text="Западный"/>
+  </question>
+  <question text="В какой части Азии возникли ислам и христианство?">
+    <answer flag="0" text="В центральной"/>
+    <answer flag="1" text="В юго-западной"/>
+    <answer flag="0" text="В южной"/>
+    <answer flag="0" text="В юго-восточной"/>
+  </question>
+  <question text="Основной экспортной сельскохозяйственной культурой Шри-Ланки является">
+    <answer flag="0" text="ваниль"/>
+    <answer flag="0" text="финики"/>
+    <answer flag="1" text="чай"/>
+    <answer flag="0" text="рис"/>
+  </question>
+</testing>
