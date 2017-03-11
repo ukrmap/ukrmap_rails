@@ -26,7 +26,7 @@ group :development do
   gem 'listen', '~> 3.0.5'
   gem 'spring' # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem 'seed_dump', git: 'git@github.com:shhavel/seed_dump.git' # rake db:seed:dump USE_IMPORT=1 EXCLUDE=content_uk,content_ru,content_en,content_be,use_in_menu,php_script FILE=db/seeds/entries.rb
+  # gem 'seed_dump', git: 'git@github.com:shhavel/seed_dump.git' # rake db:seed:dump USE_IMPORT=1 EXCLUDE=content_uk,content_ru,content_en,content_be,use_in_menu,php_script FILE=db/seeds/entries.rb
   gem 'activerecord-import'
 end
 
