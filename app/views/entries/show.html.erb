@@ -1,6 +1,6 @@
 <% content_for :title, "#{@entry.title} | #{@entry.parent.title}" %>
 <% unless @entry.text_with_title? %>
-<h1><%= @entry.title %> <i style="color: grey;"> <%= "(#{I18n.t(@entry.tutorial)})" %></i></h1>
+<h1><%= @entry.title %> <i style="color: grey;"> (<%= I18n.t(@entry.tutorial) %>)</i></h1>
 <% end %>
 
 <div class="row">
