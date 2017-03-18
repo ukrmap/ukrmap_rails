@@ -68,7 +68,7 @@ RSpec.describe Entry, type: :model do
   end
 
   describe "#pictures_files_with_names" do
-    let(:entry) { build_stubbed(:entry, dir2: "g4a", pictures: ["01"]) }
+    let(:entry) { build_stubbed(:entry, dir2: "g4a", pictures: "01") }
 
     it "returns a list of pictures, previews and names" do
       I18n.with_locale(:uk) do

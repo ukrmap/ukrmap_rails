@@ -1,14 +1,5 @@
 class Entry < ApplicationRecord
-  serialize :maps, Array
-  serialize :maps_names_ru, Array
-  serialize :maps_names_uk, Array
-  serialize :maps_names_en, Array
-  serialize :maps_names_be, Array
-  serialize :pictures, Array
-  serialize :legend, Array
-  serialize :legends, Array
-
-  belongs_to :parent, class_name: "Entry", foreign_key: "parent_id", required: false
+  belongs_to :parent, class_name: 'Entry', foreign_key: 'parent_id', required: false
 
   def title
     read_attribute(:"title_#{I18n.locale}")
@@ -16,16 +7,16 @@ class Entry < ApplicationRecord
 
   def content
     return unless text_file?
-    t = Rails.root.join("content", "pages", dir2, "#{text_file}_#{I18n.locale}.htm")
+    t = Rails.root.join('content', 'pages', dir2, "#{text_file}_#{I18n.locale}.htm")
     if File.exist? t
       File.open(t).read
     else
-      File.open(Rails.root.join("content", "pages", dir2, "#{text_file}.htm")).read
+      File.open(Rails.root.join('content', 'pages', dir2, "#{text_file}.htm")).read
     end
   end
 
   def map_files_with_names
-    maps.zip(map_names).map do |map, name|
+    maps_list.zip(map_names).map do |map, name|
       next unless map
       f = Rails.root.join('public', 'images', files_dir, 'Maps', "#{map}.jpg")
       next unless File.exist?(f)
@@ -35,12 +26,16 @@ class Entry < ApplicationRecord
     end.compact
   end
 
+  def maps_list
+    maps.to_s.split(';')
+  end
+
   def map_names
-    __send__(:"maps_names_#{I18n.locale}").compact
+    __send__(:"maps_names_#{I18n.locale}").to_s.split(';')
   end
 
   def pictures_files_with_names
-    pictures.reduce([]) do |acc, pictures_dir|
+    pictures_list.reduce([]) do |acc, pictures_dir|
       b = Rails.root.join('content', 'pictures', files_dir, pictures_dir)
       f = File.exist?("#{b}_#{I18n.locale}.xml") ? "#{b}_#{I18n.locale}.xml" : "#{b}.xml"
       doc = Nokogiri::XML(File.open(Rails.root.join(f)).read)
@@ -59,14 +54,18 @@ class Entry < ApplicationRecord
     end
   end
 
+  def pictures_list
+    pictures.to_s.split(';')
+  end
+
   def testing
     @testing ||= Testing.new(self)
   end
 
   def files_dir
     case dir2
-      when "wh6b" then "wh6a"
-      when "wh11b" then "wh11a"
+      when 'wh6b' then 'wh6a'
+      when 'wh11b' then 'wh11a'
       else dir2
     end
   end

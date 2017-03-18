@@ -6634,7 +6634,7 @@
     <maps_names_be>Рэльеф. Рэкі і азёры;Цэнтр горада</maps_names_be>
     <legend>null;null</legend>
     <legends>Rel_LEGEND;Rel_LEGEND</legends>
-    <pictures>RelWeather;RelWeather</pictures>
+    <pictures>RelWeather</pictures>
   </unit>
   <unit>
     <id>211</id>

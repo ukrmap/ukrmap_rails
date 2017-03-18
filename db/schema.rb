@@ -19,24 +19,24 @@ ActiveRecord::Schema.define(version: 20170222142642) do
     t.integer "level"
     t.string  "dir2"
     t.string  "tutorial"
-    t.string  "title_ru"
-    t.string  "title_uk"
-    t.string  "title_en"
-    t.string  "title_be"
+    t.string  "title_ru",                                      null: false
+    t.string  "title_uk",                                      null: false
+    t.string  "title_en",                                      null: false
+    t.string  "title_be",                                      null: false
     t.string  "content_ru"
     t.string  "content_uk"
     t.string  "content_en"
     t.string  "content_be"
     t.string  "dir"
     t.string  "text_file"
-    t.text    "maps",            limit: 65535
-    t.text    "maps_names_ru",   limit: 65535
-    t.text    "maps_names_uk",   limit: 65535
-    t.text    "maps_names_en",   limit: 65535
-    t.text    "maps_names_be",   limit: 65535
-    t.text    "legend",          limit: 65535
-    t.text    "legends",         limit: 65535
-    t.text    "pictures",        limit: 65535
+    t.text    "maps",            limit: 65535,                 null: false
+    t.text    "maps_names_ru",   limit: 65535,                 null: false
+    t.text    "maps_names_uk",   limit: 65535,                 null: false
+    t.text    "maps_names_en",   limit: 65535,                 null: false
+    t.text    "maps_names_be",   limit: 65535,                 null: false
+    t.text    "legend",          limit: 65535,                 null: false
+    t.text    "legends",         limit: 65535,                 null: false
+    t.text    "pictures",        limit: 65535,                 null: false
     t.string  "video_file"
     t.string  "xmlfile"
     t.boolean "text_with_title",               default: false, null: false

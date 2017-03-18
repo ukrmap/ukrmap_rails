@@ -21,10 +21,10 @@ class EntriesController < ApplicationController
         render :questions
       elsif @entry.video_file?
         render :video
-      elsif @entry.maps.empty? && @entry.pictures.empty?
-        render :text
-      else
+      elsif @entry.maps? || @entry.pictures?
         render :show
+      else
+        render :text
       end
     end
   end

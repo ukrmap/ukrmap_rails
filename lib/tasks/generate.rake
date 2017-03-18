@@ -58,14 +58,14 @@ namespace :generate do
             xml.title_be e.title_be
             xml.dir e.dir if e.dir?
             xml.text_file e.text_file if e.text_file?
-            xml.maps e.maps.join(";") if e.maps?
-            xml.maps_names_ru e.maps_names_ru.join(";") if e.maps_names_ru?
-            xml.maps_names_uk e.maps_names_uk.join(";") if e.maps_names_uk?
-            xml.maps_names_en e.maps_names_en.join(";") if e.maps_names_en?
-            xml.maps_names_be e.maps_names_be.join(";") if e.maps_names_be?
-            xml.legend e.legend.join(";") if e.legend?
-            xml.legends e.legends.join(";") if e.legends?
-            xml.pictures e.pictures.join(";") if e.pictures?
+            xml.maps e.maps if e.maps?
+            xml.maps_names_ru e.maps_names_ru if e.maps_names_ru?
+            xml.maps_names_uk e.maps_names_uk if e.maps_names_uk?
+            xml.maps_names_en e.maps_names_en if e.maps_names_en?
+            xml.maps_names_be e.maps_names_be if e.maps_names_be?
+            xml.legend e.legend if e.legend?
+            xml.legends e.legends if e.legends?
+            xml.pictures e.pictures if e.pictures?
             xml.video_file e.video_file if e.video_file?
             xml.xmlfile e.xmlfile if e.xmlfile?
             xml.text_with_title e.text_with_title if e.text_with_title?
