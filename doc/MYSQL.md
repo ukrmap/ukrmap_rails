@@ -1,12 +1,9 @@
 # MySQL
 
-We've installed your MySQL database without a root password. To secure it run:
-    mysql_secure_installation
+Start MySQL server
 
-To connect run:
-    mysql -uroot
+    mysql.server start
 
-To have launchd start mysql now and restart at login:
-  brew services start mysql
-Or, if you don't want/need a background service you can just run:
-  mysql.server start
+Import an SQL file using the command line
+
+    mysql -u username -p database_name < file.sql

@@ -9,9 +9,9 @@ class Entry < ApplicationRecord
     return unless text_file?
     t = Rails.root.join('content', 'pages', dir2, "#{text_file}_#{I18n.locale}.htm")
     if File.exist? t
-      File.open(t).read
+      File.open(t, encoding: 'utf-8').read
     else
-      File.open(Rails.root.join('content', 'pages', dir2, "#{text_file}.htm")).read
+      File.open(Rails.root.join('content', 'pages', dir2, "#{text_file}.htm"), encoding: 'utf-8').read
     end
   end
 

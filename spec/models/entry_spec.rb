@@ -12,10 +12,10 @@ RSpec.describe Entry, type: :model do
     it { should have_db_column(:title_uk).of_type(:string) }
     it { should have_db_column(:title_en).of_type(:string) }
     it { should have_db_column(:title_be).of_type(:string) }
-    it { should have_db_column(:content_ru).of_type(:string) }
-    it { should have_db_column(:content_uk).of_type(:string) }
-    it { should have_db_column(:content_en).of_type(:string) }
-    it { should have_db_column(:content_be).of_type(:string) }
+    it { should have_db_column(:content_ru).of_type(:text) }
+    it { should have_db_column(:content_uk).of_type(:text) }
+    it { should have_db_column(:content_en).of_type(:text) }
+    it { should have_db_column(:content_be).of_type(:text) }
     it { should have_db_column(:dir).of_type(:string) }
     it { should have_db_column(:text_file).of_type(:string) }
     it { should have_db_column(:maps).of_type(:text) }

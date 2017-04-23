@@ -11,10 +11,10 @@ class CreateEntries < ActiveRecord::Migration[5.0]
       t.string :title_uk
       t.string :title_en
       t.string :title_be
-      t.string :content_ru
-      t.string :content_uk
-      t.string :content_en
-      t.string :content_be
+      t.text :content_ru
+      t.text :content_uk
+      t.text :content_en
+      t.text :content_be
       t.string :dir
       t.string :text_file
       t.text :maps

@@ -10,7 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170222142642) do
+ActiveRecord::Schema.define(version: 20170322094937) do
+
+  create_table "articles", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.string  "slug"
+    t.string  "title",                                    null: false
+    t.boolean "advertising",               default: true, null: false
+    t.string  "description"
+    t.string  "keywords"
+    t.text    "content",     limit: 65535
+    t.date    "created_on",                               null: false
+  end
 
   create_table "entries", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string  "category"
@@ -19,24 +29,24 @@ ActiveRecord::Schema.define(version: 20170222142642) do
     t.integer "level"
     t.string  "dir2"
     t.string  "tutorial"
-    t.string  "title_ru",                                      null: false
-    t.string  "title_uk",                                      null: false
-    t.string  "title_en",                                      null: false
-    t.string  "title_be",                                      null: false
-    t.string  "content_ru"
-    t.string  "content_uk"
-    t.string  "content_en"
-    t.string  "content_be"
+    t.string  "title_ru"
+    t.string  "title_uk"
+    t.string  "title_en"
+    t.string  "title_be"
+    t.text    "content_ru",      limit: 65535
+    t.text    "content_uk",      limit: 65535
+    t.text    "content_en",      limit: 65535
+    t.text    "content_be",      limit: 65535
     t.string  "dir"
     t.string  "text_file"
-    t.text    "maps",            limit: 65535,                 null: false
-    t.text    "maps_names_ru",   limit: 65535,                 null: false
-    t.text    "maps_names_uk",   limit: 65535,                 null: false
-    t.text    "maps_names_en",   limit: 65535,                 null: false
-    t.text    "maps_names_be",   limit: 65535,                 null: false
-    t.text    "legend",          limit: 65535,                 null: false
-    t.text    "legends",         limit: 65535,                 null: false
-    t.text    "pictures",        limit: 65535,                 null: false
+    t.text    "maps",            limit: 65535
+    t.text    "maps_names_ru",   limit: 65535
+    t.text    "maps_names_uk",   limit: 65535
+    t.text    "maps_names_en",   limit: 65535
+    t.text    "maps_names_be",   limit: 65535
+    t.text    "legend",          limit: 65535
+    t.text    "legends",         limit: 65535
+    t.text    "pictures",        limit: 65535
     t.string  "video_file"
     t.string  "xmlfile"
     t.boolean "text_with_title",               default: false, null: false
@@ -45,6 +55,16 @@ ActiveRecord::Schema.define(version: 20170222142642) do
     t.index ["course"], name: "index_entries_on_course", using: :btree
     t.index ["level"], name: "index_entries_on_level", using: :btree
     t.index ["parent_id"], name: "index_entries_on_parent_id", using: :btree
+    t.index ["title_uk", "content_uk", "title_ru", "content_ru", "title_en", "content_en", "title_be", "content_be"], name: "fulltext_multilang_index_entries_on_title_and_content", type: :fulltext
+  end
+
+  create_table "terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.string   "name",                      null: false
+    t.integer  "entries_count",             null: false
+    t.integer  "popularity",    default: 1, null: false
+    t.datetime "created_at",                null: false
+    t.datetime "updated_at",                null: false
+    t.index ["name"], name: "index_terms_on_name", unique: true, using: :btree
   end
 
 end
