@@ -9,6 +9,8 @@ Clone repository:
 
 ```sh
 $ git clone https://github.com/ukrmap/ukrmap_rails.git
+
+
 ```
 
 Change directory:
