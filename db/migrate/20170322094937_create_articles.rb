@@ -1,4 +1,5 @@
 class CreateArticles < ActiveRecord::Migration[5.0]
+=begin
   def change
     create_table :articles do |t|
       t.string :slug
@@ -10,4 +11,5 @@ class CreateArticles < ActiveRecord::Migration[5.0]
       t.date :created_on, null: false
     end
   end
+=end
 end

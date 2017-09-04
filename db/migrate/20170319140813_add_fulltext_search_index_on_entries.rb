@@ -1,4 +1,5 @@
 class AddFulltextSearchIndexOnEntries < ActiveRecord::Migration[5.0]
+=begin
   def up
     return if ENV['TRAVIS'] == 'true'
     execute <<-SQL.strip_heredoc
@@ -11,4 +12,5 @@ class AddFulltextSearchIndexOnEntries < ActiveRecord::Migration[5.0]
   def down
     execute "DROP INDEX `fulltext_multilang_index_entries_on_title_and_content` ON `entries`"
   end
+=end
 end
