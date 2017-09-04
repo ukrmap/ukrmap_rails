@@ -1,37 +1,50 @@
-# Ukrmap
-  Rube's version 2.3.1
-  Rail's version 5.0.1
+# Ukrmap Rails [![Build Status](https://travis-ci.org/ukrmap/ukrmap_rails.svg?branch=master)](https://travis-ci.org/ukrmap/ukrmap_rails)
+  Ruby on Rails version of http://ukrmap.su
 
 ## Install Instructions
 
 ### Installation
 
-1. Clone repository:
+Clone repository:
 
-    $git clone https://github.com/ukrmap/ukrmap_rails.git
+```sh
+$ git clone https://github.com/ukrmap/ukrmap_rails.git
+```
 
-2. Change directory:
+Change directory:
 
-    $cd ukrmaps_rails
+```sh
+$ cd ukrmaps_rails
+```
 
-3. Install gems:
+Install gems:
 
-    $gem install bundler --no-ri --no-rdoc
+```sh
+$ gem install bundler --no-ri --no-rdoc
+```
 
 then type below:
 
-    $bundle install
+```sh
+$ bundle install
+```
 
 ### Setup Database
 
-1. Create db:
+Create db:
 
-    $rake db:create
+```sh
+$ rake db:create
+```
 
-2. Do migration db:
+Do migration db:
 
-    $rake db:migrate
+```sh
+$ rake db:migrate
+```
 
-3. Load the seed data:
+Load the seed data:
 
-    $rake db:seed
+```sh
+$ rake db:seed
+```

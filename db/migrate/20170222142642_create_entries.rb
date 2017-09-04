@@ -1,5 +1,4 @@
 class CreateEntries < ActiveRecord::Migration[5.0]
-=begin
   def change
     create_table :entries do |t|
       t.string :category
@@ -37,5 +36,4 @@ class CreateEntries < ActiveRecord::Migration[5.0]
     add_index :entries, :parent_id
     add_index :entries, :level
   end
-=end
 end

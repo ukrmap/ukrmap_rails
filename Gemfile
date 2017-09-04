@@ -15,8 +15,6 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'photoswipe-rails'
 gem 'dimensions'
-gem 'tzinfo-data'
-gem 'wdm', '>= 0.1.0'
 
 group :development, :test do
   gem 'pry-byebug', platform: :mri # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -31,6 +29,10 @@ group :development do
   # rake db:seed:dump USE_IMPORT=1 MODELS=Entry EXCLUDE=content_uk,content_ru,content_en,content_be,use_in_menu,php_script FILE=db/seeds/entries.rb
   # gem 'seed_dump', git: 'git@github.com:shhavel/seed_dump.git'
   gem 'activerecord-import'
+  if RUBY_PLATFORM =~ /x64-mingw32/
+    gem 'tzinfo-data'
+    gem 'wdm', '>= 0.1.0'
+  end
 end
 
 group :test do
@@ -42,3 +44,4 @@ group :test do
   gem 'simplecov', require: false
   gem 'coveralls', require: false
 end
+

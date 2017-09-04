@@ -1,5 +1,4 @@
 class CreateTerms < ActiveRecord::Migration[5.0]
-=begin
   def change
     create_table :terms do |t|
       t.string :name, null: false
@@ -11,5 +10,4 @@ class CreateTerms < ActiveRecord::Migration[5.0]
 
     add_index :terms, :name, unique: true
   end
-=end
 end
