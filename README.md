@@ -22,9 +22,6 @@ Install gems:
 ```sh
 $ gem install bundler --no-ri --no-rdoc
 ```
-
-then type below:
-
 ```sh
 $ bundle install
 ```
