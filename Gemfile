@@ -29,6 +29,8 @@ group :development do
   # rake db:seed:dump USE_IMPORT=1 MODELS=Entry EXCLUDE=content_uk,content_ru,content_en,content_be,use_in_menu,php_script FILE=db/seeds/entries.rb
   # gem 'seed_dump', git: 'git@github.com:shhavel/seed_dump.git'
   gem 'activerecord-import'
+  gem 'tzinfo-data', platforms: [:mingw, :x64_mingw]
+  gem 'wdm', '>= 0.1.0', platforms: [:mingw, :x64_mingw]
 end
 
 group :test do

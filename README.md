@@ -9,22 +9,19 @@ Clone repository:
 
 ```sh
 $ git clone https://github.com/ukrmap/ukrmap_rails.git
-
-
 ```
 
 Change directory:
 
 ```sh
-$ cd ukrmaps_rails
+$ cd ukrmap_rails
 ```
 
 Install gems:
 
 ```sh
 $ gem install bundler --no-ri --no-rdoc
-```
-```sh
+
 $ bundle install
 ```
 

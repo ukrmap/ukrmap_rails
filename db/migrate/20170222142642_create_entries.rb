@@ -1,6 +1,6 @@
 class CreateEntries < ActiveRecord::Migration[5.0]
   def change
-    create_table :entries do |t|
+    create_table :entries, options: 'ENGINE=InnoDB CHARACTER SET utf8 COLLATE utf8_general_ci' do |t|
       t.string :category
       t.string :course
       t.integer :parent_id
