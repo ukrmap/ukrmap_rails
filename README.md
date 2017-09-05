@@ -1,24 +1,46 @@
 # Ukrmap Rails [![Build Status](https://travis-ci.org/ukrmap/ukrmap_rails.svg?branch=master)](https://travis-ci.org/ukrmap/ukrmap_rails)
+  Ruby on Rails version of http://ukrmap.su
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Install Instructions
 
-Things you may want to cover:
+### Installation
 
-* Ruby version
+Clone repository:
 
-* System dependencies
+```sh
+$ git clone https://github.com/ukrmap/ukrmap_rails.git
+```
 
-* Configuration
+Change directory:
 
-* Database creation
+```sh
+$ cd ukrmap_rails
+```
 
-* Database initialization
+Install gems:
 
-* How to run the test suite
+```sh
+$ gem install bundler --no-ri --no-rdoc
 
-* Services (job queues, cache servers, search engines, etc.)
+$ bundle install
+```
 
-* Deployment instructions
+### Setup Database
 
-* ...
+Create db:
+
+```sh
+$ rake db:create
+```
+
+Do migration db:
+
+```sh
+$ rake db:migrate
+```
+
+Load the seed data:
+
+```sh
+$ rake db:seed
+```

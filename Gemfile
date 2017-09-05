@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
+ruby '2.3.3'
 
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
@@ -7,7 +7,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.0.1'
-gem 'mysql2', '>= 0.3.18', '< 0.5'
+gem 'mysql2', '~> 0.4.9', '< 0.5'
 gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -29,6 +29,8 @@ group :development do
   # rake db:seed:dump USE_IMPORT=1 MODELS=Entry EXCLUDE=content_uk,content_ru,content_en,content_be,use_in_menu,php_script FILE=db/seeds/entries.rb
   # gem 'seed_dump', git: 'git@github.com:shhavel/seed_dump.git'
   gem 'activerecord-import'
+  gem 'tzinfo-data', platforms: [:mingw, :x64_mingw]
+  gem 'wdm', '>= 0.1.0', platforms: [:mingw, :x64_mingw]
 end
 
 group :test do
@@ -40,3 +42,4 @@ group :test do
   gem 'simplecov', require: false
   gem 'coveralls', require: false
 end
+

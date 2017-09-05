@@ -21,3 +21,4 @@
 coverage
 /public/images/
 /public/video/
+/vendor/bundle/ruby/
