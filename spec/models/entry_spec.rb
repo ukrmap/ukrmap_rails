@@ -92,4 +92,20 @@ RSpec.describe Entry, type: :model do
       expect(Entry.new(dir2: "wh11b").files_dir).to eq("wh11a")
     end
   end
+
+  describe '.search' do
+    let!(:entry_mazepa) { create(:entry, title_uk: 'Гетьман Іван Мазепа', content_uk: 'Іван Мазепа', level: 3) }
+    let!(:entry_climat) { create(:entry, title_uk: 'Кліматична карта світу',
+      content_uk: 'Відмінності клімату у різних частинах земної кулі спричинені трьома основними факторами: ' \
+      'географічною широтою місцевості, переміщенням повітряних мас та характером підстилаючої поверхні.', level: 3) }
+
+    it 'returns entries which title_uk matches the query' do
+      expect(Entry.search('Іван Мазепа')).to eq([entry_mazepa])
+    end
+
+    it 'returns entries which content_uk matches the query' do
+      expect(Entry.search('клімат карта')).to eq([entry_climat])
+      expect(Entry.search('широта місцевості')).to eq([entry_climat])
+    end
+  end
 end

@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
   private
   def set_loclae_from_params
     session[:locale] = params[:locale] if params[:locale].in?(%w(uk ru en be))
-    session[:locale] ||= "en"
+    session[:locale] ||= 'uk'
     I18n.locale = session[:locale]
   end
 

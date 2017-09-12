@@ -9,13 +9,11 @@ RSpec.describe "Home", type: :request do
 
   describe "GET /" do
     it "displays all courses" do
-      I18n.with_locale(:en) do
-        get root_path
-        expect(response).to have_http_status(200)
-        expect(response).to render_template(:index)
-        expect(response.body).to include("World History Grade 6")
-        expect(response.body).to include("World History Grade 7")
-      end
+      get root_path(locale: 'en')
+      expect(response).to have_http_status(200)
+      expect(response).to render_template(:index)
+      expect(response.body).to include("World History Grade 6")
+      expect(response.body).to include("World History Grade 7")
     end
   end
 end
