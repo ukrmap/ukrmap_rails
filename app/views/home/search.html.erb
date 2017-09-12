@@ -1,0 +1,10 @@
+<h1><%= t('.result') %></h1>
+<% if @entries.blank? %>
+  <%= t('.no_result') %>
+<% else %>
+  <table class="table table-hover course">
+    <tbody>
+      <%= render partial: "entries/entry_row", collection: @entries, as: :entry %>
+    </tbody>
+  </table>
+<% end %>

@@ -2,3 +2,9 @@ en:
   title: "Ukrainian textbooks and maps. World History, History of Ukraine, Geography."
   synopsis: "compendium"
   textbook: "textbook"
+  button_search: "Search"
+
+  home:
+    search:
+      result: "Search Results"
+      no_result: "Sorry, no results have been found."
