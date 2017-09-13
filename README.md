@@ -30,17 +30,17 @@ $ bundle install
 Create db:
 
 ```sh
-$ rake db:create
+$ rails db:create
 ```
 
 Do migration db:
 
 ```sh
-$ rake db:migrate
+$ rails db:migrate
 ```
 
 Load the seed data:
 
 ```sh
-$ rake db:seed
+$ rails db:seed
 ```
