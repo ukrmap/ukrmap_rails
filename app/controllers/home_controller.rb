@@ -3,7 +3,7 @@ class HomeController < ApplicationController
   def index
     if params[:q]
       @entries = Entry.search(params[:q])
-      @terms = Term.log_query(params[:q])
+      @terms = Term.log_query(params[:q], @entries.count)
       render :search
     else
       render :index
