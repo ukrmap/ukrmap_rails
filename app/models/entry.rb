@@ -2,6 +2,7 @@ class Entry < ApplicationRecord
   belongs_to :parent, class_name: 'Entry', foreign_key: 'parent_id', required: false
 
   def self.search(q)
+    return [] if q.blank?
     Entry.where('MATCH (title_uk, content_uk, title_ru, content_ru, title_en, content_en, title_be, content_be) AGAINST (?) AND `level` = 3', q)
   end
 
