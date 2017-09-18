@@ -12,7 +12,7 @@
     <ul class="nav navbar-nav navbar-right">
       <form class="navbar-form navbar-left" role="search" class="search_form" style="margin-top:6px;margin-bottom:4px;">
         <div class="form-group">
-          <%= text_field_tag :q, params[:q], id: 'search_query', size: 30, class: 'form-control input-sm', autocomplete: :on %>
+          <%= text_field_tag :q, params[:q], id: 'search_query', size: 30, class: 'form-control input-sm' %>
         </div>
         <%= submit_tag t('button_search'), class: 'btn btn-default btn-sm', name: nil %>
       </form>

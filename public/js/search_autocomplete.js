@@ -1,1 +1,1 @@
-$('#search_query').autocomplete({serviceUrl: '/autocomplete'})
+$('#search_query').autocomplete({serviceUrl: '/autocomplete'});

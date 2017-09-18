@@ -1,7 +1,9 @@
 class HomeController < ApplicationController
   def autocomplete
-    render json: Term.where("name LIKE ? AND entries_count > ?" , "#{params[:query]}%", 1).order('popularity DESC').limit(10)
+    @terms = Term.where("name LIKE ? AND entries_count > 0", "#{params[:query]}%").order('popularity DESC').limit(10)
+    render json: { suggestions: @terms.pluck(:name) }
   end
+
   # GET /
   def index
     if params[:q]
