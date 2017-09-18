@@ -4,14 +4,18 @@ RSpec.describe Testing, type: :model do
 
   describe "#name" do
     it "returns testing name from XML file" do
-      expect(subject.name).to eq("ПРИРОДНІ УМОВИ ТА ПРИРОДНІ РЕСУРСИ")
+      I18n.with_locale(:uk) do
+        expect(subject.name).to eq("ПРИРОДНІ УМОВИ ТА ПРИРОДНІ РЕСУРСИ")
+      end
     end
   end
 
   describe "#questions" do
     it "returns list of questions" do
-      expect(subject.questions).to have(19).items
-      expect(subject.questions[0][:text]).to eq("Найдавнішими архейськими і протерозойськими породами складено:")
+      I18n.with_locale(:uk) do
+        expect(subject.questions).to have(19).items
+        expect(subject.questions[0][:text]).to eq("Найдавнішими архейськими і протерозойськими породами складено:")
+      end
     end
   end
 
