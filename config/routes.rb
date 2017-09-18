@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   # resources :entries
   root to: "home#index"
   get ":locale", locale: /uk|ru|en|be/, controller: "home", action: "index"
+  get "/autocomplete", controller: "home", action: "autocomplete"
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
   get ":locale-:category", locale: /uk|ru|en|be/,

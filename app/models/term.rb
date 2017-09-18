@@ -1,4 +1,8 @@
 class Term < ApplicationRecord
+  def self.autocomplete_search(q)
+    Term.where("name LIKE ? AND entries_count > 0", "#{q}%").order('popularity DESC').limit(10)
+  end
+
   def self.log_query(q, entries_count)
     return if q.blank?
     q = q.strip
